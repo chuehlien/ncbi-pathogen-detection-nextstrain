@@ -1,14 +1,20 @@
 {
   "updated": "today",
   "virus_count": 901,
-  "maintainer": "chuehlien",
-  "title": "Salmonella_PDG000000002.1981_PDS000029714.72",
+  "maintainer": "DCIPHER",
+  "title": "Salmonella_PDG000000002.1981-PDS000029714.72",
   "color_options": {
     "num_date": {
       "menuItem": "date",
       "type": "continuous",
       "legendTitle": "Sampling date",
       "key": "num_date"
+    },
+    "#label": {
+      "menuItem": "Label",
+      "legendTitle": "Label",
+      "key": "#label",
+      "type": "discrete"
     },
     "FDA_lab_id": {
       "menuItem": "FDA Lab ID",
@@ -20,7 +26,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -52,6 +58,12 @@
       "key": "Run",
       "type": "discrete"
     },
+    "asm_acc": {
+      "menuItem": "Assembly",
+      "legendTitle": "Assembly",
+      "key": "asm_acc",
+      "type": "discrete"
+    },
     "asm_level": {
       "menuItem": "Level",
       "legendTitle": "Level",
@@ -62,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -100,6 +112,12 @@
       "key": "bioproject_center",
       "type": "discrete"
     },
+    "biosample_acc": {
+      "menuItem": "BioSample",
+      "legendTitle": "BioSample",
+      "key": "biosample_acc",
+      "type": "discrete"
+    },
     "collected_by": {
       "menuItem": "Collected by",
       "legendTitle": "Collected by",
@@ -122,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "location": {
       "menuItem": "Location Name",
@@ -182,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -196,6 +214,12 @@
       "key": "sra_release_date",
       "type": "discrete"
     },
+    "strain": {
+      "menuItem": "Strain",
+      "legendTitle": "Strain",
+      "key": "strain",
+      "type": "discrete"
+    },
     "target_creation_date": {
       "menuItem": "Create Date",
       "legendTitle": "Create Date",
@@ -206,7 +230,19 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "wgs_acc_prefix": {
+      "menuItem": "WGS Prefix",
+      "legendTitle": "WGS Prefix",
+      "key": "wgs_acc_prefix",
+      "type": "discrete"
+    },
+    "wgs_master_acc": {
+      "menuItem": "WGS Accession",
+      "legendTitle": "WGS Accession",
+      "key": "wgs_master_acc",
+      "type": "discrete"
     },
     "date": {
       "menuItem": "date",
@@ -218,6 +254,12 @@
       "menuItem": "country",
       "legendTitle": "country",
       "key": "country",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
       "type": "discrete"
     }
   },
@@ -235,137 +277,133 @@
       }
     },
     "location": {
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       },
       "USA:NC": {
         "latitude": 35.759573,
         "longitude": -79.0193
       },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA: Wisconsin": {
-        "latitude": 44.4,
-        "longitude": -90.11
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
-      },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
+      "USA:NM": {
+        "latitude": 34.97273,
+        "longitude": -105.032363
       },
       "USA: Minnesota": {
         "latitude": 44.59,
         "longitude": -93.16
       },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
-      },
       "USA:NE": {
         "latitude": 41.492537,
         "longitude": -99.901813
       },
-      "USA:NM": {
-        "latitude": 34.97273,
-        "longitude": -105.032363
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:MO": {
         "latitude": 37.964253,
         "longitude": -91.831833
       },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
       },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA: Wisconsin": {
+        "latitude": 44.4,
+        "longitude": -90.11
+      },
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
       },
       "USA:WY": {
         "latitude": 43.075968,
         "longitude": -107.290284
       },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       },
-      "USA:TX": {
-        "latitude": 31.968599,
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
+      },
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000002
+      },
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
+      },
+      "USA: Indiana": {
+        "latitude": 39.46,
+        "longitude": -86.9
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:SD": {
+        "latitude": 43.969515,
         "longitude": -99.901813
       },
       "USA:WA": {
         "latitude": 47.751074,
         "longitude": -120.740139
       },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
       },
       "USA:UT": {
         "latitude": 39.32098,
         "longitude": -111.093731
       },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
       },
-      "USA: Indiana": {
-        "latitude": 39.46,
-        "longitude": -86.9
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
       },
       "USA:GA": {
         "latitude": 32.157435,
         "longitude": -82.907123
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
       }
     }
   },

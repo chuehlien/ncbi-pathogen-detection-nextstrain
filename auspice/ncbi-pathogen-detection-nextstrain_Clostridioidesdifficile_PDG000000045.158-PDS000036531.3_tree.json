@@ -1,0 +1,358 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2016.2650273224044
+  },
+  "yvalue": 1.625,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000169589.1",
+      "attr": {
+        "div": 24.5,
+        "#label": "PDT000169589.1|SAMEA3664070|GCA_900008715.1|Clostridioides difficile|||Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_900008715.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 55501,
+        "asm_stats_length_bp": 4325943,
+        "asm_stats_n_contig": 371,
+        "assembly_method": "Unknown",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJEB11776",
+        "bioproject_center": "UNIVERSITE LAVAL",
+        "biosample_acc": "SAMEA3664070",
+        "collected_by": "Unknown",
+        "collection_date": "Unknown",
+        "epi_type": "environmental/other",
+        "fullasm_id": 3163158.0,
+        "location": "Unknown",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "Unknown",
+        "target_acc": "PDT000169589.1",
+        "target_creation_date": "2016-04-06",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "CZZJ",
+        "wgs_master_acc": "CZZJ00000000.1",
+        "date": "2016-04-06",
+        "country": "Unknown",
+        "num_date": 2016.2650273224044,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036531.3?accessions=PDT000169589.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "CLADE_3",
+      "attr": {
+        "div": 5.5,
+        "num_date": 2016.7301609707436
+      },
+      "yvalue": 3.25,
+      "clade": 3,
+      "children": [
+        {
+          "strain": "PDT000260604.2",
+          "attr": {
+            "div": 6.5,
+            "#label": "PDT000260604.2|SAMN07974936||Clostridioides difficile|||Pathogen: clinical or host-associated",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "SRR6252260",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 223999,
+            "asm_stats_length_bp": 4294244,
+            "asm_stats_n_contig": 43,
+            "assembly_method": "Unknown",
+            "attribute_package": "Pathogen: clinical or host-associated",
+            "bioproject_acc": "PRJNA278886",
+            "bioproject_center": "Brigham & Women's Hospital",
+            "biosample_acc": "SAMN07974936",
+            "collected_by": "Brigham and Women's Hospital",
+            "collection_date": "2015",
+            "epi_type": "clinical",
+            "fullasm_id": 0.0,
+            "location": "USA:Boston",
+            "host": "Homo sapiens",
+            "host_disease": "Unknown",
+            "isolation_source": "stool",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "0000-0054-8117",
+            "scientific_name": "Clostridioides difficile",
+            "serovar": "Unknown",
+            "species_taxid": 1496.0,
+            "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+            "sra_release_date": "2017-11-03",
+            "strain": "Unknown",
+            "target_acc": "PDT000260604.2",
+            "target_creation_date": "2017-11-03",
+            "taxid": 1496.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2017-11-03",
+            "country": "USA",
+            "num_date": 2017.841095890411,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036531.3?accessions=PDT000260604.2"
+          },
+          "yvalue": 1,
+          "clade": 4
+        },
+        {
+          "strain": "CLADE_5",
+          "attr": {
+            "div": 6.5,
+            "num_date": 2016.8147307249872
+          },
+          "yvalue": 2.75,
+          "clade": 5,
+          "children": [
+            {
+              "strain": "PDT000254475.2",
+              "attr": {
+                "div": 6.5,
+                "#label": "PDT000254475.2|SAMN07818886||Clostridioides difficile|||Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR6197651",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 150557,
+                "asm_stats_length_bp": 4292049,
+                "asm_stats_n_contig": 60,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA278886",
+                "bioproject_center": "Brigham & Women's Hospital",
+                "biosample_acc": "SAMN07818886",
+                "collected_by": "Brigham and Women's Hospital",
+                "collection_date": "2015",
+                "epi_type": "clinical",
+                "fullasm_id": 0.0,
+                "location": "USA:Boston",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "stool",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "0000-0055-2881",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+                "sra_release_date": "2017-10-20",
+                "strain": "Unknown",
+                "target_acc": "PDT000254475.2",
+                "target_creation_date": "2017-10-20",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2017-10-20",
+                "country": "USA",
+                "num_date": 2017.8027397260273,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036531.3?accessions=PDT000254475.2"
+              },
+              "yvalue": 2,
+              "clade": 6
+            },
+            {
+              "strain": "CLADE_7",
+              "attr": {
+                "div": 15.5,
+                "num_date": 2017.5758585131784
+              },
+              "yvalue": 3.5,
+              "clade": 7,
+              "children": [
+                {
+                  "strain": "PDT000311475.2",
+                  "attr": {
+                    "div": 16.5,
+                    "#label": "PDT000311475.2|SAMN09060487||Clostridioides difficile|||Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR7108992",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 47946,
+                    "asm_stats_length_bp": 4285077,
+                    "asm_stats_n_contig": 201,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA278886",
+                    "bioproject_center": "Brigham & Women's Hospital",
+                    "biosample_acc": "SAMN09060487",
+                    "collected_by": "Brigham and Women's Hospital",
+                    "collection_date": "2017",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "USA:Boston",
+                    "host": "Homo sapiens",
+                    "host_disease": "Unknown",
+                    "isolation_source": "stool",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "0000-0075-3448",
+                    "scientific_name": "Clostridioides difficile",
+                    "serovar": "Unknown",
+                    "species_taxid": 1496.0,
+                    "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+                    "sra_release_date": "2018-05-03",
+                    "strain": "Unknown",
+                    "target_acc": "PDT000311475.2",
+                    "target_creation_date": "2018-05-03",
+                    "taxid": 1496.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2018-05-03",
+                    "country": "USA",
+                    "num_date": 2018.33698630137,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036531.3?accessions=PDT000311475.2"
+                  },
+                  "yvalue": 3,
+                  "clade": 8
+                },
+                {
+                  "strain": "PDT000300655.2",
+                  "attr": {
+                    "div": 15.5,
+                    "#label": "PDT000300655.2|SAMN08813904||Clostridioides difficile|||Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR6914990",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 226072,
+                    "asm_stats_length_bp": 4293719,
+                    "asm_stats_n_contig": 40,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA278886",
+                    "bioproject_center": "Brigham & Women's Hospital",
+                    "biosample_acc": "SAMN08813904",
+                    "collected_by": "Brigham and Women's Hospital",
+                    "collection_date": "2017",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "USA:Boston",
+                    "host": "Homo sapiens",
+                    "host_disease": "Unknown",
+                    "isolation_source": "stool",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "0000-0072-8895",
+                    "scientific_name": "Clostridioides difficile",
+                    "serovar": "Unknown",
+                    "species_taxid": 1496.0,
+                    "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+                    "sra_release_date": "2018-03-29",
+                    "strain": "Unknown",
+                    "target_acc": "PDT000300655.2",
+                    "target_creation_date": "2018-03-29",
+                    "taxid": 1496.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2018-03-29",
+                    "country": "USA",
+                    "num_date": 2018.2410958904109,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036531.3?accessions=PDT000300655.2"
+                  },
+                  "yvalue": 4,
+                  "clade": 9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_10",
+          "attr": {
+            "div": 6.5,
+            "num_date": 2016.8147307249872
+          },
+          "yvalue": 6.0,
+          "clade": 10,
+          "children": [
+            {
+              "strain": "PDT000808298.1",
+              "attr": {
+                "div": 7.5
+              },
+              "yvalue": 5,
+              "clade": 11
+            },
+            {
+              "strain": "CLADE_12",
+              "attr": {
+                "div": 8.5,
+                "num_date": 2016.9838702334741
+              },
+              "yvalue": 7.0,
+              "clade": 12,
+              "children": [
+                {
+                  "strain": "PDT000229736.1",
+                  "attr": {
+                    "div": 24.5
+                  },
+                  "yvalue": 6,
+                  "clade": 13
+                },
+                {
+                  "strain": "PDT000522961.1",
+                  "attr": {
+                    "div": 8.5
+                  },
+                  "yvalue": 7,
+                  "clade": 14
+                },
+                {
+                  "strain": "PDT000318303.1",
+                  "attr": {
+                    "div": 8.5
+                  },
+                  "yvalue": 8,
+                  "clade": 15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

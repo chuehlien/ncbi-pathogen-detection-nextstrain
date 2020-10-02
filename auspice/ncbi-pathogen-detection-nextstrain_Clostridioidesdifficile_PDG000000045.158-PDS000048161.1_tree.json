@@ -1,0 +1,229 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.5369863013698
+  },
+  "yvalue": 1.4375,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000545487.1",
+      "attr": {
+        "div": 6.5
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "CLADE_3",
+      "attr": {
+        "div": 4.5,
+        "num_date": 2019.5369863013698
+      },
+      "yvalue": 2.875,
+      "clade": 3,
+      "children": [
+        {
+          "strain": "PDT000545484.1",
+          "attr": {
+            "div": 6.5
+          },
+          "yvalue": 1,
+          "clade": 4
+        },
+        {
+          "strain": "PDT000545482.1",
+          "attr": {
+            "div": 4.5
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000545486.1",
+          "attr": {
+            "div": 4.5,
+            "#label": "PDT000545486.1|SAMN10775273|GCA_007002035.1|Clostridioides difficile||LC3P-127-6|Pathogen: clinical or host-associated",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "Unknown",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "Unknown",
+            "Run": "Unknown",
+            "asm_acc": "GCA_007002035.1",
+            "asm_level": "Contig",
+            "asm_stats_contig_n50": 227260,
+            "asm_stats_length_bp": 4188703,
+            "asm_stats_n_contig": 80,
+            "assembly_method": "SPAdes v. 3.9.1",
+            "attribute_package": "Pathogen: clinical or host-associated",
+            "bioproject_acc": "PRJNA518899",
+            "bioproject_center": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+            "biosample_acc": "SAMN10775273",
+            "collected_by": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+            "collection_date": "2017",
+            "epi_type": "clinical",
+            "fullasm_id": 12096278.0,
+            "location": "USA: Chicago",
+            "host": "Homo sapiens",
+            "host_disease": "C. difficile infection",
+            "isolation_source": "stool",
+            "lat_lon": "41.93 N 87.64 W",
+            "outbreak": "Unknown",
+            "sample_name": "LC3P-127-6",
+            "scientific_name": "Clostridioides difficile",
+            "serovar": "Unknown",
+            "species_taxid": 1496.0,
+            "sra_center": "Unknown",
+            "sra_release_date": "Unknown",
+            "strain": "LC3P-127-6",
+            "target_acc": "PDT000545486.1",
+            "target_creation_date": "2019-07-15",
+            "taxid": 1496.0,
+            "wgs_acc_prefix": "SEQB",
+            "wgs_master_acc": "SEQB00000000.1",
+            "date": "2019-07-15",
+            "country": "USA",
+            "num_date": 2019.5369863013698,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000048161.1?accessions=PDT000545486.1"
+          },
+          "yvalue": 3,
+          "clade": 6
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 6.5,
+            "num_date": 2019.5369863013698
+          },
+          "yvalue": 5.5,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000545488.1",
+              "attr": {
+                "div": 6.5
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000545481.1",
+              "attr": {
+                "div": 6.5,
+                "#label": "PDT000545481.1|SAMN10775274|GCA_007001945.1|Clostridioides difficile||LC3P-127-7|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_007001945.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 246494,
+                "asm_stats_length_bp": 4189588,
+                "asm_stats_n_contig": 92,
+                "assembly_method": "SPAdes v. 3.9.1",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA518899",
+                "bioproject_center": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+                "biosample_acc": "SAMN10775274",
+                "collected_by": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+                "collection_date": "2017",
+                "epi_type": "clinical",
+                "fullasm_id": 12096178.0,
+                "location": "USA: Chicago",
+                "host": "Homo sapiens",
+                "host_disease": "C. difficile infection",
+                "isolation_source": "stool",
+                "lat_lon": "41.93 N 87.64 W",
+                "outbreak": "Unknown",
+                "sample_name": "LC3P-127-7",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "LC3P-127-7",
+                "target_acc": "PDT000545481.1",
+                "target_creation_date": "2019-07-15",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "SEQC",
+                "wgs_master_acc": "SEQC00000000.1",
+                "date": "2019-07-15",
+                "country": "USA",
+                "num_date": 2019.5369863013698,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000048161.1?accessions=PDT000545481.1"
+              },
+              "yvalue": 5,
+              "clade": 9
+            },
+            {
+              "strain": "PDT000545485.1",
+              "attr": {
+                "div": 6.5
+              },
+              "yvalue": 6,
+              "clade": 10
+            },
+            {
+              "strain": "PDT000545489.1",
+              "attr": {
+                "div": 6.5,
+                "#label": "PDT000545489.1|SAMN10775268|GCA_007002105.1|Clostridioides difficile||LC3P-127-1|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_007002105.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 216374,
+                "asm_stats_length_bp": 4206886,
+                "asm_stats_n_contig": 151,
+                "assembly_method": "SPAdes v. 3.9.1",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA518899",
+                "bioproject_center": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+                "biosample_acc": "SAMN10775268",
+                "collected_by": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+                "collection_date": "2017",
+                "epi_type": "clinical",
+                "fullasm_id": 12096338.0,
+                "location": "USA: Chicago",
+                "host": "Homo sapiens",
+                "host_disease": "C. difficile infection",
+                "isolation_source": "stool",
+                "lat_lon": "41.93 N 87.64 W",
+                "outbreak": "Unknown",
+                "sample_name": "LC3P-127-1",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "LC3P-127-1",
+                "target_acc": "PDT000545489.1",
+                "target_creation_date": "2019-07-15",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "SEPW",
+                "wgs_master_acc": "SEPW00000000.1",
+                "date": "2019-07-15",
+                "country": "USA",
+                "num_date": 2019.5369863013698,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000048161.1?accessions=PDT000545489.1"
+              },
+              "yvalue": 7,
+              "clade": 11
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

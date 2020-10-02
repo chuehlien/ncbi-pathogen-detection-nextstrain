@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.2410958904109
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000300682.2",
+      "attr": {
+        "div": 4.0,
+        "#label": "PDT000300682.2|SAMN08813899||Clostridioides difficile|||Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR6915021",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 92301,
+        "asm_stats_length_bp": 4066844,
+        "asm_stats_n_contig": 97,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA278886",
+        "bioproject_center": "Brigham & Women's Hospital",
+        "biosample_acc": "SAMN08813899",
+        "collected_by": "Brigham and Women's Hospital",
+        "collection_date": "2017",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA:Boston",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "stool",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "0000-0073-1802",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+        "sra_release_date": "2018-03-29",
+        "strain": "Unknown",
+        "target_acc": "PDT000300682.2",
+        "target_creation_date": "2018-03-29",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-03-29",
+        "country": "USA",
+        "num_date": 2018.2410958904109,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000036547.1?accessions=PDT000300682.2"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000300767.2",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

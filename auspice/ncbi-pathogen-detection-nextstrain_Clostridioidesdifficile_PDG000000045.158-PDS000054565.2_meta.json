@@ -1,0 +1,288 @@
+{
+  "updated": "2020-08-31",
+  "virus_count": 4,
+  "maintainer": "DCIPHER",
+  "title": "Clostridioidesdifficile_PDG000000045.158-PDS000054565.2",
+  "color_options": {
+    "num_date": {
+      "menuItem": "date",
+      "type": "continuous",
+      "legendTitle": "Sampling date",
+      "key": "num_date"
+    },
+    "#label": {
+      "menuItem": "Label",
+      "legendTitle": "Label",
+      "key": "#label",
+      "type": "discrete"
+    },
+    "FDA_lab_id": {
+      "menuItem": "FDA Lab ID",
+      "legendTitle": "FDA Lab ID",
+      "key": "FDA_lab_id",
+      "type": "discrete"
+    },
+    "HHS_region": {
+      "menuItem": "HHS Region",
+      "legendTitle": "HHS Region",
+      "key": "HHS_region",
+      "type": "continuous"
+    },
+    "LibraryLayout": {
+      "menuItem": "Library Layout",
+      "legendTitle": "Library Layout",
+      "key": "LibraryLayout",
+      "type": "discrete"
+    },
+    "PFGE_PrimaryEnzyme_pattern": {
+      "menuItem": "PFGE Primary Enzyme Pattern",
+      "legendTitle": "PFGE Primary Enzyme Pattern",
+      "key": "PFGE_PrimaryEnzyme_pattern",
+      "type": "discrete"
+    },
+    "PFGE_SecondaryEnzyme_pattern": {
+      "menuItem": "PFGE Secondary Enzyme Pattern",
+      "legendTitle": "PFGE Secondary Enzyme Pattern",
+      "key": "PFGE_SecondaryEnzyme_pattern",
+      "type": "discrete"
+    },
+    "Platform": {
+      "menuItem": "Platform",
+      "legendTitle": "Platform",
+      "key": "Platform",
+      "type": "discrete"
+    },
+    "Run": {
+      "menuItem": "Run",
+      "legendTitle": "Run",
+      "key": "Run",
+      "type": "discrete"
+    },
+    "asm_acc": {
+      "menuItem": "Assembly",
+      "legendTitle": "Assembly",
+      "key": "asm_acc",
+      "type": "discrete"
+    },
+    "asm_level": {
+      "menuItem": "Level",
+      "legendTitle": "Level",
+      "key": "asm_level",
+      "type": "discrete"
+    },
+    "asm_stats_contig_n50": {
+      "menuItem": "N50",
+      "legendTitle": "N50",
+      "key": "asm_stats_contig_n50",
+      "type": "continuous"
+    },
+    "asm_stats_length_bp": {
+      "menuItem": "Length",
+      "legendTitle": "Length",
+      "key": "asm_stats_length_bp",
+      "type": "continuous"
+    },
+    "asm_stats_n_contig": {
+      "menuItem": "Contigs",
+      "legendTitle": "Contigs",
+      "key": "asm_stats_n_contig",
+      "type": "continuous"
+    },
+    "assembly_method": {
+      "menuItem": "Method",
+      "legendTitle": "Method",
+      "key": "assembly_method",
+      "type": "discrete"
+    },
+    "attribute_package": {
+      "menuItem": "Attribute Package",
+      "legendTitle": "Attribute Package",
+      "key": "attribute_package",
+      "type": "discrete"
+    },
+    "bioproject_acc": {
+      "menuItem": "BioProject",
+      "legendTitle": "BioProject",
+      "key": "bioproject_acc",
+      "type": "discrete"
+    },
+    "bioproject_center": {
+      "menuItem": "Bioproject Center",
+      "legendTitle": "Bioproject Center",
+      "key": "bioproject_center",
+      "type": "discrete"
+    },
+    "biosample_acc": {
+      "menuItem": "BioSample",
+      "legendTitle": "BioSample",
+      "key": "biosample_acc",
+      "type": "discrete"
+    },
+    "collected_by": {
+      "menuItem": "Collected by",
+      "legendTitle": "Collected by",
+      "key": "collected_by",
+      "type": "discrete"
+    },
+    "collection_date": {
+      "menuItem": "Collection Date",
+      "legendTitle": "Collection Date",
+      "key": "collection_date",
+      "type": "discrete"
+    },
+    "epi_type": {
+      "menuItem": "Isolation type",
+      "legendTitle": "Isolation type",
+      "key": "epi_type",
+      "type": "discrete"
+    },
+    "fullasm_id": {
+      "menuItem": "Full ASM ID",
+      "legendTitle": "Full ASM ID",
+      "key": "fullasm_id",
+      "type": "discrete"
+    },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "host": {
+      "menuItem": "Host",
+      "legendTitle": "Host",
+      "key": "host",
+      "type": "discrete"
+    },
+    "host_disease": {
+      "menuItem": "Host Disease",
+      "legendTitle": "Host Disease",
+      "key": "host_disease",
+      "type": "discrete"
+    },
+    "isolation_source": {
+      "menuItem": "Isolation Source",
+      "legendTitle": "Isolation Source",
+      "key": "isolation_source",
+      "type": "discrete"
+    },
+    "lat_lon": {
+      "menuItem": "Lat/Lon",
+      "legendTitle": "Lat/Lon",
+      "key": "lat_lon",
+      "type": "discrete"
+    },
+    "outbreak": {
+      "menuItem": "Outbreak",
+      "legendTitle": "Outbreak",
+      "key": "outbreak",
+      "type": "discrete"
+    },
+    "sample_name": {
+      "menuItem": "Sample Name",
+      "legendTitle": "Sample Name",
+      "key": "sample_name",
+      "type": "discrete"
+    },
+    "scientific_name": {
+      "menuItem": "Scientific name",
+      "legendTitle": "Scientific name",
+      "key": "scientific_name",
+      "type": "discrete"
+    },
+    "serovar": {
+      "menuItem": "Serovar",
+      "legendTitle": "Serovar",
+      "key": "serovar",
+      "type": "discrete"
+    },
+    "species_taxid": {
+      "menuItem": "Species TaxID",
+      "legendTitle": "Species TaxID",
+      "key": "species_taxid",
+      "type": "discrete"
+    },
+    "sra_center": {
+      "menuItem": "SRA Center",
+      "legendTitle": "SRA Center",
+      "key": "sra_center",
+      "type": "discrete"
+    },
+    "sra_release_date": {
+      "menuItem": "SRA Release Date",
+      "legendTitle": "SRA Release Date",
+      "key": "sra_release_date",
+      "type": "discrete"
+    },
+    "strain": {
+      "menuItem": "Strain",
+      "legendTitle": "Strain",
+      "key": "strain",
+      "type": "discrete"
+    },
+    "target_creation_date": {
+      "menuItem": "Create Date",
+      "legendTitle": "Create Date",
+      "key": "target_creation_date",
+      "type": "discrete"
+    },
+    "taxid": {
+      "menuItem": "TaxID",
+      "legendTitle": "TaxID",
+      "key": "taxid",
+      "type": "discrete"
+    },
+    "wgs_acc_prefix": {
+      "menuItem": "WGS Prefix",
+      "legendTitle": "WGS Prefix",
+      "key": "wgs_acc_prefix",
+      "type": "discrete"
+    },
+    "wgs_master_acc": {
+      "menuItem": "WGS Accession",
+      "legendTitle": "WGS Accession",
+      "key": "wgs_master_acc",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    }
+  },
+  "filters": [],
+  "commit": "unknown",
+  "panels": [
+    "tree",
+    "map"
+  ],
+  "geo": {
+    "country": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      }
+    },
+    "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      }
+    }
+  },
+  "annotations": {},
+  "author_info": {}
+}

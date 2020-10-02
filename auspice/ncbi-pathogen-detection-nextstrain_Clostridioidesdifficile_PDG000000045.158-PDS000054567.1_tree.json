@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2013.6356164383562
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000017575.2",
+      "attr": {
+        "div": 17.0,
+        "#label": "PDT000017575.2|SAMN01766718|GCA_000452005.1|Clostridioides difficile P59||P59|Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_000452005.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 123083,
+        "asm_stats_length_bp": 4223549,
+        "asm_stats_n_contig": 68,
+        "assembly_method": "Celera Assembler v. 7.0",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJNA86033",
+        "bioproject_center": "Institute for Genome Sciences",
+        "biosample_acc": "SAMN01766718",
+        "collected_by": "Unknown",
+        "collection_date": "Unknown",
+        "epi_type": "environmental/other",
+        "fullasm_id": 761348.0,
+        "location": "Unknown",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Clostridioides difficile P59",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "P59",
+        "target_acc": "PDT000017575.2",
+        "target_creation_date": "2013-08-20",
+        "taxid": 1151428.0,
+        "wgs_acc_prefix": "AVMQ",
+        "wgs_master_acc": "AVMQ00000000.1",
+        "date": "2013-08-20",
+        "country": "Unknown",
+        "num_date": 2013.6356164383562,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000054567.1?accessions=PDT000017575.2"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000647256.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

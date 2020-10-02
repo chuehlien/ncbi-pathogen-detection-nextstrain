@@ -1,0 +1,98 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.545205479452
+  },
+  "yvalue": 1.16667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000546402.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000546401.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 1.0,
+        "num_date": 2019.545205479452
+      },
+      "yvalue": 2.5,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000546397.1",
+          "attr": {
+            "div": 2.0,
+            "#label": "PDT000546397.1|SAMN12163585|GCA_007114725.1|Clostridioides difficile||Gcol.A39|Microbe",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "Unknown",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "Unknown",
+            "Run": "Unknown",
+            "asm_acc": "GCA_007114725.1",
+            "asm_level": "Contig",
+            "asm_stats_contig_n50": 239803,
+            "asm_stats_length_bp": 4219771,
+            "asm_stats_n_contig": 64,
+            "assembly_method": "Velvet v. 1.2.09",
+            "attribute_package": "Microbe",
+            "bioproject_acc": "PRJNA551724",
+            "bioproject_center": "Grupo de Investigaciones Microbiologicas - UR (GIMUR)",
+            "biosample_acc": "SAMN12163585",
+            "collected_by": "Unknown",
+            "collection_date": "2016-05-01",
+            "epi_type": "clinical",
+            "fullasm_id": 12226968.0,
+            "location": "Colombia",
+            "host": "Homo sapiens",
+            "host_disease": "Unknown",
+            "isolation_source": "fecal sample",
+            "lat_lon": "4.624335 N 74.063644 W",
+            "outbreak": "Unknown",
+            "sample_name": "Gcol.A39",
+            "scientific_name": "Clostridioides difficile",
+            "serovar": "Unknown",
+            "species_taxid": 1496.0,
+            "sra_center": "Unknown",
+            "sra_release_date": "Unknown",
+            "strain": "Gcol.A39",
+            "target_acc": "PDT000546397.1",
+            "target_creation_date": "2019-07-18",
+            "taxid": 1496.0,
+            "wgs_acc_prefix": "VIMV",
+            "wgs_master_acc": "VIMV00000000.1",
+            "date": "2019-07-18",
+            "country": "Colombia",
+            "num_date": 2019.545205479452,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000048238.1?accessions=PDT000546397.1"
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000546400.1",
+          "attr": {
+            "div": 1.0
+          },
+          "yvalue": 3,
+          "clade": 6
+        }
+      ]
+    }
+  ]
+}

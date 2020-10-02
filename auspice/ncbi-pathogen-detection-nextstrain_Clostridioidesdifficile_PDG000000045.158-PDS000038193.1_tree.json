@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.8301369863013
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000399810.1",
+      "attr": {
+        "div": 6.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000399809.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000399809.1|SAMN10274208|GCA_003697205.1|Clostridioides difficile||CD10010|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_003697205.1",
+        "asm_level": "Complete Genome",
+        "asm_stats_contig_n50": 4049580,
+        "asm_stats_length_bp": 4049580,
+        "asm_stats_n_contig": 1,
+        "assembly_method": "Celera Assembler v. 8.3",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA497978",
+        "bioproject_center": "BGI",
+        "biosample_acc": "SAMN10274208",
+        "collected_by": "ICDC, China CDC",
+        "collection_date": "2015-12",
+        "epi_type": "clinical",
+        "fullasm_id": 7649118.0,
+        "location": "China:beijing",
+        "host": "Homo sapiens",
+        "host_disease": "Diarrhea caused by clostridium difficile",
+        "isolation_source": "stool",
+        "lat_lon": "40 N 116 E",
+        "outbreak": "Unknown",
+        "sample_name": "CD10010",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "CD10010",
+        "target_acc": "PDT000399809.1",
+        "target_creation_date": "2018-10-30",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-10-30",
+        "country": "China",
+        "num_date": 2018.8301369863013,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000038193.1?accessions=PDT000399809.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

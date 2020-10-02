@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.2630136986302
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000663378.1",
+      "attr": {
+        "div": 33.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000303850.2",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000303850.2|SAMN08885869||Clostridioides difficile|||Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR6955987",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 46938,
+        "asm_stats_length_bp": 3948559,
+        "asm_stats_n_contig": 177,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA278886",
+        "bioproject_center": "Brigham & Women's Hospital",
+        "biosample_acc": "SAMN08885869",
+        "collected_by": "Brigham and Women's Hospital",
+        "collection_date": "2017",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA:Boston",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "stool",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "0000-0073-7793",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "BRIGHAM AND WOMEN'S HOSPITAL",
+        "sra_release_date": "2018-04-06",
+        "strain": "Unknown",
+        "target_acc": "PDT000303850.2",
+        "target_creation_date": "2018-04-06",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-04-06",
+        "country": "USA",
+        "num_date": 2018.2630136986302,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000055534.1?accessions=PDT000303850.2"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

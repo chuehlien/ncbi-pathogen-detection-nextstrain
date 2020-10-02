@@ -1,0 +1,125 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.6147540983607
+  },
+  "yvalue": 1.6875,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000808199.1",
+      "attr": {
+        "div": 7.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000808315.1",
+      "attr": {
+        "div": 3.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "PDT000808392.1",
+      "attr": {
+        "div": 1.0,
+        "#label": "PDT000808392.1|SAMN15802825||Clostridioides difficile||20140798|Microbe",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12437324",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 183861,
+        "asm_stats_length_bp": 4581993,
+        "asm_stats_n_contig": 77,
+        "assembly_method": "Unknown",
+        "attribute_package": "Microbe",
+        "bioproject_acc": "PRJNA629351",
+        "bioproject_center": "Centers for Disease Control and Prevention",
+        "biosample_acc": "SAMN15802825",
+        "collected_by": "Unknown",
+        "collection_date": "2014",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "stool",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "20140798",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "CENTERS FOR DISEASE CONTROL AND PREVENTION",
+        "sra_release_date": "2020-08-12",
+        "strain": "20140798",
+        "target_acc": "PDT000808392.1",
+        "target_creation_date": "2020-08-12",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-08-12",
+        "country": "USA",
+        "num_date": 2020.6147540983607,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000066909.1?accessions=PDT000808392.1"
+      },
+      "yvalue": 2,
+      "clade": 4
+    },
+    {
+      "strain": "CLADE_5",
+      "attr": {
+        "div": 1.0,
+        "num_date": 2020.6147540983607
+      },
+      "yvalue": 3.75,
+      "clade": 5,
+      "children": [
+        {
+          "strain": "PDT000808225.1",
+          "attr": {
+            "div": 3.0
+          },
+          "yvalue": 3,
+          "clade": 6
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 6.0,
+            "num_date": 2020.6147540983607
+          },
+          "yvalue": 4.5,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000808216.1",
+              "attr": {
+                "div": 20.0
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000306378.2",
+              "attr": {
+                "div": 18.0
+              },
+              "yvalue": 5,
+              "clade": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.682191780822
+  },
+  "yvalue": 1.0,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000808468.1",
+      "attr": {
+        "div": 14.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000582266.1",
+      "attr": {
+        "div": 10.0,
+        "#label": "PDT000582266.1|SAMN09400648||Clostridioides difficile||CD07846|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR7297564",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 28809,
+        "asm_stats_length_bp": 4150445,
+        "asm_stats_n_contig": 280,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA475751",
+        "bioproject_center": "University of Pittsburgh",
+        "biosample_acc": "SAMN09400648",
+        "collected_by": "University of Pittsburgh Medical Center",
+        "collection_date": "2017",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA: Pittsburgh, Pennsylvania",
+        "host": "Homo sapiens",
+        "host_disease": "not collected",
+        "isolation_source": "stool",
+        "lat_lon": "40.44 N 79.97 W",
+        "outbreak": "Unknown",
+        "sample_name": "CD07846",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "UNIVERSITY OF PITTSBURGH",
+        "sra_release_date": "2019-06-24",
+        "strain": "CD07846",
+        "target_acc": "PDT000582266.1",
+        "target_creation_date": "2019-09-06",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2019-09-06",
+        "country": "USA",
+        "num_date": 2019.682191780822,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000050435.2?accessions=PDT000582266.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "PDT000318276.1",
+      "attr": {
+        "div": 8.0
+      },
+      "yvalue": 2,
+      "clade": 4
+    }
+  ]
+}

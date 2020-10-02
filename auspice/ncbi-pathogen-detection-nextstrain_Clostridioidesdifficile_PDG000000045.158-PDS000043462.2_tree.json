@@ -1,0 +1,213 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.1616438356164
+  },
+  "yvalue": 1.38889,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000808554.1",
+      "attr": {
+        "div": 6.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000808188.1",
+      "attr": {
+        "div": 6.0,
+        "#label": "PDT000808188.1|SAMN15803005||Clostridioides difficile||20160737|Microbe",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12437120",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 139455,
+        "asm_stats_length_bp": 4179716,
+        "asm_stats_n_contig": 68,
+        "assembly_method": "Unknown",
+        "attribute_package": "Microbe",
+        "bioproject_acc": "PRJNA629351",
+        "bioproject_center": "Centers for Disease Control and Prevention",
+        "biosample_acc": "SAMN15803005",
+        "collected_by": "Unknown",
+        "collection_date": "2016",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "swab",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "20160737",
+        "scientific_name": "Clostridioides difficile",
+        "serovar": "Unknown",
+        "species_taxid": 1496.0,
+        "sra_center": "CENTERS FOR DISEASE CONTROL AND PREVENTION",
+        "sra_release_date": "2020-08-12",
+        "strain": "20160737",
+        "target_acc": "PDT000808188.1",
+        "target_creation_date": "2020-08-12",
+        "taxid": 1496.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-08-12",
+        "country": "USA",
+        "num_date": 2020.6147540983607,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000043462.2?accessions=PDT000808188.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 1.0,
+        "num_date": 2019.2070535313271
+      },
+      "yvalue": 3.16667,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000808382.1",
+          "attr": {
+            "div": 4.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000808301.1",
+          "attr": {
+            "div": 4.0
+          },
+          "yvalue": 3,
+          "clade": 6
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 20.0,
+            "num_date": 2020.0698377498315
+          },
+          "yvalue": 4.5,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000471639.1",
+              "attr": {
+                "div": 32.0,
+                "#label": "PDT000471639.1|SAMD00155869|GCA_004315365.1|Clostridioides difficile|||MIGS Cultured Bacterial/Archaeal",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_004315365.1",
+                "asm_level": "Scaffold",
+                "asm_stats_contig_n50": 49925,
+                "asm_stats_length_bp": 4096049,
+                "asm_stats_n_contig": 167,
+                "assembly_method": "CLC genomics workbench v. 11",
+                "attribute_package": "MIGS Cultured Bacterial/Archaeal",
+                "bioproject_acc": "PRJDB7714",
+                "bioproject_center": "Toho University",
+                "biosample_acc": "SAMD00155869",
+                "collected_by": "Unknown",
+                "collection_date": "2015-04-13",
+                "epi_type": "clinical",
+                "fullasm_id": 8673118.0,
+                "location": "Japan",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "Unknown",
+                "target_acc": "PDT000471639.1",
+                "target_creation_date": "2019-02-28",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "BIQB",
+                "wgs_master_acc": "BIQB00000000.1",
+                "date": "2019-02-28",
+                "country": "Japan",
+                "num_date": 2019.1616438356164,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000043462.2?accessions=PDT000471639.1"
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000471622.1",
+              "attr": {
+                "div": 32.0,
+                "#label": "PDT000471622.1|SAMD00155852|GCA_004315025.1|Clostridioides difficile|||MIGS Cultured Bacterial/Archaeal",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_004315025.1",
+                "asm_level": "Scaffold",
+                "asm_stats_contig_n50": 56964,
+                "asm_stats_length_bp": 4094196,
+                "asm_stats_n_contig": 131,
+                "assembly_method": "CLC genomics workbench v. 11",
+                "attribute_package": "MIGS Cultured Bacterial/Archaeal",
+                "bioproject_acc": "PRJDB7714",
+                "bioproject_center": "Toho University",
+                "biosample_acc": "SAMD00155852",
+                "collected_by": "Unknown",
+                "collection_date": "2015-03-06",
+                "epi_type": "clinical",
+                "fullasm_id": 8672778.0,
+                "location": "Japan",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "Unknown",
+                "target_acc": "PDT000471622.1",
+                "target_creation_date": "2019-02-28",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "BIPK",
+                "wgs_master_acc": "BIPK00000000.1",
+                "date": "2019-02-28",
+                "country": "Japan",
+                "num_date": 2019.1616438356164,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000043462.2?accessions=PDT000471622.1"
+              },
+              "yvalue": 5,
+              "clade": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

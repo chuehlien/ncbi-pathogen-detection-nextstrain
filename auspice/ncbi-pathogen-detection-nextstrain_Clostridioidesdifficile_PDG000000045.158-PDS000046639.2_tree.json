@@ -1,0 +1,845 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.4602739726026
+  },
+  "yvalue": 5.23512,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "CLADE_2",
+      "attr": {
+        "div": 13.0,
+        "num_date": 2019.4780821917807
+      },
+      "yvalue": 0.75,
+      "clade": 2,
+      "children": [
+        {
+          "strain": "PDT000533852.1",
+          "attr": {
+            "div": 22.0,
+            "#label": "PDT000533852.1|SAMEA5086596||Clostridioides difficile|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR2898799",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 51260,
+            "asm_stats_length_bp": 3911768,
+            "asm_stats_n_contig": 159,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB22563",
+            "bioproject_center": "1",
+            "biosample_acc": "SAMEA5086596",
+            "collected_by": "Unknown",
+            "collection_date": "2011-08-01",
+            "epi_type": "clinical",
+            "fullasm_id": 0.0,
+            "location": "Australia",
+            "host": "Homo sapiens",
+            "host_disease": "Unknown",
+            "isolation_source": "Healthcare system",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Clostridioides difficile",
+            "serovar": "Unknown",
+            "species_taxid": 1496.0,
+            "sra_center": "1",
+            "sra_release_date": "2019-04-01",
+            "strain": "Unknown",
+            "target_acc": "PDT000533852.1",
+            "target_creation_date": "2019-06-28",
+            "taxid": 1496.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2019-06-28",
+            "country": "Australia",
+            "num_date": 2019.490410958904,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533852.1"
+          },
+          "yvalue": 0,
+          "clade": 3
+        },
+        {
+          "strain": "CLADE_4",
+          "attr": {
+            "div": 17.0,
+            "num_date": 2019.4835616438356
+          },
+          "yvalue": 1.5,
+          "clade": 4,
+          "children": [
+            {
+              "strain": "PDT000525058.1",
+              "attr": {
+                "div": 17.0
+              },
+              "yvalue": 1,
+              "clade": 5
+            },
+            {
+              "strain": "PDT000533951.1",
+              "attr": {
+                "div": 17.0
+              },
+              "yvalue": 2,
+              "clade": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "strain": "CLADE_7",
+      "attr": {
+        "div": 17.0,
+        "num_date": 2019.4835616438356
+      },
+      "yvalue": 3.75,
+      "clade": 7,
+      "children": [
+        {
+          "strain": "PDT000533940.1",
+          "attr": {
+            "div": 22.0,
+            "#label": "PDT000533940.1|SAMEA5086684||Clostridioides difficile|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR2898887",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 67686,
+            "asm_stats_length_bp": 3917479,
+            "asm_stats_n_contig": 100,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB22563",
+            "bioproject_center": "1",
+            "biosample_acc": "SAMEA5086684",
+            "collected_by": "Unknown",
+            "collection_date": "2012-04-01",
+            "epi_type": "environmental/other",
+            "fullasm_id": 0.0,
+            "location": "Australia",
+            "host": "Bos taurus",
+            "host_disease": "Unknown",
+            "isolation_source": "Abbatoir/farm",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Clostridioides difficile",
+            "serovar": "Unknown",
+            "species_taxid": 1496.0,
+            "sra_center": "1",
+            "sra_release_date": "2019-04-01",
+            "strain": "Unknown",
+            "target_acc": "PDT000533940.1",
+            "target_creation_date": "2019-06-28",
+            "taxid": 1496.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2019-06-28",
+            "country": "Australia",
+            "num_date": 2019.490410958904,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533940.1"
+          },
+          "yvalue": 3,
+          "clade": 8
+        },
+        {
+          "strain": "CLADE_9",
+          "attr": {
+            "div": 18.0,
+            "num_date": 2019.4849315068493
+          },
+          "yvalue": 4.5,
+          "clade": 9,
+          "children": [
+            {
+              "strain": "PDT000533941.1",
+              "attr": {
+                "div": 20.0
+              },
+              "yvalue": 4,
+              "clade": 10
+            },
+            {
+              "strain": "PDT000533946.1",
+              "attr": {
+                "div": 21.0
+              },
+              "yvalue": 5,
+              "clade": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "strain": "CLADE_12",
+      "attr": {
+        "div": 7.0,
+        "num_date": 2019.4698630136986
+      },
+      "yvalue": 11.20536,
+      "clade": 12,
+      "children": [
+        {
+          "strain": "PDT000533969.1",
+          "attr": {
+            "div": 14.0
+          },
+          "yvalue": 6,
+          "clade": 13
+        },
+        {
+          "strain": "PDT000533865.1",
+          "attr": {
+            "div": 9.0
+          },
+          "yvalue": 7,
+          "clade": 14
+        },
+        {
+          "strain": "PDT000533855.1",
+          "attr": {
+            "div": 8.0
+          },
+          "yvalue": 8,
+          "clade": 15
+        },
+        {
+          "strain": "CLADE_16",
+          "attr": {
+            "div": 8.0,
+            "num_date": 2019.4712328767123
+          },
+          "yvalue": 9.5,
+          "clade": 16,
+          "children": [
+            {
+              "strain": "PDT000533964.1",
+              "attr": {
+                "div": 14.0,
+                "#label": "PDT000533964.1|SAMEA5086708||Clostridioides difficile|||Generic",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "ERR2898911",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 47647,
+                "asm_stats_length_bp": 3903080,
+                "asm_stats_n_contig": 208,
+                "assembly_method": "Unknown",
+                "attribute_package": "Generic",
+                "bioproject_acc": "PRJEB22563",
+                "bioproject_center": "1",
+                "biosample_acc": "SAMEA5086708",
+                "collected_by": "Unknown",
+                "collection_date": "2013-04-01",
+                "epi_type": "environmental/other",
+                "fullasm_id": 0.0,
+                "location": "Australia",
+                "host": "Bos taurus",
+                "host_disease": "Unknown",
+                "isolation_source": "Abbatoir/farm",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "1",
+                "sra_release_date": "2019-04-01",
+                "strain": "Unknown",
+                "target_acc": "PDT000533964.1",
+                "target_creation_date": "2019-06-28",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-06-28",
+                "country": "Australia",
+                "num_date": 2019.490410958904,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533964.1"
+              },
+              "yvalue": 9,
+              "clade": 17
+            },
+            {
+              "strain": "PDT000533958.1",
+              "attr": {
+                "div": 14.0
+              },
+              "yvalue": 10,
+              "clade": 18
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_19",
+          "attr": {
+            "div": 9.0,
+            "num_date": 2019.472602739726
+          },
+          "yvalue": 12.0,
+          "clade": 19,
+          "children": [
+            {
+              "strain": "PDT000533953.1",
+              "attr": {
+                "div": 12.0,
+                "#label": "PDT000533953.1|SAMEA5086697||Clostridioides difficile|||Generic",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "ERR2898900",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 125532,
+                "asm_stats_length_bp": 3950898,
+                "asm_stats_n_contig": 66,
+                "assembly_method": "Unknown",
+                "attribute_package": "Generic",
+                "bioproject_acc": "PRJEB22563",
+                "bioproject_center": "1",
+                "biosample_acc": "SAMEA5086697",
+                "collected_by": "Unknown",
+                "collection_date": "2012-03-01",
+                "epi_type": "environmental/other",
+                "fullasm_id": 0.0,
+                "location": "Australia",
+                "host": "Bos taurus",
+                "host_disease": "Unknown",
+                "isolation_source": "Abbatoir/farm",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "1",
+                "sra_release_date": "2019-04-01",
+                "strain": "Unknown",
+                "target_acc": "PDT000533953.1",
+                "target_creation_date": "2019-06-28",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-06-28",
+                "country": "Australia",
+                "num_date": 2019.490410958904,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533953.1"
+              },
+              "yvalue": 11,
+              "clade": 20
+            },
+            {
+              "strain": "PDT000533860.1",
+              "attr": {
+                "div": 11.0
+              },
+              "yvalue": 12,
+              "clade": 21
+            },
+            {
+              "strain": "PDT000533952.1",
+              "attr": {
+                "div": 11.0
+              },
+              "yvalue": 13,
+              "clade": 22
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_23",
+          "attr": {
+            "div": 10.0,
+            "num_date": 2019.4739726027397
+          },
+          "yvalue": 15.0,
+          "clade": 23,
+          "children": [
+            {
+              "strain": "PDT000533965.1",
+              "attr": {
+                "div": 14.0
+              },
+              "yvalue": 14,
+              "clade": 24
+            },
+            {
+              "strain": "CLADE_25",
+              "attr": {
+                "div": 13.0,
+                "num_date": 2019.4780821917807
+              },
+              "yvalue": 16.0,
+              "clade": 25,
+              "children": [
+                {
+                  "strain": "PDT000524906.1",
+                  "attr": {
+                    "div": 13.0,
+                    "#label": "PDT000524906.1|SAMEA1710383|GCA_901006935.1|Clostridioides difficile|not available|MON011|Generic",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_901006935.1",
+                    "asm_level": "Scaffold",
+                    "asm_stats_contig_n50": 121264,
+                    "asm_stats_length_bp": 3921105,
+                    "asm_stats_n_contig": 79,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Generic",
+                    "bioproject_acc": "PRJEB3012",
+                    "bioproject_center": "SC",
+                    "biosample_acc": "SAMEA1710383",
+                    "collected_by": "Unknown",
+                    "collection_date": "Unknown",
+                    "epi_type": "environmental/other",
+                    "fullasm_id": 11238688.0,
+                    "location": "Australia",
+                    "host": "not available",
+                    "host_disease": "Unknown",
+                    "isolation_source": "not available",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Clostridioides difficile",
+                    "serovar": "not available",
+                    "species_taxid": 1496.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "MON011",
+                    "target_acc": "PDT000524906.1",
+                    "target_creation_date": "2019-06-17",
+                    "taxid": 1496.0,
+                    "wgs_acc_prefix": "CAAKEE",
+                    "wgs_master_acc": "CAAKEE000000000.1",
+                    "date": "2019-06-17",
+                    "country": "Australia",
+                    "num_date": 2019.4602739726026,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000524906.1"
+                  },
+                  "yvalue": 15,
+                  "clade": 26
+                },
+                {
+                  "strain": "PDT000533850.1",
+                  "attr": {
+                    "div": 13.0,
+                    "#label": "PDT000533850.1|SAMEA5086594||Clostridioides difficile|||Generic",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "ERR2898797",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 78004,
+                    "asm_stats_length_bp": 3910189,
+                    "asm_stats_n_contig": 98,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Generic",
+                    "bioproject_acc": "PRJEB22563",
+                    "bioproject_center": "1",
+                    "biosample_acc": "SAMEA5086594",
+                    "collected_by": "Unknown",
+                    "collection_date": "2006-02-01",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "Australia",
+                    "host": "Homo sapiens",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Healthcare system",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Clostridioides difficile",
+                    "serovar": "Unknown",
+                    "species_taxid": 1496.0,
+                    "sra_center": "1",
+                    "sra_release_date": "2019-04-01",
+                    "strain": "Unknown",
+                    "target_acc": "PDT000533850.1",
+                    "target_creation_date": "2019-06-28",
+                    "taxid": 1496.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2019-06-28",
+                    "country": "Australia",
+                    "num_date": 2019.490410958904,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533850.1"
+                  },
+                  "yvalue": 16,
+                  "clade": 27
+                },
+                {
+                  "strain": "PDT000533868.1",
+                  "attr": {
+                    "div": 13.0
+                  },
+                  "yvalue": 17,
+                  "clade": 28
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_29",
+          "attr": {
+            "div": 9.0,
+            "num_date": 2019.472602739726
+          },
+          "yvalue": 20.9375,
+          "clade": 29,
+          "children": [
+            {
+              "strain": "PDT000533966.1",
+              "attr": {
+                "div": 15.0,
+                "#label": "PDT000533966.1|SAMEA5086710||Clostridioides difficile|||Generic",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "ERR2898913",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 47752,
+                "asm_stats_length_bp": 3942571,
+                "asm_stats_n_contig": 192,
+                "assembly_method": "Unknown",
+                "attribute_package": "Generic",
+                "bioproject_acc": "PRJEB22563",
+                "bioproject_center": "1",
+                "biosample_acc": "SAMEA5086710",
+                "collected_by": "Unknown",
+                "collection_date": "2013-04-01",
+                "epi_type": "environmental/other",
+                "fullasm_id": 0.0,
+                "location": "Australia",
+                "host": "Bos taurus",
+                "host_disease": "Unknown",
+                "isolation_source": "Abbatoir/farm",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Clostridioides difficile",
+                "serovar": "Unknown",
+                "species_taxid": 1496.0,
+                "sra_center": "1",
+                "sra_release_date": "2019-04-01",
+                "strain": "Unknown",
+                "target_acc": "PDT000533966.1",
+                "target_creation_date": "2019-06-28",
+                "taxid": 1496.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-06-28",
+                "country": "Australia",
+                "num_date": 2019.490410958904,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533966.1"
+              },
+              "yvalue": 18,
+              "clade": 30
+            },
+            {
+              "strain": "PDT000533960.1",
+              "attr": {
+                "div": 14.0
+              },
+              "yvalue": 19,
+              "clade": 31
+            },
+            {
+              "strain": "PDT000533854.1",
+              "attr": {
+                "div": 15.0
+              },
+              "yvalue": 20,
+              "clade": 32
+            },
+            {
+              "strain": "PDT000533864.1",
+              "attr": {
+                "div": 10.0
+              },
+              "yvalue": 21,
+              "clade": 33
+            },
+            {
+              "strain": "PDT000533924.1",
+              "attr": {
+                "div": 10.0
+              },
+              "yvalue": 22,
+              "clade": 34
+            },
+            {
+              "strain": "CLADE_35",
+              "attr": {
+                "div": 10.0,
+                "num_date": 2019.4739726027397
+              },
+              "yvalue": 25.625,
+              "clade": 35,
+              "children": [
+                {
+                  "strain": "PDT000533858.1",
+                  "attr": {
+                    "div": 13.0
+                  },
+                  "yvalue": 23,
+                  "clade": 36
+                },
+                {
+                  "strain": "CLADE_37",
+                  "attr": {
+                    "div": 14.0,
+                    "num_date": 2019.4794520547944
+                  },
+                  "yvalue": 24.5,
+                  "clade": 37,
+                  "children": [
+                    {
+                      "strain": "PDT000525015.1",
+                      "attr": {
+                        "div": 14.0,
+                        "#label": "PDT000525015.1|SAMEA1710666|GCA_901007165.1|Clostridioides difficile|not available|MON037|Generic",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "Unknown",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "Unknown",
+                        "Run": "Unknown",
+                        "asm_acc": "GCA_901007165.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 125592,
+                        "asm_stats_length_bp": 3927165,
+                        "asm_stats_n_contig": 72,
+                        "assembly_method": "Unknown",
+                        "attribute_package": "Generic",
+                        "bioproject_acc": "PRJEB3012",
+                        "bioproject_center": "SC",
+                        "biosample_acc": "SAMEA1710666",
+                        "collected_by": "Unknown",
+                        "collection_date": "Unknown",
+                        "epi_type": "environmental/other",
+                        "fullasm_id": 11240888.0,
+                        "location": "Australia",
+                        "host": "not available",
+                        "host_disease": "Unknown",
+                        "isolation_source": "not available",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Clostridioides difficile",
+                        "serovar": "not available",
+                        "species_taxid": 1496.0,
+                        "sra_center": "Unknown",
+                        "sra_release_date": "Unknown",
+                        "strain": "MON037",
+                        "target_acc": "PDT000525015.1",
+                        "target_creation_date": "2019-06-17",
+                        "taxid": 1496.0,
+                        "wgs_acc_prefix": "CAAKFM",
+                        "wgs_master_acc": "CAAKFM000000000.1",
+                        "date": "2019-06-17",
+                        "country": "Australia",
+                        "num_date": 2019.4602739726026,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000525015.1"
+                      },
+                      "yvalue": 24,
+                      "clade": 38
+                    },
+                    {
+                      "strain": "PDT000533913.1",
+                      "attr": {
+                        "div": 14.0
+                      },
+                      "yvalue": 25,
+                      "clade": 39
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_40",
+                  "attr": {
+                    "div": 12.0,
+                    "num_date": 2019.476712328767
+                  },
+                  "yvalue": 26.5,
+                  "clade": 40,
+                  "children": [
+                    {
+                      "strain": "PDT000524983.1",
+                      "attr": {
+                        "div": 12.0
+                      },
+                      "yvalue": 26,
+                      "clade": 41
+                    },
+                    {
+                      "strain": "PDT000533871.1",
+                      "attr": {
+                        "div": 12.0
+                      },
+                      "yvalue": 27,
+                      "clade": 42
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_43",
+                  "attr": {
+                    "div": 13.0,
+                    "num_date": 2019.4780821917807
+                  },
+                  "yvalue": 28.5,
+                  "clade": 43,
+                  "children": [
+                    {
+                      "strain": "PDT000524883.1",
+                      "attr": {
+                        "div": 13.0,
+                        "#label": "PDT000524883.1|SAMEA1710338|GCA_901007105.1|Clostridioides difficile|not available|MON034|Generic",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "Unknown",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "Unknown",
+                        "Run": "Unknown",
+                        "asm_acc": "GCA_901007105.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 125554,
+                        "asm_stats_length_bp": 3923847,
+                        "asm_stats_n_contig": 78,
+                        "assembly_method": "Unknown",
+                        "attribute_package": "Generic",
+                        "bioproject_acc": "PRJEB3012",
+                        "bioproject_center": "SC",
+                        "biosample_acc": "SAMEA1710338",
+                        "collected_by": "Unknown",
+                        "collection_date": "Unknown",
+                        "epi_type": "environmental/other",
+                        "fullasm_id": 11238228.0,
+                        "location": "Australia",
+                        "host": "not available",
+                        "host_disease": "Unknown",
+                        "isolation_source": "not available",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Clostridioides difficile",
+                        "serovar": "not available",
+                        "species_taxid": 1496.0,
+                        "sra_center": "Unknown",
+                        "sra_release_date": "Unknown",
+                        "strain": "MON034",
+                        "target_acc": "PDT000524883.1",
+                        "target_creation_date": "2019-06-17",
+                        "taxid": 1496.0,
+                        "wgs_acc_prefix": "CAAKEY",
+                        "wgs_master_acc": "CAAKEY000000000.1",
+                        "date": "2019-06-17",
+                        "country": "Australia",
+                        "num_date": 2019.4602739726026,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000524883.1"
+                      },
+                      "yvalue": 28,
+                      "clade": 44
+                    },
+                    {
+                      "strain": "PDT000533872.1",
+                      "attr": {
+                        "div": 13.0,
+                        "#label": "PDT000533872.1|SAMEA5086616||Clostridioides difficile|||Generic",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "ERR2898819",
+                        "asm_acc": "Unknown",
+                        "asm_level": "Unknown",
+                        "asm_stats_contig_n50": 107277,
+                        "asm_stats_length_bp": 3915572,
+                        "asm_stats_n_contig": 79,
+                        "assembly_method": "Unknown",
+                        "attribute_package": "Generic",
+                        "bioproject_acc": "PRJEB22563",
+                        "bioproject_center": "1",
+                        "biosample_acc": "SAMEA5086616",
+                        "collected_by": "Unknown",
+                        "collection_date": "2006-07-01",
+                        "epi_type": "clinical",
+                        "fullasm_id": 0.0,
+                        "location": "Australia",
+                        "host": "Homo sapiens",
+                        "host_disease": "Unknown",
+                        "isolation_source": "Healthcare system",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Clostridioides difficile",
+                        "serovar": "Unknown",
+                        "species_taxid": 1496.0,
+                        "sra_center": "1",
+                        "sra_release_date": "2019-04-01",
+                        "strain": "Unknown",
+                        "target_acc": "PDT000533872.1",
+                        "target_creation_date": "2019-06-28",
+                        "taxid": 1496.0,
+                        "wgs_acc_prefix": "Unknown",
+                        "wgs_master_acc": "Unknown",
+                        "date": "2019-06-28",
+                        "country": "Australia",
+                        "num_date": 2019.490410958904,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Clostridioides_difficile/PDG000000045.158/PDS000046639.2?accessions=PDT000533872.1"
+                      },
+                      "yvalue": 29,
+                      "clade": 45
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

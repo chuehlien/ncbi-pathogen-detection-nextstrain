@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.504109589041
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000538084.1",
+      "attr": {
+        "div": 42.0,
+        "#label": "PDT000538084.1|SAMN11230928||Enterobacter hormaechei||CQS21|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR8767480",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 74523,
+        "asm_stats_length_bp": 5176252,
+        "asm_stats_n_contig": 241,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA528347",
+        "bioproject_center": "University of Queensland",
+        "biosample_acc": "SAMN11230928",
+        "collected_by": "Unknown",
+        "collection_date": "2016",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "Australia: Brisbane",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "urine",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "CQS21",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "UNIVERSITY OF QUEENSLAND",
+        "sra_release_date": "2019-03-22",
+        "strain": "CQS21",
+        "target_acc": "PDT000538084.1",
+        "target_creation_date": "2019-07-03",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2019-07-03",
+        "country": "Australia",
+        "num_date": 2019.504109589041,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000047825.1?accessions=PDT000538084.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000538170.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

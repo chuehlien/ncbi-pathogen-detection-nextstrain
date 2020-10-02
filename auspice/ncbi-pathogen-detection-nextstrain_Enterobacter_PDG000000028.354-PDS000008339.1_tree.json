@@ -1,0 +1,142 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2016.2650273224044
+  },
+  "yvalue": 1.16667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000130171.1",
+      "attr": {
+        "div": 14.0,
+        "#label": "PDT000130171.1|SAMEA2273236|GCA_900077725.1|Enterobacter asburiae||MDR0133, e794|Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_900077725.1",
+        "asm_level": "Scaffold",
+        "asm_stats_contig_n50": 198966,
+        "asm_stats_length_bp": 5057161,
+        "asm_stats_n_contig": 89,
+        "assembly_method": "Unknown",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJEB5065",
+        "bioproject_center": "SC",
+        "biosample_acc": "SAMEA2273236",
+        "collected_by": "Unknown",
+        "collection_date": "2004",
+        "epi_type": "clinical",
+        "fullasm_id": 3224958,
+        "location": "United Kingdom",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "blood",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter asburiae",
+        "serovar": "Unknown",
+        "species_taxid": 61645.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "MDR0133, e794",
+        "target_acc": "PDT000130171.1",
+        "target_creation_date": "2016-05-09",
+        "taxid": 61645.0,
+        "wgs_acc_prefix": "FKGK",
+        "wgs_master_acc": "FKGK00000000.1",
+        "date": "2016-05-09",
+        "country": "United Kingdom",
+        "num_date": 2016.3551912568305,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000008339.1?accessions=PDT000130171.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000124527.1",
+      "attr": {
+        "div": 15.0,
+        "#label": "PDT000124527.1|SAMEA2273285|GCA_900075075.1|Enterobacter asburiae||MDR0188, e1044|Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_900075075.1",
+        "asm_level": "Scaffold",
+        "asm_stats_contig_n50": 219324,
+        "asm_stats_length_bp": 5043592,
+        "asm_stats_n_contig": 60,
+        "assembly_method": "Unknown",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJEB5065",
+        "bioproject_center": "SC",
+        "biosample_acc": "SAMEA2273285",
+        "collected_by": "Unknown",
+        "collection_date": "2005",
+        "epi_type": "clinical",
+        "fullasm_id": 3170678,
+        "location": "United Kingdom",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "blood",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter asburiae",
+        "serovar": "Unknown",
+        "species_taxid": 61645.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "MDR0188, e1044",
+        "target_acc": "PDT000124527.1",
+        "target_creation_date": "2016-04-06",
+        "taxid": 61645.0,
+        "wgs_acc_prefix": "FJWF",
+        "wgs_master_acc": "FJWF00000000.1",
+        "date": "2016-04-06",
+        "country": "United Kingdom",
+        "num_date": 2016.2650273224044,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000008339.1?accessions=PDT000124527.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 6.0,
+        "num_date": 2016.3010928961749
+      },
+      "yvalue": 2.5,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000130138.1",
+          "attr": {
+            "div": 6.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000130149.1",
+          "attr": {
+            "div": 6.0
+          },
+          "yvalue": 3,
+          "clade": 6
+        }
+      ]
+    }
+  ]
+}

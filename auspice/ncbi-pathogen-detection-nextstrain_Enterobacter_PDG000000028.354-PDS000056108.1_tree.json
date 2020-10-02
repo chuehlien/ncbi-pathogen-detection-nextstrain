@@ -1,0 +1,142 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.0874316939892
+  },
+  "yvalue": 1.16667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000675127.1",
+      "attr": {
+        "div": 3.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000674892.1",
+      "attr": {
+        "div": 22.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 2.0,
+        "num_date": 2020.0874316939892
+      },
+      "yvalue": 2.5,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000675562.1",
+          "attr": {
+            "div": 12.0,
+            "#label": "PDT000675562.1|SAMEA6368743||Enterobacter cloacae|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR3713135",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 140126,
+            "asm_stats_length_bp": 5200847,
+            "asm_stats_n_contig": 96,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB35685",
+            "bioproject_center": "RIVM",
+            "biosample_acc": "SAMEA6368743",
+            "collected_by": "Unknown",
+            "collection_date": "Unknown",
+            "epi_type": "environmental/other",
+            "fullasm_id": 0,
+            "location": "Unknown",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Enterobacter cloacae",
+            "serovar": "Unknown",
+            "species_taxid": 550.0,
+            "sra_center": "RIVM",
+            "sra_release_date": "2020-01-10",
+            "strain": "Unknown",
+            "target_acc": "PDT000675562.1",
+            "target_creation_date": "2020-02-01",
+            "taxid": 550.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2020-02-01",
+            "country": "Unknown",
+            "num_date": 2020.0874316939892,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000056108.1?accessions=PDT000675562.1"
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000675656.1",
+          "attr": {
+            "div": 8.0,
+            "#label": "PDT000675656.1|SAMEA6368838||Enterobacter cloacae|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR3713230",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 127158,
+            "asm_stats_length_bp": 5128451,
+            "asm_stats_n_contig": 104,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB35685",
+            "bioproject_center": "RIVM",
+            "biosample_acc": "SAMEA6368838",
+            "collected_by": "Unknown",
+            "collection_date": "Unknown",
+            "epi_type": "environmental/other",
+            "fullasm_id": 0,
+            "location": "Unknown",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Enterobacter cloacae",
+            "serovar": "Unknown",
+            "species_taxid": 550.0,
+            "sra_center": "RIVM",
+            "sra_release_date": "2020-01-10",
+            "strain": "Unknown",
+            "target_acc": "PDT000675656.1",
+            "target_creation_date": "2020-02-01",
+            "taxid": 550.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2020-02-01",
+            "country": "Unknown",
+            "num_date": 2020.0874316939892,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000056108.1?accessions=PDT000675656.1"
+          },
+          "yvalue": 3,
+          "clade": 6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.2896174863388
+  },
+  "yvalue": 1.16667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000722699.1",
+      "attr": {
+        "div": 4.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "CLADE_3",
+      "attr": {
+        "div": 2.0,
+        "num_date": 2020.2896174863388
+      },
+      "yvalue": 2.33333,
+      "clade": 3,
+      "children": [
+        {
+          "strain": "PDT000722696.1",
+          "attr": {
+            "div": 4.0,
+            "#label": "PDT000722696.1|SAMN14548158|GCA_012328705.1|Enterobacter hormaechei||FY02|Pathogen: clinical or host-associated",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "Unknown",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "Unknown",
+            "Run": "Unknown",
+            "asm_acc": "GCA_012328705.1",
+            "asm_level": "Scaffold",
+            "asm_stats_contig_n50": 212760,
+            "asm_stats_length_bp": 4906692,
+            "asm_stats_n_contig": 64,
+            "assembly_method": "SPAdes v. 3.12",
+            "attribute_package": "Pathogen: clinical or host-associated",
+            "bioproject_acc": "PRJNA623478",
+            "bioproject_center": "Normandy university",
+            "biosample_acc": "SAMN14548158",
+            "collected_by": "Dr Guerin Francois",
+            "collection_date": "2018-02-13",
+            "epi_type": "clinical",
+            "fullasm_id": 18718918,
+            "location": "France: Normandy, Caen",
+            "host": "Homo sapiens",
+            "host_disease": "Sepsis",
+            "isolation_source": "blood",
+            "lat_lon": "49.183333 N 0.350000 W",
+            "outbreak": "Unknown",
+            "sample_name": "ECL_FY02",
+            "scientific_name": "Enterobacter hormaechei",
+            "serovar": "Unknown",
+            "species_taxid": 158836.0,
+            "sra_center": "Unknown",
+            "sra_release_date": "Unknown",
+            "strain": "FY02",
+            "target_acc": "PDT000722696.1",
+            "target_creation_date": "2020-04-15",
+            "taxid": 158836.0,
+            "wgs_acc_prefix": "JAAXYJ",
+            "wgs_master_acc": "JAAXYJ000000000.1",
+            "date": "2020-04-15",
+            "country": "France",
+            "num_date": 2020.2896174863388,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061118.1?accessions=PDT000722696.1"
+          },
+          "yvalue": 1,
+          "clade": 4
+        },
+        {
+          "strain": "PDT000722700.1",
+          "attr": {
+            "div": 4.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 3.0,
+            "num_date": 2020.2896174863388
+          },
+          "yvalue": 4.0,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "PDT000722697.1",
+              "attr": {
+                "div": 4.0,
+                "#label": "PDT000722697.1|SAMN14548186|GCA_012328715.1|Enterobacter hormaechei||FY08|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_012328715.1",
+                "asm_level": "Scaffold",
+                "asm_stats_contig_n50": 256968,
+                "asm_stats_length_bp": 5017062,
+                "asm_stats_n_contig": 66,
+                "assembly_method": "SPAdes v. 3.12",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA623478",
+                "bioproject_center": "Normandy university",
+                "biosample_acc": "SAMN14548186",
+                "collected_by": "Dr Guerin Francois",
+                "collection_date": "2018-04-06",
+                "epi_type": "clinical",
+                "fullasm_id": 18718948,
+                "location": "France: Normandy, Caen",
+                "host": "Homo sapiens",
+                "host_disease": "Sepsis",
+                "isolation_source": "Peritoneal fluid",
+                "lat_lon": "49.183333 N 0.350000 W",
+                "outbreak": "Unknown",
+                "sample_name": "ECL_FY08",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "FY08",
+                "target_acc": "PDT000722697.1",
+                "target_creation_date": "2020-04-15",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "JAAXYM",
+                "wgs_master_acc": "JAAXYM000000000.1",
+                "date": "2020-04-15",
+                "country": "France",
+                "num_date": 2020.2896174863388,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061118.1?accessions=PDT000722697.1"
+              },
+              "yvalue": 3,
+              "clade": 7
+            },
+            {
+              "strain": "PDT000722695.1",
+              "attr": {
+                "div": 4.0,
+                "#label": "PDT000722695.1|SAMN14548185|GCA_012328685.1|Enterobacter hormaechei||FY06|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_012328685.1",
+                "asm_level": "Scaffold",
+                "asm_stats_contig_n50": 244367,
+                "asm_stats_length_bp": 4907882,
+                "asm_stats_n_contig": 64,
+                "assembly_method": "SPAdes v. 3.12",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA623478",
+                "bioproject_center": "Normandy university",
+                "biosample_acc": "SAMN14548185",
+                "collected_by": "Dr Guerin Francois",
+                "collection_date": "2018-03-30",
+                "epi_type": "clinical",
+                "fullasm_id": 18718898,
+                "location": "France: Normandy, Caen",
+                "host": "Homo sapiens",
+                "host_disease": "Sepsis",
+                "isolation_source": "Bronchoalveolar fluid",
+                "lat_lon": "49.183333 N 0.350000 W",
+                "outbreak": "Unknown",
+                "sample_name": "ECL_FY06",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "FY06",
+                "target_acc": "PDT000722695.1",
+                "target_creation_date": "2020-04-15",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "JAAXYL",
+                "wgs_master_acc": "JAAXYL000000000.1",
+                "date": "2020-04-15",
+                "country": "France",
+                "num_date": 2020.2896174863388,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061118.1?accessions=PDT000722695.1"
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000722698.1",
+              "attr": {
+                "div": 4.0
+              },
+              "yvalue": 5,
+              "clade": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

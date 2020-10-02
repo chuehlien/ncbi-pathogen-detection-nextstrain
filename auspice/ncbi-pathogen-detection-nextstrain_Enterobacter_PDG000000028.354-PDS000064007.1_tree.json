@@ -1,0 +1,232 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.4262295081967
+  },
+  "yvalue": 1.41667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000759821.1",
+      "attr": {
+        "div": 20.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000759804.1",
+      "attr": {
+        "div": 8.0,
+        "#label": "PDT000759804.1|SAMN14909839||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR11791072",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 225948,
+        "asm_stats_length_bp": 4994553,
+        "asm_stats_n_contig": 61,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA632459",
+        "bioproject_center": "National University Hospital",
+        "biosample_acc": "SAMN14909839",
+        "collected_by": "NPHL",
+        "collection_date": "2014",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "Singapore",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "Rectal swab",
+        "lat_lon": "1.3521 N 103.8198 E",
+        "outbreak": "Unknown",
+        "sample_name": "ENT1649",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "NATIONAL UNIVERSITY HOSPITAL",
+        "sra_release_date": "2020-05-14",
+        "strain": "Unknown",
+        "target_acc": "PDT000759804.1",
+        "target_creation_date": "2020-06-04",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-06-04",
+        "country": "Singapore",
+        "num_date": 2020.4262295081967,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064007.1?accessions=PDT000759804.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 1.0,
+        "num_date": 2020.4262295081967
+      },
+      "yvalue": 3.25,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000759855.1",
+          "attr": {
+            "div": 19.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000759811.1",
+          "attr": {
+            "div": 12.0
+          },
+          "yvalue": 3,
+          "clade": 6
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 16.0,
+            "num_date": 2020.4262295081967
+          },
+          "yvalue": 4.75,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000759845.1",
+              "attr": {
+                "div": 24.0
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "CLADE_9",
+              "attr": {
+                "div": 35.0,
+                "num_date": 2020.4262295081967
+              },
+              "yvalue": 5.5,
+              "clade": 9,
+              "children": [
+                {
+                  "strain": "PDT000759826.1",
+                  "attr": {
+                    "div": 38.0,
+                    "#label": "PDT000759826.1|SAMN14909819||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR11791094",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 132708,
+                    "asm_stats_length_bp": 5285876,
+                    "asm_stats_n_contig": 96,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA632459",
+                    "bioproject_center": "National University Hospital",
+                    "biosample_acc": "SAMN14909819",
+                    "collected_by": "NPHL",
+                    "collection_date": "2016",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0,
+                    "location": "Singapore",
+                    "host": "Homo sapiens",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Stool/Rectal Swab",
+                    "lat_lon": "1.3521 N 103.8198 E",
+                    "outbreak": "Unknown",
+                    "sample_name": "CRE-16-0542",
+                    "scientific_name": "Enterobacter cloacae",
+                    "serovar": "Unknown",
+                    "species_taxid": 550.0,
+                    "sra_center": "NATIONAL UNIVERSITY HOSPITAL",
+                    "sra_release_date": "2020-05-14",
+                    "strain": "Unknown",
+                    "target_acc": "PDT000759826.1",
+                    "target_creation_date": "2020-06-04",
+                    "taxid": 550.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2020-06-04",
+                    "country": "Singapore",
+                    "num_date": 2020.4262295081967,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064007.1?accessions=PDT000759826.1"
+                  },
+                  "yvalue": 5,
+                  "clade": 10
+                },
+                {
+                  "strain": "PDT000759827.1",
+                  "attr": {
+                    "div": 37.0,
+                    "#label": "PDT000759827.1|SAMN14909818||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR11791095",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 110334,
+                    "asm_stats_length_bp": 5280822,
+                    "asm_stats_n_contig": 102,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA632459",
+                    "bioproject_center": "National University Hospital",
+                    "biosample_acc": "SAMN14909818",
+                    "collected_by": "NPHL",
+                    "collection_date": "2016",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0,
+                    "location": "Singapore",
+                    "host": "Homo sapiens",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Stool/Rectal Swab",
+                    "lat_lon": "1.3521 N 103.8198 E",
+                    "outbreak": "Unknown",
+                    "sample_name": "CRE-16-0526",
+                    "scientific_name": "Enterobacter cloacae",
+                    "serovar": "Unknown",
+                    "species_taxid": 550.0,
+                    "sra_center": "NATIONAL UNIVERSITY HOSPITAL",
+                    "sra_release_date": "2020-05-14",
+                    "strain": "Unknown",
+                    "target_acc": "PDT000759827.1",
+                    "target_creation_date": "2020-06-04",
+                    "taxid": 550.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2020-06-04",
+                    "country": "Singapore",
+                    "num_date": 2020.4262295081967,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064007.1?accessions=PDT000759827.1"
+                  },
+                  "yvalue": 6,
+                  "clade": 11
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

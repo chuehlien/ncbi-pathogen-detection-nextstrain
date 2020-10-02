@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2015.213698630137
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000786728.1",
+      "attr": {
+        "div": 2.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000061755.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000061755.1|SAMN03283677|GCA_000957965.1|Enterobacter hormaechei subsp. xiangfangensis||35041|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_000957965.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 147206,
+        "asm_stats_length_bp": 4923744,
+        "asm_stats_n_contig": 86,
+        "assembly_method": "SPAdes v. 3.1.1",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA259658",
+        "bioproject_center": "JCVI",
+        "biosample_acc": "SAMN03283677",
+        "collected_by": "Barry Kreiswirth",
+        "collection_date": "2012",
+        "epi_type": "clinical",
+        "fullasm_id": 1695898,
+        "location": "USA: NYC",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter hormaechei subsp. xiangfangensis",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "35041",
+        "target_acc": "PDT000061755.1",
+        "target_creation_date": "2015-03-19",
+        "taxid": 1296536.0,
+        "wgs_acc_prefix": "JZZK",
+        "wgs_master_acc": "JZZK00000000.1",
+        "date": "2015-03-19",
+        "country": "USA",
+        "num_date": 2015.213698630137,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000065459.1?accessions=PDT000061755.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.6602739726027
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000576650.1",
+      "attr": {
+        "div": 29.0,
+        "#label": "PDT000576650.1|SAMN12603274|GCA_008124025.1|Enterobacter hormaechei||PG20180049|Pathogen: environmental/food/other",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_008124025.1",
+        "asm_level": "Complete Genome",
+        "asm_stats_contig_n50": 4635256,
+        "asm_stats_length_bp": 4635256,
+        "asm_stats_n_contig": 1,
+        "assembly_method": "Unicycler v. 0.4.3",
+        "attribute_package": "Pathogen: environmental/food/other",
+        "bioproject_acc": "PRJNA560883",
+        "bioproject_center": "National Microbiology Laboratory at Guelph",
+        "biosample_acc": "SAMN12603274",
+        "collected_by": "Canadian Food Inspection Agency",
+        "collection_date": "2018-05-18",
+        "epi_type": "environmental/other",
+        "fullasm_id": 13449618,
+        "location": "Unknown",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "mouse gut",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "PG20180049",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "PG20180049",
+        "target_acc": "PDT000576650.1",
+        "target_creation_date": "2019-08-29",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2019-08-29",
+        "country": "Unknown",
+        "num_date": 2019.6602739726027,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000050104.1?accessions=PDT000576650.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000576649.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.2704918032787
+  },
+  "yvalue": 1.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000720942.1",
+      "attr": {
+        "div": 1.0,
+        "#label": "PDT000720942.1|SAMN03103752||Enterobacter cloacae||ENT_SD|Pathogen: environmental/food/other",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR1612650",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 235318,
+        "asm_stats_length_bp": 4929393,
+        "asm_stats_n_contig": 73,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: environmental/food/other",
+        "bioproject_acc": "PRJNA263245",
+        "bioproject_center": "University of Oxford",
+        "biosample_acc": "SAMN03103752",
+        "collected_by": "Patan Hospital",
+        "collection_date": "Unknown",
+        "epi_type": "environmental/other",
+        "fullasm_id": 0,
+        "location": "Nepal: Kathmandu",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Soap dispenser",
+        "lat_lon": "27.7000 N 85.3333 E",
+        "outbreak": "Unknown",
+        "sample_name": "Enterobacter cloacae isolate SD",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "UNIVERSITY OF OXFORD",
+        "sra_release_date": "2014-11-18",
+        "strain": "ENT_SD",
+        "target_acc": "PDT000720942.1",
+        "target_creation_date": "2020-04-08",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-04-08",
+        "country": "Nepal",
+        "num_date": 2020.2704918032787,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061018.1?accessions=PDT000720942.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000720939.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "PDT000720940.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 2,
+      "clade": 4
+    },
+    {
+      "strain": "PDT000720941.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 3,
+      "clade": 5
+    }
+  ]
+}

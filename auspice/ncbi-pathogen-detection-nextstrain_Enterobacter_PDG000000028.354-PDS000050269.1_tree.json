@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.668493150685
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000578975.1",
+      "attr": {
+        "div": 21.0,
+        "#label": "PDT000578975.1|SAMN12628187|GCA_008180535.1|Enterobacter hormaechei||KCJ3K356|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_008180535.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 104874,
+        "asm_stats_length_bp": 4797021,
+        "asm_stats_n_contig": 207,
+        "assembly_method": "SPAdes v. 3.0",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA561773",
+        "bioproject_center": "University of Florida",
+        "biosample_acc": "SAMN12628187",
+        "collected_by": "Emerging Pathogens Institute",
+        "collection_date": "2019-07-01",
+        "epi_type": "clinical",
+        "fullasm_id": 13507238,
+        "location": "USA",
+        "host": "Homo sapiens",
+        "host_disease": "unkown",
+        "isolation_source": "Unknown",
+        "lat_lon": "29.632832 N 82.351025 W",
+        "outbreak": "Unknown",
+        "sample_name": "KCJ3K356",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "KCJ3K356",
+        "target_acc": "PDT000578975.1",
+        "target_creation_date": "2019-09-01",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "VTEA",
+        "wgs_master_acc": "VTEA00000000.1",
+        "date": "2019-09-01",
+        "country": "USA",
+        "num_date": 2019.668493150685,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000050269.1?accessions=PDT000578975.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000578977.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

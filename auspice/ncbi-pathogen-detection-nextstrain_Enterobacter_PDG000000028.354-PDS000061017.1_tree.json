@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.2704918032787
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000720901.1",
+      "attr": {
+        "div": 7.0,
+        "#label": "PDT000720901.1|SAMEA104305970||Enterobacter hormaechei subsp. hoffmannii|||Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "ERR2124560",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 143448,
+        "asm_stats_length_bp": 5234275,
+        "asm_stats_n_contig": 125,
+        "assembly_method": "Unknown",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJEB22398",
+        "bioproject_center": "CHU Clermont-ferrand",
+        "biosample_acc": "SAMEA104305970",
+        "collected_by": "Unknown",
+        "collection_date": "2015",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "France",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "Lyon",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter hormaechei subsp. hoffmannii",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "CHU CLERMONT-FERRAND",
+        "sra_release_date": "2018-03-14",
+        "strain": "Unknown",
+        "target_acc": "PDT000720901.1",
+        "target_creation_date": "2020-04-08",
+        "taxid": 1812934.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-04-08",
+        "country": "France",
+        "num_date": 2020.2704918032787,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061017.1?accessions=PDT000720901.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000720907.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

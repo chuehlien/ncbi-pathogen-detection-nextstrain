@@ -1,0 +1,216 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.345205479452
+  },
+  "yvalue": 1.25,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000766452.1",
+      "attr": {
+        "div": 12.5,
+        "#label": "PDT000766452.1|SAMN15226384||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12009614",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 161845,
+        "asm_stats_length_bp": 5090630,
+        "asm_stats_n_contig": 96,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA288601",
+        "bioproject_center": "Centers for Disease Control and Prevention.  Division of Healthcare Quality Promotion",
+        "biosample_acc": "SAMN15226384",
+        "collected_by": "Unknown",
+        "collection_date": "2019",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "USA",
+        "host": "Homo sapiens",
+        "host_disease": "not provided",
+        "isolation_source": "wound",
+        "lat_lon": "not provided",
+        "outbreak": "Unknown",
+        "sample_name": "2019EP-00005",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "DIVISION OF CONSOLIDATED LABORATORY SERVICES",
+        "sra_release_date": "2020-06-14",
+        "strain": "Unknown",
+        "target_acc": "PDT000766452.1",
+        "target_creation_date": "2020-06-14",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-06-14",
+        "country": "USA",
+        "num_date": 2020.4535519125684,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064362.2?accessions=PDT000766452.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "CLADE_3",
+      "attr": {
+        "div": 7.5,
+        "num_date": 2020.0856231753874
+      },
+      "yvalue": 2.5,
+      "clade": 3,
+      "children": [
+        {
+          "strain": "CLADE_4",
+          "attr": {
+            "div": 9.5,
+            "num_date": 2020.2830678943035
+          },
+          "yvalue": 1.5,
+          "clade": 4,
+          "children": [
+            {
+              "strain": "PDT000799595.1",
+              "attr": {
+                "div": 10.5
+              },
+              "yvalue": 1,
+              "clade": 5
+            },
+            {
+              "strain": "PDT000500035.1",
+              "attr": {
+                "div": 12.5,
+                "#label": "PDT000500035.1|SAMN11514785|GCA_005217155.1|Enterobacter hormaechei||MSP13|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_005217155.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 133765,
+                "asm_stats_length_bp": 5036722,
+                "asm_stats_n_contig": 193,
+                "assembly_method": "SPAdes v. 3.0",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA539918",
+                "bioproject_center": "University of Florida",
+                "biosample_acc": "SAMN11514785",
+                "collected_by": "Emerging Pathogens Institute",
+                "collection_date": "2019-04",
+                "epi_type": "clinical",
+                "fullasm_id": 9820158,
+                "location": "USA",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "29.6436 N 82.3549 W",
+                "outbreak": "Unknown",
+                "sample_name": "Enterobacter hormaechei MSP13",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "MSP13",
+                "target_acc": "PDT000500035.1",
+                "target_creation_date": "2019-05-06",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "SZNI",
+                "wgs_master_acc": "SZNI00000000.1",
+                "date": "2019-05-06",
+                "country": "USA",
+                "num_date": 2019.345205479452,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064362.2?accessions=PDT000500035.1"
+              },
+              "yvalue": 2,
+              "clade": 6
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 8.5,
+            "num_date": 2020.1843455348453
+          },
+          "yvalue": 3.5,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000766449.1",
+              "attr": {
+                "div": 10.5
+              },
+              "yvalue": 3,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000799606.1",
+              "attr": {
+                "div": 10.5,
+                "#label": "PDT000799606.1|SAMN15677812||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR12352172",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 302120,
+                "asm_stats_length_bp": 5193208,
+                "asm_stats_n_contig": 76,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA288601",
+                "bioproject_center": "Centers for Disease Control and Prevention.  Division of Healthcare Quality Promotion",
+                "biosample_acc": "SAMN15677812",
+                "collected_by": "Unknown",
+                "collection_date": "2019",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "USA",
+                "host": "Homo sapiens",
+                "host_disease": "not provided",
+                "isolation_source": "urine",
+                "lat_lon": "not provided",
+                "outbreak": "Unknown",
+                "sample_name": "2019EP-00019",
+                "scientific_name": "Enterobacter cloacae",
+                "serovar": "Unknown",
+                "species_taxid": 550.0,
+                "sra_center": "DCLS-NGS",
+                "sra_release_date": "2020-07-30",
+                "strain": "Unknown",
+                "target_acc": "PDT000799606.1",
+                "target_creation_date": "2020-07-30",
+                "taxid": 550.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2020-07-30",
+                "country": "USA",
+                "num_date": 2020.5792349726776,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000064362.2?accessions=PDT000799606.1"
+              },
+              "yvalue": 4,
+              "clade": 9
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

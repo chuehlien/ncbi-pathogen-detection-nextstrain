@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.3753424657534
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000475733.1",
+      "attr": {
+        "div": 15.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000474443.2",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000474443.2|SAMN10976869|GCA_004327755.2|Enterobacter hormaechei||2011WA-NCV|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_004327755.2",
+        "asm_level": "Scaffold",
+        "asm_stats_contig_n50": 300244,
+        "asm_stats_length_bp": 4884460,
+        "asm_stats_n_contig": 60,
+        "assembly_method": "SPAdes v. 3.11.0",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA523376",
+        "bioproject_center": "Seattle Children's Hospital",
+        "biosample_acc": "SAMN10976869",
+        "collected_by": "Seattle Children's Hospital",
+        "collection_date": "2011",
+        "epi_type": "clinical",
+        "fullasm_id": 10111968,
+        "location": "USA:Seattle, WA",
+        "host": "Homo sapiens",
+        "host_disease": "Bacteremia",
+        "isolation_source": "blood",
+        "lat_lon": "47.6062 N 122.3321 W",
+        "outbreak": "Unknown",
+        "sample_name": "2011WA-NCV",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "2011WA-NCV",
+        "target_acc": "PDT000474443.2",
+        "target_creation_date": "2019-05-17",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "SJED",
+        "wgs_master_acc": "SJED00000000.2",
+        "date": "2019-05-17",
+        "country": "USA",
+        "num_date": 2019.3753424657534,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000043793.2?accessions=PDT000474443.2"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

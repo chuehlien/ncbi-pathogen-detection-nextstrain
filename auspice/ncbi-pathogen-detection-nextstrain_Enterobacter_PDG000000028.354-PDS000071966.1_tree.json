@@ -1,0 +1,243 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.4082191780822
+  },
+  "yvalue": 1.375,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000321878.1",
+      "attr": {
+        "div": 35.5,
+        "#label": "PDT000321878.1|SAMD00115690|GCA_003176055.1|Enterobacter cloacae||TUM15668|MIGS Cultured Bacterial/Archaeal",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_003176055.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 115596,
+        "asm_stats_length_bp": 5206967,
+        "asm_stats_n_contig": 294,
+        "assembly_method": "SPAdes v. 3.11",
+        "attribute_package": "MIGS Cultured Bacterial/Archaeal",
+        "bioproject_acc": "PRJDB6851",
+        "bioproject_center": "Toho University",
+        "biosample_acc": "SAMD00115690",
+        "collected_by": "Unknown",
+        "collection_date": "2015-10-14",
+        "epi_type": "clinical",
+        "fullasm_id": 6571428,
+        "location": "Unknown",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "TUM15668",
+        "target_acc": "PDT000321878.1",
+        "target_creation_date": "2018-05-29",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "BGLK",
+        "wgs_master_acc": "BGLK00000000.1",
+        "date": "2018-05-29",
+        "country": "Unknown",
+        "num_date": 2018.4082191780822,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000071966.1?accessions=PDT000321878.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "CLADE_3",
+      "attr": {
+        "div": 26.5,
+        "num_date": 2018.8724676828092
+      },
+      "yvalue": 2.75,
+      "clade": 3,
+      "children": [
+        {
+          "strain": "CLADE_4",
+          "attr": {
+            "div": 27.5,
+            "num_date": 2018.8899864943082
+          },
+          "yvalue": 1.5,
+          "clade": 4,
+          "children": [
+            {
+              "strain": "PDT000435232.1",
+              "attr": {
+                "div": 30.5
+              },
+              "yvalue": 1,
+              "clade": 5
+            },
+            {
+              "strain": "PDT000435364.1",
+              "attr": {
+                "div": 29.5
+              },
+              "yvalue": 2,
+              "clade": 6
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 28.5,
+            "num_date": 2018.9075053058075
+          },
+          "yvalue": 4.0,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000435362.1",
+              "attr": {
+                "div": 30.5,
+                "#label": "PDT000435362.1|SAMN05770806||Enterobacter cloacae||strain 24|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR4302298",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 62194,
+                "asm_stats_length_bp": 5110772,
+                "asm_stats_n_contig": 206,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA342893",
+                "bioproject_center": "Carbapenemase-Producing Enterobacteriaceae in Singapore (CaPES) study",
+                "biosample_acc": "SAMN05770806",
+                "collected_by": "CaPES",
+                "collection_date": "2014-01-23",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "Singapore",
+                "host": "Homo sapiens",
+                "host_disease": "not collected",
+                "isolation_source": "not collected",
+                "lat_lon": "1.17 N 103.50 E",
+                "outbreak": "Unknown",
+                "sample_name": "ENT942",
+                "scientific_name": "Enterobacter cloacae",
+                "serovar": "Unknown",
+                "species_taxid": 550.0,
+                "sra_center": "TAN TOCK SENG HOSPITAL",
+                "sra_release_date": "2017-01-01",
+                "strain": "strain 24",
+                "target_acc": "PDT000435362.1",
+                "target_creation_date": "2019-01-11",
+                "taxid": 550.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-01-11",
+                "country": "Singapore",
+                "num_date": 2019.0301369863014,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000071966.1?accessions=PDT000435362.1"
+              },
+              "yvalue": 3,
+              "clade": 8
+            },
+            {
+              "strain": "CLADE_9",
+              "attr": {
+                "div": 29.5,
+                "num_date": 2018.9250241173065
+              },
+              "yvalue": 5.0,
+              "clade": 9,
+              "children": [
+                {
+                  "strain": "PDT000435243.1",
+                  "attr": {
+                    "div": 31.5,
+                    "#label": "PDT000435243.1|SAMN05770883||Enterobacter cloacae||strain 101|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR4302156",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 284433,
+                    "asm_stats_length_bp": 5163948,
+                    "asm_stats_n_contig": 93,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA342893",
+                    "bioproject_center": "Carbapenemase-Producing Enterobacteriaceae in Singapore (CaPES) study",
+                    "biosample_acc": "SAMN05770883",
+                    "collected_by": "CaPES",
+                    "collection_date": "2014-01-08",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0,
+                    "location": "Singapore",
+                    "host": "Homo sapiens",
+                    "host_disease": "not collected",
+                    "isolation_source": "not collected",
+                    "lat_lon": "1.17 N 103.50 E",
+                    "outbreak": "Unknown",
+                    "sample_name": "ENT918",
+                    "scientific_name": "Enterobacter cloacae",
+                    "serovar": "Unknown",
+                    "species_taxid": 550.0,
+                    "sra_center": "TAN TOCK SENG HOSPITAL",
+                    "sra_release_date": "2017-01-01",
+                    "strain": "strain 101",
+                    "target_acc": "PDT000435243.1",
+                    "target_creation_date": "2019-01-11",
+                    "taxid": 550.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2019-01-11",
+                    "country": "Singapore",
+                    "num_date": 2019.0301369863014,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000071966.1?accessions=PDT000435243.1"
+                  },
+                  "yvalue": 4,
+                  "clade": 10
+                },
+                {
+                  "strain": "PDT000435236.1",
+                  "attr": {
+                    "div": 35.5
+                  },
+                  "yvalue": 5,
+                  "clade": 11
+                },
+                {
+                  "strain": "PDT000435365.1",
+                  "attr": {
+                    "div": 29.5
+                  },
+                  "yvalue": 6,
+                  "clade": 12
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

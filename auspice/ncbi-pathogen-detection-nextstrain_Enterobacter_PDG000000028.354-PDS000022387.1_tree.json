@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.427397260274
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000326645.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000326645.1|SAMN05510455|GCA_003186415.1|Enterobacter hormaechei||234|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_003186415.1",
+        "asm_level": "Complete Genome",
+        "asm_stats_contig_n50": 4656282,
+        "asm_stats_length_bp": 4724855,
+        "asm_stats_n_contig": 2,
+        "assembly_method": "HGAP v. v.3.0",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA278886",
+        "bioproject_center": "Brigham & Women's Hospital",
+        "biosample_acc": "SAMN05510455",
+        "collected_by": "Xiaomin Zhao",
+        "collection_date": "2016",
+        "epi_type": "clinical",
+        "fullasm_id": 6593488,
+        "location": "USA:Boston",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "wound",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "0000-0060-5634",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "234",
+        "target_acc": "PDT000326645.1",
+        "target_creation_date": "2018-06-05",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-06-05",
+        "country": "USA",
+        "num_date": 2018.427397260274,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000022387.1?accessions=PDT000326645.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000326650.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

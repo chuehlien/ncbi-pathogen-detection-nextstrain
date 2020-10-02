@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.027397260274
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000727091.1",
+      "attr": {
+        "div": 10.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000433567.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000433567.1|SAMN08720187||Enterobacter cloacae||62|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR6844995",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 147914,
+        "asm_stats_length_bp": 4929006,
+        "asm_stats_n_contig": 116,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA438531",
+        "bioproject_center": "Columbia University Medical Center",
+        "biosample_acc": "SAMN08720187",
+        "collected_by": "Columbia University Medical Center",
+        "collection_date": "2012",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "USA:New York City",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "respiratory",
+        "lat_lon": "not collected",
+        "outbreak": "Unknown",
+        "sample_name": "NR3047",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "AGOMEZSIMMONDS'S SHARED SUBMISSIONS",
+        "sra_release_date": "2018-06-04",
+        "strain": "62",
+        "target_acc": "PDT000433567.1",
+        "target_creation_date": "2019-01-10",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2019-01-10",
+        "country": "USA",
+        "num_date": 2019.027397260274,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000061417.1?accessions=PDT000433567.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

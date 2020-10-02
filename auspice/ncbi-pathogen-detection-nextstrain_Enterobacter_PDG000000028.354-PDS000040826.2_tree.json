@@ -1,0 +1,142 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.0465753424658
+  },
+  "yvalue": 1.16667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000537610.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000441845.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 20.0,
+        "num_date": 2019.504109589041
+      },
+      "yvalue": 2.5,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000441856.1",
+          "attr": {
+            "div": 20.0,
+            "#label": "PDT000441856.1|SAMEA104077027||Enterobacter cloacae|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR2719357",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 253244,
+            "asm_stats_length_bp": 4860120,
+            "asm_stats_n_contig": 50,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB20809",
+            "bioproject_center": "SC",
+            "biosample_acc": "SAMEA104077027",
+            "collected_by": "Unknown",
+            "collection_date": "Unknown",
+            "epi_type": "environmental/other",
+            "fullasm_id": 0,
+            "location": "Unknown",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Enterobacter cloacae",
+            "serovar": "Unknown",
+            "species_taxid": 550.0,
+            "sra_center": "WELLCOME SANGER INSTITUTE",
+            "sra_release_date": "2018-08-01",
+            "strain": "Unknown",
+            "target_acc": "PDT000441856.1",
+            "target_creation_date": "2019-01-17",
+            "taxid": 550.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2019-01-17",
+            "country": "Unknown",
+            "num_date": 2019.0465753424658,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000040826.2?accessions=PDT000441856.1"
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "PDT000537609.1",
+          "attr": {
+            "div": 20.0,
+            "#label": "PDT000537609.1|SAMEA72158668||Enterobacter cloacae|||Generic",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "ERR2681458",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 274606,
+            "asm_stats_length_bp": 4922199,
+            "asm_stats_n_contig": 51,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB14854",
+            "bioproject_center": "SC",
+            "biosample_acc": "SAMEA72158668",
+            "collected_by": "Unknown",
+            "collection_date": "Unknown",
+            "epi_type": "environmental/other",
+            "fullasm_id": 0,
+            "location": "Unknown",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Enterobacter cloacae",
+            "serovar": "Unknown",
+            "species_taxid": 550.0,
+            "sra_center": "THE WELLCOME TRUST SANGER INSTITUTE",
+            "sra_release_date": "2018-07-04",
+            "strain": "Unknown",
+            "target_acc": "PDT000537609.1",
+            "target_creation_date": "2019-07-03",
+            "taxid": 550.0,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2019-07-03",
+            "country": "Unknown",
+            "num_date": 2019.504109589041,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000040826.2?accessions=PDT000537609.1"
+          },
+          "yvalue": 3,
+          "clade": 6
+        }
+      ]
+    }
+  ]
+}

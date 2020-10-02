@@ -1,0 +1,563 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.2410958904109
+  },
+  "yvalue": 4.20312,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "CLADE_2",
+      "attr": {
+        "div": 2.0,
+        "num_date": 2019.2949451472582
+      },
+      "yvalue": 1.5,
+      "clade": 2,
+      "children": [
+        {
+          "strain": "CLADE_3",
+          "attr": {
+            "div": 14.0,
+            "num_date": 2019.6180406883416
+          },
+          "yvalue": 0.5,
+          "clade": 3,
+          "children": [
+            {
+              "strain": "PDT000484722.1",
+              "attr": {
+                "div": 21.0,
+                "#label": "PDT000484722.1|SAMN10835620|GCA_004523835.1|Enterobacter hormaechei||AUH-ENM11|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_004523835.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 66852,
+                "asm_stats_length_bp": 5023893,
+                "asm_stats_n_contig": 217,
+                "assembly_method": "SPAdes v. 3.13",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN10835620",
+                "collected_by": "Unknown",
+                "collection_date": "2018",
+                "epi_type": "clinical",
+                "fullasm_id": 8975718,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Enterobacter hormaechei AUH-ENM11",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM11",
+                "target_acc": "PDT000484722.1",
+                "target_creation_date": "2019-03-29",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "SOPJ",
+                "wgs_master_acc": "SOPJ00000000.1",
+                "date": "2019-03-29",
+                "country": "Lebanon",
+                "num_date": 2019.2410958904109,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000484722.1"
+              },
+              "yvalue": 0,
+              "clade": 4
+            },
+            {
+              "strain": "PDT000690894.1",
+              "attr": {
+                "div": 18.0
+              },
+              "yvalue": 1,
+              "clade": 5
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 9.0,
+            "num_date": 2019.4834175462233
+          },
+          "yvalue": 2.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "PDT000611997.1",
+              "attr": {
+                "div": 14.0,
+                "#label": "PDT000611997.1|SAMN13022661|GCA_009176855.1|Enterobacter hormaechei||AUH-ENM26|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_009176855.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 56925,
+                "asm_stats_length_bp": 5234550,
+                "asm_stats_n_contig": 259,
+                "assembly_method": "SPAdes v. 3.13.1",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN13022661",
+                "collected_by": "Unknown",
+                "collection_date": "2018",
+                "epi_type": "clinical",
+                "fullasm_id": 14640758,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM26",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM26",
+                "target_acc": "PDT000611997.1",
+                "target_creation_date": "2019-10-18",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "WFGY",
+                "wgs_master_acc": "WFGY00000000.1",
+                "date": "2019-10-18",
+                "country": "Lebanon",
+                "num_date": 2019.7972602739726,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000611997.1"
+              },
+              "yvalue": 2,
+              "clade": 7
+            },
+            {
+              "strain": "PDT000710008.1",
+              "attr": {
+                "div": 36.0,
+                "#label": "PDT000710008.1|SAMN13037594|GCA_011392635.1|Enterobacter hormaechei||AUH-ENM36|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_011392635.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 43835,
+                "asm_stats_length_bp": 5231547,
+                "asm_stats_n_contig": 304,
+                "assembly_method": "SPAdes v. 3.13.1",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN13037594",
+                "collected_by": "Unknown",
+                "collection_date": "2018",
+                "epi_type": "clinical",
+                "fullasm_id": 17728888,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM36",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM36",
+                "target_acc": "PDT000710008.1",
+                "target_creation_date": "2020-03-17",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "WHPQ",
+                "wgs_master_acc": "WHPQ00000000.1",
+                "date": "2020-03-17",
+                "country": "Lebanon",
+                "num_date": 2020.2103825136612,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000710008.1"
+              },
+              "yvalue": 3,
+              "clade": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "strain": "CLADE_9",
+      "attr": {
+        "div": 1.0,
+        "num_date": 2019.2680205188344
+      },
+      "yvalue": 6.90625,
+      "clade": 9,
+      "children": [
+        {
+          "strain": "PDT000612001.1",
+          "attr": {
+            "div": 25.0,
+            "#label": "PDT000612001.1|SAMN13022771|GCA_009176995.1|Enterobacter hormaechei||AUH-ENM33|Microbe",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "Unknown",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "Unknown",
+            "Run": "Unknown",
+            "asm_acc": "GCA_009176995.1",
+            "asm_level": "Contig",
+            "asm_stats_contig_n50": 53875,
+            "asm_stats_length_bp": 5228410,
+            "asm_stats_n_contig": 265,
+            "assembly_method": "SPAdes v. 3.13.1",
+            "attribute_package": "Microbe",
+            "bioproject_acc": "PRJNA551102",
+            "bioproject_center": "Lebanese American University",
+            "biosample_acc": "SAMN13022771",
+            "collected_by": "Unknown",
+            "collection_date": "2017",
+            "epi_type": "clinical",
+            "fullasm_id": 14640878,
+            "location": "Lebanon",
+            "host": "Homo sapiens",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM33",
+            "scientific_name": "Enterobacter hormaechei",
+            "serovar": "Unknown",
+            "species_taxid": 158836.0,
+            "sra_center": "Unknown",
+            "sra_release_date": "Unknown",
+            "strain": "AUH-ENM33",
+            "target_acc": "PDT000612001.1",
+            "target_creation_date": "2019-10-18",
+            "taxid": 158836.0,
+            "wgs_acc_prefix": "WFHE",
+            "wgs_master_acc": "WFHE00000000.1",
+            "date": "2019-10-18",
+            "country": "Lebanon",
+            "num_date": 2019.7972602739726,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000612001.1"
+          },
+          "yvalue": 4,
+          "clade": 10
+        },
+        {
+          "strain": "CLADE_11",
+          "attr": {
+            "div": 21.0,
+            "num_date": 2019.806513087307
+          },
+          "yvalue": 5.5,
+          "clade": 11,
+          "children": [
+            {
+              "strain": "PDT000611998.1",
+              "attr": {
+                "div": 36.0,
+                "#label": "PDT000611998.1|SAMN13026543|GCA_009176935.1|Enterobacter hormaechei||AUH-ENM35|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_009176935.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 59393,
+                "asm_stats_length_bp": 5244084,
+                "asm_stats_n_contig": 257,
+                "assembly_method": "SPAdes v. 3.13.1",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN13026543",
+                "collected_by": "Unknown",
+                "collection_date": "2018",
+                "epi_type": "clinical",
+                "fullasm_id": 14640778,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM35",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM35",
+                "target_acc": "PDT000611998.1",
+                "target_creation_date": "2019-10-18",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "WFHG",
+                "wgs_master_acc": "WFHG00000000.1",
+                "date": "2019-10-18",
+                "country": "Lebanon",
+                "num_date": 2019.7972602739726,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000611998.1"
+              },
+              "yvalue": 5,
+              "clade": 12
+            },
+            {
+              "strain": "PDT000611996.1",
+              "attr": {
+                "div": 32.0,
+                "#label": "PDT000611996.1|SAMN13022769|GCA_009176845.1|Enterobacter hormaechei||AUH-ENM31|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_009176845.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 56818,
+                "asm_stats_length_bp": 5240628,
+                "asm_stats_n_contig": 232,
+                "assembly_method": "SPAdes v. 3.13.1",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN13022769",
+                "collected_by": "Unknown",
+                "collection_date": "2018",
+                "epi_type": "clinical",
+                "fullasm_id": 14640748,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM31",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM31",
+                "target_acc": "PDT000611996.1",
+                "target_creation_date": "2019-10-18",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "WFHC",
+                "wgs_master_acc": "WFHC00000000.1",
+                "date": "2019-10-18",
+                "country": "Lebanon",
+                "num_date": 2019.7972602739726,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000611996.1"
+              },
+              "yvalue": 6,
+              "clade": 13
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_14",
+          "attr": {
+            "div": 2.0,
+            "num_date": 2019.2949451472582
+          },
+          "yvalue": 7.5,
+          "clade": 14,
+          "children": [
+            {
+              "strain": "PDT000612003.1",
+              "attr": {
+                "div": 11.0
+              },
+              "yvalue": 7,
+              "clade": 15
+            },
+            {
+              "strain": "PDT000690900.1",
+              "attr": {
+                "div": 17.0
+              },
+              "yvalue": 8,
+              "clade": 16
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_17",
+          "attr": {
+            "div": 5.0,
+            "num_date": 2019.3757190325289
+          },
+          "yvalue": 10.625,
+          "clade": 17,
+          "children": [
+            {
+              "strain": "PDT000690897.1",
+              "attr": {
+                "div": 28.0
+              },
+              "yvalue": 9,
+              "clade": 18
+            },
+            {
+              "strain": "PDT000605655.1",
+              "attr": {
+                "div": 23.0,
+                "#label": "PDT000605655.1|SAMN12911132|GCA_008973785.1|Enterobacter hormaechei||LAU-ENC1|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_008973785.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 787027,
+                "asm_stats_length_bp": 4941598,
+                "asm_stats_n_contig": 64,
+                "assembly_method": "SPAdes v. 3.13.1",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA575758",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN12911132",
+                "collected_by": "Unknown",
+                "collection_date": "2017",
+                "epi_type": "clinical",
+                "fullasm_id": 14410478,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "LAU-ENC1",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "LAU-ENC1",
+                "target_acc": "PDT000605655.1",
+                "target_creation_date": "2019-10-11",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "WBYW",
+                "wgs_master_acc": "WBYW00000000.1",
+                "date": "2019-10-11",
+                "country": "Lebanon",
+                "num_date": 2019.7780821917809,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000605655.1"
+              },
+              "yvalue": 10,
+              "clade": 19
+            },
+            {
+              "strain": "PDT000623243.1",
+              "attr": {
+                "div": 7.0,
+                "#label": "PDT000623243.1|SAMN13022768|GCA_009497055.1|Enterobacter hormaechei||AUH-ENM30|Microbe",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "Unknown",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "Unknown",
+                "Run": "Unknown",
+                "asm_acc": "GCA_009497055.1",
+                "asm_level": "Complete Genome",
+                "asm_stats_contig_n50": 4869611,
+                "asm_stats_length_bp": 4869611,
+                "asm_stats_n_contig": 1,
+                "assembly_method": "HGAP v. JANUARY-2019",
+                "attribute_package": "Microbe",
+                "bioproject_acc": "PRJNA551102",
+                "bioproject_center": "Lebanese American University",
+                "biosample_acc": "SAMN13022768",
+                "collected_by": "Unknown",
+                "collection_date": "2016",
+                "epi_type": "clinical",
+                "fullasm_id": 15002758,
+                "location": "Lebanon",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM30",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "Unknown",
+                "sra_release_date": "Unknown",
+                "strain": "AUH-ENM30",
+                "target_acc": "PDT000623243.1",
+                "target_creation_date": "2019-11-03",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-11-03",
+                "country": "Lebanon",
+                "num_date": 2019.841095890411,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000051817.7?accessions=PDT000623243.1"
+              },
+              "yvalue": 11,
+              "clade": 20
+            },
+            {
+              "strain": "CLADE_21",
+              "attr": {
+                "div": 6.0,
+                "num_date": 2019.4026436609527
+              },
+              "yvalue": 12.5,
+              "clade": 21,
+              "children": [
+                {
+                  "strain": "PDT000691554.1",
+                  "attr": {
+                    "div": 17.0
+                  },
+                  "yvalue": 12,
+                  "clade": 22
+                },
+                {
+                  "strain": "PDT000691553.1",
+                  "attr": {
+                    "div": 9.0
+                  },
+                  "yvalue": 13,
+                  "clade": 23
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

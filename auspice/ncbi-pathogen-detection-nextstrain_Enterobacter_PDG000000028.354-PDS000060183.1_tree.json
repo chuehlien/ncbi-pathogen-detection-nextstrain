@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.2103825136612
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000710012.1",
+      "attr": {
+        "div": 16.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000710015.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000710015.1|SAMN13490007|GCA_011392845.1|Enterobacter hormaechei||AUH-ENM45|Microbe",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_011392845.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 315774,
+        "asm_stats_length_bp": 4623322,
+        "asm_stats_n_contig": 73,
+        "assembly_method": "SPAdes v. 3.13.1",
+        "attribute_package": "Microbe",
+        "bioproject_acc": "PRJNA551102",
+        "bioproject_center": "Lebanese American University",
+        "biosample_acc": "SAMN13490007",
+        "collected_by": "Unknown",
+        "collection_date": "2018",
+        "epi_type": "clinical",
+        "fullasm_id": 17729088,
+        "location": "Lebanon",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "WGS-Enterobacter hormaechei-AUH-ENM45",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "AUH-ENM45",
+        "target_acc": "PDT000710015.1",
+        "target_creation_date": "2020-03-17",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "WPHA",
+        "wgs_master_acc": "WPHA00000000.1",
+        "date": "2020-03-17",
+        "country": "Lebanon",
+        "num_date": 2020.2103825136612,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000060183.1?accessions=PDT000710015.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

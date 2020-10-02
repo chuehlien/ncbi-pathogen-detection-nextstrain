@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.0409836065573
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000663727.1",
+      "attr": {
+        "div": 4.0,
+        "#label": "PDT000663727.1|SAMN07829373||Enterobacter cloacae|||Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR6206967",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 207601,
+        "asm_stats_length_bp": 5040918,
+        "asm_stats_n_contig": 44,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA414215",
+        "bioproject_center": "New York State Department of Health Wadsworth Center",
+        "biosample_acc": "SAMN07829373",
+        "collected_by": "New York State Department of Health",
+        "collection_date": "2017",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "USA: NY",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "unspecified cholecystectomy fluid",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "17_42238",
+        "scientific_name": "Enterobacter cloacae",
+        "serovar": "Unknown",
+        "species_taxid": 550.0,
+        "sra_center": "NEW YORK STATE DEPARTMENT OF HEALTH WADSWORTH CENTER",
+        "sra_release_date": "2018-12-31",
+        "strain": "Unknown",
+        "target_acc": "PDT000663727.1",
+        "target_creation_date": "2020-01-15",
+        "taxid": 550.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-01-15",
+        "country": "USA",
+        "num_date": 2020.0409836065573,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000055663.1?accessions=PDT000663727.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000663726.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

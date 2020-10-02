@@ -1,0 +1,243 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2019.504109589041
+  },
+  "yvalue": 2.125,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "CLADE_2",
+      "attr": {
+        "div": 3.0,
+        "num_date": 2019.504109589041
+      },
+      "yvalue": 0.5,
+      "clade": 2,
+      "children": [
+        {
+          "strain": "PDT000538079.1",
+          "attr": {
+            "div": 25.0
+          },
+          "yvalue": 0,
+          "clade": 3
+        },
+        {
+          "strain": "PDT000538095.1",
+          "attr": {
+            "div": 12.0
+          },
+          "yvalue": 1,
+          "clade": 4
+        }
+      ]
+    },
+    {
+      "strain": "CLADE_5",
+      "attr": {
+        "div": 17.0,
+        "num_date": 2019.504109589041
+      },
+      "yvalue": 3.75,
+      "clade": 5,
+      "children": [
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 18.0,
+            "num_date": 2019.504109589041
+          },
+          "yvalue": 2.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "PDT000538097.1",
+              "attr": {
+                "div": 20.0
+              },
+              "yvalue": 2,
+              "clade": 7
+            },
+            {
+              "strain": "PDT000538119.1",
+              "attr": {
+                "div": 19.0,
+                "#label": "PDT000538119.1|SAMN11230984||Enterobacter hormaechei||CQS73|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR8767515",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 126482,
+                "asm_stats_length_bp": 5189875,
+                "asm_stats_n_contig": 172,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA528347",
+                "bioproject_center": "University of Queensland",
+                "biosample_acc": "SAMN11230984",
+                "collected_by": "Unknown",
+                "collection_date": "2016",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "Australia: Brisbane",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "wound/skin/soft tissue",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "CQS73",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "UNIVERSITY OF QUEENSLAND",
+                "sra_release_date": "2019-03-22",
+                "strain": "CQS73",
+                "target_acc": "PDT000538119.1",
+                "target_creation_date": "2019-07-03",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-07-03",
+                "country": "Australia",
+                "num_date": 2019.504109589041,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000047823.1?accessions=PDT000538119.1"
+              },
+              "yvalue": 3,
+              "clade": 8
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_9",
+          "attr": {
+            "div": 18.0,
+            "num_date": 2019.504109589041
+          },
+          "yvalue": 5.0,
+          "clade": 9,
+          "children": [
+            {
+              "strain": "PDT000538159.1",
+              "attr": {
+                "div": 25.0,
+                "#label": "PDT000538159.1|SAMN11230940||Enterobacter hormaechei||CQS32|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR8767555",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 74644,
+                "asm_stats_length_bp": 5190829,
+                "asm_stats_n_contig": 245,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA528347",
+                "bioproject_center": "University of Queensland",
+                "biosample_acc": "SAMN11230940",
+                "collected_by": "Unknown",
+                "collection_date": "2016",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "Australia: Brisbane",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "screening swab",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "CQS32",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "UNIVERSITY OF QUEENSLAND",
+                "sra_release_date": "2019-03-22",
+                "strain": "CQS32",
+                "target_acc": "PDT000538159.1",
+                "target_creation_date": "2019-07-03",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-07-03",
+                "country": "Australia",
+                "num_date": 2019.504109589041,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000047823.1?accessions=PDT000538159.1"
+              },
+              "yvalue": 4,
+              "clade": 10
+            },
+            {
+              "strain": "PDT000538088.1",
+              "attr": {
+                "div": 19.0,
+                "#label": "PDT000538088.1|SAMN11230936||Enterobacter hormaechei||CQS29|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR8767484",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 105521,
+                "asm_stats_length_bp": 5181535,
+                "asm_stats_n_contig": 202,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA528347",
+                "bioproject_center": "University of Queensland",
+                "biosample_acc": "SAMN11230936",
+                "collected_by": "Unknown",
+                "collection_date": "2016",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "Australia: Brisbane",
+                "host": "Homo sapiens",
+                "host_disease": "Unknown",
+                "isolation_source": "respiratory",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "CQS29",
+                "scientific_name": "Enterobacter hormaechei",
+                "serovar": "Unknown",
+                "species_taxid": 158836.0,
+                "sra_center": "UNIVERSITY OF QUEENSLAND",
+                "sra_release_date": "2019-03-22",
+                "strain": "CQS29",
+                "target_acc": "PDT000538088.1",
+                "target_creation_date": "2019-07-03",
+                "taxid": 158836.0,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2019-07-03",
+                "country": "Australia",
+                "num_date": 2019.504109589041,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000047823.1?accessions=PDT000538088.1"
+              },
+              "yvalue": 5,
+              "clade": 11
+            },
+            {
+              "strain": "PDT000538157.1",
+              "attr": {
+                "div": 23.0
+              },
+              "yvalue": 6,
+              "clade": 12
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

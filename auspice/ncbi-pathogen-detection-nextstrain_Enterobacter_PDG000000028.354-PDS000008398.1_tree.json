@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2016.3551912568305
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000130266.1",
+      "attr": {
+        "div": 22.0,
+        "#label": "PDT000130266.1|SAMEA2273462|GCA_900076685.1|Enterobacter hormaechei||MDR0391, e2550|Generic",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "asm_acc": "GCA_900076685.1",
+        "asm_level": "Scaffold",
+        "asm_stats_contig_n50": 143674,
+        "asm_stats_length_bp": 4827631,
+        "asm_stats_n_contig": 59,
+        "assembly_method": "Unknown",
+        "attribute_package": "Generic",
+        "bioproject_acc": "PRJEB5065",
+        "bioproject_center": "SC",
+        "biosample_acc": "SAMEA2273462",
+        "collected_by": "Unknown",
+        "collection_date": "2011",
+        "epi_type": "clinical",
+        "fullasm_id": 3226898,
+        "location": "United Kingdom",
+        "host": "Homo sapiens",
+        "host_disease": "Unknown",
+        "isolation_source": "blood",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Enterobacter hormaechei",
+        "serovar": "Unknown",
+        "species_taxid": 158836.0,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "MDR0391, e2550",
+        "target_acc": "PDT000130266.1",
+        "target_creation_date": "2016-05-09",
+        "taxid": 158836.0,
+        "wgs_acc_prefix": "FKDL",
+        "wgs_master_acc": "FKDL00000000.1",
+        "date": "2016-05-09",
+        "country": "United Kingdom",
+        "num_date": 2016.3551912568305,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Enterobacter/PDG000000028.354/PDS000008398.1?accessions=PDT000130266.1"
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000130265.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

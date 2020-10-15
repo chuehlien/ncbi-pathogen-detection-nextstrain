@@ -1,0 +1,484 @@
+{
+  "updated": "2020-09-21",
+  "virus_count": 1177,
+  "maintainer": "DCIPHER",
+  "title": "Vibriocholerae_PDG000000055.147-PDS000065830.8",
+  "color_options": {
+    "num_date": {
+      "menuItem": "date",
+      "type": "continuous",
+      "legendTitle": "Sampling date",
+      "key": "num_date"
+    },
+    "#label": {
+      "menuItem": "Label",
+      "legendTitle": "Label",
+      "key": "#label",
+      "type": "discrete"
+    },
+    "FDA_lab_id": {
+      "menuItem": "FDA Lab ID",
+      "legendTitle": "FDA Lab ID",
+      "key": "FDA_lab_id",
+      "type": "discrete"
+    },
+    "HHS_region": {
+      "menuItem": "HHS Region",
+      "legendTitle": "HHS Region",
+      "key": "HHS_region",
+      "type": "continuous"
+    },
+    "LibraryLayout": {
+      "menuItem": "Library Layout",
+      "legendTitle": "Library Layout",
+      "key": "LibraryLayout",
+      "type": "discrete"
+    },
+    "PFGE_PrimaryEnzyme_pattern": {
+      "menuItem": "PFGE Primary Enzyme Pattern",
+      "legendTitle": "PFGE Primary Enzyme Pattern",
+      "key": "PFGE_PrimaryEnzyme_pattern",
+      "type": "discrete"
+    },
+    "PFGE_SecondaryEnzyme_pattern": {
+      "menuItem": "PFGE Secondary Enzyme Pattern",
+      "legendTitle": "PFGE Secondary Enzyme Pattern",
+      "key": "PFGE_SecondaryEnzyme_pattern",
+      "type": "discrete"
+    },
+    "Platform": {
+      "menuItem": "Platform",
+      "legendTitle": "Platform",
+      "key": "Platform",
+      "type": "discrete"
+    },
+    "Run": {
+      "menuItem": "Run",
+      "legendTitle": "Run",
+      "key": "Run",
+      "type": "discrete"
+    },
+    "asm_acc": {
+      "menuItem": "Assembly",
+      "legendTitle": "Assembly",
+      "key": "asm_acc",
+      "type": "discrete"
+    },
+    "asm_level": {
+      "menuItem": "Level",
+      "legendTitle": "Level",
+      "key": "asm_level",
+      "type": "discrete"
+    },
+    "asm_stats_contig_n50": {
+      "menuItem": "N50",
+      "legendTitle": "N50",
+      "key": "asm_stats_contig_n50",
+      "type": "continuous"
+    },
+    "asm_stats_length_bp": {
+      "menuItem": "Length",
+      "legendTitle": "Length",
+      "key": "asm_stats_length_bp",
+      "type": "continuous"
+    },
+    "asm_stats_n_contig": {
+      "menuItem": "Contigs",
+      "legendTitle": "Contigs",
+      "key": "asm_stats_n_contig",
+      "type": "continuous"
+    },
+    "assembly_method": {
+      "menuItem": "Method",
+      "legendTitle": "Method",
+      "key": "assembly_method",
+      "type": "discrete"
+    },
+    "attribute_package": {
+      "menuItem": "Attribute Package",
+      "legendTitle": "Attribute Package",
+      "key": "attribute_package",
+      "type": "discrete"
+    },
+    "bioproject_acc": {
+      "menuItem": "BioProject",
+      "legendTitle": "BioProject",
+      "key": "bioproject_acc",
+      "type": "discrete"
+    },
+    "bioproject_center": {
+      "menuItem": "Bioproject Center",
+      "legendTitle": "Bioproject Center",
+      "key": "bioproject_center",
+      "type": "discrete"
+    },
+    "biosample_acc": {
+      "menuItem": "BioSample",
+      "legendTitle": "BioSample",
+      "key": "biosample_acc",
+      "type": "discrete"
+    },
+    "collected_by": {
+      "menuItem": "Collected by",
+      "legendTitle": "Collected by",
+      "key": "collected_by",
+      "type": "discrete"
+    },
+    "collection_date": {
+      "menuItem": "Collection Date",
+      "legendTitle": "Collection Date",
+      "key": "collection_date",
+      "type": "discrete"
+    },
+    "epi_type": {
+      "menuItem": "Isolation type",
+      "legendTitle": "Isolation type",
+      "key": "epi_type",
+      "type": "discrete"
+    },
+    "fullasm_id": {
+      "menuItem": "Full ASM ID",
+      "legendTitle": "Full ASM ID",
+      "key": "fullasm_id",
+      "type": "continuous"
+    },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "host": {
+      "menuItem": "Host",
+      "legendTitle": "Host",
+      "key": "host",
+      "type": "discrete"
+    },
+    "host_disease": {
+      "menuItem": "Host Disease",
+      "legendTitle": "Host Disease",
+      "key": "host_disease",
+      "type": "discrete"
+    },
+    "isolation_source": {
+      "menuItem": "Isolation Source",
+      "legendTitle": "Isolation Source",
+      "key": "isolation_source",
+      "type": "discrete"
+    },
+    "lat_lon": {
+      "menuItem": "Lat/Lon",
+      "legendTitle": "Lat/Lon",
+      "key": "lat_lon",
+      "type": "discrete"
+    },
+    "outbreak": {
+      "menuItem": "Outbreak",
+      "legendTitle": "Outbreak",
+      "key": "outbreak",
+      "type": "discrete"
+    },
+    "sample_name": {
+      "menuItem": "Sample Name",
+      "legendTitle": "Sample Name",
+      "key": "sample_name",
+      "type": "discrete"
+    },
+    "scientific_name": {
+      "menuItem": "Scientific name",
+      "legendTitle": "Scientific name",
+      "key": "scientific_name",
+      "type": "discrete"
+    },
+    "serovar": {
+      "menuItem": "Serovar",
+      "legendTitle": "Serovar",
+      "key": "serovar",
+      "type": "discrete"
+    },
+    "species_taxid": {
+      "menuItem": "Species TaxID",
+      "legendTitle": "Species TaxID",
+      "key": "species_taxid",
+      "type": "continuous"
+    },
+    "sra_center": {
+      "menuItem": "SRA Center",
+      "legendTitle": "SRA Center",
+      "key": "sra_center",
+      "type": "discrete"
+    },
+    "sra_release_date": {
+      "menuItem": "SRA Release Date",
+      "legendTitle": "SRA Release Date",
+      "key": "sra_release_date",
+      "type": "discrete"
+    },
+    "strain": {
+      "menuItem": "Strain",
+      "legendTitle": "Strain",
+      "key": "strain",
+      "type": "discrete"
+    },
+    "target_creation_date": {
+      "menuItem": "Create Date",
+      "legendTitle": "Create Date",
+      "key": "target_creation_date",
+      "type": "discrete"
+    },
+    "taxid": {
+      "menuItem": "TaxID",
+      "legendTitle": "TaxID",
+      "key": "taxid",
+      "type": "continuous"
+    },
+    "wgs_acc_prefix": {
+      "menuItem": "WGS Prefix",
+      "legendTitle": "WGS Prefix",
+      "key": "wgs_acc_prefix",
+      "type": "discrete"
+    },
+    "wgs_master_acc": {
+      "menuItem": "WGS Accession",
+      "legendTitle": "WGS Accession",
+      "key": "wgs_master_acc",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    }
+  },
+  "filters": [],
+  "commit": "unknown",
+  "panels": [
+    "tree",
+    "map"
+  ],
+  "geo": {
+    "country": {
+      "Iraq": {
+        "latitude": 32.473518,
+        "longitude": 44.426737
+      },
+      "Bangladesh": {
+        "latitude": 23.7,
+        "longitude": 90.35
+      },
+      "China": {
+        "latitude": 39.92,
+        "longitude": 116.46
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "India": {
+        "latitude": 22.5726,
+        "longitude": 88.3639
+      },
+      "Zimbabwe": {
+        "latitude": -17.824858,
+        "longitude": 31.053028
+      }
+    },
+    "location": {
+      "Haiti: Bay larion Bridge": {
+        "latitude": 18.29,
+        "longitude": -72.37
+      },
+      "Haiti: Christianville spring": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Uganda: Kasese": {
+        "latitude": 0.3309,
+        "longitude": 32.5761
+      },
+      "Haiti: Notrdame hospital de Petit Goave": {
+        "latitude": 18.26,
+        "longitude": -72.51
+      },
+      "Haiti: Sousfort": {
+        "latitude": 18.32,
+        "longitude": -72.31
+      },
+      "Tanzania: MARA": {
+        "latitude": -1.47,
+        "longitude": 34.03
+      },
+      "Haiti: Upper Colin": {
+        "latitude": 18.31,
+        "longitude": -72.31
+      },
+      "Haiti: Jacmel": {
+        "latitude": 18.243,
+        "longitude": -72.5264
+      },
+      "Haiti: Reserved": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Bangladesh: Dhaka": {
+        "latitude": 23.7,
+        "longitude": 90.375
+      },
+      "Haiti: CTC Lestere": {
+        "latitude": 19.16,
+        "longitude": -72.38
+      },
+      "Ukraine: Mariupol": {
+        "latitude": 47.13,
+        "longitude": 37.56
+      },
+      "Haiti: Christianville bridge": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Haiti: Jacmel (Cayes-de)": {
+        "latitude": 18.13,
+        "longitude": -72.23
+      },
+      "Uganda: Mbale": {
+        "latitude": 0.3309,
+        "longitude": 32.5761
+      },
+      "Bangladesh": {
+        "latitude": 23.7,
+        "longitude": 90.35
+      },
+      "Tanzania: Dar Es Salaam": {
+        "latitude": -6.46,
+        "longitude": 39.12
+      },
+      "China": {
+        "latitude": 39.92,
+        "longitude": 116.46
+      },
+      "Haiti: Christianville school, Gressier": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Haiti: CTC Jacmel": {
+        "latitude": 18.14,
+        "longitude": -72.32
+      },
+      "Haiti: George Guavan Hospital, Grand goave": {
+        "latitude": 18.25,
+        "longitude": -72.5
+      },
+      "Tanzania: DAR ES SALAAM": {
+        "latitude": -6.46,
+        "longitude": 39.12
+      },
+      "Iraq": {
+        "latitude": 32.473518,
+        "longitude": 44.426737
+      },
+      "India: Kolkata": {
+        "latitude": 22.5726,
+        "longitude": 88.3639
+      },
+      "Haiti: Haiti Health Ministries, Gressier": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Haiti: Adventist Hospital, Dikini": {
+        "latitude": 18.31,
+        "longitude": -72.23
+      },
+      "Haiti: St. Michel Hospital, Jacmel": {
+        "latitude": 18.14,
+        "longitude": -72.32
+      },
+      "Haiti: Jeffra": {
+        "latitude": 18.32,
+        "longitude": -72.32
+      },
+      "India": {
+        "latitude": 22.5726,
+        "longitude": 88.3639
+      },
+      "Haiti: Brach": {
+        "latitude": 18.31,
+        "longitude": -72.35
+      },
+      "Russia: Moscow": {
+        "latitude": 55.45,
+        "longitude": 37.36
+      },
+      "Haiti: Haiti, St. Michel Hospital, Jacmel": {
+        "latitude": 18.14,
+        "longitude": -72.32
+      },
+      "Haiti: CTC Gressier": {
+        "latitude": 18.32,
+        "longitude": -72.32
+      },
+      "Haiti: George Gauvan Hospital, Grand Goave": {
+        "latitude": 18.25,
+        "longitude": -72.5
+      },
+      "Haiti: Jean-Jean": {
+        "latitude": 18.28,
+        "longitude": -72.32
+      },
+      "Haiti: CTC Petit Goave": {
+        "latitude": 18.26,
+        "longitude": -72.52
+      },
+      "Haiti: Colin": {
+        "latitude": 18.28,
+        "longitude": -72.33
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Haiti: CTC Gonaives": {
+        "latitude": 19.26,
+        "longitude": -72.4
+      },
+      "Zimbabwe": {
+        "latitude": -17.824858,
+        "longitude": 31.053028
+      },
+      "Tanzania: MOROGORO": {
+        "latitude": -6.49,
+        "longitude": 37.4
+      },
+      "Haiti: Bellevue": {
+        "latitude": 18.31,
+        "longitude": -72.33
+      },
+      "Haiti: Bongnotte": {
+        "latitude": 18.3,
+        "longitude": -72.34
+      },
+      "Tanzania: SINGIDA": {
+        "latitude": -4.48,
+        "longitude": 34.44
+      },
+      "Haiti: Haiti, Brach": {
+        "latitude": 18.31,
+        "longitude": -72.35
+      }
+    }
+  },
+  "annotations": {},
+  "author_info": {}
+}

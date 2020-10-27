@@ -1,0 +1,456 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2016.2431693989072
+  },
+  "yvalue": 2.41667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000354737.1",
+      "attr": {
+        "div": 1.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000360014.1",
+      "attr": {
+        "div": 1.0,
+        "#label": "PDT000360014.1|SAMN09783468||Vibrio parahaemolyticus||PNUSAV000235|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR7658747",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 743183,
+        "asm_stats_length_bp": 5172961,
+        "asm_stats_n_contig": 34,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA266293",
+        "bioproject_center": "CDC",
+        "biosample_acc": "SAMN09783468",
+        "collected_by": "CDC",
+        "collection_date": "Unknown",
+        "epi_type": "clinical",
+        "fullasm_id": 0.0,
+        "location": "USA",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "Unknown",
+        "scientific_name": "Vibrio parahaemolyticus",
+        "serovar": "Unknown",
+        "species_taxid": 670.0,
+        "sra_center": "EDLB-CDC",
+        "sra_release_date": "2018-08-08",
+        "strain": "PNUSAV000235",
+        "target_acc": "PDT000360014.1",
+        "target_creation_date": "2018-08-08",
+        "taxid": 670.0,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-08-08",
+        "country": "USA",
+        "num_date": 2018.6027397260275,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000360014.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "PDT000365522.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 2,
+      "clade": 4
+    },
+    {
+      "strain": "CLADE_5",
+      "attr": {
+        "div": 9.0,
+        "num_date": 2016.6380779657388
+      },
+      "yvalue": 6.66667,
+      "clade": 5,
+      "children": [
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 12.0,
+            "num_date": 2016.7697141546826
+          },
+          "yvalue": 4.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "CLADE_7",
+              "attr": {
+                "div": 15.0,
+                "num_date": 2016.9013503436265
+              },
+              "yvalue": 3.5,
+              "clade": 7,
+              "children": [
+                {
+                  "strain": "PDT000587121.1",
+                  "attr": {
+                    "div": 17.0,
+                    "#label": "PDT000587121.1|SAMN12767289||Vibrio parahaemolyticus||PNUSAV001014|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR10125255",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 324650,
+                    "asm_stats_length_bp": 5509184,
+                    "asm_stats_n_contig": 53,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA266293",
+                    "bioproject_center": "CDC",
+                    "biosample_acc": "SAMN12767289",
+                    "collected_by": "CDC",
+                    "collection_date": "Unknown",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "USA",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "EDLB-CDC",
+                    "sra_release_date": "2019-09-16",
+                    "strain": "PNUSAV001014",
+                    "target_acc": "PDT000587121.1",
+                    "target_creation_date": "2019-09-16",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2019-09-16",
+                    "country": "USA",
+                    "num_date": 2019.7095890410958,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000587121.1"
+                  },
+                  "yvalue": 3,
+                  "clade": 8
+                },
+                {
+                  "strain": "PDT000258535.1",
+                  "attr": {
+                    "div": 16.0,
+                    "#label": "PDT000258535.1|SAMN07831554||Vibrio parahaemolyticus||PNUSAV000134|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR6224330",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 421304,
+                    "asm_stats_length_bp": 5187669,
+                    "asm_stats_n_contig": 84,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA266293",
+                    "bioproject_center": "CDC",
+                    "biosample_acc": "SAMN07831554",
+                    "collected_by": "CDC",
+                    "collection_date": "Unknown",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "USA",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "PNUSAV000134",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "EDLB-CDC",
+                    "sra_release_date": "2017-10-26",
+                    "strain": "PNUSAV000134",
+                    "target_acc": "PDT000258535.1",
+                    "target_creation_date": "2017-10-26",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2017-10-26",
+                    "country": "USA",
+                    "num_date": 2017.8191780821917,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000258535.1"
+                  },
+                  "yvalue": 4,
+                  "clade": 9
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_10",
+              "attr": {
+                "div": 13.0,
+                "num_date": 2016.8135928843305
+              },
+              "yvalue": 5.5,
+              "clade": 10,
+              "children": [
+                {
+                  "strain": "PDT000321089.1",
+                  "attr": {
+                    "div": 15.0
+                  },
+                  "yvalue": 5,
+                  "clade": 11
+                },
+                {
+                  "strain": "PDT000272494.1",
+                  "attr": {
+                    "div": 13.0,
+                    "#label": "PDT000272494.1|SAMN08180263||Vibrio parahaemolyticus||PNUSAV000163|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR6378467",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 403418,
+                    "asm_stats_length_bp": 5187658,
+                    "asm_stats_n_contig": 74,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA266293",
+                    "bioproject_center": "CDC",
+                    "biosample_acc": "SAMN08180263",
+                    "collected_by": "Unknown",
+                    "collection_date": "Unknown",
+                    "epi_type": "clinical",
+                    "fullasm_id": 0.0,
+                    "location": "USA",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "PNUSAV000163",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "EDLB-CDC",
+                    "sra_release_date": "2017-12-15",
+                    "strain": "PNUSAV000163",
+                    "target_acc": "PDT000272494.1",
+                    "target_creation_date": "2017-12-15",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2017-12-15",
+                    "country": "USA",
+                    "num_date": 2017.9561643835616,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000272494.1"
+                  },
+                  "yvalue": 6,
+                  "clade": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_13",
+          "attr": {
+            "div": 35.0,
+            "num_date": 2017.7789249365858
+          },
+          "yvalue": 8.83333,
+          "clade": 13,
+          "children": [
+            {
+              "strain": "PDT000672960.1",
+              "attr": {
+                "div": 79.0
+              },
+              "yvalue": 7,
+              "clade": 14
+            },
+            {
+              "strain": "CLADE_15",
+              "attr": {
+                "div": 40.0,
+                "num_date": 2017.9983185848255
+              },
+              "yvalue": 8.5,
+              "clade": 15,
+              "children": [
+                {
+                  "strain": "PDT000061673.2",
+                  "attr": {
+                    "div": 46.0
+                  },
+                  "yvalue": 8,
+                  "clade": 16
+                },
+                {
+                  "strain": "PDT000124316.1",
+                  "attr": {
+                    "div": 44.0
+                  },
+                  "yvalue": 9,
+                  "clade": 17
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_18",
+              "attr": {
+                "div": 38.0,
+                "num_date": 2017.9105611255295
+              },
+              "yvalue": 11.0,
+              "clade": 18,
+              "children": [
+                {
+                  "strain": "PDT000123058.1",
+                  "attr": {
+                    "div": 55.0,
+                    "#label": "PDT000123058.1|SAMN04358201|GCA_001601695.1|Vibrio parahaemolyticus||C150|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_001601695.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 334486,
+                    "asm_stats_length_bp": 5209864,
+                    "asm_stats_n_contig": 53,
+                    "assembly_method": "SPAdes v. 3.5.0",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA304021",
+                    "bioproject_center": "Health Canada",
+                    "biosample_acc": "SAMN04358201",
+                    "collected_by": "Health Canada",
+                    "collection_date": "2008",
+                    "epi_type": "clinical",
+                    "fullasm_id": 3149038.0,
+                    "location": "Canada: British Columbia",
+                    "host": "Homo sapiens",
+                    "host_disease": "Vibrio gastroenteritis",
+                    "isolation_source": "clinical sample from patient with gastroenteritis",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "C150",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "C150",
+                    "target_acc": "PDT000123058.1",
+                    "target_creation_date": "2016-03-29",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "LPVU",
+                    "wgs_master_acc": "LPVU00000000.1",
+                    "date": "2016-03-29",
+                    "country": "Canada",
+                    "num_date": 2016.2431693989072,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000123058.1"
+                  },
+                  "yvalue": 10,
+                  "clade": 19
+                },
+                {
+                  "strain": "PDT000124305.1",
+                  "attr": {
+                    "div": 43.0,
+                    "#label": "PDT000124305.1|SAMN04441013|GCA_001609015.1|Vibrio parahaemolyticus||09-4662|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_001609015.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 315437,
+                    "asm_stats_length_bp": 5176120,
+                    "asm_stats_n_contig": 47,
+                    "assembly_method": "SPAdes v. 3.5.0",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA304021",
+                    "bioproject_center": "Health Canada",
+                    "biosample_acc": "SAMN04441013",
+                    "collected_by": "Health Canada",
+                    "collection_date": "2009",
+                    "epi_type": "clinical",
+                    "fullasm_id": 3158208.0,
+                    "location": "Canada: British Columbia",
+                    "host": "Homo sapiens",
+                    "host_disease": "gastroenteritis",
+                    "isolation_source": "clinical sample from patient with gastroenteritis",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "09-4662",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "09-4662",
+                    "target_acc": "PDT000124305.1",
+                    "target_creation_date": "2016-04-04",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "LRTH",
+                    "wgs_master_acc": "LRTH00000000.1",
+                    "date": "2016-04-04",
+                    "country": "Canada",
+                    "num_date": 2016.25956284153,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.392/PDS000007537.9?accessions=PDT000124305.1"
+                  },
+                  "yvalue": 11,
+                  "clade": 20
+                },
+                {
+                  "strain": "PDT000124315.1",
+                  "attr": {
+                    "div": 39.0
+                  },
+                  "yvalue": 12,
+                  "clade": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

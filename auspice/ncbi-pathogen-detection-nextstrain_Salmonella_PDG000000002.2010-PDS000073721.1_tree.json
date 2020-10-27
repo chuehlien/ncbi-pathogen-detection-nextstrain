@@ -1,0 +1,71 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2020.6502732240438
+  },
+  "yvalue": 0.5,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000863248.1",
+      "attr": {
+        "div": 10.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000820797.1",
+      "attr": {
+        "div": 0.0,
+        "#label": "PDT000820797.1|SAMN15902055|GCA_014300065.1|Salmonella enterica subsp. enterica serovar Typhimurium|Salmonella enterica subsp. enterica serovar Typhimurium|FSIS32003736|Pathogen: environmental/food/other",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12515464",
+        "asm_acc": "GCA_014300065.1",
+        "asm_level": "Contig",
+        "asm_stats_contig_n50": 38067,
+        "asm_stats_length_bp": 5245140,
+        "asm_stats_n_contig": 251,
+        "assembly_method": "SKESA v. 2.2",
+        "attribute_package": "Pathogen: environmental/food/other",
+        "bioproject_acc": "PRJNA242847",
+        "bioproject_center": "FDA",
+        "biosample_acc": "SAMN15902055",
+        "collected_by": "USDA-FSIS",
+        "collection_date": "2020",
+        "epi_type": "environmental/other",
+        "fullasm_id": 21784508,
+        "location": "USA:VA",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "Animal-Turkey-Turkey Carcass Sponge",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "FSIS32003736",
+        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+        "serovar": "Salmonella enterica subsp. enterica serovar Typhimurium",
+        "species_taxid": 28901.0,
+        "sra_center": "USDA-FSIS",
+        "sra_release_date": "2020-08-25",
+        "strain": "FSIS32003736",
+        "target_acc": "PDT000820797.1",
+        "target_creation_date": "2020-08-25",
+        "taxid": 90371.0,
+        "wgs_acc_prefix": "AAVOOQ",
+        "wgs_master_acc": "AAVOOQ000000000.1",
+        "date": "2020-08-25",
+        "country": "USA",
+        "num_date": 2020.6502732240438,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2010/PDS000073721.1?accessions=PDT000820797.1"
+      },
+      "yvalue": 1,
+      "clade": 3
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2016.25956284153
+  },
+  "yvalue": 2.41667,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000354737.1",
+      "attr": {
+        "div": 1.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000360014.1",
+      "attr": {
+        "div": 1.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "PDT000365522.1",
+      "attr": {
+        "div": 0.0
+      },
+      "yvalue": 2,
+      "clade": 4
+    },
+    {
+      "strain": "CLADE_5",
+      "attr": {
+        "div": 9.0,
+        "num_date": 2016.5302524918013
+      },
+      "yvalue": 6.66667,
+      "clade": 5,
+      "children": [
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 12.0,
+            "num_date": 2016.620482375225
+          },
+          "yvalue": 4.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "CLADE_7",
+              "attr": {
+                "div": 15.0,
+                "num_date": 2016.7107122586488
+              },
+              "yvalue": 3.5,
+              "clade": 7,
+              "children": [
+                {
+                  "strain": "PDT000587121.1",
+                  "attr": {
+                    "div": 17.0
+                  },
+                  "yvalue": 3,
+                  "clade": 8
+                },
+                {
+                  "strain": "PDT000258535.1",
+                  "attr": {
+                    "div": 16.0
+                  },
+                  "yvalue": 4,
+                  "clade": 9
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_10",
+              "attr": {
+                "div": 13.0,
+                "num_date": 2016.650559003033
+              },
+              "yvalue": 5.5,
+              "clade": 10,
+              "children": [
+                {
+                  "strain": "PDT000321089.1",
+                  "attr": {
+                    "div": 15.0
+                  },
+                  "yvalue": 5,
+                  "clade": 11
+                },
+                {
+                  "strain": "PDT000272494.1",
+                  "attr": {
+                    "div": 13.0
+                  },
+                  "yvalue": 6,
+                  "clade": 12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_13",
+          "attr": {
+            "div": 35.0,
+            "num_date": 2017.3122448148074
+          },
+          "yvalue": 8.83333,
+          "clade": 13,
+          "children": [
+            {
+              "strain": "PDT000672960.1",
+              "attr": {
+                "div": 79.0
+              },
+              "yvalue": 7,
+              "clade": 14
+            },
+            {
+              "strain": "CLADE_15",
+              "attr": {
+                "div": 40.0,
+                "num_date": 2017.462627953847
+              },
+              "yvalue": 8.5,
+              "clade": 15,
+              "children": [
+                {
+                  "strain": "PDT000061673.2",
+                  "attr": {
+                    "div": 46.0,
+                    "#label": "PDT000061673.2|SAMN02204311|GCA_000877595.2|Vibrio parahaemolyticus 3631||3631|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_000877595.2",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 121810,
+                    "asm_stats_length_bp": 5064925,
+                    "asm_stats_n_contig": 290,
+                    "assembly_method": "Velvet v. 1.2.10",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA188210",
+                    "bioproject_center": "NOAA Northwest Fisheries Science Center",
+                    "biosample_acc": "SAMN02204311",
+                    "collected_by": "Mark S. Strom",
+                    "collection_date": "2007",
+                    "epi_type": "clinical",
+                    "fullasm_id": 7109138.0,
+                    "location": "USA: Washington",
+                    "host": "Homo sapiens",
+                    "host_disease": "gastroenteritis",
+                    "isolation_source": "stool sample",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "Vibrio parahaemolyticus 3631",
+                    "scientific_name": "Vibrio parahaemolyticus 3631",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "3631",
+                    "target_acc": "PDT000061673.2",
+                    "target_creation_date": "2018-08-20",
+                    "taxid": 1288788.0,
+                    "wgs_acc_prefix": "AOPC",
+                    "wgs_master_acc": "AOPC00000000.2",
+                    "date": "2018-08-20",
+                    "country": "USA",
+                    "num_date": 2018.6356164383562,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.394/PDS000007537.9?accessions=PDT000061673.2",
+                    "dcipher_ncbi_id": null
+                  },
+                  "yvalue": 8,
+                  "clade": 16
+                },
+                {
+                  "strain": "PDT000124316.1",
+                  "attr": {
+                    "div": 44.0,
+                    "#label": "PDT000124316.1|SAMN04358132|GCA_001609375.1|Vibrio parahaemolyticus||C142|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_001609375.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 334240,
+                    "asm_stats_length_bp": 5210898,
+                    "asm_stats_n_contig": 52,
+                    "assembly_method": "SPAdes v. 3.5.0",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA304021",
+                    "bioproject_center": "Health Canada",
+                    "biosample_acc": "SAMN04358132",
+                    "collected_by": "Health Canada",
+                    "collection_date": "2008",
+                    "epi_type": "clinical",
+                    "fullasm_id": 3158558.0,
+                    "location": "Canada: British Columbia",
+                    "host": "Homo sapiens",
+                    "host_disease": "Vibrio gastroenteritis",
+                    "isolation_source": "clinical sample from patient with gastroenteritis",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "C142",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "C142",
+                    "target_acc": "PDT000124316.1",
+                    "target_creation_date": "2016-04-04",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "LPVA",
+                    "wgs_master_acc": "LPVA00000000.1",
+                    "date": "2016-04-04",
+                    "country": "Canada",
+                    "num_date": 2016.25956284153,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.394/PDS000007537.9?accessions=PDT000124316.1",
+                    "dcipher_ncbi_id": null
+                  },
+                  "yvalue": 9,
+                  "clade": 17
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_18",
+              "attr": {
+                "div": 38.0,
+                "num_date": 2017.4024746982311
+              },
+              "yvalue": 11.0,
+              "clade": 18,
+              "children": [
+                {
+                  "strain": "PDT000123058.1",
+                  "attr": {
+                    "div": 55.0
+                  },
+                  "yvalue": 10,
+                  "clade": 19
+                },
+                {
+                  "strain": "PDT000124305.1",
+                  "attr": {
+                    "div": 43.0
+                  },
+                  "yvalue": 11,
+                  "clade": 20
+                },
+                {
+                  "strain": "PDT000124315.1",
+                  "attr": {
+                    "div": 39.0,
+                    "#label": "PDT000124315.1|SAMN04358135|GCA_001609345.1|Vibrio parahaemolyticus||C145|Pathogen: clinical or host-associated",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "asm_acc": "GCA_001609345.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 403418,
+                    "asm_stats_length_bp": 5176962,
+                    "asm_stats_n_contig": 47,
+                    "assembly_method": "SPAdes v. 3.5.0",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA304021",
+                    "bioproject_center": "Health Canada",
+                    "biosample_acc": "SAMN04358135",
+                    "collected_by": "Health Canada",
+                    "collection_date": "2008",
+                    "epi_type": "clinical",
+                    "fullasm_id": 3158538.0,
+                    "location": "Canada: British Columbia",
+                    "host": "Homo sapiens",
+                    "host_disease": "Vibrio gastroenteritis",
+                    "isolation_source": "clinical sample from patient with gastroenteritis",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "C145",
+                    "scientific_name": "Vibrio parahaemolyticus",
+                    "serovar": "Unknown",
+                    "species_taxid": 670.0,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "C145",
+                    "target_acc": "PDT000124315.1",
+                    "target_creation_date": "2016-04-04",
+                    "taxid": 670.0,
+                    "wgs_acc_prefix": "LPVK",
+                    "wgs_master_acc": "LPVK00000000.1",
+                    "date": "2016-04-04",
+                    "country": "Canada",
+                    "num_date": 2016.25956284153,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Vibrio_parahaemolyticus/PDG000000023.394/PDS000007537.9?accessions=PDT000124315.1",
+                    "dcipher_ncbi_id": null
+                  },
+                  "yvalue": 12,
+                  "clade": 21
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

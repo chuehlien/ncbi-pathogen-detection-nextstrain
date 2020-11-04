@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 59,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000021367.49",
+  "title": "campylobacter_PDG000000003.1230-PDS000021367.49",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,37 +283,33 @@
       }
     },
     "location": {
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       },
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
       },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
       "USA:RI": {
         "latitude": 41.580095,
         "longitude": -71.477429
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
       },
       "USA:AZ": {
         "latitude": 34.048928000000004,
@@ -323,18 +319,6 @@
         "latitude": 31.244823,
         "longitude": -92.145024
       },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
       "USA:AR": {
         "latitude": 35.20105,
         "longitude": -91.831833
@@ -342,6 +326,22 @@
       "USA:MD": {
         "latitude": 39.045755,
         "longitude": -76.641271
+      },
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
+      },
+      "USA:AL": {
+        "latitude": 32.318231,
+        "longitude": -86.902298
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       },
       "USA:NC": {
         "latitude": 35.759573,

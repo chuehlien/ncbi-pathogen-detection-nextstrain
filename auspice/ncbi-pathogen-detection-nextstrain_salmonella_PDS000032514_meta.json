@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 67,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000032514.52",
+  "title": "salmonella_PDG000000002.2019-PDS000032514.52",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,33 +283,17 @@
       }
     },
     "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
       },
       "USA:AL": {
         "latitude": 32.318231,
         "longitude": -86.902298
       },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
-      },
       "USA:GA": {
         "latitude": 32.157435,
         "longitude": -82.907123
-      },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
       },
       "USA:CO": {
         "latitude": 39.550051,
@@ -319,13 +303,29 @@
         "latitude": 40.633125,
         "longitude": -89.398528
       },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
       "USA:WA": {
         "latitude": 47.751074,
         "longitude": -120.740139
       },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

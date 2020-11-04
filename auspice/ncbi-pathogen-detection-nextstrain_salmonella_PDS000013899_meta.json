@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 25,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000013899.10",
+  "title": "salmonella_PDG000000002.2019-PDS000013899.10",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,31 +277,31 @@
   ],
   "geo": {
     "country": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "Ireland": {
         "latitude": 53.3444,
         "longitude": -6.2577
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     },
     "location": {
-      "Spain: Seville": {
-        "latitude": 37.3891,
-        "longitude": -5.9845
+      "Ireland": {
+        "latitude": 53.3444,
+        "longitude": -6.2577
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "Belarus: Minsk": {
         "latitude": 53.89,
         "longitude": 27.54
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Ireland": {
-        "latitude": 53.3444,
-        "longitude": -6.2577
+      "Spain: Seville": {
+        "latitude": 37.3891,
+        "longitude": -5.9845
       }
     }
   },

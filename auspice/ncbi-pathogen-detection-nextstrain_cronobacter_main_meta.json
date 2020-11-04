@@ -2,7 +2,7 @@
   "updated": "2020-08-11",
   "virus_count": 32,
   "maintainer": "DCIPHER",
-  "title": "Cronobacter_PDG000000043.77-PDS000023154.2",
+  "title": "cronobacter_PDG000000043.77-PDS000023154.2",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -260,6 +260,12 @@
       "menuItem": "ncbi_tree_url",
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },

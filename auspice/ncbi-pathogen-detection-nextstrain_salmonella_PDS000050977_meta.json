@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
-  "virus_count": 223,
+  "updated": "2020-11-03",
+  "virus_count": 224,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000050977.31",
+  "title": "salmonella_PDG000000002.2019-PDS000050977.32",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,85 +283,85 @@
       }
     },
     "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:HI": {
+        "latitude": 19.898682,
+        "longitude": -155.66585700000005
+      },
       "USA:NY": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
       },
       "USA:TN": {
         "latitude": 35.517491,
         "longitude": -86.58044699999998
       },
-      "USA:MI": {
-        "latitude": 44.314844,
+      "USA:IN": {
+        "latitude": 40.551217,
         "longitude": -85.602364
       },
       "USA:ID": {
         "latitude": 44.068202,
         "longitude": -114.742041
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
+      "USA:MI": {
+        "latitude": 44.314844,
         "longitude": -85.602364
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "Australia: NSW": {
-        "latitude": -31.2532,
-        "longitude": 146.9211
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
       },
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:NC": {
+        "latitude": 35.759573,
+        "longitude": -79.0193
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
+      "Australia: NSW": {
+        "latitude": -31.2532,
+        "longitude": 146.9211
       },
       "USA:CO": {
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA:NC": {
-        "latitude": 35.759573,
-        "longitude": -79.0193
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
-      },
-      "USA:HI": {
-        "latitude": 19.898682,
-        "longitude": -155.66585700000005
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
       },
       "USA:NE": {
         "latitude": 41.492537,
         "longitude": -99.901813
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       }
     }
   },

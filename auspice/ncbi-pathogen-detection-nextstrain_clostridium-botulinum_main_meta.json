@@ -2,7 +2,7 @@
   "updated": "2020-10-13",
   "virus_count": 26,
   "maintainer": "DCIPHER",
-  "title": "Clostridiumbotulinum_PDG000000059.47-PDS000040586.5",
+  "title": "clostridium-botulinum_PDG000000059.47-PDS000040586.5",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -260,6 +260,12 @@
       "menuItem": "ncbi_tree_url",
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },

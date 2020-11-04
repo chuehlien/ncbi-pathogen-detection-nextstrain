@@ -72,8 +72,8 @@
                 "date": "2015-04-13",
                 "country": "United Kingdom",
                 "num_date": 2015.282191780822,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000059721.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000059721.2",
+                "internal_id": null
               },
               "yvalue": 0,
               "clade": 4
@@ -125,8 +125,8 @@
                 "date": "2015-12-22",
                 "country": "United Kingdom",
                 "num_date": 2015.9753424657533,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000099817.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000099817.2",
+                "internal_id": null
               },
               "yvalue": 1,
               "clade": 5
@@ -187,8 +187,8 @@
                     "date": "2018-07-18",
                     "country": "United Kingdom",
                     "num_date": 2018.545205479452,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000351216.1",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000351216.1",
+                    "internal_id": null
                   },
                   "yvalue": 2,
                   "clade": 7
@@ -249,8 +249,8 @@
                         "date": "2017-09-26",
                         "country": "United Kingdom",
                         "num_date": 2017.7369863013698,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000243874.2",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000243874.2",
+                        "internal_id": null
                       },
                       "yvalue": 3,
                       "clade": 9
@@ -302,8 +302,8 @@
                         "date": "2018-06-25",
                         "country": "United Kingdom",
                         "num_date": 2018.482191780822,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000335850.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000335850.1",
+                        "internal_id": null
                       },
                       "yvalue": 4,
                       "clade": 10
@@ -370,8 +370,8 @@
                 "date": "2019-01-28",
                 "country": "United Kingdom",
                 "num_date": 2019.0767123287671,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000453810.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000453810.1",
+                "internal_id": null
               },
               "yvalue": 5,
               "clade": 12
@@ -379,192 +379,11 @@
             {
               "strain": "CLADE_13",
               "attr": {
-                "div": 23.0,
-                "num_date": 2019.9857771013021
-              },
-              "yvalue": 6.75,
-              "clade": 13,
-              "children": [
-                {
-                  "strain": "PDT000382554.1",
-                  "attr": {
-                    "div": 23.0,
-                    "#label": "PDT000382554.1|SAMN10098110|GCA_007303835.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|592658|Pathogen: environmental/food/other",
-                    "FDA_lab_id": "Unknown",
-                    "HHS_region": 0,
-                    "LibraryLayout": "PAIRED",
-                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                    "Platform": "ILLUMINA",
-                    "Run": "SRR7885297",
-                    "asm_acc": "GCA_007303835.1",
-                    "asm_level": "Contig",
-                    "asm_stats_contig_n50": 169742,
-                    "asm_stats_length_bp": 4885352,
-                    "asm_stats_n_contig": 76,
-                    "assembly_method": "SKESA v. 2.2",
-                    "attribute_package": "Pathogen: environmental/food/other",
-                    "bioproject_acc": "PRJNA248792",
-                    "bioproject_center": "Public Health England",
-                    "biosample_acc": "SAMN10098110",
-                    "collected_by": "PHE",
-                    "collection_date": "2018-08",
-                    "epi_type": "clinical",
-                    "fullasm_id": 12430338,
-                    "location": "United Kingdom: United Kingdom",
-                    "host": "Homo sapiens",
-                    "host_disease": "Not available",
-                    "isolation_source": "human",
-                    "lat_lon": "Unknown",
-                    "outbreak": "Unknown",
-                    "sample_name": "Unknown",
-                    "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                    "serovar": "Typhimurium",
-                    "species_taxid": 28901,
-                    "sra_center": "PHE",
-                    "sra_release_date": "2018-09-21",
-                    "strain": "592658",
-                    "target_acc": "PDT000382554.1",
-                    "target_creation_date": "2018-09-21",
-                    "taxid": 90371,
-                    "wgs_acc_prefix": "AAHPBF",
-                    "wgs_master_acc": "AAHPBF000000000.1",
-                    "date": "2018-09-21",
-                    "country": "United Kingdom",
-                    "num_date": 2018.7232876712328,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000382554.1",
-                    "dcipher_ncbi_id": null
-                  },
-                  "yvalue": 6,
-                  "clade": 14
-                },
-                {
-                  "strain": "CLADE_15",
-                  "attr": {
-                    "div": 24.0,
-                    "num_date": 2020.1976661593098
-                  },
-                  "yvalue": 7.5,
-                  "clade": 15,
-                  "children": [
-                    {
-                      "strain": "PDT000620382.1",
-                      "attr": {
-                        "div": 27.0,
-                        "#label": "PDT000620382.1|SAMN13154230|GCA_009440315.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|828240|Pathogen: environmental/food/other",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "SRR10360821",
-                        "asm_acc": "GCA_009440315.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 130165,
-                        "asm_stats_length_bp": 4859069,
-                        "asm_stats_n_contig": 75,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Pathogen: environmental/food/other",
-                        "bioproject_acc": "PRJNA248792",
-                        "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN13154230",
-                        "collected_by": "PHE",
-                        "collection_date": "2019-10",
-                        "epi_type": "clinical",
-                        "fullasm_id": 14916148,
-                        "location": "United Kingdom: United Kingdom",
-                        "host": "Homo sapiens",
-                        "host_disease": "Not available",
-                        "isolation_source": "human",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "PHE",
-                        "sra_release_date": "2019-10-30",
-                        "strain": "828240",
-                        "target_acc": "PDT000620382.1",
-                        "target_creation_date": "2019-10-30",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "AAMRQX",
-                        "wgs_master_acc": "AAMRQX000000000.1",
-                        "date": "2019-10-30",
-                        "country": "United Kingdom",
-                        "num_date": 2019.8301369863013,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000620382.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 7,
-                      "clade": 16
-                    },
-                    {
-                      "strain": "PDT000630981.1",
-                      "attr": {
-                        "div": 25.0,
-                        "#label": "PDT000630981.1|SAMN13332252|GCA_011191375.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|839924|Pathogen: environmental/food/other",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "SRR10491595",
-                        "asm_acc": "GCA_011191375.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 178373,
-                        "asm_stats_length_bp": 4863813,
-                        "asm_stats_n_contig": 68,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Pathogen: environmental/food/other",
-                        "bioproject_acc": "PRJNA248792",
-                        "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN13332252",
-                        "collected_by": "PHE",
-                        "collection_date": "2019-11",
-                        "epi_type": "clinical",
-                        "fullasm_id": 17519038,
-                        "location": "United Kingdom: United Kingdom",
-                        "host": "Homo sapiens",
-                        "host_disease": "Not available",
-                        "isolation_source": "human",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "PHE",
-                        "sra_release_date": "2019-11-20",
-                        "strain": "839924",
-                        "target_acc": "PDT000630981.1",
-                        "target_creation_date": "2019-11-21",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "AAPMYB",
-                        "wgs_master_acc": "AAPMYB000000000.1",
-                        "date": "2019-11-21",
-                        "country": "United Kingdom",
-                        "num_date": 2019.890410958904,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000630981.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 8,
-                      "clade": 17
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "strain": "CLADE_18",
-              "attr": {
                 "div": 24.0,
                 "num_date": 2020.1976661593098
               },
-              "yvalue": 10.0,
-              "clade": 18,
+              "yvalue": 7.0,
+              "clade": 13,
               "children": [
                 {
                   "strain": "PDT000800322.2",
@@ -613,11 +432,11 @@
                     "date": "2020-08-02",
                     "country": "United Kingdom",
                     "num_date": 2020.5874316939892,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000800322.2",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000800322.2",
+                    "internal_id": null
                   },
-                  "yvalue": 9,
-                  "clade": 19
+                  "yvalue": 6,
+                  "clade": 14
                 },
                 {
                   "strain": "PDT000469534.1",
@@ -666,11 +485,11 @@
                     "date": "2019-02-27",
                     "country": "United Kingdom",
                     "num_date": 2019.158904109589,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000469534.1",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000469534.1",
+                    "internal_id": null
                   },
-                  "yvalue": 10,
-                  "clade": 20
+                  "yvalue": 7,
+                  "clade": 15
                 },
                 {
                   "strain": "PDT000625925.1",
@@ -719,11 +538,192 @@
                     "date": "2019-11-09",
                     "country": "United Kingdom",
                     "num_date": 2019.8575342465754,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000625925.1",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000625925.1",
+                    "internal_id": null
                   },
-                  "yvalue": 11,
-                  "clade": 21
+                  "yvalue": 8,
+                  "clade": 16
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_17",
+              "attr": {
+                "div": 23.0,
+                "num_date": 2019.9857771013021
+              },
+              "yvalue": 9.75,
+              "clade": 17,
+              "children": [
+                {
+                  "strain": "PDT000382554.1",
+                  "attr": {
+                    "div": 23.0,
+                    "#label": "PDT000382554.1|SAMN10098110|GCA_007303835.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|592658|Pathogen: environmental/food/other",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR7885297",
+                    "asm_acc": "GCA_007303835.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 169742,
+                    "asm_stats_length_bp": 4885352,
+                    "asm_stats_n_contig": 76,
+                    "assembly_method": "SKESA v. 2.2",
+                    "attribute_package": "Pathogen: environmental/food/other",
+                    "bioproject_acc": "PRJNA248792",
+                    "bioproject_center": "Public Health England",
+                    "biosample_acc": "SAMN10098110",
+                    "collected_by": "PHE",
+                    "collection_date": "2018-08",
+                    "epi_type": "clinical",
+                    "fullasm_id": 12430338,
+                    "location": "United Kingdom: United Kingdom",
+                    "host": "Homo sapiens",
+                    "host_disease": "Not available",
+                    "isolation_source": "human",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                    "serovar": "Typhimurium",
+                    "species_taxid": 28901,
+                    "sra_center": "PHE",
+                    "sra_release_date": "2018-09-21",
+                    "strain": "592658",
+                    "target_acc": "PDT000382554.1",
+                    "target_creation_date": "2018-09-21",
+                    "taxid": 90371,
+                    "wgs_acc_prefix": "AAHPBF",
+                    "wgs_master_acc": "AAHPBF000000000.1",
+                    "date": "2018-09-21",
+                    "country": "United Kingdom",
+                    "num_date": 2018.7232876712328,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000382554.1",
+                    "internal_id": null
+                  },
+                  "yvalue": 9,
+                  "clade": 18
+                },
+                {
+                  "strain": "CLADE_19",
+                  "attr": {
+                    "div": 24.0,
+                    "num_date": 2020.1976661593098
+                  },
+                  "yvalue": 10.5,
+                  "clade": 19,
+                  "children": [
+                    {
+                      "strain": "PDT000620382.1",
+                      "attr": {
+                        "div": 27.0,
+                        "#label": "PDT000620382.1|SAMN13154230|GCA_009440315.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|828240|Pathogen: environmental/food/other",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "SRR10360821",
+                        "asm_acc": "GCA_009440315.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 130165,
+                        "asm_stats_length_bp": 4859069,
+                        "asm_stats_n_contig": 75,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Pathogen: environmental/food/other",
+                        "bioproject_acc": "PRJNA248792",
+                        "bioproject_center": "Public Health England",
+                        "biosample_acc": "SAMN13154230",
+                        "collected_by": "PHE",
+                        "collection_date": "2019-10",
+                        "epi_type": "clinical",
+                        "fullasm_id": 14916148,
+                        "location": "United Kingdom: United Kingdom",
+                        "host": "Homo sapiens",
+                        "host_disease": "Not available",
+                        "isolation_source": "human",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "PHE",
+                        "sra_release_date": "2019-10-30",
+                        "strain": "828240",
+                        "target_acc": "PDT000620382.1",
+                        "target_creation_date": "2019-10-30",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "AAMRQX",
+                        "wgs_master_acc": "AAMRQX000000000.1",
+                        "date": "2019-10-30",
+                        "country": "United Kingdom",
+                        "num_date": 2019.8301369863013,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000620382.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 10,
+                      "clade": 20
+                    },
+                    {
+                      "strain": "PDT000630981.1",
+                      "attr": {
+                        "div": 25.0,
+                        "#label": "PDT000630981.1|SAMN13332252|GCA_011191375.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|839924|Pathogen: environmental/food/other",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "SRR10491595",
+                        "asm_acc": "GCA_011191375.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 178373,
+                        "asm_stats_length_bp": 4863813,
+                        "asm_stats_n_contig": 68,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Pathogen: environmental/food/other",
+                        "bioproject_acc": "PRJNA248792",
+                        "bioproject_center": "Public Health England",
+                        "biosample_acc": "SAMN13332252",
+                        "collected_by": "PHE",
+                        "collection_date": "2019-11",
+                        "epi_type": "clinical",
+                        "fullasm_id": 17519038,
+                        "location": "United Kingdom: United Kingdom",
+                        "host": "Homo sapiens",
+                        "host_disease": "Not available",
+                        "isolation_source": "human",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "PHE",
+                        "sra_release_date": "2019-11-20",
+                        "strain": "839924",
+                        "target_acc": "PDT000630981.1",
+                        "target_creation_date": "2019-11-21",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "AAPMYB",
+                        "wgs_master_acc": "AAPMYB000000000.1",
+                        "date": "2019-11-21",
+                        "country": "United Kingdom",
+                        "num_date": 2019.890410958904,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000630981.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 11,
+                      "clade": 21
+                    }
+                  ]
                 }
               ]
             }
@@ -740,59 +740,6 @@
       "yvalue": 20.22823,
       "clade": 22,
       "children": [
-        {
-          "strain": "PDT000057419.2",
-          "attr": {
-            "div": 15.0,
-            "#label": "PDT000057419.2|SAMN03477934|GCA_008099085.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|34156|Pathogen: clinical or host-associated",
-            "FDA_lab_id": "Unknown",
-            "HHS_region": 0,
-            "LibraryLayout": "PAIRED",
-            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-            "Platform": "ILLUMINA",
-            "Run": "SRR1967843",
-            "asm_acc": "GCA_008099085.1",
-            "asm_level": "Contig",
-            "asm_stats_contig_n50": 107377,
-            "asm_stats_length_bp": 4884507,
-            "asm_stats_n_contig": 98,
-            "assembly_method": "SKESA v. 2.2",
-            "attribute_package": "Pathogen: clinical or host-associated",
-            "bioproject_acc": "PRJNA248792",
-            "bioproject_center": "Public Health England",
-            "biosample_acc": "SAMN03477934",
-            "collected_by": "PHE",
-            "collection_date": "2014-07",
-            "epi_type": "clinical",
-            "fullasm_id": 13412438,
-            "location": "United Kingdom: North of England",
-            "host": "Homo sapiens",
-            "host_disease": "Not available",
-            "isolation_source": "human",
-            "lat_lon": "Unknown",
-            "outbreak": "Unknown",
-            "sample_name": "Unknown",
-            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-            "serovar": "Typhimurium",
-            "species_taxid": 28901,
-            "sra_center": "GBRU",
-            "sra_release_date": "2015-04-12",
-            "strain": "34156",
-            "target_acc": "PDT000057419.2",
-            "target_creation_date": "2015-04-12",
-            "taxid": 90371,
-            "wgs_acc_prefix": "AAJPIR",
-            "wgs_master_acc": "AAJPIR000000000.1",
-            "date": "2015-04-12",
-            "country": "United Kingdom",
-            "num_date": 2015.2794520547945,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000057419.2",
-            "dcipher_ncbi_id": null
-          },
-          "yvalue": 12,
-          "clade": 23
-        },
         {
           "strain": "PDT000383231.1",
           "attr": {
@@ -840,8 +787,61 @@
             "date": "2018-09-23",
             "country": "United Kingdom",
             "num_date": 2018.7287671232878,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000383231.1",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000383231.1",
+            "internal_id": null
+          },
+          "yvalue": 12,
+          "clade": 23
+        },
+        {
+          "strain": "PDT000054037.2",
+          "attr": {
+            "div": 5.0,
+            "#label": "PDT000054037.2|SAMN03468888|GCA_010941095.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|71376|Pathogen: clinical or host-associated",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "SRR1960041",
+            "asm_acc": "GCA_010941095.1",
+            "asm_level": "Contig",
+            "asm_stats_contig_n50": 90717,
+            "asm_stats_length_bp": 4886820,
+            "asm_stats_n_contig": 119,
+            "assembly_method": "SKESA v. 2.2",
+            "attribute_package": "Pathogen: clinical or host-associated",
+            "bioproject_acc": "PRJNA248792",
+            "bioproject_center": "Public Health England",
+            "biosample_acc": "SAMN03468888",
+            "collected_by": "PHE",
+            "collection_date": "2012-11",
+            "epi_type": "clinical",
+            "fullasm_id": 17093128,
+            "location": "United Kingdom: None",
+            "host": "Homo sapiens",
+            "host_disease": "Not available",
+            "isolation_source": "human",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+            "serovar": "Typhimurium",
+            "species_taxid": 28901,
+            "sra_center": "GBRU",
+            "sra_release_date": "2015-04-10",
+            "strain": "71376",
+            "target_acc": "PDT000054037.2",
+            "target_creation_date": "2015-04-10",
+            "taxid": 90371,
+            "wgs_acc_prefix": "AAPBRQ",
+            "wgs_master_acc": "AAPBRQ000000000.1",
+            "date": "2015-04-10",
+            "country": "United Kingdom",
+            "num_date": 2015.2739726027398,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054037.2",
+            "internal_id": null
           },
           "yvalue": 13,
           "clade": 24
@@ -893,8 +893,8 @@
             "date": "2018-09-15",
             "country": "United Kingdom",
             "num_date": 2018.7068493150684,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000377688.1",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000377688.1",
+            "internal_id": null
           },
           "yvalue": 14,
           "clade": 25
@@ -946,39 +946,39 @@
             "date": "2017-03-21",
             "country": "not collected",
             "num_date": 2017.2191780821918,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000196695.1",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000196695.1",
+            "internal_id": null
           },
           "yvalue": 15,
           "clade": 26
         },
         {
-          "strain": "PDT000054037.2",
+          "strain": "PDT000057419.2",
           "attr": {
-            "div": 5.0,
-            "#label": "PDT000054037.2|SAMN03468888|GCA_010941095.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|71376|Pathogen: clinical or host-associated",
+            "div": 15.0,
+            "#label": "PDT000057419.2|SAMN03477934|GCA_008099085.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|34156|Pathogen: clinical or host-associated",
             "FDA_lab_id": "Unknown",
             "HHS_region": 0,
             "LibraryLayout": "PAIRED",
             "PFGE_PrimaryEnzyme_pattern": "Unknown",
             "PFGE_SecondaryEnzyme_pattern": "Unknown",
             "Platform": "ILLUMINA",
-            "Run": "SRR1960041",
-            "asm_acc": "GCA_010941095.1",
+            "Run": "SRR1967843",
+            "asm_acc": "GCA_008099085.1",
             "asm_level": "Contig",
-            "asm_stats_contig_n50": 90717,
-            "asm_stats_length_bp": 4886820,
-            "asm_stats_n_contig": 119,
+            "asm_stats_contig_n50": 107377,
+            "asm_stats_length_bp": 4884507,
+            "asm_stats_n_contig": 98,
             "assembly_method": "SKESA v. 2.2",
             "attribute_package": "Pathogen: clinical or host-associated",
             "bioproject_acc": "PRJNA248792",
             "bioproject_center": "Public Health England",
-            "biosample_acc": "SAMN03468888",
+            "biosample_acc": "SAMN03477934",
             "collected_by": "PHE",
-            "collection_date": "2012-11",
+            "collection_date": "2014-07",
             "epi_type": "clinical",
-            "fullasm_id": 17093128,
-            "location": "United Kingdom: None",
+            "fullasm_id": 13412438,
+            "location": "United Kingdom: North of England",
             "host": "Homo sapiens",
             "host_disease": "Not available",
             "isolation_source": "human",
@@ -989,18 +989,18 @@
             "serovar": "Typhimurium",
             "species_taxid": 28901,
             "sra_center": "GBRU",
-            "sra_release_date": "2015-04-10",
-            "strain": "71376",
-            "target_acc": "PDT000054037.2",
-            "target_creation_date": "2015-04-10",
+            "sra_release_date": "2015-04-12",
+            "strain": "34156",
+            "target_acc": "PDT000057419.2",
+            "target_creation_date": "2015-04-12",
             "taxid": 90371,
-            "wgs_acc_prefix": "AAPBRQ",
-            "wgs_master_acc": "AAPBRQ000000000.1",
-            "date": "2015-04-10",
+            "wgs_acc_prefix": "AAJPIR",
+            "wgs_master_acc": "AAJPIR000000000.1",
+            "date": "2015-04-12",
             "country": "United Kingdom",
-            "num_date": 2015.2739726027398,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054037.2",
-            "dcipher_ncbi_id": null
+            "num_date": 2015.2794520547945,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000057419.2",
+            "internal_id": null
           },
           "yvalue": 16,
           "clade": 27
@@ -1052,8 +1052,8 @@
             "date": "2015-04-10",
             "country": "United Kingdom",
             "num_date": 2015.2739726027398,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054174.2",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054174.2",
+            "internal_id": null
           },
           "yvalue": 17,
           "clade": 28
@@ -1105,8 +1105,8 @@
             "date": "2015-04-10",
             "country": "United Kingdom",
             "num_date": 2015.2739726027398,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054571.2",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054571.2",
+            "internal_id": null
           },
           "yvalue": 18,
           "clade": 29
@@ -1158,8 +1158,8 @@
             "date": "2020-02-14",
             "country": "Unknown",
             "num_date": 2020.122950819672,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000684029.1",
-            "dcipher_ncbi_id": null
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000684029.1",
+            "internal_id": null
           },
           "yvalue": 19,
           "clade": 30
@@ -1173,59 +1173,6 @@
           "yvalue": 20.5,
           "clade": 31,
           "children": [
-            {
-              "strain": "PDT000054428.2",
-              "attr": {
-                "div": 7.0,
-                "#label": "PDT000054428.2|SAMN03469684|GCA_008034445.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|71370|Pathogen: clinical or host-associated",
-                "FDA_lab_id": "Unknown",
-                "HHS_region": 0,
-                "LibraryLayout": "PAIRED",
-                "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                "Platform": "ILLUMINA",
-                "Run": "SRR1963221",
-                "asm_acc": "GCA_008034445.1",
-                "asm_level": "Contig",
-                "asm_stats_contig_n50": 106499,
-                "asm_stats_length_bp": 4898768,
-                "asm_stats_n_contig": 131,
-                "assembly_method": "SKESA v. 2.2",
-                "attribute_package": "Pathogen: clinical or host-associated",
-                "bioproject_acc": "PRJNA248792",
-                "bioproject_center": "Public Health England",
-                "biosample_acc": "SAMN03469684",
-                "collected_by": "PHE",
-                "collection_date": "2012-11",
-                "epi_type": "clinical",
-                "fullasm_id": 13282258,
-                "location": "United Kingdom: None",
-                "host": "Homo sapiens",
-                "host_disease": "Not available",
-                "isolation_source": "human",
-                "lat_lon": "Unknown",
-                "outbreak": "Unknown",
-                "sample_name": "Unknown",
-                "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                "serovar": "Typhimurium",
-                "species_taxid": 28901,
-                "sra_center": "GBRU",
-                "sra_release_date": "2015-04-10",
-                "strain": "71370",
-                "target_acc": "PDT000054428.2",
-                "target_creation_date": "2015-04-10",
-                "taxid": 90371,
-                "wgs_acc_prefix": "AAJLPY",
-                "wgs_master_acc": "AAJLPY000000000.1",
-                "date": "2015-04-10",
-                "country": "United Kingdom",
-                "num_date": 2015.2739726027398,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054428.2",
-                "dcipher_ncbi_id": null
-              },
-              "yvalue": 20,
-              "clade": 32
-            },
             {
               "strain": "PDT000054252.2",
               "attr": {
@@ -1273,8 +1220,61 @@
                 "date": "2015-04-10",
                 "country": "United Kingdom",
                 "num_date": 2015.2739726027398,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054252.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054252.2",
+                "internal_id": null
+              },
+              "yvalue": 20,
+              "clade": 32
+            },
+            {
+              "strain": "PDT000054428.2",
+              "attr": {
+                "div": 7.0,
+                "#label": "PDT000054428.2|SAMN03469684|GCA_008034445.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|71370|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR1963221",
+                "asm_acc": "GCA_008034445.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 106499,
+                "asm_stats_length_bp": 4898768,
+                "asm_stats_n_contig": 131,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA248792",
+                "bioproject_center": "Public Health England",
+                "biosample_acc": "SAMN03469684",
+                "collected_by": "PHE",
+                "collection_date": "2012-11",
+                "epi_type": "clinical",
+                "fullasm_id": 13282258,
+                "location": "United Kingdom: None",
+                "host": "Homo sapiens",
+                "host_disease": "Not available",
+                "isolation_source": "human",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                "serovar": "Typhimurium",
+                "species_taxid": 28901,
+                "sra_center": "GBRU",
+                "sra_release_date": "2015-04-10",
+                "strain": "71370",
+                "target_acc": "PDT000054428.2",
+                "target_creation_date": "2015-04-10",
+                "taxid": 90371,
+                "wgs_acc_prefix": "AAJLPY",
+                "wgs_master_acc": "AAJLPY000000000.1",
+                "date": "2015-04-10",
+                "country": "United Kingdom",
+                "num_date": 2015.2739726027398,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054428.2",
+                "internal_id": null
               },
               "yvalue": 21,
               "clade": 33
@@ -1337,8 +1337,8 @@
                 "date": "2017-09-27",
                 "country": "Suriname",
                 "num_date": 2017.7397260273972,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000245403.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000245403.2",
+                "internal_id": null
               },
               "yvalue": 22,
               "clade": 35
@@ -1399,8 +1399,8 @@
                     "date": "2018-06-15",
                     "country": "USA",
                     "num_date": 2018.454794520548,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000330283.1",
-                    "dcipher_ncbi_id": "SAMN09430629"
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000330283.1",
+                    "internal_id": "UT___1291822"
                   },
                   "yvalue": 23,
                   "clade": 37
@@ -1452,8 +1452,8 @@
                     "date": "2017-08-25",
                     "country": "USA",
                     "num_date": 2017.6493150684933,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000236446.2",
-                    "dcipher_ncbi_id": "SAMN07346400"
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000236446.2",
+                    "internal_id": "UT___1190019"
                   },
                   "yvalue": 24,
                   "clade": 38
@@ -1518,8 +1518,8 @@
                 "date": "2018-09-15",
                 "country": "United Kingdom",
                 "num_date": 2018.7068493150684,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000377608.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000377608.1",
+                "internal_id": null
               },
               "yvalue": 25,
               "clade": 40
@@ -1571,8 +1571,8 @@
                 "date": "2018-06-16",
                 "country": "United Kingdom",
                 "num_date": 2018.4575342465753,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000330450.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000330450.1",
+                "internal_id": null
               },
               "yvalue": 26,
               "clade": 41
@@ -1624,8 +1624,8 @@
                 "date": "2018-06-29",
                 "country": "United Kingdom",
                 "num_date": 2018.4931506849316,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000338481.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000338481.1",
+                "internal_id": null
               },
               "yvalue": 27,
               "clade": 42
@@ -1677,8 +1677,8 @@
                 "date": "2019-02-15",
                 "country": "United Kingdom",
                 "num_date": 2019.1260273972603,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000464765.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000464765.1",
+                "internal_id": null
               },
               "yvalue": 28,
               "clade": 43
@@ -1741,8 +1741,8 @@
                 "date": "2015-02-10",
                 "country": "United Kingdom",
                 "num_date": 2015.1123287671232,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000043243.5",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000043243.5",
+                "internal_id": null
               },
               "yvalue": 29,
               "clade": 45
@@ -1803,8 +1803,8 @@
                     "date": "2015-04-10",
                     "country": "United Kingdom",
                     "num_date": 2015.2739726027398,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000054164.2",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000054164.2",
+                    "internal_id": null
                   },
                   "yvalue": 30,
                   "clade": 47
@@ -1865,8 +1865,8 @@
                         "date": "2017-09-29",
                         "country": "United Kingdom",
                         "num_date": 2017.7452054794521,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000246287.2",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000246287.2",
+                        "internal_id": null
                       },
                       "yvalue": 31,
                       "clade": 49
@@ -1927,8 +1927,8 @@
                             "date": "2017-09-26",
                             "country": "United Kingdom",
                             "num_date": 2017.7369863013698,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000243840.2",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000243840.2",
+                            "internal_id": null
                           },
                           "yvalue": 32,
                           "clade": 51
@@ -1980,8 +1980,8 @@
                             "date": "2015-04-12",
                             "country": "United Kingdom",
                             "num_date": 2015.2794520547945,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000056320.2",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000056320.2",
+                            "internal_id": null
                           },
                           "yvalue": 33,
                           "clade": 52
@@ -2059,8 +2059,8 @@
                     "date": "2017-09-29",
                     "country": "United Kingdom",
                     "num_date": 2017.7452054794521,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000246057.2",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000246057.2",
+                    "internal_id": null
                   },
                   "yvalue": 34,
                   "clade": 55
@@ -2121,8 +2121,8 @@
                         "date": "2019-01-12",
                         "country": "United Kingdom",
                         "num_date": 2019.0328767123287,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000435981.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000435981.1",
+                        "internal_id": null
                       },
                       "yvalue": 35,
                       "clade": 57
@@ -2174,8 +2174,8 @@
                         "date": "2019-01-12",
                         "country": "United Kingdom",
                         "num_date": 2019.0328767123287,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000435912.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000435912.1",
+                        "internal_id": null
                       },
                       "yvalue": 36,
                       "clade": 58
@@ -2240,8 +2240,8 @@
                     "date": "2017-06-01",
                     "country": "United Kingdom",
                     "num_date": 2017.4164383561645,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000214725.2",
-                    "dcipher_ncbi_id": null
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000214725.2",
+                    "internal_id": null
                   },
                   "yvalue": 37,
                   "clade": 60
@@ -2255,59 +2255,6 @@
                   "yvalue": 38.5,
                   "clade": 61,
                   "children": [
-                    {
-                      "strain": "PDT000452338.1",
-                      "attr": {
-                        "div": 15.0,
-                        "#label": "PDT000452338.1|SAMEA4852946|GCA_010262775.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium||Generic",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "ERR2752904",
-                        "asm_acc": "GCA_010262775.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 279268,
-                        "asm_stats_length_bp": 4878727,
-                        "asm_stats_n_contig": 44,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Generic",
-                        "bioproject_acc": "PRJEB18998",
-                        "bioproject_center": "University Hospital Galway",
-                        "biosample_acc": "SAMEA4852946",
-                        "collected_by": "University Hospital Galway",
-                        "collection_date": "2018",
-                        "epi_type": "clinical",
-                        "fullasm_id": 16376038,
-                        "location": "Ireland",
-                        "host": "Homo sapiens",
-                        "host_disease": "Unknown",
-                        "isolation_source": "Unknown",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "UNIVERSITY HOSPITAL GALWAY",
-                        "sra_release_date": "2018-08-24",
-                        "strain": "Unknown",
-                        "target_acc": "PDT000452338.1",
-                        "target_creation_date": "2019-01-24",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "DAAQQS",
-                        "wgs_master_acc": "DAAQQS000000000.1",
-                        "date": "2019-01-24",
-                        "country": "Ireland",
-                        "num_date": 2019.0657534246575,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000452338.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 38,
-                      "clade": 62
-                    },
                     {
                       "strain": "PDT000573493.1",
                       "attr": {
@@ -2355,8 +2302,61 @@
                         "date": "2019-08-26",
                         "country": "United Kingdom",
                         "num_date": 2019.6520547945206,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000573493.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000573493.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 38,
+                      "clade": 62
+                    },
+                    {
+                      "strain": "PDT000452338.1",
+                      "attr": {
+                        "div": 15.0,
+                        "#label": "PDT000452338.1|SAMEA4852946|GCA_010262775.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium||Generic",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "ERR2752904",
+                        "asm_acc": "GCA_010262775.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 279268,
+                        "asm_stats_length_bp": 4878727,
+                        "asm_stats_n_contig": 44,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Generic",
+                        "bioproject_acc": "PRJEB18998",
+                        "bioproject_center": "University Hospital Galway",
+                        "biosample_acc": "SAMEA4852946",
+                        "collected_by": "University Hospital Galway",
+                        "collection_date": "2018",
+                        "epi_type": "clinical",
+                        "fullasm_id": 16376038,
+                        "location": "Ireland",
+                        "host": "Homo sapiens",
+                        "host_disease": "Unknown",
+                        "isolation_source": "Unknown",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "UNIVERSITY HOSPITAL GALWAY",
+                        "sra_release_date": "2018-08-24",
+                        "strain": "Unknown",
+                        "target_acc": "PDT000452338.1",
+                        "target_creation_date": "2019-01-24",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "DAAQQS",
+                        "wgs_master_acc": "DAAQQS000000000.1",
+                        "date": "2019-01-24",
+                        "country": "Ireland",
+                        "num_date": 2019.0657534246575,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000452338.1",
+                        "internal_id": null
                       },
                       "yvalue": 39,
                       "clade": 63
@@ -2372,165 +2372,6 @@
                   "yvalue": 55.92727,
                   "clade": 64,
                   "children": [
-                    {
-                      "strain": "PDT000345158.1",
-                      "attr": {
-                        "div": 16.0,
-                        "#label": "PDT000345158.1|SAMN09638098|GCA_004263555.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|493454|Pathogen: environmental/food/other",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "SRR7506986",
-                        "asm_acc": "GCA_004263555.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 149606,
-                        "asm_stats_length_bp": 4859877,
-                        "asm_stats_n_contig": 73,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Pathogen: environmental/food/other",
-                        "bioproject_acc": "PRJNA248792",
-                        "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN09638098",
-                        "collected_by": "PHE",
-                        "collection_date": "2018-02",
-                        "epi_type": "environmental/other",
-                        "fullasm_id": 8605998,
-                        "location": "United Kingdom: United Kingdom",
-                        "host": "Not available",
-                        "host_disease": "Not available",
-                        "isolation_source": "animal",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "PHE",
-                        "sra_release_date": "2018-07-12",
-                        "strain": "493454",
-                        "target_acc": "PDT000345158.1",
-                        "target_creation_date": "2018-07-12",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "AAAFYD",
-                        "wgs_master_acc": "AAAFYD000000000.1",
-                        "date": "2018-07-12",
-                        "country": "United Kingdom",
-                        "num_date": 2018.5287671232877,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000345158.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 40,
-                      "clade": 65
-                    },
-                    {
-                      "strain": "PDT000458642.1",
-                      "attr": {
-                        "div": 15.0,
-                        "#label": "PDT000458642.1|SAMN10868017|GCA_007589435.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|443553|Pathogen: environmental/food/other",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "SRR8526053",
-                        "asm_acc": "GCA_007589435.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 169714,
-                        "asm_stats_length_bp": 4858137,
-                        "asm_stats_n_contig": 74,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Pathogen: environmental/food/other",
-                        "bioproject_acc": "PRJNA248792",
-                        "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN10868017",
-                        "collected_by": "PHE",
-                        "collection_date": "2017-11",
-                        "epi_type": "clinical",
-                        "fullasm_id": 12718248,
-                        "location": "United Kingdom: United Kingdom",
-                        "host": "Homo sapiens",
-                        "host_disease": "Not available",
-                        "isolation_source": "human",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "PHE",
-                        "sra_release_date": "2019-02-04",
-                        "strain": "443553",
-                        "target_acc": "PDT000458642.1",
-                        "target_creation_date": "2019-02-04",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "AAIJJX",
-                        "wgs_master_acc": "AAIJJX000000000.1",
-                        "date": "2019-02-04",
-                        "country": "United Kingdom",
-                        "num_date": 2019.0958904109589,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000458642.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 41,
-                      "clade": 66
-                    },
-                    {
-                      "strain": "PDT000333018.1",
-                      "attr": {
-                        "div": 16.0,
-                        "#label": "PDT000333018.1|SAMN09459244|GCA_007213525.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|320969|Pathogen: environmental/food/other",
-                        "FDA_lab_id": "Unknown",
-                        "HHS_region": 0,
-                        "LibraryLayout": "PAIRED",
-                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                        "Platform": "ILLUMINA",
-                        "Run": "SRR7369087",
-                        "asm_acc": "GCA_007213525.1",
-                        "asm_level": "Contig",
-                        "asm_stats_contig_n50": 178288,
-                        "asm_stats_length_bp": 4865672,
-                        "asm_stats_n_contig": 65,
-                        "assembly_method": "SKESA v. 2.2",
-                        "attribute_package": "Pathogen: environmental/food/other",
-                        "bioproject_acc": "PRJNA248792",
-                        "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN09459244",
-                        "collected_by": "PHE",
-                        "collection_date": "2016-11",
-                        "epi_type": "clinical",
-                        "fullasm_id": 12339908,
-                        "location": "United Kingdom: United Kingdom",
-                        "host": "Homo sapiens",
-                        "host_disease": "Not available",
-                        "isolation_source": "human",
-                        "lat_lon": "Unknown",
-                        "outbreak": "Unknown",
-                        "sample_name": "Unknown",
-                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                        "serovar": "Typhimurium",
-                        "species_taxid": 28901,
-                        "sra_center": "PHE",
-                        "sra_release_date": "2018-06-20",
-                        "strain": "320969",
-                        "target_acc": "PDT000333018.1",
-                        "target_creation_date": "2018-06-20",
-                        "taxid": 90371,
-                        "wgs_acc_prefix": "AAHIMM",
-                        "wgs_master_acc": "AAHIMM000000000.1",
-                        "date": "2018-06-20",
-                        "country": "United Kingdom",
-                        "num_date": 2018.468493150685,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000333018.1",
-                        "dcipher_ncbi_id": null
-                      },
-                      "yvalue": 42,
-                      "clade": 67
-                    },
                     {
                       "strain": "PDT000452417.1",
                       "attr": {
@@ -2578,11 +2419,11 @@
                         "date": "2019-01-25",
                         "country": "United Kingdom",
                         "num_date": 2019.0684931506848,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000452417.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000452417.1",
+                        "internal_id": null
                       },
-                      "yvalue": 43,
-                      "clade": 68
+                      "yvalue": 40,
+                      "clade": 65
                     },
                     {
                       "strain": "PDT000380545.1",
@@ -2631,11 +2472,11 @@
                         "date": "2018-09-19",
                         "country": "United Kingdom",
                         "num_date": 2018.717808219178,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000380545.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000380545.1",
+                        "internal_id": null
                       },
-                      "yvalue": 44,
-                      "clade": 69
+                      "yvalue": 41,
+                      "clade": 66
                     },
                     {
                       "strain": "PDT000341086.1",
@@ -2684,11 +2525,11 @@
                         "date": "2018-07-04",
                         "country": "United Kingdom",
                         "num_date": 2018.5068493150684,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000341086.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000341086.1",
+                        "internal_id": null
                       },
-                      "yvalue": 45,
-                      "clade": 70
+                      "yvalue": 42,
+                      "clade": 67
                     },
                     {
                       "strain": "PDT000435937.1",
@@ -2737,11 +2578,11 @@
                         "date": "2019-01-12",
                         "country": "United Kingdom",
                         "num_date": 2019.0328767123287,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000435937.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000435937.1",
+                        "internal_id": null
                       },
-                      "yvalue": 46,
-                      "clade": 71
+                      "yvalue": 43,
+                      "clade": 68
                     },
                     {
                       "strain": "PDT000345106.1",
@@ -2790,11 +2631,11 @@
                         "date": "2018-07-12",
                         "country": "United Kingdom",
                         "num_date": 2018.5287671232877,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000345106.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000345106.1",
+                        "internal_id": null
                       },
-                      "yvalue": 47,
-                      "clade": 72
+                      "yvalue": 44,
+                      "clade": 69
                     },
                     {
                       "strain": "PDT000430868.1",
@@ -2843,38 +2684,38 @@
                         "date": "2019-01-05",
                         "country": "United Kingdom",
                         "num_date": 2019.013698630137,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000430868.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000430868.1",
+                        "internal_id": null
                       },
-                      "yvalue": 48,
-                      "clade": 73
+                      "yvalue": 45,
+                      "clade": 70
                     },
                     {
-                      "strain": "PDT000470642.1",
+                      "strain": "PDT000458642.1",
                       "attr": {
                         "div": 15.0,
-                        "#label": "PDT000470642.1|SAMN11031593|GCA_007432655.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|347990|Pathogen: environmental/food/other",
+                        "#label": "PDT000458642.1|SAMN10868017|GCA_007589435.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|443553|Pathogen: environmental/food/other",
                         "FDA_lab_id": "Unknown",
                         "HHS_region": 0,
                         "LibraryLayout": "PAIRED",
                         "PFGE_PrimaryEnzyme_pattern": "Unknown",
                         "PFGE_SecondaryEnzyme_pattern": "Unknown",
                         "Platform": "ILLUMINA",
-                        "Run": "SRR8648206",
-                        "asm_acc": "GCA_007432655.1",
+                        "Run": "SRR8526053",
+                        "asm_acc": "GCA_007589435.1",
                         "asm_level": "Contig",
-                        "asm_stats_contig_n50": 86516,
-                        "asm_stats_length_bp": 4849385,
-                        "asm_stats_n_contig": 156,
+                        "asm_stats_contig_n50": 169714,
+                        "asm_stats_length_bp": 4858137,
+                        "asm_stats_n_contig": 74,
                         "assembly_method": "SKESA v. 2.2",
                         "attribute_package": "Pathogen: environmental/food/other",
                         "bioproject_acc": "PRJNA248792",
                         "bioproject_center": "Public Health England",
-                        "biosample_acc": "SAMN11031593",
+                        "biosample_acc": "SAMN10868017",
                         "collected_by": "PHE",
-                        "collection_date": "2017-02",
+                        "collection_date": "2017-11",
                         "epi_type": "clinical",
-                        "fullasm_id": 12559478,
+                        "fullasm_id": 12718248,
                         "location": "United Kingdom: United Kingdom",
                         "host": "Homo sapiens",
                         "host_disease": "Not available",
@@ -2886,21 +2727,74 @@
                         "serovar": "Typhimurium",
                         "species_taxid": 28901,
                         "sra_center": "PHE",
-                        "sra_release_date": "2019-02-28",
-                        "strain": "347990",
-                        "target_acc": "PDT000470642.1",
-                        "target_creation_date": "2019-02-28",
+                        "sra_release_date": "2019-02-04",
+                        "strain": "443553",
+                        "target_acc": "PDT000458642.1",
+                        "target_creation_date": "2019-02-04",
                         "taxid": 90371,
-                        "wgs_acc_prefix": "AAHYCU",
-                        "wgs_master_acc": "AAHYCU000000000.1",
-                        "date": "2019-02-28",
+                        "wgs_acc_prefix": "AAIJJX",
+                        "wgs_master_acc": "AAIJJX000000000.1",
+                        "date": "2019-02-04",
                         "country": "United Kingdom",
-                        "num_date": 2019.1616438356164,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000470642.1",
-                        "dcipher_ncbi_id": null
+                        "num_date": 2019.0958904109589,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000458642.1",
+                        "internal_id": null
                       },
-                      "yvalue": 49,
-                      "clade": 74
+                      "yvalue": 46,
+                      "clade": 71
+                    },
+                    {
+                      "strain": "PDT000333018.1",
+                      "attr": {
+                        "div": 16.0,
+                        "#label": "PDT000333018.1|SAMN09459244|GCA_007213525.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|320969|Pathogen: environmental/food/other",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "SRR7369087",
+                        "asm_acc": "GCA_007213525.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 178288,
+                        "asm_stats_length_bp": 4865672,
+                        "asm_stats_n_contig": 65,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Pathogen: environmental/food/other",
+                        "bioproject_acc": "PRJNA248792",
+                        "bioproject_center": "Public Health England",
+                        "biosample_acc": "SAMN09459244",
+                        "collected_by": "PHE",
+                        "collection_date": "2016-11",
+                        "epi_type": "clinical",
+                        "fullasm_id": 12339908,
+                        "location": "United Kingdom: United Kingdom",
+                        "host": "Homo sapiens",
+                        "host_disease": "Not available",
+                        "isolation_source": "human",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "PHE",
+                        "sra_release_date": "2018-06-20",
+                        "strain": "320969",
+                        "target_acc": "PDT000333018.1",
+                        "target_creation_date": "2018-06-20",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "AAHIMM",
+                        "wgs_master_acc": "AAHIMM000000000.1",
+                        "date": "2018-06-20",
+                        "country": "United Kingdom",
+                        "num_date": 2018.468493150685,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000333018.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 47,
+                      "clade": 72
                     },
                     {
                       "strain": "PDT000435938.1",
@@ -2949,8 +2843,114 @@
                         "date": "2019-01-12",
                         "country": "United Kingdom",
                         "num_date": 2019.0328767123287,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000435938.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000435938.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 48,
+                      "clade": 73
+                    },
+                    {
+                      "strain": "PDT000345158.1",
+                      "attr": {
+                        "div": 16.0,
+                        "#label": "PDT000345158.1|SAMN09638098|GCA_004263555.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|493454|Pathogen: environmental/food/other",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "SRR7506986",
+                        "asm_acc": "GCA_004263555.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 149606,
+                        "asm_stats_length_bp": 4859877,
+                        "asm_stats_n_contig": 73,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Pathogen: environmental/food/other",
+                        "bioproject_acc": "PRJNA248792",
+                        "bioproject_center": "Public Health England",
+                        "biosample_acc": "SAMN09638098",
+                        "collected_by": "PHE",
+                        "collection_date": "2018-02",
+                        "epi_type": "environmental/other",
+                        "fullasm_id": 8605998,
+                        "location": "United Kingdom: United Kingdom",
+                        "host": "Not available",
+                        "host_disease": "Not available",
+                        "isolation_source": "animal",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "PHE",
+                        "sra_release_date": "2018-07-12",
+                        "strain": "493454",
+                        "target_acc": "PDT000345158.1",
+                        "target_creation_date": "2018-07-12",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "AAAFYD",
+                        "wgs_master_acc": "AAAFYD000000000.1",
+                        "date": "2018-07-12",
+                        "country": "United Kingdom",
+                        "num_date": 2018.5287671232877,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000345158.1",
+                        "internal_id": null
+                      },
+                      "yvalue": 49,
+                      "clade": 74
+                    },
+                    {
+                      "strain": "PDT000470642.1",
+                      "attr": {
+                        "div": 15.0,
+                        "#label": "PDT000470642.1|SAMN11031593|GCA_007432655.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|347990|Pathogen: environmental/food/other",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": 0,
+                        "LibraryLayout": "PAIRED",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "ILLUMINA",
+                        "Run": "SRR8648206",
+                        "asm_acc": "GCA_007432655.1",
+                        "asm_level": "Contig",
+                        "asm_stats_contig_n50": 86516,
+                        "asm_stats_length_bp": 4849385,
+                        "asm_stats_n_contig": 156,
+                        "assembly_method": "SKESA v. 2.2",
+                        "attribute_package": "Pathogen: environmental/food/other",
+                        "bioproject_acc": "PRJNA248792",
+                        "bioproject_center": "Public Health England",
+                        "biosample_acc": "SAMN11031593",
+                        "collected_by": "PHE",
+                        "collection_date": "2017-02",
+                        "epi_type": "clinical",
+                        "fullasm_id": 12559478,
+                        "location": "United Kingdom: United Kingdom",
+                        "host": "Homo sapiens",
+                        "host_disease": "Not available",
+                        "isolation_source": "human",
+                        "lat_lon": "Unknown",
+                        "outbreak": "Unknown",
+                        "sample_name": "Unknown",
+                        "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                        "serovar": "Typhimurium",
+                        "species_taxid": 28901,
+                        "sra_center": "PHE",
+                        "sra_release_date": "2019-02-28",
+                        "strain": "347990",
+                        "target_acc": "PDT000470642.1",
+                        "target_creation_date": "2019-02-28",
+                        "taxid": 90371,
+                        "wgs_acc_prefix": "AAHYCU",
+                        "wgs_master_acc": "AAHYCU000000000.1",
+                        "date": "2019-02-28",
+                        "country": "United Kingdom",
+                        "num_date": 2019.1616438356164,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000470642.1",
+                        "internal_id": null
                       },
                       "yvalue": 50,
                       "clade": 75
@@ -3002,8 +3002,8 @@
                         "date": "2019-06-11",
                         "country": "United Kingdom",
                         "num_date": 2019.4438356164383,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000519532.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000519532.1",
+                        "internal_id": null
                       },
                       "yvalue": 51,
                       "clade": 76
@@ -3055,8 +3055,8 @@
                         "date": "2019-06-13",
                         "country": "United Kingdom",
                         "num_date": 2019.4493150684932,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000522272.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000522272.1",
+                        "internal_id": null
                       },
                       "yvalue": 52,
                       "clade": 77
@@ -3108,8 +3108,8 @@
                         "date": "2018-06-01",
                         "country": "United Kingdom",
                         "num_date": 2018.4164383561645,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000322138.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000322138.1",
+                        "internal_id": null
                       },
                       "yvalue": 53,
                       "clade": 78
@@ -3161,8 +3161,8 @@
                         "date": "2018-06-10",
                         "country": "United Kingdom",
                         "num_date": 2018.441095890411,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000326454.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000326454.1",
+                        "internal_id": null
                       },
                       "yvalue": 54,
                       "clade": 79
@@ -3214,8 +3214,8 @@
                         "date": "2018-06-19",
                         "country": "United Kingdom",
                         "num_date": 2018.4657534246576,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000332355.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000332355.1",
+                        "internal_id": null
                       },
                       "yvalue": 55,
                       "clade": 80
@@ -3267,8 +3267,8 @@
                         "date": "2018-06-30",
                         "country": "United Kingdom",
                         "num_date": 2018.495890410959,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000339233.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000339233.1",
+                        "internal_id": null
                       },
                       "yvalue": 56,
                       "clade": 81
@@ -3320,8 +3320,8 @@
                         "date": "2018-07-10",
                         "country": "United Kingdom",
                         "num_date": 2018.5232876712328,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000344056.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000344056.1",
+                        "internal_id": null
                       },
                       "yvalue": 57,
                       "clade": 82
@@ -3373,8 +3373,8 @@
                         "date": "2018-07-16",
                         "country": "United Kingdom",
                         "num_date": 2018.5397260273974,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000349921.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000349921.1",
+                        "internal_id": null
                       },
                       "yvalue": 58,
                       "clade": 83
@@ -3426,8 +3426,8 @@
                         "date": "2018-09-18",
                         "country": "United Kingdom",
                         "num_date": 2018.7150684931507,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000379854.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000379854.1",
+                        "internal_id": null
                       },
                       "yvalue": 59,
                       "clade": 84
@@ -3479,8 +3479,8 @@
                         "date": "2019-02-04",
                         "country": "United Kingdom",
                         "num_date": 2019.0958904109589,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000458673.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000458673.1",
+                        "internal_id": null
                       },
                       "yvalue": 60,
                       "clade": 85
@@ -3532,8 +3532,8 @@
                         "date": "2019-02-02",
                         "country": "United Kingdom",
                         "num_date": 2019.0904109589042,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000458004.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000458004.1",
+                        "internal_id": null
                       },
                       "yvalue": 61,
                       "clade": 86
@@ -3585,8 +3585,8 @@
                         "date": "2019-03-02",
                         "country": "United Kingdom",
                         "num_date": 2019.1671232876713,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000471227.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000471227.1",
+                        "internal_id": null
                       },
                       "yvalue": 62,
                       "clade": 87
@@ -3638,8 +3638,8 @@
                         "date": "2018-05-24",
                         "country": "United Kingdom",
                         "num_date": 2018.3945205479451,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000318946.1",
-                        "dcipher_ncbi_id": null
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000318946.1",
+                        "internal_id": null
                       },
                       "yvalue": 63,
                       "clade": 88
@@ -3700,8 +3700,8 @@
                             "date": "2019-02-17",
                             "country": "United Kingdom",
                             "num_date": 2019.131506849315,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000466390.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000466390.1",
+                            "internal_id": null
                           },
                           "yvalue": 64,
                           "clade": 90
@@ -3753,8 +3753,8 @@
                             "date": "2020-10-05",
                             "country": "United Kingdom",
                             "num_date": 2020.7622950819673,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000855152.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000855152.1",
+                            "internal_id": null
                           },
                           "yvalue": 65,
                           "clade": 91
@@ -3817,8 +3817,8 @@
                             "date": "2018-09-16",
                             "country": "United Kingdom",
                             "num_date": 2018.7095890410958,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000378384.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000378384.1",
+                            "internal_id": null
                           },
                           "yvalue": 66,
                           "clade": 93
@@ -3870,8 +3870,8 @@
                             "date": "2018-06-16",
                             "country": "United Kingdom",
                             "num_date": 2018.4575342465753,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000330507.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000330507.1",
+                            "internal_id": null
                           },
                           "yvalue": 67,
                           "clade": 94
@@ -3881,181 +3881,11 @@
                     {
                       "strain": "CLADE_95",
                       "attr": {
-                        "div": 16.0,
-                        "num_date": 2018.5025536952478
-                      },
-                      "yvalue": 69.0,
-                      "clade": 95,
-                      "children": [
-                        {
-                          "strain": "PDT000381682.1",
-                          "attr": {
-                            "div": 16.0,
-                            "#label": "PDT000381682.1|SAMN10094220|GCA_007303855.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|601641|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR7879632",
-                            "asm_acc": "GCA_007303855.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 178288,
-                            "asm_stats_length_bp": 4950399,
-                            "asm_stats_n_contig": 70,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN10094220",
-                            "collected_by": "PHE",
-                            "collection_date": "2018-09",
-                            "epi_type": "clinical",
-                            "fullasm_id": 12430378,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2018-09-20",
-                            "strain": "601641",
-                            "target_acc": "PDT000381682.1",
-                            "target_creation_date": "2018-09-20",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AAHOWA",
-                            "wgs_master_acc": "AAHOWA000000000.1",
-                            "date": "2018-09-20",
-                            "country": "United Kingdom",
-                            "num_date": 2018.7205479452055,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000381682.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 68,
-                          "clade": 96
-                        },
-                        {
-                          "strain": "PDT000383309.1",
-                          "attr": {
-                            "div": 16.0,
-                            "#label": "PDT000383309.1|SAMN10104869|GCA_007311115.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|607252|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR7892261",
-                            "asm_acc": "GCA_007311115.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 169796,
-                            "asm_stats_length_bp": 4862735,
-                            "asm_stats_n_contig": 69,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN10104869",
-                            "collected_by": "PHE",
-                            "collection_date": "2018-09",
-                            "epi_type": "clinical",
-                            "fullasm_id": 12437638,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2018-09-23",
-                            "strain": "607252",
-                            "target_acc": "PDT000383309.1",
-                            "target_creation_date": "2018-09-23",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AAHPIT",
-                            "wgs_master_acc": "AAHPIT000000000.1",
-                            "date": "2018-09-23",
-                            "country": "United Kingdom",
-                            "num_date": 2018.7287671232878,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000383309.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 69,
-                          "clade": 97
-                        },
-                        {
-                          "strain": "PDT000563096.1",
-                          "attr": {
-                            "div": 16.0,
-                            "#label": "PDT000563096.1|SAMN12567724|GCA_010916515.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|787585|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR9962009",
-                            "asm_acc": "GCA_010916515.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 184336,
-                            "asm_stats_length_bp": 4868579,
-                            "asm_stats_n_contig": 69,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN12567724",
-                            "collected_by": "PHE",
-                            "collection_date": "2019-08",
-                            "epi_type": "clinical",
-                            "fullasm_id": 17065988,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2019-08-14",
-                            "strain": "787585",
-                            "target_acc": "PDT000563096.1",
-                            "target_creation_date": "2019-08-14",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AAOYOA",
-                            "wgs_master_acc": "AAOYOA000000000.1",
-                            "date": "2019-08-14",
-                            "country": "United Kingdom",
-                            "num_date": 2019.6191780821919,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000563096.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 70,
-                          "clade": 98
-                        }
-                      ]
-                    },
-                    {
-                      "strain": "CLADE_99",
-                      "attr": {
                         "div": 22.0,
                         "num_date": 2019.7738880432944
                       },
-                      "yvalue": 71.75,
-                      "clade": 99,
+                      "yvalue": 68.75,
+                      "clade": 95,
                       "children": [
                         {
                           "strain": "PDT000464192.1",
@@ -4104,20 +3934,20 @@
                             "date": "2019-02-15",
                             "country": "United Kingdom",
                             "num_date": 2019.1260273972603,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000464192.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000464192.1",
+                            "internal_id": null
                           },
-                          "yvalue": 71,
-                          "clade": 100
+                          "yvalue": 68,
+                          "clade": 96
                         },
                         {
-                          "strain": "CLADE_101",
+                          "strain": "CLADE_97",
                           "attr": {
                             "div": 23.0,
                             "num_date": 2019.9857771013021
                           },
-                          "yvalue": 72.5,
-                          "clade": 101,
+                          "yvalue": 69.5,
+                          "clade": 97,
                           "children": [
                             {
                               "strain": "PDT000455496.1",
@@ -4166,11 +3996,11 @@
                                 "date": "2019-01-30",
                                 "country": "United Kingdom",
                                 "num_date": 2019.0821917808219,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000455496.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000455496.1",
+                                "internal_id": null
                               },
-                              "yvalue": 72,
-                              "clade": 102
+                              "yvalue": 69,
+                              "clade": 98
                             },
                             {
                               "strain": "PDT000342732.1",
@@ -4219,13 +4049,183 @@
                                 "date": "2018-07-08",
                                 "country": "United Kingdom",
                                 "num_date": 2018.517808219178,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000342732.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000342732.1",
+                                "internal_id": null
                               },
-                              "yvalue": 73,
-                              "clade": 103
+                              "yvalue": 70,
+                              "clade": 99
                             }
                           ]
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_100",
+                      "attr": {
+                        "div": 16.0,
+                        "num_date": 2018.5025536952478
+                      },
+                      "yvalue": 72.0,
+                      "clade": 100,
+                      "children": [
+                        {
+                          "strain": "PDT000381682.1",
+                          "attr": {
+                            "div": 16.0,
+                            "#label": "PDT000381682.1|SAMN10094220|GCA_007303855.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|601641|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR7879632",
+                            "asm_acc": "GCA_007303855.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 178288,
+                            "asm_stats_length_bp": 4950399,
+                            "asm_stats_n_contig": 70,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN10094220",
+                            "collected_by": "PHE",
+                            "collection_date": "2018-09",
+                            "epi_type": "clinical",
+                            "fullasm_id": 12430378,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2018-09-20",
+                            "strain": "601641",
+                            "target_acc": "PDT000381682.1",
+                            "target_creation_date": "2018-09-20",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AAHOWA",
+                            "wgs_master_acc": "AAHOWA000000000.1",
+                            "date": "2018-09-20",
+                            "country": "United Kingdom",
+                            "num_date": 2018.7205479452055,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000381682.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 71,
+                          "clade": 101
+                        },
+                        {
+                          "strain": "PDT000383309.1",
+                          "attr": {
+                            "div": 16.0,
+                            "#label": "PDT000383309.1|SAMN10104869|GCA_007311115.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|607252|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR7892261",
+                            "asm_acc": "GCA_007311115.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 169796,
+                            "asm_stats_length_bp": 4862735,
+                            "asm_stats_n_contig": 69,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN10104869",
+                            "collected_by": "PHE",
+                            "collection_date": "2018-09",
+                            "epi_type": "clinical",
+                            "fullasm_id": 12437638,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2018-09-23",
+                            "strain": "607252",
+                            "target_acc": "PDT000383309.1",
+                            "target_creation_date": "2018-09-23",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AAHPIT",
+                            "wgs_master_acc": "AAHPIT000000000.1",
+                            "date": "2018-09-23",
+                            "country": "United Kingdom",
+                            "num_date": 2018.7287671232878,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000383309.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 72,
+                          "clade": 102
+                        },
+                        {
+                          "strain": "PDT000563096.1",
+                          "attr": {
+                            "div": 16.0,
+                            "#label": "PDT000563096.1|SAMN12567724|GCA_010916515.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|787585|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR9962009",
+                            "asm_acc": "GCA_010916515.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 184336,
+                            "asm_stats_length_bp": 4868579,
+                            "asm_stats_n_contig": 69,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN12567724",
+                            "collected_by": "PHE",
+                            "collection_date": "2019-08",
+                            "epi_type": "clinical",
+                            "fullasm_id": 17065988,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2019-08-14",
+                            "strain": "787585",
+                            "target_acc": "PDT000563096.1",
+                            "target_creation_date": "2019-08-14",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AAOYOA",
+                            "wgs_master_acc": "AAOYOA000000000.1",
+                            "date": "2019-08-14",
+                            "country": "United Kingdom",
+                            "num_date": 2019.6191780821919,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000563096.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 73,
+                          "clade": 103
                         }
                       ]
                     },
@@ -4238,59 +4238,6 @@
                       "yvalue": 77.5,
                       "clade": 104,
                       "children": [
-                        {
-                          "strain": "PDT000599299.1",
-                          "attr": {
-                            "div": 17.0,
-                            "#label": "PDT000599299.1|SAMN12900847|GCA_008886205.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|809995|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR10222105",
-                            "asm_acc": "GCA_008886205.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 178288,
-                            "asm_stats_length_bp": 4868249,
-                            "asm_stats_n_contig": 69,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN12900847",
-                            "collected_by": "PHE",
-                            "collection_date": "2019-09",
-                            "epi_type": "clinical",
-                            "fullasm_id": 14306988,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2019-10-03",
-                            "strain": "809995",
-                            "target_acc": "PDT000599299.1",
-                            "target_creation_date": "2019-10-03",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AALMCC",
-                            "wgs_master_acc": "AALMCC000000000.1",
-                            "date": "2019-10-03",
-                            "country": "United Kingdom",
-                            "num_date": 2019.7561643835616,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000599299.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 74,
-                          "clade": 105
-                        },
                         {
                           "strain": "PDT000713130.1",
                           "attr": {
@@ -4338,8 +4285,61 @@
                             "date": "2020-03-25",
                             "country": "United Kingdom",
                             "num_date": 2020.2322404371585,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000713130.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000713130.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 74,
+                          "clade": 105
+                        },
+                        {
+                          "strain": "PDT000599299.1",
+                          "attr": {
+                            "div": 17.0,
+                            "#label": "PDT000599299.1|SAMN12900847|GCA_008886205.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|809995|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR10222105",
+                            "asm_acc": "GCA_008886205.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 178288,
+                            "asm_stats_length_bp": 4868249,
+                            "asm_stats_n_contig": 69,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN12900847",
+                            "collected_by": "PHE",
+                            "collection_date": "2019-09",
+                            "epi_type": "clinical",
+                            "fullasm_id": 14306988,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2019-10-03",
+                            "strain": "809995",
+                            "target_acc": "PDT000599299.1",
+                            "target_creation_date": "2019-10-03",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AALMCC",
+                            "wgs_master_acc": "AALMCC000000000.1",
+                            "date": "2019-10-03",
+                            "country": "United Kingdom",
+                            "num_date": 2019.7561643835616,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000599299.1",
+                            "internal_id": null
                           },
                           "yvalue": 75,
                           "clade": 106
@@ -4391,8 +4391,8 @@
                             "date": "2019-11-21",
                             "country": "United Kingdom",
                             "num_date": 2019.890410958904,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000630985.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000630985.1",
+                            "internal_id": null
                           },
                           "yvalue": 76,
                           "clade": 107
@@ -4444,8 +4444,8 @@
                             "date": "2020-02-06",
                             "country": "United Kingdom",
                             "num_date": 2020.1010928961748,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000678669.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000678669.1",
+                            "internal_id": null
                           },
                           "yvalue": 77,
                           "clade": 108
@@ -4497,8 +4497,8 @@
                             "date": "2020-02-06",
                             "country": "United Kingdom",
                             "num_date": 2020.1010928961748,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000678679.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000678679.1",
+                            "internal_id": null
                           },
                           "yvalue": 78,
                           "clade": 109
@@ -4550,64 +4550,11 @@
                             "date": "2020-03-25",
                             "country": "United Kingdom",
                             "num_date": 2020.2322404371585,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000713020.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000713020.1",
+                            "internal_id": null
                           },
                           "yvalue": 79,
                           "clade": 110
-                        },
-                        {
-                          "strain": "PDT000596120.1",
-                          "attr": {
-                            "div": 16.0,
-                            "#label": "PDT000596120.1|SAMN12868905||Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|806058|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR10198952",
-                            "asm_acc": "Unknown",
-                            "asm_level": "Unknown",
-                            "asm_stats_contig_n50": 195781,
-                            "asm_stats_length_bp": 4867308,
-                            "asm_stats_n_contig": 71,
-                            "assembly_method": "Unknown",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN12868905",
-                            "collected_by": "PHE",
-                            "collection_date": "2019-09",
-                            "epi_type": "clinical",
-                            "fullasm_id": 0,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2019-09-29",
-                            "strain": "806058",
-                            "target_acc": "PDT000596120.1",
-                            "target_creation_date": "2019-09-29",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "Unknown",
-                            "wgs_master_acc": "Unknown",
-                            "date": "2019-09-29",
-                            "country": "United Kingdom",
-                            "num_date": 2019.7452054794521,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000596120.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 80,
-                          "clade": 111
                         },
                         {
                           "strain": "PDT000854945.1",
@@ -4656,8 +4603,61 @@
                             "date": "2020-10-05",
                             "country": "United Kingdom",
                             "num_date": 2020.7622950819673,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000854945.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000854945.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 80,
+                          "clade": 111
+                        },
+                        {
+                          "strain": "PDT000596120.1",
+                          "attr": {
+                            "div": 16.0,
+                            "#label": "PDT000596120.1|SAMN12868905||Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|806058|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR10198952",
+                            "asm_acc": "Unknown",
+                            "asm_level": "Unknown",
+                            "asm_stats_contig_n50": 195781,
+                            "asm_stats_length_bp": 4867308,
+                            "asm_stats_n_contig": 71,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN12868905",
+                            "collected_by": "PHE",
+                            "collection_date": "2019-09",
+                            "epi_type": "clinical",
+                            "fullasm_id": 0,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2019-09-29",
+                            "strain": "806058",
+                            "target_acc": "PDT000596120.1",
+                            "target_creation_date": "2019-09-29",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "Unknown",
+                            "wgs_master_acc": "Unknown",
+                            "date": "2019-09-29",
+                            "country": "United Kingdom",
+                            "num_date": 2019.7452054794521,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000596120.1",
+                            "internal_id": null
                           },
                           "yvalue": 81,
                           "clade": 112
@@ -4673,112 +4673,6 @@
                       "yvalue": 92.56818,
                       "clade": 113,
                       "children": [
-                        {
-                          "strain": "PDT000705739.1",
-                          "attr": {
-                            "div": 17.0,
-                            "#label": "PDT000705739.1|SAMN14271058|GCA_011383745.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|897270|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR11230960",
-                            "asm_acc": "GCA_011383745.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 176712,
-                            "asm_stats_length_bp": 4907213,
-                            "asm_stats_n_contig": 84,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN14271058",
-                            "collected_by": "PHE",
-                            "collection_date": "2020-02",
-                            "epi_type": "clinical",
-                            "fullasm_id": 17719058,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2020-03-04",
-                            "strain": "897270",
-                            "target_acc": "PDT000705739.1",
-                            "target_creation_date": "2020-03-04",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AAPWYN",
-                            "wgs_master_acc": "AAPWYN000000000.1",
-                            "date": "2020-03-04",
-                            "country": "United Kingdom",
-                            "num_date": 2020.1748633879781,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000705739.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 82,
-                          "clade": 114
-                        },
-                        {
-                          "strain": "PDT000724613.1",
-                          "attr": {
-                            "div": 17.0,
-                            "#label": "PDT000724613.1|SAMN14646782|GCA_012862715.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|921492|Pathogen: environmental/food/other",
-                            "FDA_lab_id": "Unknown",
-                            "HHS_region": 0,
-                            "LibraryLayout": "PAIRED",
-                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                            "Platform": "ILLUMINA",
-                            "Run": "SRR11575800",
-                            "asm_acc": "GCA_012862715.1",
-                            "asm_level": "Contig",
-                            "asm_stats_contig_n50": 93850,
-                            "asm_stats_length_bp": 4970554,
-                            "asm_stats_n_contig": 121,
-                            "assembly_method": "SKESA v. 2.2",
-                            "attribute_package": "Pathogen: environmental/food/other",
-                            "bioproject_acc": "PRJNA248792",
-                            "bioproject_center": "Public Health England",
-                            "biosample_acc": "SAMN14646782",
-                            "collected_by": "PHE",
-                            "collection_date": "2020-04",
-                            "epi_type": "clinical",
-                            "fullasm_id": 19283028,
-                            "location": "United Kingdom: United Kingdom",
-                            "host": "Homo sapiens",
-                            "host_disease": "Not available",
-                            "isolation_source": "human",
-                            "lat_lon": "Unknown",
-                            "outbreak": "Unknown",
-                            "sample_name": "Unknown",
-                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
-                            "serovar": "Typhimurium",
-                            "species_taxid": 28901,
-                            "sra_center": "PHE",
-                            "sra_release_date": "2020-04-21",
-                            "strain": "921492",
-                            "target_acc": "PDT000724613.1",
-                            "target_creation_date": "2020-04-21",
-                            "taxid": 90371,
-                            "wgs_acc_prefix": "AATKJX",
-                            "wgs_master_acc": "AATKJX000000000.1",
-                            "date": "2020-04-21",
-                            "country": "United Kingdom",
-                            "num_date": 2020.3060109289618,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000724613.1",
-                            "dcipher_ncbi_id": null
-                          },
-                          "yvalue": 83,
-                          "clade": 115
-                        },
                         {
                           "strain": "PDT000842817.1",
                           "attr": {
@@ -4826,11 +4720,11 @@
                             "date": "2020-09-23",
                             "country": "United Kingdom",
                             "num_date": 2020.7295081967213,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000842817.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000842817.1",
+                            "internal_id": null
                           },
-                          "yvalue": 84,
-                          "clade": 116
+                          "yvalue": 82,
+                          "clade": 114
                         },
                         {
                           "strain": "PDT000713135.1",
@@ -4879,11 +4773,11 @@
                             "date": "2020-03-25",
                             "country": "United Kingdom",
                             "num_date": 2020.2322404371585,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000713135.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000713135.1",
+                            "internal_id": null
                           },
-                          "yvalue": 85,
-                          "clade": 117
+                          "yvalue": 83,
+                          "clade": 115
                         },
                         {
                           "strain": "PDT000671054.1",
@@ -4932,11 +4826,11 @@
                             "date": "2020-01-27",
                             "country": "United Kingdom",
                             "num_date": 2020.0737704918033,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000671054.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000671054.1",
+                            "internal_id": null
                           },
-                          "yvalue": 86,
-                          "clade": 118
+                          "yvalue": 84,
+                          "clade": 116
                         },
                         {
                           "strain": "PDT000866730.1",
@@ -4985,11 +4879,11 @@
                             "date": "2020-10-24",
                             "country": "United Kingdom",
                             "num_date": 2020.8142076502731,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000866730.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000866730.1",
+                            "internal_id": null
                           },
-                          "yvalue": 87,
-                          "clade": 119
+                          "yvalue": 85,
+                          "clade": 117
                         },
                         {
                           "strain": "PDT000711291.1",
@@ -5038,8 +4932,114 @@
                             "date": "2020-03-21",
                             "country": "United Kingdom",
                             "num_date": 2020.22131147541,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000711291.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000711291.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 86,
+                          "clade": 118
+                        },
+                        {
+                          "strain": "PDT000705739.1",
+                          "attr": {
+                            "div": 17.0,
+                            "#label": "PDT000705739.1|SAMN14271058|GCA_011383745.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|897270|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR11230960",
+                            "asm_acc": "GCA_011383745.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 176712,
+                            "asm_stats_length_bp": 4907213,
+                            "asm_stats_n_contig": 84,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN14271058",
+                            "collected_by": "PHE",
+                            "collection_date": "2020-02",
+                            "epi_type": "clinical",
+                            "fullasm_id": 17719058,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2020-03-04",
+                            "strain": "897270",
+                            "target_acc": "PDT000705739.1",
+                            "target_creation_date": "2020-03-04",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AAPWYN",
+                            "wgs_master_acc": "AAPWYN000000000.1",
+                            "date": "2020-03-04",
+                            "country": "United Kingdom",
+                            "num_date": 2020.1748633879781,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000705739.1",
+                            "internal_id": null
+                          },
+                          "yvalue": 87,
+                          "clade": 119
+                        },
+                        {
+                          "strain": "PDT000724613.1",
+                          "attr": {
+                            "div": 17.0,
+                            "#label": "PDT000724613.1|SAMN14646782|GCA_012862715.1|Salmonella enterica subsp. enterica serovar Typhimurium|Typhimurium|921492|Pathogen: environmental/food/other",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": 0,
+                            "LibraryLayout": "PAIRED",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "ILLUMINA",
+                            "Run": "SRR11575800",
+                            "asm_acc": "GCA_012862715.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 93850,
+                            "asm_stats_length_bp": 4970554,
+                            "asm_stats_n_contig": 121,
+                            "assembly_method": "SKESA v. 2.2",
+                            "attribute_package": "Pathogen: environmental/food/other",
+                            "bioproject_acc": "PRJNA248792",
+                            "bioproject_center": "Public Health England",
+                            "biosample_acc": "SAMN14646782",
+                            "collected_by": "PHE",
+                            "collection_date": "2020-04",
+                            "epi_type": "clinical",
+                            "fullasm_id": 19283028,
+                            "location": "United Kingdom: United Kingdom",
+                            "host": "Homo sapiens",
+                            "host_disease": "Not available",
+                            "isolation_source": "human",
+                            "lat_lon": "Unknown",
+                            "outbreak": "Unknown",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Salmonella enterica subsp. enterica serovar Typhimurium",
+                            "serovar": "Typhimurium",
+                            "species_taxid": 28901,
+                            "sra_center": "PHE",
+                            "sra_release_date": "2020-04-21",
+                            "strain": "921492",
+                            "target_acc": "PDT000724613.1",
+                            "target_creation_date": "2020-04-21",
+                            "taxid": 90371,
+                            "wgs_acc_prefix": "AATKJX",
+                            "wgs_master_acc": "AATKJX000000000.1",
+                            "date": "2020-04-21",
+                            "country": "United Kingdom",
+                            "num_date": 2020.3060109289618,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000724613.1",
+                            "internal_id": null
                           },
                           "yvalue": 88,
                           "clade": 120
@@ -5091,8 +5091,8 @@
                             "date": "2020-05-15",
                             "country": "United Kingdom",
                             "num_date": 2020.3715846994535,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000735512.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000735512.1",
+                            "internal_id": null
                           },
                           "yvalue": 89,
                           "clade": 121
@@ -5144,8 +5144,8 @@
                             "date": "2020-04-24",
                             "country": "United Kingdom",
                             "num_date": 2020.3142076502731,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000725611.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000725611.1",
+                            "internal_id": null
                           },
                           "yvalue": 90,
                           "clade": 122
@@ -5197,8 +5197,8 @@
                             "date": "2019-10-03",
                             "country": "United Kingdom",
                             "num_date": 2019.7561643835616,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000599242.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000599242.1",
+                            "internal_id": null
                           },
                           "yvalue": 91,
                           "clade": 123
@@ -5250,8 +5250,8 @@
                             "date": "2020-03-04",
                             "country": "United Kingdom",
                             "num_date": 2020.1748633879781,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000705738.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000705738.1",
+                            "internal_id": null
                           },
                           "yvalue": 92,
                           "clade": 124
@@ -5303,8 +5303,8 @@
                             "date": "2020-02-08",
                             "country": "United Kingdom",
                             "num_date": 2020.1065573770493,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000679798.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000679798.1",
+                            "internal_id": null
                           },
                           "yvalue": 93,
                           "clade": 125
@@ -5356,8 +5356,8 @@
                             "date": "2020-03-04",
                             "country": "United Kingdom",
                             "num_date": 2020.1748633879781,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000705796.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000705796.1",
+                            "internal_id": null
                           },
                           "yvalue": 94,
                           "clade": 126
@@ -5409,8 +5409,8 @@
                             "date": "2020-02-18",
                             "country": "United Kingdom",
                             "num_date": 2020.1338797814208,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000687151.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000687151.1",
+                            "internal_id": null
                           },
                           "yvalue": 95,
                           "clade": 127
@@ -5462,8 +5462,8 @@
                             "date": "2020-02-18",
                             "country": "United Kingdom",
                             "num_date": 2020.1338797814208,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000687166.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000687166.1",
+                            "internal_id": null
                           },
                           "yvalue": 96,
                           "clade": 128
@@ -5515,8 +5515,8 @@
                             "date": "2020-03-25",
                             "country": "United Kingdom",
                             "num_date": 2020.2322404371585,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000713082.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000713082.1",
+                            "internal_id": null
                           },
                           "yvalue": 97,
                           "clade": 129
@@ -5568,8 +5568,8 @@
                             "date": "2020-03-25",
                             "country": "United Kingdom",
                             "num_date": 2020.2322404371585,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000713129.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000713129.1",
+                            "internal_id": null
                           },
                           "yvalue": 98,
                           "clade": 130
@@ -5621,8 +5621,8 @@
                             "date": "2020-03-26",
                             "country": "United Kingdom",
                             "num_date": 2020.2349726775956,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000714304.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000714304.1",
+                            "internal_id": null
                           },
                           "yvalue": 99,
                           "clade": 131
@@ -5674,8 +5674,8 @@
                             "date": "2020-03-28",
                             "country": "United Kingdom",
                             "num_date": 2020.24043715847,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000715622.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000715622.1",
+                            "internal_id": null
                           },
                           "yvalue": 100,
                           "clade": 132
@@ -5727,8 +5727,8 @@
                             "date": "2020-05-22",
                             "country": "United Kingdom",
                             "num_date": 2020.3907103825136,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000743805.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000743805.1",
+                            "internal_id": null
                           },
                           "yvalue": 101,
                           "clade": 133
@@ -5780,8 +5780,8 @@
                             "date": "2020-10-31",
                             "country": "United Kingdom",
                             "num_date": 2020.8333333333333,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000873764.1",
-                            "dcipher_ncbi_id": null
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000873764.1",
+                            "internal_id": null
                           },
                           "yvalue": 102,
                           "clade": 134
@@ -5842,8 +5842,8 @@
                                 "date": "2020-10-05",
                                 "country": "United Kingdom",
                                 "num_date": 2020.7622950819673,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000855018.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000855018.1",
+                                "internal_id": null
                               },
                               "yvalue": 103,
                               "clade": 136
@@ -5895,8 +5895,8 @@
                                 "date": "2020-03-23",
                                 "country": "United Kingdom",
                                 "num_date": 2020.2267759562842,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000712166.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000712166.1",
+                                "internal_id": null
                               },
                               "yvalue": 104,
                               "clade": 137
@@ -5948,8 +5948,8 @@
                                 "date": "2020-09-04",
                                 "country": "United Kingdom",
                                 "num_date": 2020.6775956284152,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000829759.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000829759.1",
+                                "internal_id": null
                               },
                               "yvalue": 105,
                               "clade": 138
@@ -6001,8 +6001,8 @@
                                 "date": "2020-09-19",
                                 "country": "United Kingdom",
                                 "num_date": 2020.7185792349726,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000013762.57?accessions=PDT000839372.1",
-                                "dcipher_ncbi_id": null
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000013762.57?accessions=PDT000839372.1",
+                                "internal_id": null
                               },
                               "yvalue": 106,
                               "clade": 139

@@ -2,7 +2,7 @@
   "updated": "2020-10-20",
   "virus_count": 605,
   "maintainer": "DCIPHER",
-  "title": "Legionellapneumophila_PDG000000026.109-PDS000008112.36",
+  "title": "legionella-pneumophila_PDG000000026.109-PDS000008112.36",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -74,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -261,6 +261,12 @@
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
       "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
+      "type": "discrete"
     }
   },
   "filters": [],
@@ -277,14 +283,6 @@
       }
     },
     "location": {
-      "USA:Michigan": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
-      },
-      "Spain: Murcia": {
-        "latitude": 38.0,
-        "longitude": -1.83
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
@@ -292,6 +290,14 @@
       "USA:New York": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
+      },
+      "USA:Michigan": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
+      },
+      "Spain: Murcia": {
+        "latitude": 38.0,
+        "longitude": -1.83
       }
     }
   },

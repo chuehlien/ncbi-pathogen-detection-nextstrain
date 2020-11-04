@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
-  "virus_count": 647,
+  "updated": "2020-11-03",
+  "virus_count": 651,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000013868.280",
+  "title": "salmonella_PDG000000002.2019-PDS000013868.281",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -287,41 +287,9 @@
         "latitude": 43.804133,
         "longitude": -120.554201
       },
-      "USA: Texas": {
-        "latitude": 30.61,
-        "longitude": -96.35
-      },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
       },
       "USA:NC": {
         "latitude": 35.759573,
@@ -330,6 +298,38 @@
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
+      },
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
+      },
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
+      },
+      "USA: Texas": {
+        "latitude": 30.61,
+        "longitude": -96.35
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       }
     }
   },

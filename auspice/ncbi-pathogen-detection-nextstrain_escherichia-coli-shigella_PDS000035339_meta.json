@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
-  "virus_count": 158,
+  "updated": "2020-11-03",
+  "virus_count": 159,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000035339.84",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000035339.85",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,18 +283,6 @@
       }
     },
     "location": {
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
-      },
-      "USA:Nebraska": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
       "USA:IA": {
         "latitude": 41.878003,
         "longitude": -93.097702
@@ -303,37 +291,49 @@
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:NE": {
+      "USA:Nebraska": {
         "latitude": 41.492537,
         "longitude": -99.901813
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
       },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA:AK": {
-        "latitude": 63.588753,
-        "longitude": -154.493062
-      },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
       "USA:IN": {
         "latitude": 40.551217,
         "longitude": -85.602364
       },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
       "USA:Kansas": {
         "latitude": 39.011902,
         "longitude": -98.484246
+      },
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
+      },
+      "USA:AK": {
+        "latitude": 63.588753,
+        "longitude": -154.493062
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       }
     }
   },

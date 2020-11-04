@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 23,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000020864.22",
+  "title": "campylobacter_PDG000000003.1230-PDS000020864.22",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -287,12 +287,24 @@
         "latitude": 32.157435,
         "longitude": -82.907123
       },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
       "USA:MS": {
         "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
+      },
+      "USA:LA": {
+        "latitude": 31.244823,
+        "longitude": -92.145024
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
         "longitude": -89.398528
       },
       "USA:CA": {
@@ -303,37 +315,25 @@
         "latitude": 40.551217,
         "longitude": -85.602364
       },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
       },
       "USA:TN": {
         "latitude": 35.517491,
         "longitude": -86.58044699999998
       },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:AL": {
         "latitude": 32.318231,
         "longitude": -86.902298
       },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
       }
     }
   },

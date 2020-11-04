@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 11,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000028989.9",
+  "title": "salmonella_PDG000000002.2019-PDS000028989.9",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,25 +283,9 @@
       }
     },
     "location": {
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "USA:IA": {
         "latitude": 41.878003,
         "longitude": -93.097702
-      },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
       },
       "USA:IN": {
         "latitude": 40.551217,
@@ -311,9 +295,25 @@
         "latitude": 40.633125,
         "longitude": -89.398528
       },
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
+      },
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
       }
     }
   },

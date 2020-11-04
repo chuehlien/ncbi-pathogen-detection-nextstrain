@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 138,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000022040.86",
+  "title": "campylobacter_PDG000000003.1230-PDS000022040.86",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -287,73 +287,41 @@
         "latitude": 35.20105,
         "longitude": -91.831833
       },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
       "USA:MO": {
         "latitude": 37.964253,
         "longitude": -91.831833
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA:DE": {
-        "latitude": 38.910832,
-        "longitude": -75.52767
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
-      },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
-      },
-      "USA:NH": {
-        "latitude": 43.193852,
-        "longitude": -71.572395
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:VT": {
-        "latitude": 44.55880300000001,
-        "longitude": -72.577841
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
       },
       "USA:CO": {
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA: Wyndmoor, Pennsylvania": {
+        "latitude": 40.08,
+        "longitude": -75.19
       },
       "USA:IL": {
         "latitude": 40.633125,
@@ -363,17 +331,49 @@
         "latitude": 41.203322,
         "longitude": -77.194525
       },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
-      "USA: Wyndmoor, Pennsylvania": {
-        "latitude": 40.08,
-        "longitude": -75.19
+      "USA:VT": {
+        "latitude": 44.55880300000001,
+        "longitude": -72.577841
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
+      },
+      "USA:DE": {
+        "latitude": 38.910832,
+        "longitude": -75.52767
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
+      },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:NH": {
+        "latitude": 43.193852,
+        "longitude": -71.572395
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       },
       "USA:GA": {
         "latitude": 32.157435,

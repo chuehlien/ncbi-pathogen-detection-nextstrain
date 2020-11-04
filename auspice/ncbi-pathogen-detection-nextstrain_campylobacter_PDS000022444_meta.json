@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 224,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000022444.117",
+  "title": "campylobacter_PDG000000003.1230-PDS000022444.117",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,25 +283,37 @@
       }
     },
     "location": {
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
       },
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       },
       "USA:NC": {
         "latitude": 35.759573,
@@ -310,18 +322,6 @@
       "USA:WY": {
         "latitude": 43.075968,
         "longitude": -107.290284
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
       }
     }
   },

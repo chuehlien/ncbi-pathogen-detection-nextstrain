@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 92,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000021796.49",
+  "title": "campylobacter_PDG000000003.1230-PDS000021796.49",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,41 +283,41 @@
       }
     },
     "location": {
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
       },
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
       },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       }
     }
   },

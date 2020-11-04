@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 6,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000044666.1",
+  "title": "campylobacter_PDG000000003.1230-PDS000044666.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,6 +283,10 @@
       }
     },
     "location": {
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
       "USA:WY": {
         "latitude": 43.075968,
         "longitude": -107.290284
@@ -290,10 +294,6 @@
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
       }
     }
   },

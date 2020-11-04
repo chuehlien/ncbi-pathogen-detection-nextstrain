@@ -4,7 +4,7 @@
     "div": 0.0,
     "num_date": 2017.282191780822
   },
-  "yvalue": 1.25,
+  "yvalue": 1.29167,
   "clade": 1,
   "children": [
     {
@@ -54,8 +54,8 @@
         "date": "2017-04-13",
         "country": "USA",
         "num_date": 2017.282191780822,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000028873.3?accessions=PDT000201642.2",
-        "dcipher_ncbi_id": "SAMN06700283"
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000201642.2",
+        "internal_id": "USDA_210284782"
       },
       "yvalue": 0,
       "clade": 2
@@ -107,8 +107,8 @@
         "date": "2017-07-25",
         "country": "USA",
         "num_date": 2017.5643835616438,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000028873.3?accessions=PDT000227133.2",
-        "dcipher_ncbi_id": "SAMN07410870"
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000227133.2",
+        "internal_id": "USDA_590410480"
       },
       "yvalue": 1,
       "clade": 3
@@ -117,9 +117,9 @@
       "strain": "CLADE_4",
       "attr": {
         "div": 1.0,
-        "num_date": 2017.389455106612
+        "num_date": 2017.4189843205675
       },
-      "yvalue": 2.75,
+      "yvalue": 2.875,
       "clade": 4,
       "children": [
         {
@@ -169,8 +169,8 @@
             "date": "2017-11-21",
             "country": "USA",
             "num_date": 2017.890410958904,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000028873.3?accessions=PDT000266420.2",
-            "dcipher_ncbi_id": "SAMN08052664"
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000266420.2",
+            "internal_id": "USDA_210337350"
           },
           "yvalue": 2,
           "clade": 5
@@ -178,65 +178,12 @@
         {
           "strain": "CLADE_6",
           "attr": {
-            "div": 8.0,
-            "num_date": 2018.1402983871433
+            "div": 7.0,
+            "num_date": 2018.2397395590413
           },
-          "yvalue": 3.5,
+          "yvalue": 3.75,
           "clade": 6,
           "children": [
-            {
-              "strain": "PDT000669802.1",
-              "attr": {
-                "div": 13.0,
-                "#label": "PDT000669802.1|SAMN13923422|GCA_011356935.1|Salmonella enterica subsp. enterica serovar Kentucky|Kentucky|FSIS22026653|Pathogen: environmental/food/other",
-                "FDA_lab_id": "Unknown",
-                "HHS_region": 0,
-                "LibraryLayout": "PAIRED",
-                "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                "Platform": "ILLUMINA",
-                "Run": "SRR10965891",
-                "asm_acc": "GCA_011356935.1",
-                "asm_level": "Contig",
-                "asm_stats_contig_n50": 60818,
-                "asm_stats_length_bp": 4911296,
-                "asm_stats_n_contig": 201,
-                "assembly_method": "SKESA v. 2.2",
-                "attribute_package": "Pathogen: environmental/food/other",
-                "bioproject_acc": "PRJNA242847",
-                "bioproject_center": "FDA",
-                "biosample_acc": "SAMN13923422",
-                "collected_by": "USDA-FSIS",
-                "collection_date": "2019",
-                "epi_type": "environmental/other",
-                "fullasm_id": 17688988,
-                "location": "USA:AR",
-                "host": "Unknown",
-                "host_disease": "Unknown",
-                "isolation_source": "raw intact chicken",
-                "lat_lon": "Unknown",
-                "outbreak": "Unknown",
-                "sample_name": "FSIS22026653",
-                "scientific_name": "Salmonella enterica subsp. enterica serovar Kentucky",
-                "serovar": "Kentucky",
-                "species_taxid": 28901,
-                "sra_center": "USDA-FSIS",
-                "sra_release_date": "2020-01-25",
-                "strain": "FSIS22026653",
-                "target_acc": "PDT000669802.1",
-                "target_creation_date": "2020-01-26",
-                "taxid": 192955,
-                "wgs_acc_prefix": "AAPVRN",
-                "wgs_master_acc": "AAPVRN000000000.1",
-                "date": "2020-01-26",
-                "country": "USA",
-                "num_date": 2020.0710382513662,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000028873.3?accessions=PDT000669802.1",
-                "dcipher_ncbi_id": "SAMN13923422"
-              },
-              "yvalue": 3,
-              "clade": 7
-            },
             {
               "strain": "PDT000646289.1",
               "attr": {
@@ -284,11 +231,128 @@
                 "date": "2019-12-17",
                 "country": "USA",
                 "num_date": 2019.9616438356165,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2017/PDS000028873.3?accessions=PDT000646289.1",
-                "dcipher_ncbi_id": "SAMN13578221"
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000646289.1",
+                "internal_id": "USDA_590595976"
               },
-              "yvalue": 4,
-              "clade": 8
+              "yvalue": 3,
+              "clade": 7
+            },
+            {
+              "strain": "CLADE_8",
+              "attr": {
+                "div": 9.0,
+                "num_date": 2018.5133246385324
+              },
+              "yvalue": 4.5,
+              "clade": 8,
+              "children": [
+                {
+                  "strain": "PDT000877048.1",
+                  "attr": {
+                    "div": 19.0,
+                    "#label": "PDT000877048.1|SAMN16628253||Salmonella enterica subsp. enterica serovar Kentucky|Kentucky|FSIS12034884|Pathogen: environmental/food/other",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR12967290",
+                    "asm_acc": "Unknown",
+                    "asm_level": "Unknown",
+                    "asm_stats_contig_n50": 126559,
+                    "asm_stats_length_bp": 5063480,
+                    "asm_stats_n_contig": 114,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Pathogen: environmental/food/other",
+                    "bioproject_acc": "PRJNA292666",
+                    "bioproject_center": "FDA",
+                    "biosample_acc": "SAMN16628253",
+                    "collected_by": "USDA-FSIS",
+                    "collection_date": "2020",
+                    "epi_type": "environmental/other",
+                    "fullasm_id": 0,
+                    "location": "USA:AR",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolation_source": "animal-chicken-young chicken",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "FSIS12034884",
+                    "scientific_name": "Salmonella enterica subsp. enterica serovar Kentucky",
+                    "serovar": "Kentucky",
+                    "species_taxid": 28901,
+                    "sra_center": "USDA-FSIS",
+                    "sra_release_date": "2020-11-02",
+                    "strain": "FSIS12034884",
+                    "target_acc": "PDT000877048.1",
+                    "target_creation_date": "2020-11-02",
+                    "taxid": 192955,
+                    "wgs_acc_prefix": "Unknown",
+                    "wgs_master_acc": "Unknown",
+                    "date": "2020-11-02",
+                    "country": "USA",
+                    "num_date": 2020.8387978142077,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000877048.1",
+                    "internal_id": null
+                  },
+                  "yvalue": 4,
+                  "clade": 9
+                },
+                {
+                  "strain": "PDT000669802.1",
+                  "attr": {
+                    "div": 11.0,
+                    "#label": "PDT000669802.1|SAMN13923422|GCA_011356935.1|Salmonella enterica subsp. enterica serovar Kentucky|Kentucky|FSIS22026653|Pathogen: environmental/food/other",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR10965891",
+                    "asm_acc": "GCA_011356935.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 60818,
+                    "asm_stats_length_bp": 4911296,
+                    "asm_stats_n_contig": 201,
+                    "assembly_method": "SKESA v. 2.2",
+                    "attribute_package": "Pathogen: environmental/food/other",
+                    "bioproject_acc": "PRJNA242847",
+                    "bioproject_center": "FDA",
+                    "biosample_acc": "SAMN13923422",
+                    "collected_by": "USDA-FSIS",
+                    "collection_date": "2019",
+                    "epi_type": "environmental/other",
+                    "fullasm_id": 17688988,
+                    "location": "USA:AR",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolation_source": "raw intact chicken",
+                    "lat_lon": "Unknown",
+                    "outbreak": "Unknown",
+                    "sample_name": "FSIS22026653",
+                    "scientific_name": "Salmonella enterica subsp. enterica serovar Kentucky",
+                    "serovar": "Kentucky",
+                    "species_taxid": 28901,
+                    "sra_center": "USDA-FSIS",
+                    "sra_release_date": "2020-01-25",
+                    "strain": "FSIS22026653",
+                    "target_acc": "PDT000669802.1",
+                    "target_creation_date": "2020-01-26",
+                    "taxid": 192955,
+                    "wgs_acc_prefix": "AAPVRN",
+                    "wgs_master_acc": "AAPVRN000000000.1",
+                    "date": "2020-01-26",
+                    "country": "USA",
+                    "num_date": 2020.0710382513662,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000028873.4?accessions=PDT000669802.1",
+                    "internal_id": "USDA_590601241"
+                  },
+                  "yvalue": 5,
+                  "clade": 10
+                }
+              ]
             }
           ]
         }

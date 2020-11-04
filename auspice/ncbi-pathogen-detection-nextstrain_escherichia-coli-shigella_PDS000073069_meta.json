@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
+  "updated": "2020-11-03",
   "virus_count": 193,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000073069.6",
+  "title": "escherichia-coli-shigella_PDG000000004.2236-PDS000073069.6",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -26,7 +26,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -74,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,91 +277,91 @@
   ],
   "geo": {
     "country": {
-      "Germany": {
-        "latitude": 49.47,
-        "longitude": 9.56
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "China": {
-        "latitude": 30.3931,
-        "longitude": 104.0353
       },
       "New Zealand": {
         "latitude": -40.9006,
         "longitude": 174.886
-      }
-    },
-    "location": {
-      "Germany": {
-        "latitude": 49.47,
-        "longitude": 9.56
-      },
-      "Canada: Calgary": {
-        "latitude": 51.0666,
-        "longitude": -114.1328
-      },
-      "Sweden: Hjalmaren Lake, Orebro": {
-        "latitude": 59.28,
-        "longitude": 15.29
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "China:Ningbo": {
-        "latitude": 29.52,
-        "longitude": 121.32
-      },
-      "USA: Pittsburgh, Pennsylvania": {
-        "latitude": 40.44,
-        "longitude": -79.97
-      },
-      "USA: Minnesota": {
-        "latitude": 46.73,
-        "longitude": -94.69
-      },
-      "USA:Fort Sam Houston": {
-        "latitude": 29.46,
-        "longitude": -98.41
-      },
-      "USA: St. Louis, MO": {
-        "latitude": 38.6357,
-        "longitude": -90.2648
-      },
-      "Sweden: Stockholm": {
-        "latitude": 59.33258,
-        "longitude": 18.0649
       },
       "China": {
         "latitude": 30.3931,
         "longitude": 104.0353
       },
-      "USA: San Diego, CA": {
-        "latitude": 32.8801,
-        "longitude": -117.234
+      "Germany": {
+        "latitude": 49.47,
+        "longitude": 9.56
+      }
+    },
+    "location": {
+      "USA: Minnesota": {
+        "latitude": 46.73,
+        "longitude": -94.69
       },
-      "USA: Baltimore": {
-        "latitude": 39.2904,
-        "longitude": -76.61220000000003
+      "New Zealand": {
+        "latitude": -40.9006,
+        "longitude": 174.886
       },
-      "United Kingdom: Oxford": {
-        "latitude": 51.75,
-        "longitude": -1.26
+      "China": {
+        "latitude": 30.3931,
+        "longitude": 104.0353
       },
       "USA: North Carolina": {
         "latitude": 35.75,
         "longitude": -79.01
       },
-      "New Zealand": {
-        "latitude": -40.9006,
-        "longitude": 174.886
+      "China:Ningbo": {
+        "latitude": 29.52,
+        "longitude": 121.32
+      },
+      "USA: St. Louis, MO": {
+        "latitude": 38.6357,
+        "longitude": -90.2648
+      },
+      "USA: San Diego, CA": {
+        "latitude": 32.8801,
+        "longitude": -117.234
+      },
+      "Sweden: Hjalmaren Lake, Orebro": {
+        "latitude": 59.28,
+        "longitude": 15.29
+      },
+      "Germany": {
+        "latitude": 49.47,
+        "longitude": 9.56
+      },
+      "USA:Fort Sam Houston": {
+        "latitude": 29.46,
+        "longitude": -98.41
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA: Baltimore": {
+        "latitude": 39.2904,
+        "longitude": -76.61220000000003
+      },
+      "Sweden: Stockholm": {
+        "latitude": 59.33258,
+        "longitude": 18.0649
+      },
+      "United Kingdom: Oxford": {
+        "latitude": 51.75,
+        "longitude": -1.26
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA: Pittsburgh, Pennsylvania": {
+        "latitude": 40.44,
+        "longitude": -79.97
+      },
+      "Canada: Calgary": {
+        "latitude": 51.0666,
+        "longitude": -114.1328
       }
     }
   },

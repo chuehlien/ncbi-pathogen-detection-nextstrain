@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
-  "virus_count": 546,
+  "updated": "2020-11-03",
+  "virus_count": 548,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000035243.92",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000035243.93",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,79 +277,155 @@
   ],
   "geo": {
     "country": {
-      "Canada": {
-        "latitude": 43.6629,
-        "longitude": -79.3957
-      },
-      "Germany": {
-        "latitude": 49.47,
-        "longitude": 9.56
-      },
       "Serbia": {
         "latitude": 44.48,
         "longitude": 20.28
-      },
-      "Thailand": {
-        "latitude": 16.4322,
-        "longitude": 102.8472
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
       },
       "Czech Republic": {
         "latitude": 49.323,
         "longitude": 16.2859
       },
-      "Sweden": {
-        "latitude": 59.33258,
-        "longitude": 18.0649
-      },
-      "Singapore": {
-        "latitude": 1.32,
-        "longitude": 103.76
+      "Canada": {
+        "latitude": 43.6629,
+        "longitude": -79.3957
       },
       "New Zealand": {
         "latitude": -40.9006,
         "longitude": 174.886
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "United Kingdom": {
-        "latitude": 53.24,
-        "longitude": -2.59
-      }
-    },
-    "location": {
-      "Canada": {
-        "latitude": 43.6629,
-        "longitude": -79.3957
+      "Singapore": {
+        "latitude": 1.32,
+        "longitude": 103.76
       },
       "Germany": {
         "latitude": 49.47,
         "longitude": 9.56
       },
+      "United Kingdom": {
+        "latitude": 53.24,
+        "longitude": -2.59
+      },
+      "Switzerland": {
+        "latitude": 46.9478,
+        "longitude": 7.422
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Thailand": {
+        "latitude": 16.4322,
+        "longitude": 102.8472
+      },
+      "Sweden": {
+        "latitude": 59.33258,
+        "longitude": 18.0649
+      }
+    },
+    "location": {
+      "Serbia": {
+        "latitude": 44.48,
+        "longitude": 20.28
+      },
+      "USA: Rochester, NY": {
+        "latitude": 43.1566,
+        "longitude": -77.6088
+      },
+      "Sweden: Skeback wastewater treatment plant, Orebro": {
+        "latitude": 59.27,
+        "longitude": 15.26
+      },
+      "Norway:Baerum": {
+        "latitude": 59.878556,
+        "longitude": 10.506083
+      },
+      "New Zealand": {
+        "latitude": -40.9006,
+        "longitude": 174.886
+      },
+      "USA: Curry County, Oregon": {
+        "latitude": 42.48,
+        "longitude": -124.1367
+      },
       "USA:MA": {
         "latitude": 42.407211,
         "longitude": -71.382437
       },
-      "USA: Soldotna landfill, Alaska": {
-        "latitude": 60.442,
-        "longitude": -151.109
+      "United Kingdom": {
+        "latitude": 53.24,
+        "longitude": -2.59
       },
-      "Sweden: Oset, Orebro": {
-        "latitude": 59.27,
-        "longitude": 15.27
+      "USA: Lower Kenai River, Alaska": {
+        "latitude": 60.549,
+        "longitude": -151.271
+      },
+      "United Arab Emirates: Tawam Hospital, Al Ain": {
+        "latitude": 24.1955,
+        "longitude": 55.65
+      },
+      "Switzerland": {
+        "latitude": 46.9478,
+        "longitude": 7.422
+      },
+      "Thailand": {
+        "latitude": 16.4322,
+        "longitude": 102.8472
+      },
+      "Sweden": {
+        "latitude": 59.33258,
+        "longitude": 18.0649
+      },
+      "South Korea: Seoul": {
+        "latitude": 37.5,
+        "longitude": 127.08
+      },
+      "USA: Pittsburgh, Pennsylvania": {
+        "latitude": 40.44,
+        "longitude": -79.97
+      },
+      "Japan:Tokyo": {
+        "latitude": 35.6684,
+        "longitude": 139.4278
       },
       "Czech Republic": {
         "latitude": 49.323,
         "longitude": 16.2859
       },
+      "Sweden: Hjalmaren Lake, Orebro": {
+        "latitude": 59.28,
+        "longitude": 15.29
+      },
+      "Canada": {
+        "latitude": 43.6629,
+        "longitude": -79.3957
+      },
+      "Sweden: Orebro": {
+        "latitude": 59.28,
+        "longitude": 15.18
+      },
+      "USA: Merced, CA": {
+        "latitude": 37.339399,
+        "longitude": -120.467653
+      },
       "Singapore": {
         "latitude": 1.32,
         "longitude": 103.76
+      },
+      "Sweden: Stockholm": {
+        "latitude": 59.33258,
+        "longitude": 18.0649
+      },
+      "USA: Soldotna landfill, Alaska": {
+        "latitude": 60.442,
+        "longitude": -151.109
+      },
+      "India: Hyderbad": {
+        "latitude": 17.43852843898638,
+        "longitude": 78.36071777273901
+      },
+      "Germany": {
+        "latitude": 49.47,
+        "longitude": 9.56
       },
       "South Africa:Pretoria": {
         "latitude": -25.76,
@@ -359,93 +435,17 @@
         "latitude": 38.63,
         "longitude": -90.26
       },
-      "New Zealand": {
-        "latitude": -40.9006,
-        "longitude": 174.886
-      },
-      "USA: Merced, CA": {
-        "latitude": 37.339399,
-        "longitude": -120.467653
-      },
-      "USA: Lower Kenai River, Alaska": {
-        "latitude": 60.549,
-        "longitude": -151.271
-      },
-      "Sweden: Orebro": {
-        "latitude": 59.28,
-        "longitude": 15.18
-      },
-      "USA: Pittsburgh, Pennsylvania": {
-        "latitude": 40.44,
-        "longitude": -79.97
-      },
-      "South Korea: Seoul": {
-        "latitude": 37.5,
-        "longitude": 127.08
-      },
-      "Sweden: Skeback wastewater treatment plant, Orebro": {
+      "Sweden: Oset, Orebro": {
         "latitude": 59.27,
-        "longitude": 15.26
-      },
-      "United Kingdom": {
-        "latitude": 53.24,
-        "longitude": -2.59
-      },
-      "Sweden: Hjalmaren Lake, Orebro": {
-        "latitude": 59.28,
-        "longitude": 15.29
-      },
-      "USA: New York City, NY": {
-        "latitude": 40.840672,
-        "longitude": -73.942005
-      },
-      "Serbia": {
-        "latitude": 44.48,
-        "longitude": 20.28
-      },
-      "Thailand": {
-        "latitude": 16.4322,
-        "longitude": 102.8472
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
-      },
-      "Sweden": {
-        "latitude": 59.33258,
-        "longitude": 18.0649
-      },
-      "Japan:Tokyo": {
-        "latitude": 35.6684,
-        "longitude": 139.4278
-      },
-      "Norway:Baerum": {
-        "latitude": 59.878556,
-        "longitude": 10.506083
-      },
-      "India: Hyderbad": {
-        "latitude": 17.43852843898638,
-        "longitude": 78.36071777273901
-      },
-      "USA: Rochester, NY": {
-        "latitude": 43.1566,
-        "longitude": -77.6088
+        "longitude": 15.27
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "Sweden: Stockholm": {
-        "latitude": 59.33258,
-        "longitude": 18.0649
-      },
-      "USA: Curry County, Oregon": {
-        "latitude": 42.48,
-        "longitude": -124.1367
-      },
-      "United Arab Emirates: Tawam Hospital, Al Ain": {
-        "latitude": 24.1955,
-        "longitude": 55.65
+      "USA: New York City, NY": {
+        "latitude": 40.840672,
+        "longitude": -73.942005
       }
     }
   },

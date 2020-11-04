@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
-  "virus_count": 91,
+  "updated": "2020-11-03",
+  "virus_count": 95,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000032477.46",
+  "title": "salmonella_PDG000000002.2019-PDS000032477.47",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,9 +283,33 @@
       }
     },
     "location": {
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
       "USA:AZ": {
         "latitude": 34.048928000000004,
         "longitude": -111.093731
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:NY": {
         "latitude": 43.299428000000006,
@@ -295,33 +319,9 @@
         "latitude": 41.878003,
         "longitude": -93.097702
       },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
       }
     }
   },

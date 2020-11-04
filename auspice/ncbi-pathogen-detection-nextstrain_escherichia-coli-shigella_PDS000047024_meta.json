@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
+  "updated": "2020-11-03",
   "virus_count": 80,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000047024.24",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000047024.24",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,13 +277,35 @@
   ],
   "geo": {
     "country": {
+      "Singapore": {
+        "latitude": 1.321394,
+        "longitude": 103.846271
+      },
+      "Ecuador": {
+        "latitude": -1.83,
+        "longitude": -78.18
+      },
       "Canada": {
         "latitude": 45.5048,
         "longitude": -73.5772
       },
+      "New Zealand": {
+        "latitude": -40.9006,
+        "longitude": 174.886
+      },
+      "Thailand": {
+        "latitude": 14.082599,
+        "longitude": 100.615441
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      }
+    },
+    "location": {
+      "Ecuador: Borbon": {
+        "latitude": 1.08,
+        "longitude": -78.99
       },
       "Singapore": {
         "latitude": 1.321394,
@@ -293,59 +315,37 @@
         "latitude": -1.83,
         "longitude": -78.18
       },
-      "Thailand": {
-        "latitude": 14.082599,
-        "longitude": 100.615441
-      },
       "New Zealand": {
         "latitude": -40.9006,
         "longitude": 174.886
-      }
-    },
-    "location": {
-      "Canada": {
-        "latitude": 45.5048,
-        "longitude": -73.5772
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "Ecuador": {
-        "latitude": -1.83,
-        "longitude": -78.18
       },
       "Thailand": {
         "latitude": 14.082599,
         "longitude": 100.615441
-      },
-      "Ecuador: Borbon": {
-        "latitude": 1.08,
-        "longitude": -78.99
       },
       "Sweden: Stockholm": {
         "latitude": 59.33258,
         "longitude": 18.0649
       },
-      "Ecuador:Esmeraldas": {
-        "latitude": 0.96,
-        "longitude": -79.65
-      },
-      "Singapore": {
-        "latitude": 1.321394,
-        "longitude": 103.846271
-      },
-      "New Zealand": {
-        "latitude": -40.9006,
-        "longitude": 174.886
-      },
       "USA: Rochester, NY": {
         "latitude": 43.1566,
         "longitude": -77.6088
+      },
+      "Canada": {
+        "latitude": 45.5048,
+        "longitude": -73.5772
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Ecuador:Esmeraldas": {
+        "latitude": 0.96,
+        "longitude": -79.65
       }
     }
   },

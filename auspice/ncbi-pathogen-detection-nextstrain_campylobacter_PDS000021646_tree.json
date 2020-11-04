@@ -4,14 +4,14 @@
     "div": 0.0,
     "num_date": 2016.8196721311476
   },
-  "yvalue": 4.71528,
+  "yvalue": 5.13194,
   "clade": 1,
   "children": [
     {
       "strain": "CLADE_2",
       "attr": {
-        "div": 1.0,
-        "num_date": 2017.0074777106702
+        "div": 0.5,
+        "num_date": 2016.9227266358414
       },
       "yvalue": 1.75,
       "clade": 2,
@@ -19,69 +19,16 @@
         {
           "strain": "CLADE_3",
           "attr": {
-            "div": 6.0,
-            "num_date": 2017.9465056082831
+            "div": 5.5,
+            "num_date": 2017.95327168278
           },
           "yvalue": 0.5,
           "clade": 3,
           "children": [
             {
-              "strain": "PDT000639064.1",
-              "attr": {
-                "div": 19.0,
-                "#label": "PDT000639064.1|SAMN13447750|GCA_010349505.1|Campylobacter jejuni||FSIS11926406|Pathogen: environmental/food/other",
-                "FDA_lab_id": "Unknown",
-                "HHS_region": 0,
-                "LibraryLayout": "PAIRED",
-                "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                "Platform": "ILLUMINA",
-                "Run": "SRR10574811",
-                "asm_acc": "GCA_010349505.1",
-                "asm_level": "Contig",
-                "asm_stats_contig_n50": 101745,
-                "asm_stats_length_bp": 1695762,
-                "asm_stats_n_contig": 33,
-                "assembly_method": "SKESA v. 2.2",
-                "attribute_package": "Pathogen: environmental/food/other",
-                "bioproject_acc": "PRJNA292668",
-                "bioproject_center": "FDA",
-                "biosample_acc": "SAMN13447750",
-                "collected_by": "USDA-FSIS",
-                "collection_date": "2019",
-                "epi_type": "environmental/other",
-                "fullasm_id": 16486928,
-                "location": "USA:IA",
-                "host": "Unknown",
-                "host_disease": "Unknown",
-                "isolation_source": "animal-cattle-steer",
-                "lat_lon": "Unknown",
-                "outbreak": "Unknown",
-                "sample_name": "FSIS11926406",
-                "scientific_name": "Campylobacter jejuni",
-                "serovar": "Unknown",
-                "species_taxid": 197,
-                "sra_center": "USDA-FSIS",
-                "sra_release_date": "2019-12-03",
-                "strain": "FSIS11926406",
-                "target_acc": "PDT000639064.1",
-                "target_creation_date": "2019-12-03",
-                "taxid": 197,
-                "wgs_acc_prefix": "AANNWY",
-                "wgs_master_acc": "AANNWY000000000.1",
-                "date": "2019-12-03",
-                "country": "USA",
-                "num_date": 2019.9232876712329,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000639064.1",
-                "dcipher_ncbi_id": "SAMN13447750"
-              },
-              "yvalue": 0,
-              "clade": 4
-            },
-            {
               "strain": "PDT000288673.2",
               "attr": {
-                "div": 19.0,
+                "div": 18.5,
                 "#label": "PDT000288673.2|SAMN08581784|GCA_005000565.1|Campylobacter jejuni||FSIS11807657|Pathogen: environmental/food/other",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -125,8 +72,61 @@
                 "date": "2018-02-22",
                 "country": "USA",
                 "num_date": 2018.145205479452,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000288673.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000288673.2",
+                "internal_id": null
+              },
+              "yvalue": 0,
+              "clade": 4
+            },
+            {
+              "strain": "PDT000639064.1",
+              "attr": {
+                "div": 19.5,
+                "#label": "PDT000639064.1|SAMN13447750|GCA_010349505.1|Campylobacter jejuni||FSIS11926406|Pathogen: environmental/food/other",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR10574811",
+                "asm_acc": "GCA_010349505.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 101745,
+                "asm_stats_length_bp": 1695762,
+                "asm_stats_n_contig": 33,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: environmental/food/other",
+                "bioproject_acc": "PRJNA292668",
+                "bioproject_center": "FDA",
+                "biosample_acc": "SAMN13447750",
+                "collected_by": "USDA-FSIS",
+                "collection_date": "2019",
+                "epi_type": "environmental/other",
+                "fullasm_id": 16486928,
+                "location": "USA:IA",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "animal-cattle-steer",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "FSIS11926406",
+                "scientific_name": "Campylobacter jejuni",
+                "serovar": "Unknown",
+                "species_taxid": 197,
+                "sra_center": "USDA-FSIS",
+                "sra_release_date": "2019-12-03",
+                "strain": "FSIS11926406",
+                "target_acc": "PDT000639064.1",
+                "target_creation_date": "2019-12-03",
+                "taxid": 197,
+                "wgs_acc_prefix": "AANNWY",
+                "wgs_master_acc": "AANNWY000000000.1",
+                "date": "2019-12-03",
+                "country": "USA",
+                "num_date": 2019.9232876712329,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000639064.1",
+                "internal_id": "USDA_210519214"
               },
               "yvalue": 1,
               "clade": 5
@@ -136,122 +136,16 @@
         {
           "strain": "CLADE_6",
           "attr": {
-            "div": 7.0,
-            "num_date": 2018.1343111878057
+            "div": 6.5,
+            "num_date": 2018.1593806921676
           },
           "yvalue": 3.0,
           "clade": 6,
           "children": [
             {
-              "strain": "PDT000154147.2",
-              "attr": {
-                "div": 15.0,
-                "#label": "PDT000154147.2|SAMN05945072|GCA_004939285.1|Campylobacter jejuni||FSIS1607947|Pathogen: environmental/food/other",
-                "FDA_lab_id": "Unknown",
-                "HHS_region": 0,
-                "LibraryLayout": "PAIRED",
-                "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                "Platform": "ILLUMINA",
-                "Run": "SRR4453687",
-                "asm_acc": "GCA_004939285.1",
-                "asm_level": "Contig",
-                "asm_stats_contig_n50": 94951,
-                "asm_stats_length_bp": 1730973,
-                "asm_stats_n_contig": 37,
-                "assembly_method": "SKESA v. 2.2",
-                "attribute_package": "Pathogen: environmental/food/other",
-                "bioproject_acc": "PRJNA292668",
-                "bioproject_center": "FDA",
-                "biosample_acc": "SAMN05945072",
-                "collected_by": "USDA-FSIS",
-                "collection_date": "2016",
-                "epi_type": "environmental/other",
-                "fullasm_id": 9519078,
-                "location": "USA:KS",
-                "host": "Unknown",
-                "host_disease": "Unknown",
-                "isolation_source": "animal-cattle-heifer",
-                "lat_lon": "Unknown",
-                "outbreak": "Unknown",
-                "sample_name": "FSIS1607947",
-                "scientific_name": "Campylobacter jejuni",
-                "serovar": "Unknown",
-                "species_taxid": 197,
-                "sra_center": "USDA-FSIS",
-                "sra_release_date": "2016-10-26",
-                "strain": "FSIS1607947",
-                "target_acc": "PDT000154147.2",
-                "target_creation_date": "2016-10-26",
-                "taxid": 197,
-                "wgs_acc_prefix": "AABPZF",
-                "wgs_master_acc": "AABPZF000000000.1",
-                "date": "2016-10-26",
-                "country": "USA",
-                "num_date": 2016.8196721311476,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000154147.2",
-                "dcipher_ncbi_id": null
-              },
-              "yvalue": 2,
-              "clade": 7
-            },
-            {
-              "strain": "PDT000538855.1",
-              "attr": {
-                "div": 14.0,
-                "#label": "PDT000538855.1|SAMN12213663|GCA_007454635.1|Campylobacter jejuni||FSIS11922370|Pathogen: environmental/food/other",
-                "FDA_lab_id": "Unknown",
-                "HHS_region": 0,
-                "LibraryLayout": "PAIRED",
-                "PFGE_PrimaryEnzyme_pattern": "Unknown",
-                "PFGE_SecondaryEnzyme_pattern": "Unknown",
-                "Platform": "ILLUMINA",
-                "Run": "SRR9643403",
-                "asm_acc": "GCA_007454635.1",
-                "asm_level": "Contig",
-                "asm_stats_contig_n50": 35139,
-                "asm_stats_length_bp": 1606456,
-                "asm_stats_n_contig": 83,
-                "assembly_method": "SKESA v. 2.2",
-                "attribute_package": "Pathogen: environmental/food/other",
-                "bioproject_acc": "PRJNA292668",
-                "bioproject_center": "FDA",
-                "biosample_acc": "SAMN12213663",
-                "collected_by": "USDA-FSIS",
-                "collection_date": "2019",
-                "epi_type": "environmental/other",
-                "fullasm_id": 12581488,
-                "location": "USA:CO",
-                "host": "Unknown",
-                "host_disease": "Unknown",
-                "isolation_source": "animal-cattle-heifer",
-                "lat_lon": "Unknown",
-                "outbreak": "Unknown",
-                "sample_name": "FSIS11922370",
-                "scientific_name": "Campylobacter jejuni",
-                "serovar": "Unknown",
-                "species_taxid": 197,
-                "sra_center": "USDA-FSIS",
-                "sra_release_date": "2019-07-03",
-                "strain": "FSIS11922370",
-                "target_acc": "PDT000538855.1",
-                "target_creation_date": "2019-07-03",
-                "taxid": 197,
-                "wgs_acc_prefix": "AAHZSY",
-                "wgs_master_acc": "AAHZSY000000000.1",
-                "date": "2019-07-03",
-                "country": "USA",
-                "num_date": 2019.504109589041,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000538855.1",
-                "dcipher_ncbi_id": null
-              },
-              "yvalue": 3,
-              "clade": 8
-            },
-            {
               "strain": "PDT000743398.1",
               "attr": {
-                "div": 19.0,
+                "div": 18.5,
                 "#label": "PDT000743398.1|SAMN14983442|GCA_013147745.1|Campylobacter jejuni||PNUSAC011212|Pathogen: clinical or host-associated",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -295,8 +189,114 @@
                 "date": "2020-05-21",
                 "country": "USA",
                 "num_date": 2020.3879781420765,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000743398.1",
-                "dcipher_ncbi_id": "SAMN14983442"
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000743398.1",
+                "internal_id": "MN___E2019014088"
+              },
+              "yvalue": 2,
+              "clade": 7
+            },
+            {
+              "strain": "PDT000538855.1",
+              "attr": {
+                "div": 13.5,
+                "#label": "PDT000538855.1|SAMN12213663|GCA_007454635.1|Campylobacter jejuni||FSIS11922370|Pathogen: environmental/food/other",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR9643403",
+                "asm_acc": "GCA_007454635.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 35139,
+                "asm_stats_length_bp": 1606456,
+                "asm_stats_n_contig": 83,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: environmental/food/other",
+                "bioproject_acc": "PRJNA292668",
+                "bioproject_center": "FDA",
+                "biosample_acc": "SAMN12213663",
+                "collected_by": "USDA-FSIS",
+                "collection_date": "2019",
+                "epi_type": "environmental/other",
+                "fullasm_id": 12581488,
+                "location": "USA:CO",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "animal-cattle-heifer",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "FSIS11922370",
+                "scientific_name": "Campylobacter jejuni",
+                "serovar": "Unknown",
+                "species_taxid": 197,
+                "sra_center": "USDA-FSIS",
+                "sra_release_date": "2019-07-03",
+                "strain": "FSIS11922370",
+                "target_acc": "PDT000538855.1",
+                "target_creation_date": "2019-07-03",
+                "taxid": 197,
+                "wgs_acc_prefix": "AAHZSY",
+                "wgs_master_acc": "AAHZSY000000000.1",
+                "date": "2019-07-03",
+                "country": "USA",
+                "num_date": 2019.504109589041,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000538855.1",
+                "internal_id": "USDA_210483207"
+              },
+              "yvalue": 3,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000154147.2",
+              "attr": {
+                "div": 14.5,
+                "#label": "PDT000154147.2|SAMN05945072|GCA_004939285.1|Campylobacter jejuni||FSIS1607947|Pathogen: environmental/food/other",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR4453687",
+                "asm_acc": "GCA_004939285.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 94951,
+                "asm_stats_length_bp": 1730973,
+                "asm_stats_n_contig": 37,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: environmental/food/other",
+                "bioproject_acc": "PRJNA292668",
+                "bioproject_center": "FDA",
+                "biosample_acc": "SAMN05945072",
+                "collected_by": "USDA-FSIS",
+                "collection_date": "2016",
+                "epi_type": "environmental/other",
+                "fullasm_id": 9519078,
+                "location": "USA:KS",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "animal-cattle-heifer",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "FSIS1607947",
+                "scientific_name": "Campylobacter jejuni",
+                "serovar": "Unknown",
+                "species_taxid": 197,
+                "sra_center": "USDA-FSIS",
+                "sra_release_date": "2016-10-26",
+                "strain": "FSIS1607947",
+                "target_acc": "PDT000154147.2",
+                "target_creation_date": "2016-10-26",
+                "taxid": 197,
+                "wgs_acc_prefix": "AABPZF",
+                "wgs_master_acc": "AABPZF000000000.1",
+                "date": "2016-10-26",
+                "country": "USA",
+                "num_date": 2016.8196721311476,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000154147.2",
+                "internal_id": null
               },
               "yvalue": 4,
               "clade": 9
@@ -308,78 +308,142 @@
     {
       "strain": "CLADE_10",
       "attr": {
-        "div": 0.0,
-        "num_date": 2016.8196721311476
+        "div": 0.5,
+        "num_date": 2016.9227266358414
       },
-      "yvalue": 7.68056,
+      "yvalue": 8.51389,
       "clade": 10,
       "children": [
         {
-          "strain": "PDT000274318.2",
+          "strain": "CLADE_11",
           "attr": {
-            "div": 14.0,
-            "#label": "PDT000274318.2|SAMN08225237|GCA_005025585.1|Campylobacter jejuni||PNUSAC003470|Pathogen: environmental/food/other",
-            "FDA_lab_id": "Unknown",
-            "HHS_region": 8,
-            "LibraryLayout": "PAIRED",
-            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-            "Platform": "ILLUMINA",
-            "Run": "SRR6413024",
-            "asm_acc": "GCA_005025585.1",
-            "asm_level": "Contig",
-            "asm_stats_contig_n50": 121384,
-            "asm_stats_length_bp": 1626291,
-            "asm_stats_n_contig": 22,
-            "assembly_method": "SKESA v. 2.2",
-            "attribute_package": "Pathogen: environmental/food/other",
-            "bioproject_acc": "PRJNA239251",
-            "bioproject_center": "Centers for Disease Control and Prevention",
-            "biosample_acc": "SAMN08225237",
-            "collected_by": "CDC",
-            "collection_date": "2013-05",
-            "epi_type": "environmental/other",
-            "fullasm_id": 9605638,
-            "location": "USA:WY",
-            "host": "Bos taurus",
-            "host_disease": "Unknown",
-            "isolation_source": "Bovine Stool",
-            "lat_lon": "Unknown",
-            "outbreak": "Unknown",
-            "sample_name": "PNUSAC003470",
-            "scientific_name": "Campylobacter jejuni",
-            "serovar": "Unknown",
-            "species_taxid": 197,
-            "sra_center": "EDLB-CDC",
-            "sra_release_date": "2017-12-22",
-            "strain": "PNUSAC003470",
-            "target_acc": "PDT000274318.2",
-            "target_creation_date": "2017-12-22",
-            "taxid": 197,
-            "wgs_acc_prefix": "AABVUX",
-            "wgs_master_acc": "AABVUX000000000.1",
-            "date": "2017-12-22",
-            "country": "USA",
-            "num_date": 2017.9753424657533,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000274318.2",
-            "dcipher_ncbi_id": "SAMN08225237"
+            "div": 12.5,
+            "num_date": 2019.3960347484938
           },
-          "yvalue": 5,
-          "clade": 11
+          "yvalue": 5.5,
+          "clade": 11,
+          "children": [
+            {
+              "strain": "PDT000274318.2",
+              "attr": {
+                "div": 13.5,
+                "#label": "PDT000274318.2|SAMN08225237|GCA_005025585.1|Campylobacter jejuni||PNUSAC003470|Pathogen: environmental/food/other",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 8,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR6413024",
+                "asm_acc": "GCA_005025585.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 121384,
+                "asm_stats_length_bp": 1626291,
+                "asm_stats_n_contig": 22,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: environmental/food/other",
+                "bioproject_acc": "PRJNA239251",
+                "bioproject_center": "Centers for Disease Control and Prevention",
+                "biosample_acc": "SAMN08225237",
+                "collected_by": "CDC",
+                "collection_date": "2013-05",
+                "epi_type": "environmental/other",
+                "fullasm_id": 9605638,
+                "location": "USA:WY",
+                "host": "Bos taurus",
+                "host_disease": "Unknown",
+                "isolation_source": "Bovine Stool",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "PNUSAC003470",
+                "scientific_name": "Campylobacter jejuni",
+                "serovar": "Unknown",
+                "species_taxid": 197,
+                "sra_center": "EDLB-CDC",
+                "sra_release_date": "2017-12-22",
+                "strain": "PNUSAC003470",
+                "target_acc": "PDT000274318.2",
+                "target_creation_date": "2017-12-22",
+                "taxid": 197,
+                "wgs_acc_prefix": "AABVUX",
+                "wgs_master_acc": "AABVUX000000000.1",
+                "date": "2017-12-22",
+                "country": "USA",
+                "num_date": 2017.9753424657533,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000274318.2",
+                "internal_id": "WY___13007080"
+              },
+              "yvalue": 5,
+              "clade": 12
+            },
+            {
+              "strain": "PDT000877257.1",
+              "attr": {
+                "div": 12.5,
+                "#label": "PDT000877257.1|SAMN16629960||Campylobacter jejuni||PNUSAC019021|Pathogen: environmental/food/other",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR12967921",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 184860,
+                "asm_stats_length_bp": 1727814,
+                "asm_stats_n_contig": 14,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: environmental/food/other",
+                "bioproject_acc": "PRJNA239251",
+                "bioproject_center": "Centers for Disease Control and Prevention",
+                "biosample_acc": "SAMN16629960",
+                "collected_by": "WY",
+                "collection_date": "Unknown",
+                "epi_type": "environmental/other",
+                "fullasm_id": 0,
+                "location": "USA",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "feces",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Campylobacter jejuni",
+                "serovar": "Unknown",
+                "species_taxid": 197,
+                "sra_center": "PULSENET",
+                "sra_release_date": "2020-11-02",
+                "strain": "PNUSAC019021",
+                "target_acc": "PDT000877257.1",
+                "target_creation_date": "2020-11-02",
+                "taxid": 197,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2020-11-02",
+                "country": "USA",
+                "num_date": 2020.8387978142077,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000877257.1",
+                "internal_id": null
+              },
+              "yvalue": 6,
+              "clade": 13
+            }
+          ]
         },
         {
-          "strain": "CLADE_12",
+          "strain": "CLADE_14",
           "attr": {
-            "div": 6.0,
-            "num_date": 2017.9465056082831
+            "div": 6.5,
+            "num_date": 2018.1593806921676
           },
-          "yvalue": 7.16667,
-          "clade": 12,
+          "yvalue": 8.16667,
+          "clade": 14,
           "children": [
             {
               "strain": "PDT000201982.2",
               "attr": {
-                "div": 14.0,
+                "div": 13.5,
                 "#label": "PDT000201982.2|SAMN06756795|GCA_005005375.1|Campylobacter jejuni||FSIS1700632|Pathogen: environmental/food/other",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -423,16 +487,16 @@
                 "date": "2017-04-14",
                 "country": "USA",
                 "num_date": 2017.2849315068493,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000201982.2",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000201982.2",
+                "internal_id": null
               },
-              "yvalue": 6,
-              "clade": 13
+              "yvalue": 7,
+              "clade": 15
             },
             {
               "strain": "PDT000250621.2",
               "attr": {
-                "div": 13.0,
+                "div": 13.5,
                 "#label": "PDT000250621.2|SAMN07775105|GCA_005026655.1|Campylobacter jejuni||FSIS11704037|Pathogen: environmental/food/other",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -476,25 +540,25 @@
                 "date": "2017-10-11",
                 "country": "USA",
                 "num_date": 2017.7780821917809,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000250621.2",
-                "dcipher_ncbi_id": "SAMN07775105"
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000250621.2",
+                "internal_id": "USDA_853287730"
               },
-              "yvalue": 7,
-              "clade": 14
+              "yvalue": 8,
+              "clade": 16
             },
             {
-              "strain": "CLADE_15",
+              "strain": "CLADE_17",
               "attr": {
-                "div": 9.0,
-                "num_date": 2018.5099223468508
+                "div": 9.5,
+                "num_date": 2018.7777077203307
               },
-              "yvalue": 8.5,
-              "clade": 15,
+              "yvalue": 9.5,
+              "clade": 17,
               "children": [
                 {
                   "strain": "PDT000673772.1",
                   "attr": {
-                    "div": 19.0,
+                    "div": 19.5,
                     "#label": "PDT000673772.1|SAMN13961722|GCA_010317585.1|Campylobacter jejuni||FSIS32003203|Pathogen: environmental/food/other",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 0,
@@ -538,16 +602,16 @@
                     "date": "2020-01-31",
                     "country": "USA",
                     "num_date": 2020.0846994535518,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000673772.1",
-                    "dcipher_ncbi_id": "SAMN13961722"
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000673772.1",
+                    "internal_id": "USDA_853405324"
                   },
-                  "yvalue": 8,
-                  "clade": 16
+                  "yvalue": 9,
+                  "clade": 18
                 },
                 {
                   "strain": "PDT000510861.1",
                   "attr": {
-                    "div": 15.0,
+                    "div": 15.5,
                     "#label": "PDT000510861.1|SAMN11915236|GCA_006223685.1|Campylobacter jejuni||PNUSAC009560|Pathogen: clinical or host-associated",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 0,
@@ -591,29 +655,29 @@
                     "date": "2019-05-31",
                     "country": "USA",
                     "num_date": 2019.4136986301369,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000510861.1",
-                    "dcipher_ncbi_id": "SAMN11915236"
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000510861.1",
+                    "internal_id": "TN___N16E003146"
                   },
-                  "yvalue": 9,
-                  "clade": 17
+                  "yvalue": 10,
+                  "clade": 19
                 }
               ]
             }
           ]
         },
         {
-          "strain": "CLADE_18",
+          "strain": "CLADE_20",
           "attr": {
-            "div": 2.0,
-            "num_date": 2017.1952832901927
+            "div": 2.5,
+            "num_date": 2017.334944654617
           },
-          "yvalue": 10.875,
-          "clade": 18,
+          "yvalue": 11.875,
+          "clade": 20,
           "children": [
             {
               "strain": "PDT000527129.1",
               "attr": {
-                "div": 13.0,
+                "div": 13.5,
                 "#label": "PDT000527129.1|SAMN12109033|GCA_007917325.1|Campylobacter jejuni||FSIS11921984|Pathogen: environmental/food/other",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -657,25 +721,25 @@
                 "date": "2019-06-22",
                 "country": "USA",
                 "num_date": 2019.4739726027397,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000527129.1",
-                "dcipher_ncbi_id": null
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000527129.1",
+                "internal_id": null
               },
-              "yvalue": 10,
-              "clade": 19
+              "yvalue": 11,
+              "clade": 21
             },
             {
-              "strain": "CLADE_20",
+              "strain": "CLADE_22",
               "attr": {
-                "div": 3.0,
-                "num_date": 2017.3830888697153
+                "div": 3.5,
+                "num_date": 2017.5410536640045
               },
-              "yvalue": 11.75,
-              "clade": 20,
+              "yvalue": 12.75,
+              "clade": 22,
               "children": [
                 {
                   "strain": "PDT000154932.2",
                   "attr": {
-                    "div": 15.0,
+                    "div": 15.5,
                     "#label": "PDT000154932.2|SAMN05952557|GCA_004940885.1|Campylobacter jejuni||PNUSAC001008|Pathogen: clinical or host-associated",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 8,
@@ -719,25 +783,25 @@
                     "date": "2016-10-31",
                     "country": "USA",
                     "num_date": 2016.8333333333333,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000154932.2",
-                    "dcipher_ncbi_id": "SAMN05952557"
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000154932.2",
+                    "internal_id": "UT___1098042"
                   },
-                  "yvalue": 11,
-                  "clade": 21
+                  "yvalue": 12,
+                  "clade": 23
                 },
                 {
-                  "strain": "CLADE_22",
+                  "strain": "CLADE_24",
                   "attr": {
-                    "div": 4.0,
-                    "num_date": 2017.5708944492378
+                    "div": 4.5,
+                    "num_date": 2017.7471626733923
                   },
-                  "yvalue": 12.5,
-                  "clade": 22,
+                  "yvalue": 13.5,
+                  "clade": 24,
                   "children": [
                     {
                       "strain": "PDT000532952.1",
                       "attr": {
-                        "div": 10.0,
+                        "div": 10.5,
                         "#label": "PDT000532952.1|SAMN12142783|GCA_006496195.1|Campylobacter jejuni||PNUSAC009907|Pathogen: clinical or host-associated",
                         "FDA_lab_id": "Unknown",
                         "HHS_region": 0,
@@ -781,16 +845,16 @@
                         "date": "2019-06-26",
                         "country": "USA",
                         "num_date": 2019.4849315068493,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000532952.1",
-                        "dcipher_ncbi_id": "SAMN12142783"
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000532952.1",
+                        "internal_id": "AR___AR1914400000302"
                       },
-                      "yvalue": 12,
-                      "clade": 23
+                      "yvalue": 13,
+                      "clade": 25
                     },
                     {
                       "strain": "PDT000324538.1",
                       "attr": {
-                        "div": 14.0,
+                        "div": 14.5,
                         "#label": "PDT000324538.1|SAMN09375281|GCA_005304365.1|Campylobacter jejuni||PNUSAC004737|Pathogen: clinical or host-associated",
                         "FDA_lab_id": "Unknown",
                         "HHS_region": 6,
@@ -834,11 +898,11 @@
                         "date": "2018-06-06",
                         "country": "USA",
                         "num_date": 2018.4301369863015,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000021646.9?accessions=PDT000324538.1",
-                        "dcipher_ncbi_id": "SAMN09375281"
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000021646.10?accessions=PDT000324538.1",
+                        "internal_id": "AR___AR1810600000427"
                       },
-                      "yvalue": 13,
-                      "clade": 24
+                      "yvalue": 14,
+                      "clade": 26
                     }
                   ]
                 }

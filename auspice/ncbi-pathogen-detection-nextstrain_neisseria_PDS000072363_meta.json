@@ -80,13 +80,13 @@
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -287,13 +287,13 @@
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "Netherlands: Bilthoven": {
-        "latitude": 52.13,
-        "longitude": 5.21
-      },
       "Ireland: Dublin": {
         "latitude": 53.3403,
         "longitude": -6.29477
+      },
+      "Netherlands: Bilthoven": {
+        "latitude": 52.13,
+        "longitude": 5.21
       }
     }
   },

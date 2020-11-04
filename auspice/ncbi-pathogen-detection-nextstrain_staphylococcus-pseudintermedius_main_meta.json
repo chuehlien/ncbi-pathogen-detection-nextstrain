@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,35 +277,35 @@
   ],
   "geo": {
     "country": {
-      "Australia": {
-        "latitude": -27.63407,
-        "longitude": 152.58766
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      },
+      "Australia": {
+        "latitude": -27.63407,
+        "longitude": 152.58766
       }
     },
     "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "USA:MI": {
         "latitude": 44.314844,
         "longitude": -85.602364
       },
-      "Germany: Neustadt": {
-        "latitude": 49.35,
-        "longitude": 8.14
+      "USA: Texas": {
+        "latitude": 30.6116,
+        "longitude": -96.3571
       },
       "Australia": {
         "latitude": -27.63407,
         "longitude": 152.58766
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA: Texas": {
-        "latitude": 30.6116,
-        "longitude": -96.3571
+      "Germany: Neustadt": {
+        "latitude": 49.35,
+        "longitude": 8.14
       }
     }
   },

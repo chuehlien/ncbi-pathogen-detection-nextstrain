@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 49,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000051263.21",
+  "title": "campylobacter_PDG000000003.1230-PDS000051263.21",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,34 +283,6 @@
       }
     },
     "location": {
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:OK": {
-        "latitude": 35.007752,
-        "longitude": -97.092877
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
-      },
       "USA:MO": {
         "latitude": 37.964253,
         "longitude": -91.831833
@@ -319,9 +291,25 @@
         "latitude": 36.778261,
         "longitude": -119.417932
       },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:OK": {
+        "latitude": 35.007752,
+        "longitude": -97.092877
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
       "USA:AR": {
         "latitude": 35.20105,
@@ -330,6 +318,18 @@
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
+      },
+      "USA:AL": {
+        "latitude": 32.318231,
+        "longitude": -86.902298
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000002
       }
     }
   },

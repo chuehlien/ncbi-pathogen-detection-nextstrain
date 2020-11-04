@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
-  "virus_count": 225,
+  "updated": "2020-11-03",
+  "virus_count": 226,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000032654.78",
+  "title": "salmonella_PDG000000002.2019-PDS000032654.79",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,26 +283,6 @@
       }
     },
     "location": {
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:NM": {
-        "latitude": 34.97273,
-        "longitude": -105.032363
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
       "USA:IN": {
         "latitude": 40.551217,
         "longitude": -85.602364
@@ -311,9 +291,29 @@
         "latitude": 40.417287,
         "longitude": -82.907123
       },
+      "USA:NM": {
+        "latitude": 34.97273,
+        "longitude": -105.032363
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
+      },
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000002
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       },
       "USA": {
         "latitude": 39.7837304,
@@ -323,9 +323,9 @@
         "latitude": 43.78444,
         "longitude": -88.787868
       },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
       }
     }
   },

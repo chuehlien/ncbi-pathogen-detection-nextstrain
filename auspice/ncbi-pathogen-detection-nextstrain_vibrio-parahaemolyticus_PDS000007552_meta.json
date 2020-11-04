@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 241,
   "maintainer": "DCIPHER",
-  "title": "vibrio-parahaemolyticus_PDG000000023.395-PDS000007552.64",
+  "title": "vibrio-parahaemolyticus_PDG000000023.396-PDS000007552.64",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,6 +277,10 @@
   ],
   "geo": {
     "country": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "Sweden": {
         "latitude": 59.32,
         "longitude": 18.059999999999945
@@ -284,16 +288,12 @@
       "Peru": {
         "latitude": -9.19,
         "longitude": -75.0152
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
       }
     },
     "location": {
-      "Peru": {
-        "latitude": -9.19,
-        "longitude": -75.0152
+      "China: Guangzhou": {
+        "latitude": 23.12,
+        "longitude": 113.26
       },
       "USA: Washington": {
         "latitude": 47.8117,
@@ -303,6 +303,30 @@
         "latitude": 27.664827,
         "longitude": -81.515754
       },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "China:Guangdong": {
+        "latitude": 23.1,
+        "longitude": 113.19
+      },
+      "China: Shenzhen": {
+        "latitude": 23.11,
+        "longitude": 113.27
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "Sweden": {
+        "latitude": 59.32,
+        "longitude": 18.059999999999945
+      },
+      "Chile: Antofagasta": {
+        "latitude": -23.5,
+        "longitude": -70.25
+      },
       "China: Guangxi": {
         "latitude": 21.37,
         "longitude": 108.2
@@ -311,37 +335,13 @@
         "latitude": -41.48,
         "longitude": -72.4
       },
-      "China: Guangzhou": {
-        "latitude": 23.12,
-        "longitude": 113.26
-      },
-      "China: Shenzhen": {
-        "latitude": 23.11,
-        "longitude": 113.27
-      },
-      "Sweden": {
-        "latitude": 59.32,
-        "longitude": 18.059999999999945
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
+      "Peru": {
+        "latitude": -9.19,
+        "longitude": -75.0152
       },
       "China: Shanghai": {
         "latitude": 31.108072,
         "longitude": 121.375984
-      },
-      "Chile: Antofagasta": {
-        "latitude": -23.5,
-        "longitude": -70.25
-      },
-      "China:Guangdong": {
-        "latitude": 23.1,
-        "longitude": 113.19
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
       }
     }
   },

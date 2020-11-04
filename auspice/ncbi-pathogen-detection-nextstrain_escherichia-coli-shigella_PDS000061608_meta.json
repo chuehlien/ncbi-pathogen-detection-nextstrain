@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
-  "virus_count": 736,
+  "updated": "2020-11-03",
+  "virus_count": 741,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000061608.44",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000061608.45",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -287,13 +287,13 @@
         "latitude": 38.905985,
         "longitude": -77.03341800000003
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

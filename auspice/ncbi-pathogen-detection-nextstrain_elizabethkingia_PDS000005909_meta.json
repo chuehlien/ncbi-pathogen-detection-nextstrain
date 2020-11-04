@@ -2,7 +2,7 @@
   "updated": "2020-09-24",
   "virus_count": 69,
   "maintainer": "DCIPHER",
-  "title": "Elizabethkingia_PDG000000014.71-PDS000005909.11",
+  "title": "elizabethkingia_PDG000000014.71-PDS000005909.11",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -260,6 +260,12 @@
       "menuItem": "ncbi_tree_url",
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },

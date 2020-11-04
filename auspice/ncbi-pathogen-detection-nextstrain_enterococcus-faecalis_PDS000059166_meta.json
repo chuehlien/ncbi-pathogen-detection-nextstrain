@@ -2,7 +2,7 @@
   "updated": "2020-10-24",
   "virus_count": 306,
   "maintainer": "DCIPHER",
-  "title": "Enterococcusfaecalis_PDG000000072.68-PDS000059166.12",
+  "title": "enterococcus-faecalis_PDG000000072.68-PDS000059166.12",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -260,6 +260,12 @@
       "menuItem": "ncbi_tree_url",
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },

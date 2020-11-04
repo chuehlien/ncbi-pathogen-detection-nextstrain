@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 83,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000021609.43",
+  "title": "campylobacter_PDG000000003.1230-PDS000021609.43",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,6 +283,18 @@
       }
     },
     "location": {
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
@@ -291,13 +303,13 @@
         "latitude": 40.551217,
         "longitude": -85.602364
       },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
       },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
       },
       "USA": {
         "latitude": 39.7837304,
@@ -307,41 +319,21 @@
         "latitude": 47.751074,
         "longitude": -120.740139
       },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
       },
       "USA:UT": {
         "latitude": 39.32098,
         "longitude": -111.093731
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
       },
       "USA:LA": {
         "latitude": 31.244823,
         "longitude": -92.145024
-      },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
-      },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
       },
       "USA:VT": {
         "latitude": 44.55880300000001,
@@ -351,9 +343,17 @@
         "latitude": 35.20105,
         "longitude": -91.831833
       },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
       "USA:NC": {
         "latitude": 35.759573,

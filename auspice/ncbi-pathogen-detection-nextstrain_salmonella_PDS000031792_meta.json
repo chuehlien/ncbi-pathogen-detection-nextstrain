@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 201,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000031792.57",
+  "title": "salmonella_PDG000000002.2019-PDS000031792.57",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,16 +277,64 @@
   ],
   "geo": {
     "country": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "United Kingdom": {
+        "latitude": 54.0,
+        "longitude": -2.0
+      }
+    },
+    "location": {
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
+      },
+      "Israel: Haifa": {
+        "latitude": 32.7732,
+        "longitude": 35.0197
+      },
+      "USA:HI": {
+        "latitude": 19.898682,
+        "longitude": -155.66585700000005
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
+      },
       "United Kingdom": {
         "latitude": 54.0,
         "longitude": -2.0
       },
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      }
-    },
-    "location": {
+      },
       "USA:OK": {
         "latitude": 35.007752,
         "longitude": -97.092877
@@ -295,69 +343,21 @@
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       },
       "USA:KS": {
         "latitude": 39.011902,
         "longitude": -98.484246
       },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
-      "United Kingdom": {
-        "latitude": 54.0,
-        "longitude": -2.0
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
       "USA:NC": {
         "latitude": 35.759573,
         "longitude": -79.0193
       },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
-      },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "Israel: Haifa": {
-        "latitude": 32.7732,
-        "longitude": 35.0197
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
-      "USA:HI": {
-        "latitude": 19.898682,
-        "longitude": -155.66585700000005
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       }
     }
   },

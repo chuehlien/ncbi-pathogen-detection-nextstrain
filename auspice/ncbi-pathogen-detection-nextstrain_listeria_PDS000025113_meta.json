@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-30",
+  "updated": "2020-11-03",
   "virus_count": 84,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.1959-PDS000025113.9",
+  "title": "listeria_PDG000000001.1961-PDS000025113.9",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -26,7 +26,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "discrete"
+      "type": "continuous"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -74,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,9 +283,25 @@
       }
     },
     "location": {
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:NC": {
+        "latitude": 35.759573,
+        "longitude": -79.0193
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
       },
       "USA:CA": {
         "latitude": 36.778261,
@@ -295,41 +311,25 @@
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
       "USA:KS": {
         "latitude": 39.011902,
         "longitude": -98.484246
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       },
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
       },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
       "USA:New York": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
       },
-      "USA:NC": {
-        "latitude": 35.759573,
-        "longitude": -79.0193
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       }
     }
   },

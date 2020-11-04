@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 18,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000029232.13",
+  "title": "salmonella_PDG000000002.2019-PDS000029232.13",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,20 +277,16 @@
   ],
   "geo": {
     "country": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "Singapore": {
         "latitude": 1.3521,
         "longitude": 103.8198
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
       }
     },
     "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "Singapore": {
         "latitude": 1.3521,
         "longitude": 103.8198
@@ -298,6 +294,10 @@
       "Australia: NSW": {
         "latitude": -31.2532,
         "longitude": 146.9211
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

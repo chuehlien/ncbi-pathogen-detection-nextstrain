@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 41,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000031070.21",
+  "title": "salmonella_PDG000000002.2019-PDS000031070.21",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,17 +283,29 @@
       }
     },
     "location": {
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
-      },
-      "USA:WV": {
-        "latitude": 38.597626,
-        "longitude": -80.454903
-      },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
       },
       "USA:IA": {
         "latitude": 41.878003,
@@ -303,45 +315,33 @@
         "latitude": 40.551217,
         "longitude": -85.602364
       },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
+      "USA:AL": {
+        "latitude": 32.318231,
+        "longitude": -86.902298
+      },
+      "USA:WV": {
+        "latitude": 38.597626,
+        "longitude": -80.454903
       },
       "USA:UT": {
         "latitude": 39.32098,
         "longitude": -111.093731
       },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
+      "USA:ND": {
+        "latitude": 47.551493,
+        "longitude": -101.002012
       },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:ND": {
-        "latitude": 47.551493,
-        "longitude": -101.002012
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       }
     }
   },

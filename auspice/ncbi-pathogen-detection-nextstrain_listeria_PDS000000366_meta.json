@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-30",
+  "updated": "2020-11-03",
   "virus_count": 1523,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.1959-PDS000000366.397",
+  "title": "listeria_PDG000000001.1961-PDS000000366.397",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -26,7 +26,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "discrete"
+      "type": "continuous"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -74,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,9 +283,25 @@
       }
     },
     "location": {
-      "USA:AK": {
-        "latitude": 63.588753,
-        "longitude": -154.493062
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "USA:ME": {
+        "latitude": 45.253783,
+        "longitude": -69.44546899999999
+      },
+      "USA:AL": {
+        "latitude": 32.318231,
+        "longitude": -86.902298
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:NM": {
+        "latitude": 34.97273,
+        "longitude": -105.032363
       },
       "USA:PA": {
         "latitude": 41.203322,
@@ -295,45 +311,69 @@
         "latitude": 47.751074,
         "longitude": -120.740139
       },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:RI": {
-        "latitude": 41.580095,
-        "longitude": -71.477429
-      },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:NM": {
-        "latitude": 34.97273,
-        "longitude": -105.032363
-      },
-      "Canada:British Columbia,Burnaby": {
-        "latitude": 49.2667,
-        "longitude": -122.9667
-      },
-      "USA:ME": {
-        "latitude": 45.253783,
-        "longitude": -69.44546899999999
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
       },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
       },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Canada:Quebec,Saint-Hyacinthe": {
+        "latitude": 45.6167,
+        "longitude": -72.95
+      },
+      "USA:OK": {
+        "latitude": 35.007752,
+        "longitude": -97.092877
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
       },
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
+      },
+      "USA:WV": {
+        "latitude": 38.597626,
+        "longitude": -80.454903
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:LA": {
+        "latitude": 31.244823,
+        "longitude": -92.145024
+      },
+      "USA: Georgia": {
+        "latitude": 32.16,
+        "longitude": -82.9
+      },
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
+      },
+      "USA:AK": {
+        "latitude": 63.588753,
+        "longitude": -154.493062
+      },
+      "USA:HI": {
+        "latitude": 19.898682,
+        "longitude": -155.66585700000005
+      },
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
+      },
+      "USA:New York": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       },
       "USA:IN": {
         "latitude": 40.551217,
@@ -347,77 +387,73 @@
         "latitude": 32.157435,
         "longitude": -82.907123
       },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
-      "Canada:Nova Scotia,Dartmouth": {
-        "latitude": 44.6667,
-        "longitude": -63.5667
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:New York": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:VA": {
         "latitude": 37.431573,
         "longitude": -78.656894
       },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       },
       "USA:MA": {
         "latitude": 42.407211,
         "longitude": -71.382437
       },
-      "USA:WV": {
-        "latitude": 38.597626,
-        "longitude": -80.454903
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
       },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
+      },
+      "USA:RI": {
+        "latitude": 41.580095,
+        "longitude": -71.477429
+      },
+      "Canada: Toronto": {
+        "latitude": 46.6532,
+        "longitude": -79.3832
       },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA:HI": {
-        "latitude": 19.898682,
-        "longitude": -155.66585700000005
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000002
       },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       },
-      "USA: Georgia": {
-        "latitude": 32.16,
-        "longitude": -82.9
+      "Canada:British Columbia,Burnaby": {
+        "latitude": 49.2667,
+        "longitude": -122.9667
       },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "Canada:Nova Scotia,Dartmouth": {
+        "latitude": 44.6667,
+        "longitude": -63.5667
       },
       "USA:MD": {
         "latitude": 39.045755,
@@ -427,53 +463,17 @@
         "latitude": 35.759573,
         "longitude": -79.0193
       },
-      "USA:OK": {
-        "latitude": 35.007752,
-        "longitude": -97.092877
-      },
       "Canada:British Columbia,Vancouver": {
         "latitude": 49.2827,
         "longitude": -123.1207
       },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
-      },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
-      },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
-      },
-      "Canada: Toronto": {
-        "latitude": 46.6532,
-        "longitude": -79.3832
-      },
-      "Canada:Quebec,Saint-Hyacinthe": {
-        "latitude": 45.6167,
-        "longitude": -72.95
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
       }
     }
   },

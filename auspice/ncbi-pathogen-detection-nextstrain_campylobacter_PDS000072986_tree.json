@@ -11,7 +11,7 @@
       "strain": "PDT000854536.1",
       "attr": {
         "div": 6.0,
-        "#label": "PDT000854536.1|SAMN16363630||Campylobacter jejuni||212930|Pathogen: environmental/food/other",
+        "#label": "PDT000854536.1|SAMN16363630|GCA_015141455.1|Campylobacter jejuni||212930|Pathogen: environmental/food/other",
         "FDA_lab_id": "Unknown",
         "HHS_region": 0,
         "LibraryLayout": "PAIRED",
@@ -19,12 +19,12 @@
         "PFGE_SecondaryEnzyme_pattern": "Unknown",
         "Platform": "ILLUMINA",
         "Run": "SRR12769619",
-        "asm_acc": "Unknown",
-        "asm_level": "Unknown",
+        "asm_acc": "GCA_015141455.1",
+        "asm_level": "Contig",
         "asm_stats_contig_n50": 62550,
         "asm_stats_length_bp": 1699596,
         "asm_stats_n_contig": 56,
-        "assembly_method": "Unknown",
+        "assembly_method": "SKESA v. 2.2",
         "attribute_package": "Pathogen: environmental/food/other",
         "bioproject_acc": "PRJNA505131",
         "bioproject_center": "Public Health England",
@@ -32,7 +32,7 @@
         "collected_by": "PHE",
         "collection_date": "2015-11",
         "epi_type": "clinical",
-        "fullasm_id": 0,
+        "fullasm_id": 22804328,
         "location": "United Kingdom: United Kingdom",
         "host": "Homo sapiens",
         "host_disease": "Not available",
@@ -49,13 +49,13 @@
         "target_acc": "PDT000854536.1",
         "target_creation_date": "2020-10-05",
         "taxid": 197,
-        "wgs_acc_prefix": "Unknown",
-        "wgs_master_acc": "Unknown",
+        "wgs_acc_prefix": "AAWXGZ",
+        "wgs_master_acc": "AAWXGZ000000000.1",
         "date": "2020-10-05",
         "country": "United Kingdom",
         "num_date": 2020.7622950819673,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000072986.1?accessions=PDT000854536.1",
-        "dcipher_ncbi_id": null
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000072986.1?accessions=PDT000854536.1",
+        "internal_id": null
       },
       "yvalue": 0,
       "clade": 2
@@ -107,8 +107,8 @@
         "date": "2020-02-24",
         "country": "France",
         "num_date": 2020.1502732240438,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000072986.1?accessions=PDT000690814.1",
-        "dcipher_ncbi_id": null
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000072986.1?accessions=PDT000690814.1",
+        "internal_id": null
       },
       "yvalue": 1,
       "clade": 3
@@ -160,8 +160,8 @@
         "date": "2020-07-19",
         "country": "USA",
         "num_date": 2020.549180327869,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1229/PDS000072986.1?accessions=PDT000792104.1",
-        "dcipher_ncbi_id": "SAMN15579654"
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000072986.1?accessions=PDT000792104.1",
+        "internal_id": "AK___1530800019"
       },
       "yvalue": 2,
       "clade": 4

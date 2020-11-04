@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
+  "updated": "2020-11-03",
   "virus_count": 50,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000052522.12",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000052522.12",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,21 +283,9 @@
       }
     },
     "location": {
-      "Sweden: Orebro": {
-        "latitude": 59.28,
-        "longitude": 15.18
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA: Pittsburgh, Pennsylvania": {
-        "latitude": 40.44,
-        "longitude": -79.97
+      "USA: Rochester, NY": {
+        "latitude": 43.1566,
+        "longitude": -77.6088
       },
       "Mexico: Puebla": {
         "latitude": 18.9442,
@@ -307,9 +295,21 @@
         "latitude": 37.339399,
         "longitude": -120.467653
       },
-      "USA: Rochester, NY": {
-        "latitude": 43.1566,
-        "longitude": -77.6088
+      "Sweden: Orebro": {
+        "latitude": 59.28,
+        "longitude": 15.18
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA: Pittsburgh, Pennsylvania": {
+        "latitude": 40.44,
+        "longitude": -79.97
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       }
     }
   },

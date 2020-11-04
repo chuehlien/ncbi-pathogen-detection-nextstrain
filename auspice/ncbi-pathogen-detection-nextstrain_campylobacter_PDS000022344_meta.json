@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
+  "updated": "2020-11-03",
   "virus_count": 24,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1229-PDS000022344.15",
+  "title": "campylobacter_PDG000000003.1230-PDS000022344.15",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,45 +283,45 @@
       }
     },
     "location": {
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
       "USA:WY": {
         "latitude": 43.075968,
         "longitude": -107.290284
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
       },
       "USA:CO": {
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
       "USA:MA": {
         "latitude": 42.407211,
         "longitude": -71.382437
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
       },
       "USA:NJ": {
         "latitude": 40.058324,
         "longitude": -74.405661
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

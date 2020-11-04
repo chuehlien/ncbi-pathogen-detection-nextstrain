@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,29 +283,29 @@
       }
     },
     "location": {
-      "China:Zhejiang,Linghu": {
-        "latitude": 30.6868,
-        "longitude": 120.148
-      },
-      "USA: Alabama": {
-        "latitude": 32.77,
-        "longitude": -88.04
-      },
       "China: Huizhou": {
         "latitude": 23.0,
         "longitude": 114.0
       },
-      "USA:Alabama": {
-        "latitude": 32.77,
-        "longitude": -88.04
+      "China:Zhejiang,Linghu": {
+        "latitude": 30.6868,
+        "longitude": 120.148
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
+      "USA: Alabama": {
+        "latitude": 32.77,
+        "longitude": -88.04
+      },
       "China: Guanqiao fishery farm": {
         "latitude": 30.52,
         "longitude": 114.38
+      },
+      "USA:Alabama": {
+        "latitude": 32.77,
+        "longitude": -88.04
       }
     }
   },

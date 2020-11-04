@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
-  "virus_count": 329,
+  "updated": "2020-11-03",
+  "virus_count": 330,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000035065.116",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000035065.117",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,9 +283,17 @@
       }
     },
     "location": {
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
+      "South Korea: Seoul": {
+        "latitude": 37.54022177661231,
+        "longitude": 127.001953125
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA:LA": {
+        "latitude": 31.244823,
+        "longitude": -92.145024
       },
       "USA:MN": {
         "latitude": 46.729553,
@@ -295,21 +303,21 @@
         "latitude": 31.968599,
         "longitude": -99.901813
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
       "USA:NE": {
         "latitude": 41.492537,
         "longitude": -99.901813
       },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
+      },
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
       },
       "USA:TN": {
         "latitude": 35.517491,
@@ -319,25 +327,17 @@
         "latitude": 44.314844,
         "longitude": -85.602364
       },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "South Korea: Seoul": {
-        "latitude": 37.54022177661231,
-        "longitude": 127.001953125
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:IL": {
         "latitude": 40.633125,
         "longitude": -89.398528
       },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       }
     }
   },

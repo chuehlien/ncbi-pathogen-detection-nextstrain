@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 28,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000031925.9",
+  "title": "salmonella_PDG000000002.2019-PDS000031925.9",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,13 +283,13 @@
       }
     },
     "location": {
-      "USA:NC": {
-        "latitude": 35.759573,
-        "longitude": -79.0193
-      },
       "USA:SC": {
         "latitude": 33.836081,
         "longitude": -81.163725
+      },
+      "USA:NC": {
+        "latitude": 35.759573,
+        "longitude": -79.0193
       },
       "USA:TX": {
         "latitude": 31.968599,

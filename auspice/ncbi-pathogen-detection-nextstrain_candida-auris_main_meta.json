@@ -2,7 +2,7 @@
   "updated": "2020-10-20",
   "virus_count": 280,
   "maintainer": "DCIPHER",
-  "title": "Candidaauris_PDG000000067.23-PDS000050611.7",
+  "title": "candida-auris_PDG000000067.23-PDS000050611.7",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -261,6 +261,12 @@
       "legendTitle": "ncbi_tree_url",
       "key": "ncbi_tree_url",
       "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
+      "type": "discrete"
     }
   },
   "filters": [],
@@ -271,10 +277,6 @@
   ],
   "geo": {
     "country": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "Saudi Arabia": {
         "latitude": 28.86,
         "longitude": 45.08
@@ -282,20 +284,16 @@
       "United Arab Emirates": {
         "latitude": 23.68,
         "longitude": 54.54
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     },
     "location": {
-      "USA: New jersey": {
-        "latitude": 40.0583,
-        "longitude": -74.4057
-      },
-      "USA: Maryland": {
-        "latitude": 39.0458,
-        "longitude": -76.6413
-      },
-      "USA: Florida": {
-        "latitude": 27.6648,
-        "longitude": -81.5158
+      "USA: Massachusetts": {
+        "latitude": 42.4072,
+        "longitude": -71.3824
       },
       "Saudi Arabia": {
         "latitude": 28.86,
@@ -305,17 +303,25 @@
         "latitude": 40.0583,
         "longitude": -74.4057
       },
-      "USA: New York": {
-        "latitude": 40.7128,
-        "longitude": -74.006
+      "USA: New jersey": {
+        "latitude": 40.0583,
+        "longitude": -74.4057
       },
-      "USA: Massachusetts": {
-        "latitude": 42.4072,
-        "longitude": -71.3824
+      "USA: Florida": {
+        "latitude": 27.6648,
+        "longitude": -81.5158
       },
       "United Arab Emirates": {
         "latitude": 23.68,
         "longitude": 54.54
+      },
+      "USA: Maryland": {
+        "latitude": 39.0458,
+        "longitude": -76.6413
+      },
+      "USA: New York": {
+        "latitude": 40.7128,
+        "longitude": -74.006
       }
     }
   },

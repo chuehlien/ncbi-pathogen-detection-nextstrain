@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-01",
+  "updated": "2020-11-03",
   "virus_count": 231,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2233-PDS000039843.48",
+  "title": "escherichia-coli-shigella_PDG000000004.2235-PDS000039843.48",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,91 +277,87 @@
   ],
   "geo": {
     "country": {
-      "Canada": {
-        "latitude": 45.5048,
-        "longitude": -73.5772
+      "Singapore": {
+        "latitude": 1.32,
+        "longitude": 103.76
       },
-      "South Africa": {
-        "latitude": -33.97,
-        "longitude": 18.57
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Tanzania": {
-        "latitude": -3.32,
-        "longitude": 37.327
+      "New Zealand": {
+        "latitude": -40.9006,
+        "longitude": 174.886
       },
       "Thailand": {
         "latitude": 16.4322,
         "longitude": 102.8249
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
       },
       "Argentina": {
         "latitude": -34.6037,
         "longitude": -58.3816
       },
-      "Singapore": {
-        "latitude": 1.32,
-        "longitude": 103.76
-      },
-      "New Zealand": {
-        "latitude": -40.9006,
-        "longitude": 174.886
-      }
-    },
-    "location": {
-      "Canada": {
-        "latitude": 45.5048,
-        "longitude": -73.5772
-      },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
-      },
-      "India: Vellore": {
-        "latitude": 12.92,
-        "longitude": 79.13
-      },
       "Tanzania": {
         "latitude": -3.32,
         "longitude": 37.327
-      },
-      "Canada: Calgary": {
-        "latitude": 51.0666,
-        "longitude": -114.1328
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
-      },
-      "Thailand": {
-        "latitude": 16.4322,
-        "longitude": 102.8249
-      },
-      "Ecuador:Esmeraldas": {
-        "latitude": 0.96,
-        "longitude": -79.65
-      },
-      "Singapore": {
-        "latitude": 1.32,
-        "longitude": 103.76
-      },
-      "New Zealand": {
-        "latitude": -40.9006,
-        "longitude": 174.886
       },
       "South Africa": {
         "latitude": -33.97,
         "longitude": 18.57
       },
+      "Switzerland": {
+        "latitude": 46.9478,
+        "longitude": 7.422
+      },
+      "Canada": {
+        "latitude": 45.5048,
+        "longitude": -73.5772
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      }
+    },
+    "location": {
+      "Singapore": {
+        "latitude": 1.32,
+        "longitude": 103.76
+      },
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "Thailand": {
+        "latitude": 16.4322,
+        "longitude": 102.8249
+      },
+      "USA: Minnesota": {
+        "latitude": 46.73,
+        "longitude": -94.69
+      },
+      "South Africa": {
+        "latitude": -33.97,
+        "longitude": 18.57
+      },
+      "Switzerland": {
+        "latitude": 46.9478,
+        "longitude": 7.422
+      },
+      "Tanzania": {
+        "latitude": -3.32,
+        "longitude": 37.327
+      },
+      "Canada": {
+        "latitude": 45.5048,
+        "longitude": -73.5772
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "New Zealand": {
+        "latitude": -40.9006,
+        "longitude": 174.886
+      },
+      "India: Vellore": {
+        "latitude": 12.92,
+        "longitude": 79.13
       },
       "Argentina": {
         "latitude": -34.6037,
@@ -371,9 +367,13 @@
         "latitude": 59.33258,
         "longitude": 18.0649
       },
-      "USA: Minnesota": {
-        "latitude": 46.73,
-        "longitude": -94.69
+      "Canada: Calgary": {
+        "latitude": 51.0666,
+        "longitude": -114.1328
+      },
+      "Ecuador:Esmeraldas": {
+        "latitude": 0.96,
+        "longitude": -79.65
       }
     }
   },

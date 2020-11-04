@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-30",
+  "updated": "2020-11-03",
   "virus_count": 639,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.1959-PDS000024645.90",
+  "title": "listeria_PDG000000001.1961-PDS000024645.90",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -26,7 +26,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "discrete"
+      "type": "continuous"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -74,19 +74,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,29 +277,21 @@
   ],
   "geo": {
     "country": {
-      "Italy": {
-        "latitude": 40.178873,
-        "longitude": 17.753906
-      },
-      "Germany": {
-        "latitude": 51.71905,
-        "longitude": 8.75439
-      },
-      "Australia": {
-        "latitude": -42.88,
-        "longitude": 147.33
+      "Ireland": {
+        "latitude": 53.3077,
+        "longitude": -6.2243
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "Romania": {
-        "latitude": 45.26,
-        "longitude": 28.0
-      },
       "France": {
         "latitude": 48.866667,
         "longitude": 2.333346
+      },
+      "Australia": {
+        "latitude": -42.88,
+        "longitude": 147.33
       },
       "Austria": {
         "latitude": 48.12,
@@ -309,27 +301,31 @@
         "latitude": 46.8182,
         "longitude": 8.2275
       },
-      "Ireland": {
-        "latitude": 53.3077,
-        "longitude": -6.2243
-      }
-    },
-    "location": {
       "Germany": {
         "latitude": 51.71905,
         "longitude": 8.75439
       },
-      "Australia": {
-        "latitude": -42.88,
-        "longitude": 147.33
+      "Romania": {
+        "latitude": 45.26,
+        "longitude": 28.0
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "Italy": {
+        "latitude": 40.178873,
+        "longitude": 17.753906
+      }
+    },
+    "location": {
+      "Ireland": {
+        "latitude": 53.3077,
+        "longitude": -6.2243
       },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "France": {
+        "latitude": 48.866667,
+        "longitude": 2.333346
       },
       "USA:RI": {
         "latitude": 41.580095,
@@ -339,29 +335,29 @@
         "latitude": 42.407211,
         "longitude": -71.382437
       },
+      "Australia": {
+        "latitude": -42.88,
+        "longitude": 147.33
+      },
       "Austria": {
         "latitude": 48.12,
         "longitude": 16.22
       },
-      "Switzerland": {
-        "latitude": 46.8182,
-        "longitude": 8.2275
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "Ireland": {
-        "latitude": 53.3077,
-        "longitude": -6.2243
+      "Germany": {
+        "latitude": 51.71905,
+        "longitude": 8.75439
       },
       "Romania": {
         "latitude": 45.26,
         "longitude": 28.0
       },
-      "Italy": {
-        "latitude": 40.178873,
-        "longitude": 17.753906
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:TX": {
         "latitude": 31.968599,
@@ -371,17 +367,21 @@
         "latitude": 45.6989,
         "longitude": 12.2256
       },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
+      },
+      "Switzerland": {
+        "latitude": 46.8182,
+        "longitude": 8.2275
       },
       "USA:VA": {
         "latitude": 37.431573,
         "longitude": -78.656894
       },
-      "France": {
-        "latitude": 48.866667,
-        "longitude": 2.333346
+      "Italy": {
+        "latitude": 40.178873,
+        "longitude": 17.753906
       }
     }
   },

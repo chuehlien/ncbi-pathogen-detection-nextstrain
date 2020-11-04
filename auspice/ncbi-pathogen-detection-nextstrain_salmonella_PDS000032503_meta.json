@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 90,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000032503.43",
+  "title": "salmonella_PDG000000002.2019-PDS000032503.43",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,33 +283,37 @@
       }
     },
     "location": {
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
+      },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       },
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
       },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
-      "Canada: British Columbia": {
-        "latitude": 49.04,
-        "longitude": -122.25
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
       },
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
       },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
       },
       "USA:IA": {
         "latitude": 41.878003,
@@ -319,45 +323,41 @@
         "latitude": 32.318231,
         "longitude": -86.902298
       },
-      "USA:VT": {
-        "latitude": 44.55880300000001,
-        "longitude": -72.577841
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
       "USA:NM": {
         "latitude": 34.97273,
         "longitude": -105.032363
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
       },
       "USA:MS": {
         "latitude": 32.354668,
         "longitude": -89.398528
       },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
+      "USA:VT": {
+        "latitude": 44.55880300000001,
+        "longitude": -72.577841
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "Canada: British Columbia": {
+        "latitude": 49.04,
+        "longitude": -122.25
+      },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
       }
     }
   },

@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 391,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2017-PDS000032192.104",
+  "title": "salmonella_PDG000000002.2019-PDS000032192.104",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,19 +277,27 @@
   ],
   "geo": {
     "country": {
+      "Singapore": {
+        "latitude": 1.3521,
+        "longitude": 103.8198
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      }
+    },
+    "location": {
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
       },
       "Singapore": {
         "latitude": 1.3521,
         "longitude": 103.8198
-      }
-    },
-    "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
       "Thailand: Hat Yai City, Songkhla province": {
         "latitude": 7.01,
@@ -299,25 +307,17 @@
         "latitude": 23.1,
         "longitude": 113.19
       },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
       "China:Nanning": {
         "latitude": 22.13,
         "longitude": 107.45
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "Singapore": {
-        "latitude": 1.3521,
-        "longitude": 103.8198
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

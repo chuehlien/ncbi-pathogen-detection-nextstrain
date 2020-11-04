@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -277,23 +277,23 @@
   ],
   "geo": {
     "country": {
-      "Italy": {
-        "latitude": 45.070085,
-        "longitude": 7.686364
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      }
-    },
-    "location": {
+      },
       "Italy": {
         "latitude": 45.070085,
         "longitude": 7.686364
-      },
+      }
+    },
+    "location": {
       "USA:NY": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
+      },
+      "Italy": {
+        "latitude": 45.070085,
+        "longitude": 7.686364
       }
     }
   },

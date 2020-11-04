@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-02",
+  "updated": "2020-11-03",
   "virus_count": 26,
   "maintainer": "DCIPHER",
-  "title": "vibrio-parahaemolyticus_PDG000000023.395-PDS000020484.6",
+  "title": "vibrio-parahaemolyticus_PDG000000023.396-PDS000020484.6",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -262,10 +262,10 @@
       "key": "ncbi_tree_url",
       "type": "discrete"
     },
-    "dcipher_ncbi_id": {
-      "menuItem": "dcipher_ncbi_id",
-      "legendTitle": "dcipher_ncbi_id",
-      "key": "dcipher_ncbi_id",
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,10 +283,6 @@
       }
     },
     "location": {
-      "China: Zhejiang": {
-        "latitude": 30.16,
-        "longitude": 120.12
-      },
       "China: Shanghai": {
         "latitude": 31.008414,
         "longitude": 121.228595
@@ -298,6 +294,10 @@
       "China: Hangzhou": {
         "latitude": 30.3,
         "longitude": 120.2
+      },
+      "China: Zhejiang": {
+        "latitude": 30.16,
+        "longitude": 120.12
       }
     }
   },

@@ -11,7 +11,7 @@
       "strain": "PDT000878242.1",
       "attr": {
         "div": 2.0,
-        "#label": "PDT000878242.1|SAMN16655534||Escherichia coli||PNUSAE063749|Pathogen: clinical or host-associated",
+        "#label": "PDT000878242.1|SAMN16655534|GCA_015225415.1|Escherichia coli||PNUSAE063749|Pathogen: clinical or host-associated",
         "FDA_lab_id": "Unknown",
         "HHS_region": 0,
         "LibraryLayout": "PAIRED",
@@ -19,12 +19,12 @@
         "PFGE_SecondaryEnzyme_pattern": "Unknown",
         "Platform": "ILLUMINA",
         "Run": "SRR12975343",
-        "asm_acc": "Unknown",
-        "asm_level": "Unknown",
+        "asm_acc": "GCA_015225415.1",
+        "asm_level": "Contig",
         "asm_stats_contig_n50": 181798,
         "asm_stats_length_bp": 5490646,
         "asm_stats_n_contig": 171,
-        "assembly_method": "Unknown",
+        "assembly_method": "SKESA v. 2.2",
         "attribute_package": "Pathogen: clinical or host-associated",
         "bioproject_acc": "PRJNA218110",
         "bioproject_center": "CDC",
@@ -32,7 +32,7 @@
         "collected_by": "CDC",
         "collection_date": "Unknown",
         "epi_type": "clinical",
-        "fullasm_id": 0,
+        "fullasm_id": 22901118,
         "location": "USA",
         "host": "Unknown",
         "host_disease": "Unknown",
@@ -49,12 +49,12 @@
         "target_acc": "PDT000878242.1",
         "target_creation_date": "2020-11-03",
         "taxid": 562,
-        "wgs_acc_prefix": "Unknown",
-        "wgs_master_acc": "Unknown",
+        "wgs_acc_prefix": "AAXAOE",
+        "wgs_master_acc": "AAXAOE000000000.1",
         "date": "2020-11-03",
         "country": "USA",
         "num_date": 2020.8415300546449,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000878242.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000878242.1",
         "internal_id": null
       },
       "yvalue": 0,
@@ -107,7 +107,7 @@
         "date": "2020-10-12",
         "country": "USA",
         "num_date": 2020.7814207650274,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000860186.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000860186.1",
         "internal_id": "CA___M20F01919"
       },
       "yvalue": 1,
@@ -169,7 +169,7 @@
             "date": "2020-02-28",
             "country": "USA",
             "num_date": 2020.1612021857923,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000692231.1",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000692231.1",
             "internal_id": "TN___N20E057871-01"
           },
           "yvalue": 2,
@@ -231,7 +231,7 @@
                 "date": "2018-10-31",
                 "country": "USA",
                 "num_date": 2018.8328767123287,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000400023.2",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000400023.2",
                 "internal_id": "AZ___AZ00074918"
               },
               "yvalue": 3,
@@ -293,7 +293,7 @@
                     "date": "2019-09-27",
                     "country": "USA",
                     "num_date": 2019.7397260273972,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000594986.2",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000594986.2",
                     "internal_id": null
                   },
                   "yvalue": 4,
@@ -364,7 +364,7 @@
                             "date": "2019-05-07",
                             "country": "USA",
                             "num_date": 2019.3479452054794,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000498987.2",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000498987.2",
                             "internal_id": "IL___C19EN000472"
                           },
                           "yvalue": 5,
@@ -426,7 +426,7 @@
                                 "date": "2018-11-15",
                                 "country": "USA",
                                 "num_date": 2018.8739726027397,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000407662.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000407662.2",
                                 "internal_id": "WA___25395"
                               },
                               "yvalue": 6,
@@ -479,7 +479,7 @@
                                 "date": "2019-01-18",
                                 "country": "USA",
                                 "num_date": 2019.0493150684931,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000443367.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000443367.2",
                                 "internal_id": "NM___2018030342"
                               },
                               "yvalue": 7,
@@ -545,7 +545,7 @@
                             "date": "2019-09-09",
                             "country": "USA",
                             "num_date": 2019.690410958904,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000582742.2",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000582742.2",
                             "internal_id": null
                           },
                           "yvalue": 8,
@@ -607,7 +607,7 @@
                                 "date": "2019-09-09",
                                 "country": "USA",
                                 "num_date": 2019.690410958904,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000582771.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000582771.2",
                                 "internal_id": null
                               },
                               "yvalue": 9,
@@ -660,7 +660,7 @@
                                 "date": "2019-09-18",
                                 "country": "USA",
                                 "num_date": 2019.7150684931507,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000588633.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000588633.2",
                                 "internal_id": null
                               },
                               "yvalue": 10,
@@ -713,7 +713,7 @@
                                 "date": "2019-09-09",
                                 "country": "USA",
                                 "num_date": 2019.690410958904,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000582749.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000582749.2",
                                 "internal_id": null
                               },
                               "yvalue": 11,
@@ -777,7 +777,7 @@
                                 "date": "2019-09-27",
                                 "country": "USA",
                                 "num_date": 2019.7397260273972,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000595042.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000595042.2",
                                 "internal_id": null
                               },
                               "yvalue": 12,
@@ -839,7 +839,7 @@
                                     "date": "2019-10-23",
                                     "country": "USA",
                                     "num_date": 2019.8109589041096,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000616263.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000616263.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 13,
@@ -892,7 +892,7 @@
                                     "date": "2019-09-27",
                                     "country": "USA",
                                     "num_date": 2019.7397260273972,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000595002.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000595002.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 14,
@@ -945,7 +945,7 @@
                                     "date": "2019-09-28",
                                     "country": "USA",
                                     "num_date": 2019.7424657534248,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000595686.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000595686.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 15,
@@ -998,7 +998,7 @@
                                     "date": "2019-09-23",
                                     "country": "USA",
                                     "num_date": 2019.7287671232878,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000592037.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000592037.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 16,
@@ -1062,7 +1062,7 @@
                                     "date": "2019-09-23",
                                     "country": "USA",
                                     "num_date": 2019.7287671232878,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000592074.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000592074.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 17,
@@ -1115,7 +1115,7 @@
                                     "date": "2019-10-23",
                                     "country": "USA",
                                     "num_date": 2019.8109589041096,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000616247.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000616247.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 18,
@@ -1168,7 +1168,7 @@
                                     "date": "2019-09-27",
                                     "country": "USA",
                                     "num_date": 2019.7397260273972,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000595048.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000595048.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 19,
@@ -1221,7 +1221,7 @@
                                     "date": "2019-09-23",
                                     "country": "USA",
                                     "num_date": 2019.7287671232878,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000591992.2",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000591992.2",
                                     "internal_id": null
                                   },
                                   "yvalue": 20,
@@ -1283,7 +1283,7 @@
                                         "date": "2019-10-23",
                                         "country": "USA",
                                         "num_date": 2019.8109589041096,
-                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000616269.2",
+                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000616269.2",
                                         "internal_id": null
                                       },
                                       "yvalue": 21,
@@ -1336,7 +1336,7 @@
                                         "date": "2019-10-23",
                                         "country": "USA",
                                         "num_date": 2019.8109589041096,
-                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000616278.2",
+                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000616278.2",
                                         "internal_id": null
                                       },
                                       "yvalue": 22,
@@ -1389,7 +1389,7 @@
                                         "date": "2019-09-27",
                                         "country": "USA",
                                         "num_date": 2019.7397260273972,
-                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2241/PDS000059980.4?accessions=PDT000595046.2",
+                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2242/PDS000059980.4?accessions=PDT000595046.2",
                                         "internal_id": null
                                       },
                                       "yvalue": 23,

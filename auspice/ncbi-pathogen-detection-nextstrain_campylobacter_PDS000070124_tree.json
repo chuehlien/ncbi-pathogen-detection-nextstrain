@@ -4,13 +4,13 @@
     "div": 0.0,
     "num_date": 2019.7972602739726
   },
-  "yvalue": 0.5,
+  "yvalue": 1.0,
   "clade": 1,
   "children": [
     {
       "strain": "PDT000610524.1",
       "attr": {
-        "div": 7.0,
+        "div": 10.0,
         "#label": "PDT000610524.1|SAMN13051573|GCA_009227285.1|Campylobacter coli||FSIS11924977|Pathogen: environmental/food/other",
         "FDA_lab_id": "Unknown",
         "HHS_region": 0,
@@ -54,7 +54,7 @@
         "date": "2019-10-18",
         "country": "USA",
         "num_date": 2019.7972602739726,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000070124.1?accessions=PDT000610524.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1232/PDS000070124.2?accessions=PDT000610524.1",
         "internal_id": "USDA_210503081"
       },
       "yvalue": 0,
@@ -63,7 +63,7 @@
     {
       "strain": "PDT000816978.1",
       "attr": {
-        "div": 0.0,
+        "div": 4.0,
         "#label": "PDT000816978.1|SAMN15860601|GCA_014364285.1|Campylobacter coli||FSIS22029009|Pathogen: environmental/food/other",
         "FDA_lab_id": "Unknown",
         "HHS_region": 0,
@@ -107,11 +107,64 @@
         "date": "2020-08-20",
         "country": "USA",
         "num_date": 2020.636612021858,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1230/PDS000070124.1?accessions=PDT000816978.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1232/PDS000070124.2?accessions=PDT000816978.1",
         "internal_id": "USDA_590648375"
       },
       "yvalue": 1,
       "clade": 3
+    },
+    {
+      "strain": "PDT000878107.1",
+      "attr": {
+        "div": 3.0,
+        "#label": "PDT000878107.1|SAMN16644364||Campylobacter coli||FSIS12035276|Pathogen: environmental/food/other",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12973914",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 107217,
+        "asm_stats_length_bp": 1790955,
+        "asm_stats_n_contig": 53,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: environmental/food/other",
+        "bioproject_acc": "PRJNA287430",
+        "bioproject_center": "USDA FSIS",
+        "biosample_acc": "SAMN16644364",
+        "collected_by": "USDA-FSIS",
+        "collection_date": "2020",
+        "epi_type": "environmental/other",
+        "fullasm_id": 0,
+        "location": "USA:KY",
+        "host": "Unknown",
+        "host_disease": "Unknown",
+        "isolation_source": "comminuted chicken",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "FSIS12035276",
+        "scientific_name": "Campylobacter coli",
+        "serovar": "Unknown",
+        "species_taxid": 195,
+        "sra_center": "USDA-FSIS",
+        "sra_release_date": "2020-11-03",
+        "strain": "FSIS12035276",
+        "target_acc": "PDT000878107.1",
+        "target_creation_date": "2020-11-03",
+        "taxid": 195,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-11-03",
+        "country": "USA",
+        "num_date": 2020.8415300546449,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1232/PDS000070124.2?accessions=PDT000878107.1",
+        "internal_id": null
+      },
+      "yvalue": 2,
+      "clade": 4
     }
   ]
 }

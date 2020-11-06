@@ -11,7 +11,7 @@
       "strain": "PDT000853254.1",
       "attr": {
         "div": 14.0,
-        "#label": "PDT000853254.1|SAMN16351350||Salmonella enterica||2020K-0960|Pathogen: clinical or host-associated",
+        "#label": "PDT000853254.1|SAMN16351350|GCA_015188345.1|Salmonella enterica||2020K-0960|Pathogen: clinical or host-associated",
         "FDA_lab_id": "Unknown",
         "HHS_region": 0,
         "LibraryLayout": "PAIRED",
@@ -19,12 +19,12 @@
         "PFGE_SecondaryEnzyme_pattern": "Unknown",
         "Platform": "ILLUMINA",
         "Run": "SRR12764453",
-        "asm_acc": "Unknown",
-        "asm_level": "Unknown",
+        "asm_acc": "GCA_015188345.1",
+        "asm_level": "Contig",
         "asm_stats_contig_n50": 278226,
         "asm_stats_length_bp": 4849334,
         "asm_stats_n_contig": 42,
-        "assembly_method": "Unknown",
+        "assembly_method": "SKESA v. 2.2",
         "attribute_package": "Pathogen: clinical or host-associated",
         "bioproject_acc": "PRJNA230403",
         "bioproject_center": "CDC",
@@ -32,7 +32,7 @@
         "collected_by": "CDC",
         "collection_date": "Unknown",
         "epi_type": "clinical",
-        "fullasm_id": 0,
+        "fullasm_id": 22857538,
         "location": "USA",
         "host": "Unknown",
         "host_disease": "Unknown",
@@ -49,12 +49,12 @@
         "target_acc": "PDT000853254.1",
         "target_creation_date": "2020-10-02",
         "taxid": 28901,
-        "wgs_acc_prefix": "Unknown",
-        "wgs_master_acc": "Unknown",
+        "wgs_acc_prefix": "AAWYSP",
+        "wgs_master_acc": "AAWYSP000000000.1",
         "date": "2020-10-02",
         "country": "USA",
         "num_date": 2020.7540983606557,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000853254.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000853254.1",
         "internal_id": "AL___2009002961"
       },
       "yvalue": 0,
@@ -116,7 +116,7 @@
             "date": "2017-09-19",
             "country": "USA",
             "num_date": 2017.717808219178,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000241452.2",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000241452.2",
             "internal_id": "MN___E2017014359"
           },
           "yvalue": 1,
@@ -169,7 +169,7 @@
             "date": "2018-11-06",
             "country": "USA",
             "num_date": 2018.849315068493,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000403394.1",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000403394.1",
             "internal_id": "MN___I2018016462"
           },
           "yvalue": 2,
@@ -233,7 +233,7 @@
             "date": "2020-01-06",
             "country": "USA",
             "num_date": 2020.016393442623,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000655455.1",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000655455.1",
             "internal_id": null
           },
           "yvalue": 3,
@@ -286,7 +286,7 @@
             "date": "2018-10-17",
             "country": "USA",
             "num_date": 2018.7945205479452,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000392239.1",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000392239.1",
             "internal_id": "OH___2018004511"
           },
           "yvalue": 4,
@@ -339,7 +339,7 @@
             "date": "2017-06-26",
             "country": "USA",
             "num_date": 2017.4849315068493,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000220834.2",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000220834.2",
             "internal_id": "WV___M15001461"
           },
           "yvalue": 5,
@@ -412,7 +412,7 @@
                 "date": "2017-05-01",
                 "country": "Unknown",
                 "num_date": 2017.331506849315,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000206281.2",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000206281.2",
                 "internal_id": "IA___437166"
               },
               "yvalue": 6,
@@ -465,7 +465,7 @@
                 "date": "2020-10-05",
                 "country": "USA",
                 "num_date": 2020.7622950819673,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000855447.1",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000855447.1",
                 "internal_id": "IA___1280833"
               },
               "yvalue": 7,
@@ -529,7 +529,7 @@
                 "date": "2020-02-28",
                 "country": "USA",
                 "num_date": 2020.1612021857923,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000692275.1",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000692275.1",
                 "internal_id": "AR___AR2001300000480"
               },
               "yvalue": 8,
@@ -591,7 +591,7 @@
                     "date": "2020-08-27",
                     "country": "USA",
                     "num_date": 2020.655737704918,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000822203.1",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000822203.1",
                     "internal_id": "AL___2008005134"
                   },
                   "yvalue": 9,
@@ -653,7 +653,7 @@
                         "date": "2019-03-25",
                         "country": "USA",
                         "num_date": 2019.2301369863014,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000482151.1",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000482151.1",
                         "internal_id": "PA___M19002464-1"
                       },
                       "yvalue": 10,
@@ -706,7 +706,7 @@
                         "date": "2020-06-23",
                         "country": "USA",
                         "num_date": 2020.4781420765028,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000770742.1",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000770742.1",
                         "internal_id": "TX___TXAWG2001100"
                       },
                       "yvalue": 11,
@@ -770,7 +770,7 @@
                         "date": "2020-05-27",
                         "country": "USA",
                         "num_date": 2020.4043715846994,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000748007.1",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000748007.1",
                         "internal_id": "MI___CL20-174188"
                       },
                       "yvalue": 12,
@@ -832,7 +832,7 @@
                             "date": "2019-06-11",
                             "country": "USA",
                             "num_date": 2019.4438356164383,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000520242.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000520242.1",
                             "internal_id": null
                           },
                           "yvalue": 13,
@@ -894,7 +894,7 @@
                                 "date": "2018-09-21",
                                 "country": "USA",
                                 "num_date": 2018.7232876712328,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000382641.1",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000382641.1",
                                 "internal_id": "OH___2018003328"
                               },
                               "yvalue": 14,
@@ -956,7 +956,7 @@
                                     "date": "2019-10-03",
                                     "country": "USA",
                                     "num_date": 2019.7561643835616,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000599810.1",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000599810.1",
                                     "internal_id": null
                                   },
                                   "yvalue": 15,
@@ -1009,7 +1009,7 @@
                                     "date": "2018-12-03",
                                     "country": "USA",
                                     "num_date": 2018.9232876712329,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000413844.1",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000413844.1",
                                     "internal_id": "MI___CL18-165660"
                                   },
                                   "yvalue": 16,
@@ -1077,7 +1077,7 @@
                             "date": "2018-07-27",
                             "country": "USA",
                             "num_date": 2018.5698630136985,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000354769.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000354769.1",
                             "internal_id": "MI___CL18-165280"
                           },
                           "yvalue": 17,
@@ -1130,7 +1130,7 @@
                             "date": "2018-11-19",
                             "country": "USA",
                             "num_date": 2018.8849315068494,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000409120.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000409120.1",
                             "internal_id": "OH___2018003995"
                           },
                           "yvalue": 18,
@@ -1192,7 +1192,7 @@
                                 "date": "2019-09-04",
                                 "country": "USA",
                                 "num_date": 2019.676712328767,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000580147.1",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000580147.1",
                                 "internal_id": null
                               },
                               "yvalue": 19,
@@ -1245,7 +1245,7 @@
                                 "date": "2018-07-26",
                                 "country": "USA",
                                 "num_date": 2018.5671232876712,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000353856.1",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000353856.1",
                                 "internal_id": "MI___CL18-174543"
                               },
                               "yvalue": 20,
@@ -1298,7 +1298,7 @@
                                 "date": "2017-06-22",
                                 "country": "USA",
                                 "num_date": 2017.4739726027397,
-                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000220247.2",
+                                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000220247.2",
                                 "internal_id": "OH___2017001489"
                               },
                               "yvalue": 21,
@@ -1360,7 +1360,7 @@
                                     "date": "2018-07-18",
                                     "country": "USA",
                                     "num_date": 2018.545205479452,
-                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000351408.1",
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000351408.1",
                                     "internal_id": "MI___CL18-165260"
                                   },
                                   "yvalue": 22,
@@ -1422,7 +1422,7 @@
                                         "date": "2020-08-14",
                                         "country": "USA",
                                         "num_date": 2020.620218579235,
-                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000810067.1",
+                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000810067.1",
                                         "internal_id": "MI___CL20-174461"
                                       },
                                       "yvalue": 23,
@@ -1475,7 +1475,7 @@
                                         "date": "2016-11-04",
                                         "country": "USA",
                                         "num_date": 2016.844262295082,
-                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2019/PDS000012587.25?accessions=PDT000156681.2",
+                                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000012587.25?accessions=PDT000156681.2",
                                         "internal_id": "TN___N14E000810"
                                       },
                                       "yvalue": 24,

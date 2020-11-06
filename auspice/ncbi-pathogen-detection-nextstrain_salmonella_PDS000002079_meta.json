@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-03",
+  "updated": "2020-11-05",
   "virus_count": 277,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2019-PDS000002079.85",
+  "title": "salmonella_PDG000000002.2021-PDS000002079.85",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -283,9 +283,9 @@
       }
     },
     "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       },
       "USA:NC": {
         "latitude": 35.759573,
@@ -295,21 +295,9 @@
         "latitude": 39.011902,
         "longitude": -98.484246
       },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:AL": {
         "latitude": 32.318231,
@@ -319,21 +307,33 @@
         "latitude": 34.57,
         "longitude": -101.48
       },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
       },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
       },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
       }
     }
   },

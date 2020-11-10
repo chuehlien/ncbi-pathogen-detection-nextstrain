@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
+  "updated": "2020-11-10",
   "virus_count": 2,
   "maintainer": "DCIPHER",
-  "title": "vibrio-cholerae_PDG000000055.152-PDS000050836.1",
+  "title": "vibrio-cholerae_PDG000000055.153-PDS000050836.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",

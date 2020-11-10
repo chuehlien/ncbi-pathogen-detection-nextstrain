@@ -4,14 +4,14 @@
     "div": 0.0,
     "num_date": 2016.5901639344263
   },
-  "yvalue": 1.9375,
+  "yvalue": 2.04167,
   "clade": 1,
   "children": [
     {
       "strain": "CLADE_2",
       "attr": {
-        "div": 15.0,
-        "num_date": 2019.3485388453314
+        "div": 14.5,
+        "num_date": 2019.3404978749243
       },
       "yvalue": 0.5,
       "clade": 2,
@@ -19,7 +19,7 @@
         {
           "strain": "PDT000386190.2",
           "attr": {
-            "div": 23.0,
+            "div": 22.5,
             "#label": "PDT000386190.2|SAMN10139581|GCA_012090255.1|Escherichia coli||PNUSAE018691|Pathogen: clinical or host-associated",
             "FDA_lab_id": "Unknown",
             "HHS_region": 0,
@@ -63,7 +63,7 @@
             "date": "2018-09-27",
             "country": "USA",
             "num_date": 2018.7397260273972,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000386190.2",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000386190.2",
             "internal_id": "MI___CL18-167688A"
           },
           "yvalue": 0,
@@ -72,7 +72,7 @@
         {
           "strain": "PDT000356236.2",
           "attr": {
-            "div": 16.0,
+            "div": 15.5,
             "#label": "PDT000356236.2|SAMN09753004|GCA_012139125.1|Escherichia coli||PNUSAE015991|Pathogen: clinical or host-associated",
             "FDA_lab_id": "Unknown",
             "HHS_region": 0,
@@ -116,7 +116,7 @@
             "date": "2018-08-01",
             "country": "USA",
             "num_date": 2018.5835616438355,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000356236.2",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000356236.2",
             "internal_id": "MI___CL18-167620"
           },
           "yvalue": 1,
@@ -127,16 +127,16 @@
     {
       "strain": "CLADE_5",
       "attr": {
-        "div": 7.0,
-        "num_date": 2017.8774055595154
+        "div": 6.5,
+        "num_date": 2017.8230722525805
       },
-      "yvalue": 3.375,
+      "yvalue": 3.58333,
       "clade": 5,
       "children": [
         {
           "strain": "PDT000142916.3",
           "attr": {
-            "div": 14.0,
+            "div": 13.5,
             "#label": "PDT000142916.3|SAMN05505566|GCA_012637045.1|Escherichia coli||FSIS1607239|Pathogen: environmental/food/other",
             "FDA_lab_id": "Unknown",
             "HHS_region": 0,
@@ -180,25 +180,78 @@
             "date": "2016-08-03",
             "country": "USA",
             "num_date": 2016.5901639344263,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000142916.3",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000142916.3",
             "internal_id": null
           },
           "yvalue": 2,
           "clade": 6
         },
         {
-          "strain": "CLADE_7",
+          "strain": "PDT000883465.1",
           "attr": {
-            "div": 9.0,
-            "num_date": 2018.2451888809694
+            "div": 15.5,
+            "#label": "PDT000883465.1|SAMN16709182||Escherichia coli||PNUSAE063957|Pathogen: clinical or host-associated",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": 0,
+            "LibraryLayout": "PAIRED",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "ILLUMINA",
+            "Run": "SRR13010093",
+            "asm_acc": "Unknown",
+            "asm_level": "Unknown",
+            "asm_stats_contig_n50": 188300,
+            "asm_stats_length_bp": 5386333,
+            "asm_stats_n_contig": 181,
+            "assembly_method": "Unknown",
+            "attribute_package": "Pathogen: clinical or host-associated",
+            "bioproject_acc": "PRJNA218110",
+            "bioproject_center": "CDC",
+            "biosample_acc": "SAMN16709182",
+            "collected_by": "CDC",
+            "collection_date": "Unknown",
+            "epi_type": "clinical",
+            "fullasm_id": 0,
+            "location": "USA",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "outbreak": "Unknown",
+            "sample_name": "Unknown",
+            "scientific_name": "Escherichia coli",
+            "serovar": "Unknown",
+            "species_taxid": 562,
+            "sra_center": "PULSENET",
+            "sra_release_date": "2020-11-09",
+            "strain": "PNUSAE063957",
+            "target_acc": "PDT000883465.1",
+            "target_creation_date": "2020-11-09",
+            "taxid": 562,
+            "wgs_acc_prefix": "Unknown",
+            "wgs_master_acc": "Unknown",
+            "date": "2020-11-09",
+            "country": "USA",
+            "num_date": 2020.8579234972678,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000883465.1",
+            "internal_id": null
           },
-          "yvalue": 4.75,
-          "clade": 7,
+          "yvalue": 3,
+          "clade": 7
+        },
+        {
+          "strain": "CLADE_8",
+          "attr": {
+            "div": 8.5,
+            "num_date": 2018.2024286581664
+          },
+          "yvalue": 5.75,
+          "clade": 8,
           "children": [
             {
               "strain": "PDT000403983.2",
               "attr": {
-                "div": 11.0,
+                "div": 10.5,
                 "#label": "PDT000403983.2|SAMN10391772|GCA_012066235.1|Escherichia coli||PNUSAE019958|Pathogen: clinical or host-associated",
                 "FDA_lab_id": "Unknown",
                 "HHS_region": 0,
@@ -242,25 +295,25 @@
                 "date": "2018-11-07",
                 "country": "USA",
                 "num_date": 2018.8520547945207,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000403983.2",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000403983.2",
                 "internal_id": "KY___18-80825472-1497"
               },
-              "yvalue": 3,
-              "clade": 8
+              "yvalue": 4,
+              "clade": 9
             },
             {
-              "strain": "CLADE_9",
+              "strain": "CLADE_10",
               "attr": {
-                "div": 11.0,
-                "num_date": 2018.6129722024234
+                "div": 10.5,
+                "num_date": 2018.5817850637522
               },
-              "yvalue": 4.5,
-              "clade": 9,
+              "yvalue": 5.5,
+              "clade": 10,
               "children": [
                 {
                   "strain": "PDT000867793.1",
                   "attr": {
-                    "div": 23.0,
+                    "div": 22.5,
                     "#label": "PDT000867793.1|SAMN16552476|GCA_014967545.1|Escherichia coli||PNUSAE063142|Pathogen: clinical or host-associated",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 0,
@@ -304,16 +357,16 @@
                     "date": "2020-10-26",
                     "country": "USA",
                     "num_date": 2020.8196721311476,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000867793.1",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000867793.1",
                     "internal_id": "KY___20-105011062-1428"
                   },
-                  "yvalue": 4,
-                  "clade": 10
+                  "yvalue": 5,
+                  "clade": 11
                 },
                 {
                   "strain": "PDT000609571.2",
                   "attr": {
-                    "div": 16.0,
+                    "div": 15.5,
                     "#label": "PDT000609571.2|SAMN13041494|GCA_011844765.1|Escherichia coli||PNUSAE036970|Pathogen: clinical or host-associated",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 0,
@@ -357,27 +410,27 @@
                     "date": "2019-10-17",
                     "country": "USA",
                     "num_date": 2019.7945205479452,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000609571.2",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000609571.2",
                     "internal_id": "NYC__NYC19-201058611"
                   },
-                  "yvalue": 5,
-                  "clade": 11
+                  "yvalue": 6,
+                  "clade": 12
                 }
               ]
             },
             {
-              "strain": "CLADE_12",
+              "strain": "CLADE_13",
               "attr": {
-                "div": 10.0,
-                "num_date": 2018.4290805416965
+                "div": 9.5,
+                "num_date": 2018.3921068609593
               },
-              "yvalue": 6.75,
-              "clade": 12,
+              "yvalue": 7.75,
+              "clade": 13,
               "children": [
                 {
                   "strain": "PDT000655785.2",
                   "attr": {
-                    "div": 14.0,
+                    "div": 13.5,
                     "#label": "PDT000655785.2|SAMN13747080|GCA_011804565.1|Escherichia coli||PNUSAE045298|Pathogen: clinical or host-associated",
                     "FDA_lab_id": "Unknown",
                     "HHS_region": 0,
@@ -421,25 +474,25 @@
                     "date": "2020-01-07",
                     "country": "USA",
                     "num_date": 2020.01912568306,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000655785.2",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000655785.2",
                     "internal_id": "TX___TXACB1903596"
                   },
-                  "yvalue": 6,
-                  "clade": 13
+                  "yvalue": 7,
+                  "clade": 14
                 },
                 {
-                  "strain": "CLADE_14",
+                  "strain": "CLADE_15",
                   "attr": {
-                    "div": 12.0,
-                    "num_date": 2018.7968638631505
+                    "div": 11.5,
+                    "num_date": 2018.7714632665454
                   },
-                  "yvalue": 7.5,
-                  "clade": 14,
+                  "yvalue": 8.5,
+                  "clade": 15,
                   "children": [
                     {
                       "strain": "PDT000634603.2",
                       "attr": {
-                        "div": 13.0,
+                        "div": 12.5,
                         "#label": "PDT000634603.2|SAMN13353483|GCA_011825035.1|Escherichia coli||PNUSAE041126|Pathogen: clinical or host-associated",
                         "FDA_lab_id": "Unknown",
                         "HHS_region": 0,
@@ -483,16 +536,16 @@
                         "date": "2019-11-23",
                         "country": "USA",
                         "num_date": 2019.8958904109588,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000634603.2",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000634603.2",
                         "internal_id": "TX___TXACB1903213"
                       },
-                      "yvalue": 7,
-                      "clade": 15
+                      "yvalue": 8,
+                      "clade": 16
                     },
                     {
                       "strain": "PDT000638774.2",
                       "attr": {
-                        "div": 13.0,
+                        "div": 12.5,
                         "#label": "PDT000638774.2|SAMN13446265|GCA_011821265.1|Escherichia coli||PNUSAE042068|Pathogen: clinical or host-associated",
                         "FDA_lab_id": "Unknown",
                         "HHS_region": 0,
@@ -536,11 +589,11 @@
                         "date": "2019-12-03",
                         "country": "USA",
                         "num_date": 2019.9232876712329,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2250/PDS000037275.11?accessions=PDT000638774.2",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Escherichia_coli_Shigella/PDG000000004.2251/PDS000037275.12?accessions=PDT000638774.2",
                         "internal_id": "TX___TXACB1903222"
                       },
-                      "yvalue": 8,
-                      "clade": 16
+                      "yvalue": 9,
+                      "clade": 17
                     }
                   ]
                 }

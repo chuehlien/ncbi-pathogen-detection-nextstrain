@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
+  "updated": "2020-11-10",
   "virus_count": 308,
   "maintainer": "DCIPHER",
-  "title": "neisseria_PDG000000032.178-PDS000072363.1",
+  "title": "neisseria_PDG000000032.179-PDS000072363.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -283,6 +283,10 @@
       }
     },
     "location": {
+      "Ireland: Dublin": {
+        "latitude": 53.3403,
+        "longitude": -6.29477
+      },
       "Netherlands: Bilthoven": {
         "latitude": 52.13,
         "longitude": 5.21
@@ -290,10 +294,6 @@
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Ireland: Dublin": {
-        "latitude": 53.3403,
-        "longitude": -6.29477
       }
     }
   },

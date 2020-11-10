@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
-  "virus_count": 1924,
+  "updated": "2020-11-09",
+  "virus_count": 1925,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2021-PDS000074468.2",
+  "title": "salmonella_PDG000000002.2025-PDS000074468.3",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -277,17 +277,21 @@
   ],
   "geo": {
     "country": {
+      "Malawi": {
+        "latitude": -13.2543,
+        "longitude": 34.3015
+      },
       "Germany": {
         "latitude": 52.31,
         "longitude": 13.24
       },
-      "Colombia": {
-        "latitude": 5.02,
-        "longitude": -73.94
-      },
       "South Korea": {
         "latitude": 36.86590966729366,
         "longitude": 127.5528171192243
+      },
+      "Colombia": {
+        "latitude": 5.02,
+        "longitude": -73.94
       },
       "USA": {
         "latitude": 39.7837304,
@@ -295,13 +299,37 @@
       }
     },
     "location": {
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
       "USA:VA": {
         "latitude": 37.431573,
         "longitude": -78.656894
+      },
+      "Malawi": {
+        "latitude": -13.2543,
+        "longitude": 34.3015
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "Australia: NSW": {
+        "latitude": -31.2532,
+        "longitude": 146.9211
+      },
+      "Germany": {
+        "latitude": 52.31,
+        "longitude": 13.24
+      },
+      "South Korea": {
+        "latitude": 36.86590966729366,
+        "longitude": 127.5528171192243
+      },
+      "Colombia": {
+        "latitude": 5.02,
+        "longitude": -73.94
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:NM": {
         "latitude": 34.97273,
@@ -311,22 +339,6 @@
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "Germany": {
-        "latitude": 52.31,
-        "longitude": 13.24
-      },
-      "Colombia": {
-        "latitude": 5.02,
-        "longitude": -73.94
-      },
-      "South Korea": {
-        "latitude": 36.86590966729366,
-        "longitude": 127.5528171192243
-      },
-      "Australia: NSW": {
-        "latitude": -31.2532,
-        "longitude": 146.9211
-      },
       "Georgia:Tbilisi": {
         "latitude": 41.7364602,
         "longitude": 44.7621418
@@ -335,17 +347,13 @@
         "latitude": 41.878003,
         "longitude": -93.097702
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
       "USA:OR": {
         "latitude": 43.804133,
         "longitude": -120.554201
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       }
     }
   },

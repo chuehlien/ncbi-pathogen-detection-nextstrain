@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-29",
+  "updated": "2020-11-06",
   "virus_count": 406,
   "maintainer": "DCIPHER",
-  "title": "mycobacterium-tuberculosis_PDG000000034.182-PDS000010121.7",
+  "title": "mycobacterium-tuberculosis_PDG000000034.183-PDS000010121.7",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",

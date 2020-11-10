@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
+  "updated": "2020-11-09",
   "virus_count": 20,
   "maintainer": "DCIPHER",
-  "title": "salmonella_PDG000000002.2021-PDS000026737.11",
+  "title": "salmonella_PDG000000002.2025-PDS000026737.11",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -283,9 +283,13 @@
       }
     },
     "location": {
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       },
       "USA:NE": {
         "latitude": 41.492537,
@@ -295,29 +299,25 @@
         "latitude": 40.633125,
         "longitude": -89.398528
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       },
       "USA:NY": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
       },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:ND": {
         "latitude": 47.551493,
         "longitude": -101.002012
+      },
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       }
     }
   },

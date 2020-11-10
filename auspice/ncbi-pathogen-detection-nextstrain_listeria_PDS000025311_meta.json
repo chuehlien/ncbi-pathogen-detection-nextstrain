@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-06",
-  "virus_count": 798,
+  "updated": "2020-11-10",
+  "virus_count": 801,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.1964-PDS000025311.128",
+  "title": "listeria_PDG000000001.1969-PDS000025311.130",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -277,25 +277,25 @@
   ],
   "geo": {
     "country": {
+      "Ireland": {
+        "latitude": 53.3077,
+        "longitude": -6.2243
+      },
       "Switzerland": {
         "latitude": 46.8182,
         "longitude": 8.2275
       },
-      "Liechtenstein": {
-        "latitude": 47.166,
-        "longitude": 9.5554
-      },
-      "Ireland": {
-        "latitude": 53.3077,
-        "longitude": -6.2243
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "Germany": {
         "latitude": 52.52437,
         "longitude": 13.41053
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "Liechtenstein": {
+        "latitude": 47.166,
+        "longitude": 9.5554
       },
       "France": {
         "latitude": 48.866667,
@@ -303,13 +303,33 @@
       }
     },
     "location": {
-      "Canada:British Columbia,Burnaby": {
-        "latitude": 49.2667,
-        "longitude": -122.9667
+      "Ireland": {
+        "latitude": 53.3077,
+        "longitude": -6.2243
+      },
+      "Italy: MILAN": {
+        "latitude": 45.46,
+        "longitude": 9.190000000000055
       },
       "USA:CT": {
         "latitude": 41.60322100000001,
         "longitude": -73.087749
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
+      },
+      "USA:NH": {
+        "latitude": 43.193852,
+        "longitude": -71.572395
+      },
+      "Germany": {
+        "latitude": 52.52437,
+        "longitude": 13.41053
       },
       "Liechtenstein": {
         "latitude": 47.166,
@@ -319,17 +339,29 @@
         "latitude": 27.664827,
         "longitude": -81.515754
       },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
+      "USA:RI": {
+        "latitude": 41.580095,
+        "longitude": -71.477429
+      },
+      "Canada: Toronto": {
+        "latitude": 43.7,
+        "longitude": -79.4
+      },
+      "Switzerland": {
+        "latitude": 46.8182,
+        "longitude": 8.2275
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Canada:British Columbia,Burnaby": {
+        "latitude": 49.2667,
+        "longitude": -122.9667
       },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
       },
       "China: Zhejiang": {
         "latitude": 30.24,
@@ -339,45 +371,13 @@
         "latitude": 45.6167,
         "longitude": -72.95
       },
-      "Switzerland": {
-        "latitude": 46.8182,
-        "longitude": 8.2275
-      },
-      "Ireland": {
-        "latitude": 53.3077,
-        "longitude": -6.2243
-      },
-      "Germany": {
-        "latitude": 52.52437,
-        "longitude": 13.41053
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Italy: MILAN": {
-        "latitude": 45.46,
-        "longitude": 9.190000000000055
-      },
-      "USA:RI": {
-        "latitude": 41.580095,
-        "longitude": -71.477429
-      },
       "France": {
         "latitude": 48.866667,
         "longitude": 2.333422
       },
-      "USA:NH": {
-        "latitude": 43.193852,
-        "longitude": -71.572395
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
-      "Canada: Toronto": {
-        "latitude": 43.7,
-        "longitude": -79.4
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       }
     }
   },

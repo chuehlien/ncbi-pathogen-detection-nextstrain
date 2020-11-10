@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
+  "updated": "2020-11-09",
   "virus_count": 51,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1232-PDS000022916.13",
+  "title": "campylobacter_PDG000000003.1236-PDS000022916.13",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -283,21 +283,25 @@
       }
     },
     "location": {
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
       "USA:AZ": {
         "latitude": 34.048928000000004,
         "longitude": -111.093731
       },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
       "USA:NE": {
         "latitude": 41.492537,
         "longitude": -99.901813
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
       },
       "USA": {
         "latitude": 39.7837304,
@@ -311,29 +315,25 @@
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       },
       "USA:CO": {
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
       },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
       }
     }
   },

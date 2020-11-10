@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-20",
-  "virus_count": 605,
+  "updated": "2020-11-06",
+  "virus_count": 606,
   "maintainer": "DCIPHER",
-  "title": "legionella-pneumophila_PDG000000026.109-PDS000008112.36",
+  "title": "legionella-pneumophila_PDG000000026.110-PDS000008112.37",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -140,7 +140,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "location": {
       "menuItem": "Location Name",
@@ -200,7 +200,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -283,9 +283,17 @@
       }
     },
     "location": {
+      "USA:Arizona": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      },
+      "Spain: Murcia": {
+        "latitude": 38.0,
+        "longitude": -1.83
       },
       "USA:New York": {
         "latitude": 43.299428000000006,
@@ -294,10 +302,6 @@
       "USA:Michigan": {
         "latitude": 44.314844,
         "longitude": -85.602364
-      },
-      "Spain: Murcia": {
-        "latitude": 38.0,
-        "longitude": -1.83
       }
     }
   },

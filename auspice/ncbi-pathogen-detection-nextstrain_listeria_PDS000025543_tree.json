@@ -4,7 +4,7 @@
     "div": 0.0,
     "num_date": 2015.8958904109588
   },
-  "yvalue": 1.54167,
+  "yvalue": 1.66667,
   "clade": 1,
   "children": [
     {
@@ -54,7 +54,7 @@
         "date": "2019-12-30",
         "country": "USA",
         "num_date": 2019.9972602739726,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000651489.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000651489.1",
         "internal_id": "NYAG_19B13127-7"
       },
       "yvalue": 0,
@@ -107,7 +107,7 @@
         "date": "2019-12-30",
         "country": "USA",
         "num_date": 2019.9972602739726,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000651488.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000651488.1",
         "internal_id": "NYAG_19B13127-8"
       },
       "yvalue": 1,
@@ -117,64 +117,11 @@
       "strain": "CLADE_4",
       "attr": {
         "div": 21.0,
-        "num_date": 2018.3603840107792
+        "num_date": 2018.433221232055
       },
-      "yvalue": 3.625,
+      "yvalue": 4.0,
       "clade": 4,
       "children": [
-        {
-          "strain": "PDT000639362.1",
-          "attr": {
-            "div": 40.0,
-            "#label": "PDT000639362.1|SAMN13470744|GCA_010087825.1|Listeria monocytogenes||PNUSAL006532|Pathogen: clinical or host-associated",
-            "FDA_lab_id": "Unknown",
-            "HHS_region": 0,
-            "LibraryLayout": "PAIRED",
-            "PFGE_PrimaryEnzyme_pattern": "Unknown",
-            "PFGE_SecondaryEnzyme_pattern": "Unknown",
-            "Platform": "ILLUMINA",
-            "Run": "SRR10577714",
-            "asm_acc": "GCA_010087825.1",
-            "asm_level": "Contig",
-            "asm_stats_contig_n50": 63825,
-            "asm_stats_length_bp": 2960266,
-            "asm_stats_n_contig": 88,
-            "assembly_method": "SKESA v. 2.2",
-            "attribute_package": "Pathogen: clinical or host-associated",
-            "bioproject_acc": "PRJNA212117",
-            "bioproject_center": "Enteric Diseases Laboratory Branch, Centers for Disease Control and Prevention",
-            "biosample_acc": "SAMN13470744",
-            "collected_by": "CDC",
-            "collection_date": "Unknown",
-            "epi_type": "clinical",
-            "fullasm_id": 16181678,
-            "location": "USA",
-            "host": "Unknown",
-            "host_disease": "Unknown",
-            "isolation_source": "Unknown",
-            "lat_lon": "Unknown",
-            "outbreak": "Unknown",
-            "sample_name": "Unknown",
-            "scientific_name": "Listeria monocytogenes",
-            "serovar": "Unknown",
-            "species_taxid": 1639,
-            "sra_center": "EDLB-CDC",
-            "sra_release_date": "2019-12-04",
-            "strain": "PNUSAL006532",
-            "target_acc": "PDT000639362.1",
-            "target_creation_date": "2019-12-04",
-            "taxid": 1639,
-            "wgs_acc_prefix": "AANEBN",
-            "wgs_master_acc": "AANEBN000000000.1",
-            "date": "2019-12-04",
-            "country": "USA",
-            "num_date": 2019.9260273972602,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000639362.1",
-            "internal_id": "NJ___192497"
-          },
-          "yvalue": 2,
-          "clade": 5
-        },
         {
           "strain": "PDT000095130.2",
           "attr": {
@@ -222,11 +169,11 @@
             "date": "2015-11-23",
             "country": "USA",
             "num_date": 2015.8958904109588,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000095130.2",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000095130.2",
             "internal_id": "VA___R151100783"
           },
-          "yvalue": 3,
-          "clade": 6
+          "yvalue": 2,
+          "clade": 5
         },
         {
           "strain": "PDT000801336.1",
@@ -275,20 +222,137 @@
             "date": "2020-08-03",
             "country": "USA",
             "num_date": 2020.5901639344263,
-            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000801336.1",
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000801336.1",
             "internal_id": "MD___MDA20105789"
           },
-          "yvalue": 4,
-          "clade": 7
+          "yvalue": 3,
+          "clade": 6
         },
         {
-          "strain": "CLADE_8",
+          "strain": "CLADE_7",
+          "attr": {
+            "div": 40.0,
+            "num_date": 2020.7289014987612
+          },
+          "yvalue": 4.5,
+          "clade": 7,
+          "children": [
+            {
+              "strain": "PDT000881892.1",
+              "attr": {
+                "div": 41.0,
+                "#label": "PDT000881892.1|SAMN16689631||Listeria monocytogenes||PNUSAL008576|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR13001428",
+                "asm_acc": "Unknown",
+                "asm_level": "Unknown",
+                "asm_stats_contig_n50": 557987,
+                "asm_stats_length_bp": 3013988,
+                "asm_stats_n_contig": 13,
+                "assembly_method": "Unknown",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA212117",
+                "bioproject_center": "Enteric Diseases Laboratory Branch, Centers for Disease Control and Prevention",
+                "biosample_acc": "SAMN16689631",
+                "collected_by": "CDC",
+                "collection_date": "Unknown",
+                "epi_type": "clinical",
+                "fullasm_id": 0,
+                "location": "USA",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Listeria monocytogenes",
+                "serovar": "Unknown",
+                "species_taxid": 1639,
+                "sra_center": "PULSENET",
+                "sra_release_date": "2020-11-06",
+                "strain": "PNUSAL008576",
+                "target_acc": "PDT000881892.1",
+                "target_creation_date": "2020-11-06",
+                "taxid": 1639,
+                "wgs_acc_prefix": "Unknown",
+                "wgs_master_acc": "Unknown",
+                "date": "2020-11-06",
+                "country": "USA",
+                "num_date": 2020.8497267759562,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000881892.1",
+                "internal_id": null
+              },
+              "yvalue": 4,
+              "clade": 8
+            },
+            {
+              "strain": "PDT000639362.1",
+              "attr": {
+                "div": 40.0,
+                "#label": "PDT000639362.1|SAMN13470744|GCA_010087825.1|Listeria monocytogenes||PNUSAL006532|Pathogen: clinical or host-associated",
+                "FDA_lab_id": "Unknown",
+                "HHS_region": 0,
+                "LibraryLayout": "PAIRED",
+                "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                "Platform": "ILLUMINA",
+                "Run": "SRR10577714",
+                "asm_acc": "GCA_010087825.1",
+                "asm_level": "Contig",
+                "asm_stats_contig_n50": 63825,
+                "asm_stats_length_bp": 2960266,
+                "asm_stats_n_contig": 88,
+                "assembly_method": "SKESA v. 2.2",
+                "attribute_package": "Pathogen: clinical or host-associated",
+                "bioproject_acc": "PRJNA212117",
+                "bioproject_center": "Enteric Diseases Laboratory Branch, Centers for Disease Control and Prevention",
+                "biosample_acc": "SAMN13470744",
+                "collected_by": "CDC",
+                "collection_date": "Unknown",
+                "epi_type": "clinical",
+                "fullasm_id": 16181678,
+                "location": "USA",
+                "host": "Unknown",
+                "host_disease": "Unknown",
+                "isolation_source": "Unknown",
+                "lat_lon": "Unknown",
+                "outbreak": "Unknown",
+                "sample_name": "Unknown",
+                "scientific_name": "Listeria monocytogenes",
+                "serovar": "Unknown",
+                "species_taxid": 1639,
+                "sra_center": "EDLB-CDC",
+                "sra_release_date": "2019-12-04",
+                "strain": "PNUSAL006532",
+                "target_acc": "PDT000639362.1",
+                "target_creation_date": "2019-12-04",
+                "taxid": 1639,
+                "wgs_acc_prefix": "AANEBN",
+                "wgs_master_acc": "AANEBN000000000.1",
+                "date": "2019-12-04",
+                "country": "USA",
+                "num_date": 2019.9260273972602,
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000639362.1",
+                "internal_id": "NJ___192497"
+              },
+              "yvalue": 5,
+              "clade": 9
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_10",
           "attr": {
             "div": 22.0,
-            "num_date": 2018.477740848866
+            "num_date": 2018.5540465092502
           },
-          "yvalue": 5.5,
-          "clade": 8,
+          "yvalue": 6.5,
+          "clade": 10,
           "children": [
             {
               "strain": "PDT000144157.2",
@@ -337,11 +401,11 @@
                 "date": "2016-08-11",
                 "country": "USA",
                 "num_date": 2016.6120218579235,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000144157.2",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000144157.2",
                 "internal_id": "VA___R160803178"
               },
-              "yvalue": 5,
-              "clade": 9
+              "yvalue": 6,
+              "clade": 11
             },
             {
               "strain": "PDT000236972.2",
@@ -390,11 +454,11 @@
                 "date": "2017-08-27",
                 "country": "USA",
                 "num_date": 2017.654794520548,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1964/PDS000025543.4?accessions=PDT000236972.2",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Listeria/PDG000000001.1969/PDS000025543.5?accessions=PDT000236972.2",
                 "internal_id": "USDA_210319908"
               },
-              "yvalue": 6,
-              "clade": 10
+              "yvalue": 7,
+              "clade": 12
             }
           ]
         }

@@ -4,9 +4,62 @@
     "div": 0.0,
     "num_date": 2017.504109589041
   },
-  "yvalue": 0.5,
+  "yvalue": 1.0,
   "clade": 1,
   "children": [
+    {
+      "strain": "PDT000880627.1",
+      "attr": {
+        "div": 2.0,
+        "#label": "PDT000880627.1|SAMN16427537||Salmonella enterica subsp. enterica serovar Poona|Poona|PNCS013111|Pathogen: clinical or host-associated",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": 0,
+        "LibraryLayout": "PAIRED",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "ILLUMINA",
+        "Run": "SRR12995036",
+        "asm_acc": "Unknown",
+        "asm_level": "Unknown",
+        "asm_stats_contig_n50": 160627,
+        "asm_stats_length_bp": 4743779,
+        "asm_stats_n_contig": 60,
+        "assembly_method": "Unknown",
+        "attribute_package": "Pathogen: clinical or host-associated",
+        "bioproject_acc": "PRJNA543337",
+        "bioproject_center": "Public Health Agency of Canada",
+        "biosample_acc": "SAMN16427537",
+        "collected_by": "PHAC",
+        "collection_date": "2017-04-13",
+        "epi_type": "clinical",
+        "fullasm_id": 0,
+        "location": "Canada",
+        "host": "Homo sapiens",
+        "host_disease": "Gastroenteritis",
+        "isolation_source": "stool",
+        "lat_lon": "Unknown",
+        "outbreak": "Unknown",
+        "sample_name": "PNCS013111",
+        "scientific_name": "Salmonella enterica subsp. enterica serovar Poona",
+        "serovar": "Poona",
+        "species_taxid": 28901,
+        "sra_center": "NML",
+        "sra_release_date": "2020-11-05",
+        "strain": "PNCS013111",
+        "target_acc": "PDT000880627.1",
+        "target_creation_date": "2020-11-05",
+        "taxid": 436295,
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2020-11-05",
+        "country": "Canada",
+        "num_date": 2020.8469945355191,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2025/PDS000028567.2?accessions=PDT000880627.1",
+        "internal_id": null
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
     {
       "strain": "PDT000241834.2",
       "attr": {
@@ -54,11 +107,11 @@
         "date": "2017-09-20",
         "country": "USA",
         "num_date": 2017.7205479452055,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000028567.1?accessions=PDT000241834.2",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2025/PDS000028567.2?accessions=PDT000241834.2",
         "internal_id": "WA___23744"
       },
-      "yvalue": 0,
-      "clade": 2
+      "yvalue": 1,
+      "clade": 3
     },
     {
       "strain": "PDT000222387.2",
@@ -107,11 +160,11 @@
         "date": "2017-07-03",
         "country": "USA",
         "num_date": 2017.504109589041,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2021/PDS000028567.1?accessions=PDT000222387.2",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Salmonella/PDG000000002.2025/PDS000028567.2?accessions=PDT000222387.2",
         "internal_id": "CO___HUM-2017010162"
       },
-      "yvalue": 1,
-      "clade": 3
+      "yvalue": 2,
+      "clade": 4
     }
   ]
 }

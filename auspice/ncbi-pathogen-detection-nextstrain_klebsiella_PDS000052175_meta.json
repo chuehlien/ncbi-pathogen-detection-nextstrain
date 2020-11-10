@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-05",
-  "virus_count": 658,
+  "updated": "2020-11-09",
+  "virus_count": 665,
   "maintainer": "DCIPHER",
-  "title": "klebsiella_PDG000000012.792-PDS000052175.24",
+  "title": "klebsiella_PDG000000012.795-PDS000052175.25",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -230,7 +230,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -277,55 +277,47 @@
   ],
   "geo": {
     "country": {
+      "Italy": {
+        "latitude": 45.4642,
+        "longitude": 9.18944
+      },
       "Spain": {
         "latitude": 43.2,
         "longitude": -8.23
+      },
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
       "Switzerland": {
-        "latitude": 47.562939,
-        "longitude": 7.583467
-      },
-      "Italy": {
-        "latitude": 45.4642,
-        "longitude": 9.18944
-      },
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
+        "latitude": 47.562446,
+        "longitude": 7.583217
       }
     },
     "location": {
-      "Canada: Toronto": {
-        "latitude": 43.65,
-        "longitude": -79.38
-      },
-      "Spain: Seville": {
-        "latitude": 37.4,
-        "longitude": -5.98
+      "Spain": {
+        "latitude": 43.2,
+        "longitude": -8.23
       },
       "Colombia:Antioquia, Medellin": {
         "latitude": 6.24,
         "longitude": -75.58
       },
-      "Switzerland": {
-        "latitude": 47.562939,
-        "longitude": 7.583467
+      "Italy: Florence": {
+        "latitude": 43.806986,
+        "longitude": 11.24809
       },
-      "Canada: Quebec": {
-        "latitude": 45.5,
-        "longitude": -73.5667
+      "Spain: Andujar": {
+        "latitude": 38.04,
+        "longitude": -4.03
       },
-      "Italy": {
-        "latitude": 45.4642,
-        "longitude": 9.18944
-      },
-      "Colombia: Medellin": {
-        "latitude": 6.24,
-        "longitude": -75.58
+      "Spain: Jerez": {
+        "latitude": 36.69,
+        "longitude": -6.14
       },
       "Switzerland:Saint-Gallen": {
         "latitude": 46.1934,
@@ -335,57 +327,65 @@
         "latitude": 43.721883,
         "longitude": 10.396578999999974
       },
-      "USA: Chicago, IL": {
-        "latitude": 41.8945,
-        "longitude": -87.6208
-      },
-      "Australia: New South Wales": {
-        "latitude": -33.8688,
-        "longitude": 151.2093
+      "Switzerland": {
+        "latitude": 47.562446,
+        "longitude": 7.583217
       },
       "Switzerland:Geneva": {
         "latitude": 46.1934,
         "longitude": 6.14797
       },
-      "Spain": {
-        "latitude": 43.2,
-        "longitude": -8.23
+      "Italy": {
+        "latitude": 45.4642,
+        "longitude": 9.18944
       },
-      "Spain: Andujar": {
-        "latitude": 38.04,
-        "longitude": -4.03
+      "Colombia: Medellin": {
+        "latitude": 6.24,
+        "longitude": -75.58
       },
       "Spain: Cadiz": {
         "latitude": 36.5,
         "longitude": -6.27
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "Australia: New South Wales": {
+        "latitude": -33.8688,
+        "longitude": 151.2093
       },
-      "Italy: Bologna": {
-        "latitude": 44.51,
-        "longitude": 11.35
+      "Spain: Seville": {
+        "latitude": 37.4,
+        "longitude": -5.98
       },
       "Italy: Turin, Northern Italy": {
         "latitude": 45.070342347715744,
         "longitude": 7.685119626112282
       },
-      "Spain: Jerez": {
-        "latitude": 36.69,
-        "longitude": -6.14
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Canada: Toronto": {
+        "latitude": 43.65,
+        "longitude": -79.38
+      },
+      "Canada: Quebec": {
+        "latitude": 45.5,
+        "longitude": -73.5667
       },
       "Switzerland: Basel": {
         "latitude": 47.5596,
         "longitude": 7.588600000000042
       },
-      "Italy: Florence": {
-        "latitude": 43.806986,
-        "longitude": 11.24809
+      "USA: Chicago, IL": {
+        "latitude": 41.8945,
+        "longitude": -87.6208
       },
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
+      "Italy: Bologna": {
+        "latitude": 44.51,
+        "longitude": 11.35
       }
     }
   },

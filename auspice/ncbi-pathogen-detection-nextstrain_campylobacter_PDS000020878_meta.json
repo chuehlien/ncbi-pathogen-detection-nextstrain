@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-10",
+  "updated": "2020-11-22",
   "virus_count": 5,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1237-PDS000020878.3",
+  "title": "campylobacter_PDG000000003.1245-PDS000020878.3",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -244,6 +244,120 @@
       "key": "wgs_master_acc",
       "type": "discrete"
     },
+    "minsame": {
+      "menuItem": "Min-same",
+      "legendTitle": "Min-same",
+      "key": "minsame",
+      "type": "discrete"
+    },
+    "mindiff": {
+      "menuItem": "Min-diff",
+      "legendTitle": "Min-diff",
+      "key": "mindiff",
+      "type": "discrete"
+    },
+    "number_drugs_resistant": {
+      "menuItem": "number_drugs_resistant",
+      "legendTitle": "number_drugs_resistant",
+      "key": "number_drugs_resistant",
+      "type": "continuous"
+    },
+    "number_drugs_intermediate": {
+      "menuItem": "number_drugs_intermediate",
+      "legendTitle": "number_drugs_intermediate",
+      "key": "number_drugs_intermediate",
+      "type": "continuous"
+    },
+    "number_drugs_susceptible": {
+      "menuItem": "number_drugs_susceptible",
+      "legendTitle": "number_drugs_susceptible",
+      "key": "number_drugs_susceptible",
+      "type": "continuous"
+    },
+    "number_drugs_tested": {
+      "menuItem": "AST phenotypes",
+      "legendTitle": "AST phenotypes",
+      "key": "number_drugs_tested",
+      "type": "continuous"
+    },
+    "number_amr_genes": {
+      "menuItem": "AMR genotypes",
+      "legendTitle": "AMR genotypes",
+      "key": "number_amr_genes",
+      "type": "continuous"
+    },
+    "number_core_amr_genes": {
+      "menuItem": "number_core_amr_genes",
+      "legendTitle": "number_core_amr_genes",
+      "key": "number_core_amr_genes",
+      "type": "continuous"
+    },
+    "AST_phenotypes": {
+      "menuItem": "AST_phenotypes",
+      "legendTitle": "AST_phenotypes",
+      "key": "AST_phenotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes": {
+      "menuItem": "AMR_genotypes",
+      "legendTitle": "AMR_genotypes",
+      "key": "AMR_genotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes_core": {
+      "menuItem": "AMR_genotypes_core",
+      "legendTitle": "AMR_genotypes_core",
+      "key": "AMR_genotypes_core",
+      "type": "discrete"
+    },
+    "number_stress_genes": {
+      "menuItem": "Stress genotypes",
+      "legendTitle": "Stress genotypes",
+      "key": "number_stress_genes",
+      "type": "continuous"
+    },
+    "stress_genotypes": {
+      "menuItem": "stress_genotypes",
+      "legendTitle": "stress_genotypes",
+      "key": "stress_genotypes",
+      "type": "discrete"
+    },
+    "number_virulence_genes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "number_virulence_genes",
+      "type": "continuous"
+    },
+    "virulence_genotype": {
+      "menuItem": "virulence_genotype",
+      "legendTitle": "virulence_genotype",
+      "key": "virulence_genotype",
+      "type": "discrete"
+    },
+    "amrfinder_version": {
+      "menuItem": "amrfinder_version",
+      "legendTitle": "amrfinder_version",
+      "key": "amrfinder_version",
+      "type": "discrete"
+    },
+    "refgene_db_version": {
+      "menuItem": "PD Ref Gene Catalog version",
+      "legendTitle": "PD Ref Gene Catalog version",
+      "key": "refgene_db_version",
+      "type": "discrete"
+    },
+    "amrfinder_analysis_type": {
+      "menuItem": "amrfinder_analysis_type",
+      "legendTitle": "amrfinder_analysis_type",
+      "key": "amrfinder_analysis_type",
+      "type": "discrete"
+    },
+    "amrfinder_applied": {
+      "menuItem": "amrfinder_applied",
+      "legendTitle": "amrfinder_applied",
+      "key": "amrfinder_applied",
+      "type": "continuous"
+    },
     "date": {
       "menuItem": "date",
       "legendTitle": "date",
@@ -283,13 +397,13 @@
       }
     },
     "location": {
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
       "USA:WA": {
         "latitude": 47.751074,
         "longitude": -120.740139
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       }
     }
   },

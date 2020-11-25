@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-10",
-  "virus_count": 1523,
+  "updated": "2020-11-24",
+  "virus_count": 1524,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.1971-PDS000000366.397",
+  "title": "listeria_PDG000000001.1995-PDS000000366.398",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -16,6 +16,24 @@
       "key": "#label",
       "type": "discrete"
     },
+    "AMR_genotypes": {
+      "menuItem": "AMR genotypes",
+      "legendTitle": "AMR genotypes",
+      "key": "AMR_genotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes_core": {
+      "menuItem": "AMR genotypes core",
+      "legendTitle": "AMR genotypes core",
+      "key": "AMR_genotypes_core",
+      "type": "discrete"
+    },
+    "AST_phenotypes": {
+      "menuItem": "AST phenotypes",
+      "legendTitle": "AST phenotypes",
+      "key": "AST_phenotypes",
+      "type": "discrete"
+    },
     "FDA_lab_id": {
       "menuItem": "FDA Lab ID",
       "legendTitle": "FDA Lab ID",
@@ -26,7 +44,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -58,6 +76,24 @@
       "key": "Run",
       "type": "discrete"
     },
+    "amrfinder_analysis_type": {
+      "menuItem": "AMRFinder analysis type",
+      "legendTitle": "AMRFinder analysis type",
+      "key": "amrfinder_analysis_type",
+      "type": "discrete"
+    },
+    "amrfinder_applied": {
+      "menuItem": "AMRFinder applied",
+      "legendTitle": "AMRFinder applied",
+      "key": "amrfinder_applied",
+      "type": "continuous"
+    },
+    "amrfinder_version": {
+      "menuItem": "AMRFinder version",
+      "legendTitle": "AMRFinder version",
+      "key": "amrfinder_version",
+      "type": "discrete"
+    },
     "asm_acc": {
       "menuItem": "Assembly",
       "legendTitle": "Assembly",
@@ -74,19 +110,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -130,6 +166,18 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
     "epi_type": {
       "menuItem": "Isolation type",
       "legendTitle": "Isolation type",
@@ -140,12 +188,6 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
-    },
-    "location": {
-      "menuItem": "Location Name",
-      "legendTitle": "Location Name",
-      "key": "location",
       "type": "discrete"
     },
     "host": {
@@ -160,6 +202,12 @@
       "key": "host_disease",
       "type": "discrete"
     },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -172,10 +220,88 @@
       "key": "lat_lon",
       "type": "discrete"
     },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "mindiff": {
+      "menuItem": "Min-diff",
+      "legendTitle": "Min-diff",
+      "key": "mindiff",
+      "type": "discrete"
+    },
+    "minsame": {
+      "menuItem": "Min-same",
+      "legendTitle": "Min-same",
+      "key": "minsame",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "number_amr_genes": {
+      "menuItem": "Number AMR genes",
+      "legendTitle": "Number AMR genes",
+      "key": "number_amr_genes",
+      "type": "continuous"
+    },
+    "number_core_amr_genes": {
+      "menuItem": "Number core AMR genes",
+      "legendTitle": "Number core AMR genes",
+      "key": "number_core_amr_genes",
+      "type": "continuous"
+    },
+    "number_drugs_intermediate": {
+      "menuItem": "Number drugs intermediate",
+      "legendTitle": "Number drugs intermediate",
+      "key": "number_drugs_intermediate",
+      "type": "continuous"
+    },
+    "number_drugs_resistant": {
+      "menuItem": "Number drugs resistant",
+      "legendTitle": "Number drugs resistant",
+      "key": "number_drugs_resistant",
+      "type": "continuous"
+    },
+    "number_drugs_susceptible": {
+      "menuItem": "Number drugs susceptible",
+      "legendTitle": "Number drugs susceptible",
+      "key": "number_drugs_susceptible",
+      "type": "continuous"
+    },
+    "number_drugs_tested": {
+      "menuItem": "Number drugs tested",
+      "legendTitle": "Number drugs tested",
+      "key": "number_drugs_tested",
+      "type": "continuous"
+    },
+    "number_stress_genes": {
+      "menuItem": "Number stress genes",
+      "legendTitle": "Number stress genes",
+      "key": "number_stress_genes",
+      "type": "continuous"
+    },
+    "number_virulence_genes": {
+      "menuItem": "Number virulence genes",
+      "legendTitle": "Number virulence genes",
+      "key": "number_virulence_genes",
+      "type": "continuous"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "refgene_db_version": {
+      "menuItem": "PD Ref Gene Catalog version",
+      "legendTitle": "PD Ref Gene Catalog version",
+      "key": "refgene_db_version",
       "type": "discrete"
     },
     "sample_name": {
@@ -200,7 +326,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -220,6 +346,12 @@
       "key": "strain",
       "type": "discrete"
     },
+    "stress_genotypes": {
+      "menuItem": "Stress genotypes",
+      "legendTitle": "Stress genotypes",
+      "key": "stress_genotypes",
+      "type": "discrete"
+    },
     "target_creation_date": {
       "menuItem": "Create Date",
       "legendTitle": "Create Date",
@@ -230,7 +362,13 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "virulence_genotype": {
+      "menuItem": "Virulence genotype",
+      "legendTitle": "Virulence genotype",
+      "key": "virulence_genotype",
+      "type": "discrete"
     },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
@@ -242,30 +380,6 @@
       "menuItem": "WGS Accession",
       "legendTitle": "WGS Accession",
       "key": "wgs_master_acc",
-      "type": "discrete"
-    },
-    "date": {
-      "menuItem": "date",
-      "legendTitle": "date",
-      "key": "date",
-      "type": "discrete"
-    },
-    "country": {
-      "menuItem": "country",
-      "legendTitle": "country",
-      "key": "country",
-      "type": "discrete"
-    },
-    "ncbi_tree_url": {
-      "menuItem": "ncbi_tree_url",
-      "legendTitle": "ncbi_tree_url",
-      "key": "ncbi_tree_url",
-      "type": "discrete"
-    },
-    "internal_id": {
-      "menuItem": "internal_id",
-      "legendTitle": "internal_id",
-      "key": "internal_id",
       "type": "discrete"
     }
   },
@@ -283,153 +397,145 @@
       }
     },
     "location": {
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
-      },
-      "USA: Georgia": {
-        "latitude": 32.16,
-        "longitude": -82.9
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:NC": {
-        "latitude": 35.759573,
-        "longitude": -79.0193
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
-      },
-      "USA:NM": {
-        "latitude": 34.97273,
-        "longitude": -105.032363
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:HI": {
-        "latitude": 19.898682,
-        "longitude": -155.66585700000005
-      },
-      "Canada:British Columbia,Vancouver": {
-        "latitude": 49.2827,
-        "longitude": -123.1207
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "Canada:Nova Scotia,Dartmouth": {
-        "latitude": 44.6667,
-        "longitude": -63.5667
-      },
-      "Canada:British Columbia,Burnaby": {
-        "latitude": 49.2667,
-        "longitude": -122.9667
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
-      },
-      "USA:RI": {
-        "latitude": 41.580095,
-        "longitude": -71.477429
-      },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
-      },
-      "USA:New York": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
-      },
-      "USA:AK": {
-        "latitude": 63.588753,
-        "longitude": -154.493062
-      },
       "USA:ME": {
         "latitude": 45.253783,
         "longitude": -69.44546899999999
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
       },
       "USA:MD": {
         "latitude": 39.045755,
         "longitude": -76.641271
       },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
       },
-      "USA:NY": {
+      "USA:NC": {
+        "latitude": 35.759573,
+        "longitude": -79.0193
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA:RI": {
+        "latitude": 41.580095,
+        "longitude": -71.477429
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:New York": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:AK": {
+        "latitude": 63.588753,
+        "longitude": -154.493062
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
       },
       "USA:MI": {
         "latitude": 44.314844,
         "longitude": -85.602364
       },
+      "USA:NM": {
+        "latitude": 34.97273,
+        "longitude": -105.032363
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
       "USA:FL": {
         "latitude": 27.664827,
         "longitude": -81.515754
       },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
       },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
+      "USA:HI": {
+        "latitude": 19.898682,
+        "longitude": -155.66585700000005
+      },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "Canada: Toronto": {
+        "latitude": 46.6532,
+        "longitude": -79.3832
+      },
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
+      },
+      "USA:LA": {
+        "latitude": 31.244823,
+        "longitude": -92.145024
+      },
+      "USA:CT": {
+        "latitude": 41.60322100000001,
+        "longitude": -73.087749
+      },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
       },
       "USA:OK": {
         "latitude": 35.007752,
         "longitude": -97.092877
+      },
+      "Canada:British Columbia,Burnaby": {
+        "latitude": 49.2667,
+        "longitude": -122.9667
+      },
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
+      },
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
+      },
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000002
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "Canada:British Columbia,Vancouver": {
+        "latitude": 49.2827,
+        "longitude": -123.1207
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
+      },
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
       "USA:VA": {
         "latitude": 37.431573,
@@ -439,41 +545,49 @@
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:WV": {
-        "latitude": 38.597626,
-        "longitude": -80.454903
+      "USA:MO": {
+        "latitude": 37.964253,
+        "longitude": -91.831833
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "Canada:Quebec,Saint-Hyacinthe": {
-        "latitude": 45.6167,
-        "longitude": -72.95
-      },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
+      "USA: Georgia": {
+        "latitude": 32.16,
+        "longitude": -82.9
       },
       "USA:AZ": {
         "latitude": 34.048928000000004,
         "longitude": -111.093731
       },
-      "Canada: Toronto": {
-        "latitude": 46.6532,
-        "longitude": -79.3832
+      "USA:AR": {
+        "latitude": 35.20105,
+        "longitude": -91.831833
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:WV": {
+        "latitude": 38.597626,
+        "longitude": -80.454903
       },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:AL": {
+        "latitude": 32.318231,
+        "longitude": -86.902298
+      },
+      "Canada:Nova Scotia,Dartmouth": {
+        "latitude": 44.6667,
+        "longitude": -63.5667
+      },
+      "Canada:Quebec,Saint-Hyacinthe": {
+        "latitude": 45.6167,
+        "longitude": -72.95
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
       }
     }
   },

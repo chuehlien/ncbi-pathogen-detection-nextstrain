@@ -16,6 +16,24 @@
       "key": "#label",
       "type": "discrete"
     },
+    "AMR_genotypes": {
+      "menuItem": "AMR genotypes",
+      "legendTitle": "AMR genotypes",
+      "key": "AMR_genotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes_core": {
+      "menuItem": "AMR genotypes core",
+      "legendTitle": "AMR genotypes core",
+      "key": "AMR_genotypes_core",
+      "type": "discrete"
+    },
+    "AST_phenotypes": {
+      "menuItem": "AST phenotypes",
+      "legendTitle": "AST phenotypes",
+      "key": "AST_phenotypes",
+      "type": "discrete"
+    },
     "FDA_lab_id": {
       "menuItem": "FDA Lab ID",
       "legendTitle": "FDA Lab ID",
@@ -56,6 +74,24 @@
       "menuItem": "Run",
       "legendTitle": "Run",
       "key": "Run",
+      "type": "discrete"
+    },
+    "amrfinder_analysis_type": {
+      "menuItem": "AMRFinder analysis type",
+      "legendTitle": "AMRFinder analysis type",
+      "key": "amrfinder_analysis_type",
+      "type": "discrete"
+    },
+    "amrfinder_applied": {
+      "menuItem": "AMRFinder applied",
+      "legendTitle": "AMRFinder applied",
+      "key": "amrfinder_applied",
+      "type": "continuous"
+    },
+    "amrfinder_version": {
+      "menuItem": "AMRFinder version",
+      "legendTitle": "AMRFinder version",
+      "key": "amrfinder_version",
       "type": "discrete"
     },
     "asm_acc": {
@@ -130,6 +166,18 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
     "epi_type": {
       "menuItem": "Isolation type",
       "legendTitle": "Isolation type",
@@ -142,12 +190,6 @@
       "key": "fullasm_id",
       "type": "continuous"
     },
-    "location": {
-      "menuItem": "Location Name",
-      "legendTitle": "Location Name",
-      "key": "location",
-      "type": "discrete"
-    },
     "host": {
       "menuItem": "Host",
       "legendTitle": "Host",
@@ -158,6 +200,12 @@
       "menuItem": "Host Disease",
       "legendTitle": "Host Disease",
       "key": "host_disease",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     },
     "isolation_source": {
@@ -172,10 +220,88 @@
       "key": "lat_lon",
       "type": "discrete"
     },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "mindiff": {
+      "menuItem": "Min-diff",
+      "legendTitle": "Min-diff",
+      "key": "mindiff",
+      "type": "discrete"
+    },
+    "minsame": {
+      "menuItem": "Min-same",
+      "legendTitle": "Min-same",
+      "key": "minsame",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "number_amr_genes": {
+      "menuItem": "Number AMR genes",
+      "legendTitle": "Number AMR genes",
+      "key": "number_amr_genes",
+      "type": "continuous"
+    },
+    "number_core_amr_genes": {
+      "menuItem": "Number core AMR genes",
+      "legendTitle": "Number core AMR genes",
+      "key": "number_core_amr_genes",
+      "type": "continuous"
+    },
+    "number_drugs_intermediate": {
+      "menuItem": "Number drugs intermediate",
+      "legendTitle": "Number drugs intermediate",
+      "key": "number_drugs_intermediate",
+      "type": "continuous"
+    },
+    "number_drugs_resistant": {
+      "menuItem": "Number drugs resistant",
+      "legendTitle": "Number drugs resistant",
+      "key": "number_drugs_resistant",
+      "type": "continuous"
+    },
+    "number_drugs_susceptible": {
+      "menuItem": "Number drugs susceptible",
+      "legendTitle": "Number drugs susceptible",
+      "key": "number_drugs_susceptible",
+      "type": "continuous"
+    },
+    "number_drugs_tested": {
+      "menuItem": "Number drugs tested",
+      "legendTitle": "Number drugs tested",
+      "key": "number_drugs_tested",
+      "type": "continuous"
+    },
+    "number_stress_genes": {
+      "menuItem": "Number stress genes",
+      "legendTitle": "Number stress genes",
+      "key": "number_stress_genes",
+      "type": "continuous"
+    },
+    "number_virulence_genes": {
+      "menuItem": "Number virulence genes",
+      "legendTitle": "Number virulence genes",
+      "key": "number_virulence_genes",
+      "type": "continuous"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "refgene_db_version": {
+      "menuItem": "PD Ref Gene Catalog version",
+      "legendTitle": "PD Ref Gene Catalog version",
+      "key": "refgene_db_version",
       "type": "discrete"
     },
     "sample_name": {
@@ -220,6 +346,12 @@
       "key": "strain",
       "type": "discrete"
     },
+    "stress_genotypes": {
+      "menuItem": "Stress genotypes",
+      "legendTitle": "Stress genotypes",
+      "key": "stress_genotypes",
+      "type": "discrete"
+    },
     "target_creation_date": {
       "menuItem": "Create Date",
       "legendTitle": "Create Date",
@@ -232,6 +364,12 @@
       "key": "taxid",
       "type": "continuous"
     },
+    "virulence_genotype": {
+      "menuItem": "Virulence genotype",
+      "legendTitle": "Virulence genotype",
+      "key": "virulence_genotype",
+      "type": "discrete"
+    },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
       "legendTitle": "WGS Prefix",
@@ -243,144 +381,6 @@
       "legendTitle": "WGS Accession",
       "key": "wgs_master_acc",
       "type": "discrete"
-    },
-    "minsame": {
-      "menuItem": "Min-same",
-      "legendTitle": "Min-same",
-      "key": "minsame",
-      "type": "discrete"
-    },
-    "mindiff": {
-      "menuItem": "Min-diff",
-      "legendTitle": "Min-diff",
-      "key": "mindiff",
-      "type": "discrete"
-    },
-    "number_drugs_resistant": {
-      "menuItem": "number_drugs_resistant",
-      "legendTitle": "number_drugs_resistant",
-      "key": "number_drugs_resistant",
-      "type": "continuous"
-    },
-    "number_drugs_intermediate": {
-      "menuItem": "number_drugs_intermediate",
-      "legendTitle": "number_drugs_intermediate",
-      "key": "number_drugs_intermediate",
-      "type": "continuous"
-    },
-    "number_drugs_susceptible": {
-      "menuItem": "number_drugs_susceptible",
-      "legendTitle": "number_drugs_susceptible",
-      "key": "number_drugs_susceptible",
-      "type": "continuous"
-    },
-    "number_drugs_tested": {
-      "menuItem": "AST phenotypes",
-      "legendTitle": "AST phenotypes",
-      "key": "number_drugs_tested",
-      "type": "continuous"
-    },
-    "number_amr_genes": {
-      "menuItem": "AMR genotypes",
-      "legendTitle": "AMR genotypes",
-      "key": "number_amr_genes",
-      "type": "continuous"
-    },
-    "number_core_amr_genes": {
-      "menuItem": "number_core_amr_genes",
-      "legendTitle": "number_core_amr_genes",
-      "key": "number_core_amr_genes",
-      "type": "continuous"
-    },
-    "AST_phenotypes": {
-      "menuItem": "AST_phenotypes",
-      "legendTitle": "AST_phenotypes",
-      "key": "AST_phenotypes",
-      "type": "discrete"
-    },
-    "AMR_genotypes": {
-      "menuItem": "AMR_genotypes",
-      "legendTitle": "AMR_genotypes",
-      "key": "AMR_genotypes",
-      "type": "discrete"
-    },
-    "AMR_genotypes_core": {
-      "menuItem": "AMR_genotypes_core",
-      "legendTitle": "AMR_genotypes_core",
-      "key": "AMR_genotypes_core",
-      "type": "discrete"
-    },
-    "number_stress_genes": {
-      "menuItem": "Stress genotypes",
-      "legendTitle": "Stress genotypes",
-      "key": "number_stress_genes",
-      "type": "continuous"
-    },
-    "stress_genotypes": {
-      "menuItem": "stress_genotypes",
-      "legendTitle": "stress_genotypes",
-      "key": "stress_genotypes",
-      "type": "discrete"
-    },
-    "number_virulence_genes": {
-      "menuItem": "Virulence genotypes",
-      "legendTitle": "Virulence genotypes",
-      "key": "number_virulence_genes",
-      "type": "continuous"
-    },
-    "virulence_genotype": {
-      "menuItem": "virulence_genotype",
-      "legendTitle": "virulence_genotype",
-      "key": "virulence_genotype",
-      "type": "discrete"
-    },
-    "amrfinder_version": {
-      "menuItem": "amrfinder_version",
-      "legendTitle": "amrfinder_version",
-      "key": "amrfinder_version",
-      "type": "discrete"
-    },
-    "refgene_db_version": {
-      "menuItem": "PD Ref Gene Catalog version",
-      "legendTitle": "PD Ref Gene Catalog version",
-      "key": "refgene_db_version",
-      "type": "discrete"
-    },
-    "amrfinder_analysis_type": {
-      "menuItem": "amrfinder_analysis_type",
-      "legendTitle": "amrfinder_analysis_type",
-      "key": "amrfinder_analysis_type",
-      "type": "discrete"
-    },
-    "amrfinder_applied": {
-      "menuItem": "amrfinder_applied",
-      "legendTitle": "amrfinder_applied",
-      "key": "amrfinder_applied",
-      "type": "continuous"
-    },
-    "date": {
-      "menuItem": "date",
-      "legendTitle": "date",
-      "key": "date",
-      "type": "discrete"
-    },
-    "country": {
-      "menuItem": "country",
-      "legendTitle": "country",
-      "key": "country",
-      "type": "discrete"
-    },
-    "ncbi_tree_url": {
-      "menuItem": "ncbi_tree_url",
-      "legendTitle": "ncbi_tree_url",
-      "key": "ncbi_tree_url",
-      "type": "discrete"
-    },
-    "internal_id": {
-      "menuItem": "internal_id",
-      "legendTitle": "internal_id",
-      "key": "internal_id",
-      "type": "discrete"
     }
   },
   "filters": [],
@@ -391,25 +391,13 @@
   ],
   "geo": {
     "country": {
-      "Thailand": {
-        "latitude": 13.7583,
-        "longitude": 100.4854
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "China": {
-        "latitude": 39.9,
-        "longitude": 116.3
+      "France": {
+        "latitude": 47.22,
+        "longitude": 5.96
       },
       "Malaysia": {
         "latitude": 5.325464,
         "longitude": 103.151674
-      },
-      "Iran": {
-        "latitude": 35.44,
-        "longitude": 51.3
       },
       "Israel": {
         "latitude": 31.76,
@@ -419,155 +407,167 @@
         "latitude": 12.9246,
         "longitude": 79.1348
       },
-      "France": {
-        "latitude": 47.22,
-        "longitude": 5.96
-      }
-    },
-    "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Iran": {
+        "latitude": 35.44,
+        "longitude": 51.3
+      },
       "Thailand": {
         "latitude": 13.7583,
         "longitude": 100.4854
       },
-      "Egypt: Alexandria": {
-        "latitude": 31.201778,
-        "longitude": 29.904147
-      },
-      "China: Beijing": {
+      "China": {
         "latitude": 39.9,
         "longitude": 116.3
-      },
-      "India: Vellore": {
-        "latitude": 12.9165,
-        "longitude": 79.1325
+      }
+    },
+    "location": {
+      "China:Zhejiang": {
+        "latitude": 30.26557,
+        "longitude": 120.15359
       },
       "China: Shanghai": {
         "latitude": 31.11,
         "longitude": 121.29
       },
-      "Myanmar:Yangon": {
-        "latitude": 16.9,
-        "longitude": 96.1
-      },
-      "China: Shenzhen": {
-        "latitude": 22.55,
-        "longitude": 114.12
-      },
-      "China:Hangzhou": {
-        "latitude": 30.26,
-        "longitude": 120.19
-      },
-      "Iran": {
-        "latitude": 35.44,
-        "longitude": 51.3
-      },
-      "China: Gungdong": {
-        "latitude": 22.61,
-        "longitude": 113.06
-      },
-      "Thailand: Roi et": {
-        "latitude": 16.0567,
-        "longitude": 103.653089
-      },
-      "Turkey:Kayseri": {
-        "latitude": 38.73,
-        "longitude": 35.46
-      },
-      "India:Vellore": {
-        "latitude": 12.925110267872562,
-        "longitude": 79.13696363568306
-      },
-      "Thailand: Suratthani": {
-        "latitude": 9.1382,
-        "longitude": 99.3217
-      },
-      "India": {
-        "latitude": 12.9246,
-        "longitude": 79.1348
-      },
-      "Myanmar:Mandalay": {
-        "latitude": 22.0,
-        "longitude": 96.1
-      },
-      "China:Gungdong": {
-        "latitude": 22.61,
-        "longitude": 113.06
-      },
-      "Thailand: Chiang Mai": {
-        "latitude": 15.87,
-        "longitude": 100.99
-      },
-      "China:Shenzhen": {
-        "latitude": 22.55,
-        "longitude": 114.12
-      },
-      "India:Assam,Guwahati": {
-        "latitude": 26.14,
-        "longitude": 91.73
-      },
-      "France": {
-        "latitude": 47.22,
-        "longitude": 5.96
-      },
-      "China: Guangzhou": {
-        "latitude": 23.13,
-        "longitude": 113.26
-      },
-      "Thailand: Bangkok": {
-        "latitude": 13.7584,
-        "longitude": 100.4855
-      },
-      "China: Hangzhou": {
-        "latitude": 30.3,
-        "longitude": 120.2
-      },
       "China:Chongqing": {
         "latitude": 29.58752,
         "longitude": 106.550952
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Saudi Arabia: Makkah": {
-        "latitude": 21.22,
-        "longitude": 39.52
-      },
-      "China": {
-        "latitude": 39.9,
-        "longitude": 116.3
-      },
-      "India: NewDelhi": {
-        "latitude": 28.5682,
-        "longitude": 77.2007
       },
       "Malaysia": {
         "latitude": 5.325464,
         "longitude": 103.151674
       },
+      "Turkey:Kayseri": {
+        "latitude": 38.73,
+        "longitude": 35.46
+      },
+      "Egypt: Alexandria": {
+        "latitude": 31.201778,
+        "longitude": 29.904147
+      },
+      "Thailand: Bangkok": {
+        "latitude": 13.7584,
+        "longitude": 100.4855
+      },
+      "India:Vellore": {
+        "latitude": 12.925110267872562,
+        "longitude": 79.13696363568306
+      },
+      "Thailand: Chiang Mai": {
+        "latitude": 15.87,
+        "longitude": 100.99
+      },
+      "India": {
+        "latitude": 12.9246,
+        "longitude": 79.1348
+      },
+      "China: Beijing": {
+        "latitude": 39.9,
+        "longitude": 116.3
+      },
+      "China: Gungdong": {
+        "latitude": 22.61,
+        "longitude": 113.06
+      },
       "USA:Cleveland": {
         "latitude": 41.5,
         "longitude": -81.62
+      },
+      "Iran": {
+        "latitude": 35.44,
+        "longitude": 51.3
+      },
+      "China:Hangzhou": {
+        "latitude": 30.26,
+        "longitude": 120.19
+      },
+      "Thailand": {
+        "latitude": 13.7583,
+        "longitude": 100.4854
+      },
+      "China": {
+        "latitude": 39.9,
+        "longitude": 116.3
+      },
+      "China:Gungdong": {
+        "latitude": 22.61,
+        "longitude": 113.06
+      },
+      "China: Hangzhou": {
+        "latitude": 30.3,
+        "longitude": 120.2
+      },
+      "France": {
+        "latitude": 47.22,
+        "longitude": 5.96
+      },
+      "India: NewDelhi": {
+        "latitude": 28.5682,
+        "longitude": 77.2007
+      },
+      "Thailand: Suratthani": {
+        "latitude": 9.1382,
+        "longitude": 99.3217
+      },
+      "China: Guangzhou": {
+        "latitude": 23.13,
+        "longitude": 113.26
+      },
+      "Myanmar:Mandalay": {
+        "latitude": 22.0,
+        "longitude": 96.1
+      },
+      "Saudi Arabia: Makkah": {
+        "latitude": 21.22,
+        "longitude": 39.52
+      },
+      "Israel": {
+        "latitude": 31.76,
+        "longitude": 35.15
+      },
+      "India:Assam,Guwahati": {
+        "latitude": 26.14,
+        "longitude": 91.73
+      },
+      "China: Shenzhen": {
+        "latitude": 22.55,
+        "longitude": 114.12
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Myanmar:Yangon": {
+        "latitude": 16.9,
+        "longitude": 96.1
       },
       "Pakistan: Peshawar": {
         "latitude": 34.0151,
         "longitude": 71.5249
       },
-      "Malaysia: Kuala Terengganu, Terengganu": {
-        "latitude": 5.311737,
-        "longitude": 103.119912
-      },
       "Germany: Heidelberg": {
         "latitude": 49.39875,
         "longitude": 8.672434
       },
-      "China:Zhejiang": {
-        "latitude": 30.26557,
-        "longitude": 120.15359
+      "India: Vellore": {
+        "latitude": 12.9165,
+        "longitude": 79.1325
       },
-      "Israel": {
-        "latitude": 31.76,
-        "longitude": 35.15
+      "China:Shenzhen": {
+        "latitude": 22.55,
+        "longitude": 114.12
+      },
+      "Thailand: Roi et": {
+        "latitude": 16.0567,
+        "longitude": 103.653089
+      },
+      "Malaysia: Kuala Terengganu, Terengganu": {
+        "latitude": 5.311737,
+        "longitude": 103.119912
       }
     }
   },

@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-27",
+  "updated": "2020-11-19",
   "virus_count": 15,
   "maintainer": "DCIPHER",
-  "title": "clostridium-perfringens_PDG000000061.52-PDS000042681.2",
+  "title": "clostridium-perfringens_PDG000000061.54-PDS000042681.2",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -14,6 +14,24 @@
       "menuItem": "Label",
       "legendTitle": "Label",
       "key": "#label",
+      "type": "discrete"
+    },
+    "AMR_genotypes": {
+      "menuItem": "AMR genotypes",
+      "legendTitle": "AMR genotypes",
+      "key": "AMR_genotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes_core": {
+      "menuItem": "AMR genotypes core",
+      "legendTitle": "AMR genotypes core",
+      "key": "AMR_genotypes_core",
+      "type": "discrete"
+    },
+    "AST_phenotypes": {
+      "menuItem": "AST phenotypes",
+      "legendTitle": "AST phenotypes",
+      "key": "AST_phenotypes",
       "type": "discrete"
     },
     "FDA_lab_id": {
@@ -56,6 +74,24 @@
       "menuItem": "Run",
       "legendTitle": "Run",
       "key": "Run",
+      "type": "discrete"
+    },
+    "amrfinder_analysis_type": {
+      "menuItem": "AMRFinder analysis type",
+      "legendTitle": "AMRFinder analysis type",
+      "key": "amrfinder_analysis_type",
+      "type": "discrete"
+    },
+    "amrfinder_applied": {
+      "menuItem": "AMRFinder applied",
+      "legendTitle": "AMRFinder applied",
+      "key": "amrfinder_applied",
+      "type": "continuous"
+    },
+    "amrfinder_version": {
+      "menuItem": "AMRFinder version",
+      "legendTitle": "AMRFinder version",
+      "key": "amrfinder_version",
       "type": "discrete"
     },
     "asm_acc": {
@@ -130,6 +166,18 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
     "epi_type": {
       "menuItem": "Isolation type",
       "legendTitle": "Isolation type",
@@ -142,12 +190,6 @@
       "key": "fullasm_id",
       "type": "continuous"
     },
-    "location": {
-      "menuItem": "Location Name",
-      "legendTitle": "Location Name",
-      "key": "location",
-      "type": "discrete"
-    },
     "host": {
       "menuItem": "Host",
       "legendTitle": "Host",
@@ -158,6 +200,12 @@
       "menuItem": "Host Disease",
       "legendTitle": "Host Disease",
       "key": "host_disease",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     },
     "isolation_source": {
@@ -172,10 +220,88 @@
       "key": "lat_lon",
       "type": "discrete"
     },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "mindiff": {
+      "menuItem": "Min-diff",
+      "legendTitle": "Min-diff",
+      "key": "mindiff",
+      "type": "discrete"
+    },
+    "minsame": {
+      "menuItem": "Min-same",
+      "legendTitle": "Min-same",
+      "key": "minsame",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "number_amr_genes": {
+      "menuItem": "Number AMR genes",
+      "legendTitle": "Number AMR genes",
+      "key": "number_amr_genes",
+      "type": "continuous"
+    },
+    "number_core_amr_genes": {
+      "menuItem": "Number core AMR genes",
+      "legendTitle": "Number core AMR genes",
+      "key": "number_core_amr_genes",
+      "type": "continuous"
+    },
+    "number_drugs_intermediate": {
+      "menuItem": "Number drugs intermediate",
+      "legendTitle": "Number drugs intermediate",
+      "key": "number_drugs_intermediate",
+      "type": "continuous"
+    },
+    "number_drugs_resistant": {
+      "menuItem": "Number drugs resistant",
+      "legendTitle": "Number drugs resistant",
+      "key": "number_drugs_resistant",
+      "type": "continuous"
+    },
+    "number_drugs_susceptible": {
+      "menuItem": "Number drugs susceptible",
+      "legendTitle": "Number drugs susceptible",
+      "key": "number_drugs_susceptible",
+      "type": "continuous"
+    },
+    "number_drugs_tested": {
+      "menuItem": "Number drugs tested",
+      "legendTitle": "Number drugs tested",
+      "key": "number_drugs_tested",
+      "type": "continuous"
+    },
+    "number_stress_genes": {
+      "menuItem": "Number stress genes",
+      "legendTitle": "Number stress genes",
+      "key": "number_stress_genes",
+      "type": "continuous"
+    },
+    "number_virulence_genes": {
+      "menuItem": "Number virulence genes",
+      "legendTitle": "Number virulence genes",
+      "key": "number_virulence_genes",
+      "type": "continuous"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "refgene_db_version": {
+      "menuItem": "PD Ref Gene Catalog version",
+      "legendTitle": "PD Ref Gene Catalog version",
+      "key": "refgene_db_version",
       "type": "discrete"
     },
     "sample_name": {
@@ -220,6 +346,12 @@
       "key": "strain",
       "type": "discrete"
     },
+    "stress_genotypes": {
+      "menuItem": "Stress genotypes",
+      "legendTitle": "Stress genotypes",
+      "key": "stress_genotypes",
+      "type": "discrete"
+    },
     "target_creation_date": {
       "menuItem": "Create Date",
       "legendTitle": "Create Date",
@@ -232,6 +364,12 @@
       "key": "taxid",
       "type": "continuous"
     },
+    "virulence_genotype": {
+      "menuItem": "Virulence genotype",
+      "legendTitle": "Virulence genotype",
+      "key": "virulence_genotype",
+      "type": "discrete"
+    },
     "wgs_acc_prefix": {
       "menuItem": "WGS Prefix",
       "legendTitle": "WGS Prefix",
@@ -243,30 +381,6 @@
       "legendTitle": "WGS Accession",
       "key": "wgs_master_acc",
       "type": "discrete"
-    },
-    "date": {
-      "menuItem": "date",
-      "legendTitle": "date",
-      "key": "date",
-      "type": "discrete"
-    },
-    "country": {
-      "menuItem": "country",
-      "legendTitle": "country",
-      "key": "country",
-      "type": "discrete"
-    },
-    "ncbi_tree_url": {
-      "menuItem": "ncbi_tree_url",
-      "legendTitle": "ncbi_tree_url",
-      "key": "ncbi_tree_url",
-      "type": "discrete"
-    },
-    "internal_id": {
-      "menuItem": "internal_id",
-      "legendTitle": "internal_id",
-      "key": "internal_id",
-      "type": "discrete"
     }
   },
   "filters": [],
@@ -277,23 +391,23 @@
   ],
   "geo": {
     "country": {
+      "Italy": {
+        "latitude": 45.070085,
+        "longitude": 7.686364
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Italy": {
-        "latitude": 45.070085,
-        "longitude": 7.686364
       }
     },
     "location": {
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
       "Italy": {
         "latitude": 45.070085,
         "longitude": 7.686364
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
       }
     }
   },

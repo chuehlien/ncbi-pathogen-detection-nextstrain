@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-10",
-  "virus_count": 665,
+  "updated": "2020-11-23",
+  "virus_count": 681,
   "maintainer": "DCIPHER",
-  "title": "klebsiella_PDG000000012.796-PDS000052175.25",
+  "title": "klebsiella_PDG000000012.806-PDS000052175.28",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -14,6 +14,24 @@
       "menuItem": "Label",
       "legendTitle": "Label",
       "key": "#label",
+      "type": "discrete"
+    },
+    "AMR_genotypes": {
+      "menuItem": "AMR genotypes",
+      "legendTitle": "AMR genotypes",
+      "key": "AMR_genotypes",
+      "type": "discrete"
+    },
+    "AMR_genotypes_core": {
+      "menuItem": "AMR genotypes core",
+      "legendTitle": "AMR genotypes core",
+      "key": "AMR_genotypes_core",
+      "type": "discrete"
+    },
+    "AST_phenotypes": {
+      "menuItem": "AST phenotypes",
+      "legendTitle": "AST phenotypes",
+      "key": "AST_phenotypes",
       "type": "discrete"
     },
     "FDA_lab_id": {
@@ -56,6 +74,24 @@
       "menuItem": "Run",
       "legendTitle": "Run",
       "key": "Run",
+      "type": "discrete"
+    },
+    "amrfinder_analysis_type": {
+      "menuItem": "AMRFinder analysis type",
+      "legendTitle": "AMRFinder analysis type",
+      "key": "amrfinder_analysis_type",
+      "type": "discrete"
+    },
+    "amrfinder_applied": {
+      "menuItem": "AMRFinder applied",
+      "legendTitle": "AMRFinder applied",
+      "key": "amrfinder_applied",
+      "type": "continuous"
+    },
+    "amrfinder_version": {
+      "menuItem": "AMRFinder version",
+      "legendTitle": "AMRFinder version",
+      "key": "amrfinder_version",
       "type": "discrete"
     },
     "asm_acc": {
@@ -130,6 +166,18 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "country": {
+      "menuItem": "country",
+      "legendTitle": "country",
+      "key": "country",
+      "type": "discrete"
+    },
+    "date": {
+      "menuItem": "date",
+      "legendTitle": "date",
+      "key": "date",
+      "type": "discrete"
+    },
     "epi_type": {
       "menuItem": "Isolation type",
       "legendTitle": "Isolation type",
@@ -142,12 +190,6 @@
       "key": "fullasm_id",
       "type": "continuous"
     },
-    "location": {
-      "menuItem": "Location Name",
-      "legendTitle": "Location Name",
-      "key": "location",
-      "type": "discrete"
-    },
     "host": {
       "menuItem": "Host",
       "legendTitle": "Host",
@@ -158,6 +200,12 @@
       "menuItem": "Host Disease",
       "legendTitle": "Host Disease",
       "key": "host_disease",
+      "type": "discrete"
+    },
+    "internal_id": {
+      "menuItem": "internal_id",
+      "legendTitle": "internal_id",
+      "key": "internal_id",
       "type": "discrete"
     },
     "isolation_source": {
@@ -172,10 +220,88 @@
       "key": "lat_lon",
       "type": "discrete"
     },
+    "location": {
+      "menuItem": "Location Name",
+      "legendTitle": "Location Name",
+      "key": "location",
+      "type": "discrete"
+    },
+    "mindiff": {
+      "menuItem": "Min-diff",
+      "legendTitle": "Min-diff",
+      "key": "mindiff",
+      "type": "discrete"
+    },
+    "minsame": {
+      "menuItem": "Min-same",
+      "legendTitle": "Min-same",
+      "key": "minsame",
+      "type": "discrete"
+    },
+    "ncbi_tree_url": {
+      "menuItem": "ncbi_tree_url",
+      "legendTitle": "ncbi_tree_url",
+      "key": "ncbi_tree_url",
+      "type": "discrete"
+    },
+    "number_amr_genes": {
+      "menuItem": "Number AMR genes",
+      "legendTitle": "Number AMR genes",
+      "key": "number_amr_genes",
+      "type": "continuous"
+    },
+    "number_core_amr_genes": {
+      "menuItem": "Number core AMR genes",
+      "legendTitle": "Number core AMR genes",
+      "key": "number_core_amr_genes",
+      "type": "continuous"
+    },
+    "number_drugs_intermediate": {
+      "menuItem": "Number drugs intermediate",
+      "legendTitle": "Number drugs intermediate",
+      "key": "number_drugs_intermediate",
+      "type": "continuous"
+    },
+    "number_drugs_resistant": {
+      "menuItem": "Number drugs resistant",
+      "legendTitle": "Number drugs resistant",
+      "key": "number_drugs_resistant",
+      "type": "continuous"
+    },
+    "number_drugs_susceptible": {
+      "menuItem": "Number drugs susceptible",
+      "legendTitle": "Number drugs susceptible",
+      "key": "number_drugs_susceptible",
+      "type": "continuous"
+    },
+    "number_drugs_tested": {
+      "menuItem": "Number drugs tested",
+      "legendTitle": "Number drugs tested",
+      "key": "number_drugs_tested",
+      "type": "continuous"
+    },
+    "number_stress_genes": {
+      "menuItem": "Number stress genes",
+      "legendTitle": "Number stress genes",
+      "key": "number_stress_genes",
+      "type": "continuous"
+    },
+    "number_virulence_genes": {
+      "menuItem": "Number virulence genes",
+      "legendTitle": "Number virulence genes",
+      "key": "number_virulence_genes",
+      "type": "continuous"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "refgene_db_version": {
+      "menuItem": "PD Ref Gene Catalog version",
+      "legendTitle": "PD Ref Gene Catalog version",
+      "key": "refgene_db_version",
       "type": "discrete"
     },
     "sample_name": {
@@ -220,6 +346,12 @@
       "key": "strain",
       "type": "discrete"
     },
+    "stress_genotypes": {
+      "menuItem": "Stress genotypes",
+      "legendTitle": "Stress genotypes",
+      "key": "stress_genotypes",
+      "type": "discrete"
+    },
     "target_creation_date": {
       "menuItem": "Create Date",
       "legendTitle": "Create Date",
@@ -230,6 +362,12 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
+      "type": "continuous"
+    },
+    "virulence_genotype": {
+      "menuItem": "Virulence genotype",
+      "legendTitle": "Virulence genotype",
+      "key": "virulence_genotype",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -243,30 +381,6 @@
       "legendTitle": "WGS Accession",
       "key": "wgs_master_acc",
       "type": "discrete"
-    },
-    "date": {
-      "menuItem": "date",
-      "legendTitle": "date",
-      "key": "date",
-      "type": "discrete"
-    },
-    "country": {
-      "menuItem": "country",
-      "legendTitle": "country",
-      "key": "country",
-      "type": "discrete"
-    },
-    "ncbi_tree_url": {
-      "menuItem": "ncbi_tree_url",
-      "legendTitle": "ncbi_tree_url",
-      "key": "ncbi_tree_url",
-      "type": "discrete"
-    },
-    "internal_id": {
-      "menuItem": "internal_id",
-      "legendTitle": "internal_id",
-      "key": "internal_id",
-      "type": "discrete"
     }
   },
   "filters": [],
@@ -277,115 +391,115 @@
   ],
   "geo": {
     "country": {
-      "Switzerland": {
-        "latitude": 47.562446,
-        "longitude": 7.583217
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
       },
       "Italy": {
         "latitude": 45.4642,
         "longitude": 9.18944
       },
-      "Spain": {
-        "latitude": 43.2,
-        "longitude": -8.23
-      },
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
-      }
-    },
-    "location": {
-      "Spain": {
-        "latitude": 43.2,
-        "longitude": -8.23
-      },
-      "Spain: Andujar": {
-        "latitude": 38.04,
-        "longitude": -4.03
-      },
-      "Canada: Quebec": {
-        "latitude": 45.5,
-        "longitude": -73.5667
-      },
-      "USA: Chicago, IL": {
-        "latitude": 41.8945,
-        "longitude": -87.6208
-      },
-      "Colombia:Antioquia, Medellin": {
-        "latitude": 6.24,
-        "longitude": -75.58
-      },
-      "Colombia: Medellin": {
-        "latitude": 6.24,
-        "longitude": -75.58
-      },
-      "Italy: Turin, Northern Italy": {
-        "latitude": 45.070342347715744,
-        "longitude": 7.685119626112282
-      },
-      "Italy: Bologna": {
-        "latitude": 44.51,
-        "longitude": 11.35
-      },
-      "Spain: Jerez": {
-        "latitude": 36.69,
-        "longitude": -6.14
-      },
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "Switzerland": {
         "latitude": 47.562446,
         "longitude": 7.583217
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Switzerland:Geneva": {
-        "latitude": 46.1934,
-        "longitude": 6.14797
-      },
-      "Switzerland: Basel": {
-        "latitude": 47.5596,
-        "longitude": 7.588600000000042
-      },
-      "Australia: New South Wales": {
-        "latitude": -33.8688,
-        "longitude": 151.2093
-      },
-      "Spain: Seville": {
-        "latitude": 37.4,
-        "longitude": -5.98
-      },
-      "Canada: Toronto": {
-        "latitude": 43.65,
-        "longitude": -79.38
+      "Spain": {
+        "latitude": 43.2,
+        "longitude": -8.23
+      }
+    },
+    "location": {
+      "Italy: Turin, Northern Italy": {
+        "latitude": 45.070342347715744,
+        "longitude": 7.685119626112282
       },
       "Italy: Florence": {
         "latitude": 43.806986,
         "longitude": 11.24809
       },
+      "Spain: Andujar": {
+        "latitude": 38.04,
+        "longitude": -4.03
+      },
       "Switzerland:Saint-Gallen": {
         "latitude": 46.1934,
         "longitude": 6.14797
+      },
+      "Colombia: Medellin": {
+        "latitude": 6.24,
+        "longitude": -75.58
       },
       "Italy": {
         "latitude": 45.4642,
         "longitude": 9.18944
       },
-      "Italy: Pisa": {
-        "latitude": 43.721883,
-        "longitude": 10.396578999999974
+      "Switzerland:Geneva": {
+        "latitude": 46.1934,
+        "longitude": 6.14797
+      },
+      "Colombia:Antioquia, Medellin": {
+        "latitude": 6.24,
+        "longitude": -75.58
+      },
+      "USA: Chicago, IL": {
+        "latitude": 41.8945,
+        "longitude": -87.6208
+      },
+      "Canada: Toronto": {
+        "latitude": 43.65,
+        "longitude": -79.38
       },
       "Spain: Cadiz": {
         "latitude": 36.5,
         "longitude": -6.27
+      },
+      "Canada: Quebec": {
+        "latitude": 45.5,
+        "longitude": -73.5667
+      },
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
+      },
+      "Australia: New South Wales": {
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "Spain: Jerez": {
+        "latitude": 36.69,
+        "longitude": -6.14
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Switzerland: Basel": {
+        "latitude": 47.5596,
+        "longitude": 7.588600000000042
+      },
+      "Switzerland": {
+        "latitude": 47.562446,
+        "longitude": 7.583217
+      },
+      "Spain": {
+        "latitude": 43.2,
+        "longitude": -8.23
+      },
+      "Italy: Pisa": {
+        "latitude": 43.721883,
+        "longitude": 10.396578999999974
+      },
+      "Italy: Bologna": {
+        "latitude": 44.51,
+        "longitude": 11.35
+      },
+      "Spain: Seville": {
+        "latitude": 37.4,
+        "longitude": -5.98
       }
     }
   },

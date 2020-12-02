@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-23",
+  "updated": "2020-11-28",
   "virus_count": 216,
   "maintainer": "DCIPHER",
-  "title": "pseudomonas-aeruginosa_PDG000000036.374-PDS000010432.5",
+  "title": "pseudomonas-aeruginosa_PDG000000036.378-PDS000010432.5",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {
@@ -326,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -362,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -392,11 +398,11 @@
   "geo": {
     "country": {},
     "location": {
-      "Canada:Toronto": {
+      "Canada: Toronto": {
         "latitude": 43.65365,
         "longitude": -79.377806
       },
-      "Canada: Toronto": {
+      "Canada:Toronto": {
         "latitude": 43.65365,
         "longitude": -79.377806
       }

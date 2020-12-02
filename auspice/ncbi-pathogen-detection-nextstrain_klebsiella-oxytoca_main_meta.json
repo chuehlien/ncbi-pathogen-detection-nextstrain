@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-21",
+  "updated": "2020-12-01",
   "virus_count": 33,
   "maintainer": "DCIPHER",
-  "title": "klebsiella-oxytoca_PDG000000030.246-PDS000060564.1",
+  "title": "klebsiella-oxytoca_PDG000000030.250-PDS000060564.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {

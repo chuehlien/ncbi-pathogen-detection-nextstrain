@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-21",
+  "updated": "2020-12-01",
   "virus_count": 65,
   "maintainer": "DCIPHER",
-  "title": "enterobacter_PDG000000028.381-PDS000008403.39",
+  "title": "enterobacter_PDG000000028.384-PDS000008403.39",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {

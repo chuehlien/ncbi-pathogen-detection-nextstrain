@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-21",
+  "updated": "2020-11-28",
   "virus_count": 76,
   "maintainer": "DCIPHER",
-  "title": "citrobacter-freundii_PDG000000039.260-PDS000050776.4",
+  "title": "citrobacter-freundii_PDG000000039.264-PDS000050776.4",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {

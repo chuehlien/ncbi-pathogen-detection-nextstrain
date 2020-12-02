@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-22",
+  "updated": "2020-12-01",
   "virus_count": 15,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1245-PDS000000150.14",
+  "title": "campylobacter_PDG000000003.1251-PDS000000150.14",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -362,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",

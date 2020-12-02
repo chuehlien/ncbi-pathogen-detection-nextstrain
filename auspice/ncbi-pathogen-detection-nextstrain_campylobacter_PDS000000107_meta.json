@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-22",
-  "virus_count": 151,
+  "updated": "2020-12-01",
+  "virus_count": 152,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1245-PDS000000107.115",
+  "title": "campylobacter_PDG000000003.1251-PDS000000107.116",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -362,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -397,53 +403,53 @@
       }
     },
     "location": {
+      "USA:ID": {
+        "latitude": 44.068202,
+        "longitude": -114.742041
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
       "USA:NE": {
         "latitude": 41.492537,
         "longitude": -99.901813
       },
-      "USA:SD": {
-        "latitude": 43.969515,
-        "longitude": -99.901813
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:WY": {
-        "latitude": 43.075968,
-        "longitude": -107.290284
-      },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
       "USA:AZ": {
         "latitude": 34.048928000000004,
+        "longitude": -111.093731
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
         "longitude": -111.093731
       },
       "USA:OR": {
         "latitude": 43.804133,
         "longitude": -120.554201
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
       },
-      "USA:ID": {
-        "latitude": 44.068202,
-        "longitude": -114.742041
+      "USA:WY": {
+        "latitude": 43.075968,
+        "longitude": -107.290284
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
       "USA:MA": {
         "latitude": 42.407211,
         "longitude": -71.382437
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
       },
       "USA": {
         "latitude": 39.7837304,

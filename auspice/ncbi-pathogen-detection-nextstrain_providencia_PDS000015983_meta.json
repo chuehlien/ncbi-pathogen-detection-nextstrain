@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-19",
+  "updated": "2020-11-30",
   "virus_count": 35,
   "maintainer": "DCIPHER",
-  "title": "providencia_PDG000000021.199-PDS000015983.6",
+  "title": "providencia_PDG000000021.202-PDS000015983.6",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -392,6 +398,10 @@
   "geo": {
     "country": {},
     "location": {
+      "China:Zhejiang Province": {
+        "latitude": 30.15,
+        "longitude": 120.1
+      },
       "China: Zhejiang": {
         "latitude": 30.26,
         "longitude": 120.19
@@ -399,10 +409,6 @@
       "China:Hangzhou": {
         "latitude": 30.3,
         "longitude": 120.2
-      },
-      "China:Zhejiang Province": {
-        "latitude": 30.15,
-        "longitude": 120.1
       }
     }
   },

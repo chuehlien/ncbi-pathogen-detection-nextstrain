@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-23",
+  "updated": "2020-12-01",
   "virus_count": 681,
   "maintainer": "DCIPHER",
-  "title": "klebsiella_PDG000000012.806-PDS000052175.28",
+  "title": "klebsiella_PDG000000012.812-PDS000052175.28",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -110,19 +110,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {
@@ -326,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -362,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -391,17 +397,9 @@
   ],
   "geo": {
     "country": {
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
-      },
       "Italy": {
         "latitude": 45.4642,
         "longitude": 9.18944
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
       },
       "Switzerland": {
         "latitude": 47.562446,
@@ -410,96 +408,104 @@
       "Spain": {
         "latitude": 43.2,
         "longitude": -8.23
+      },
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     },
     "location": {
-      "Italy: Turin, Northern Italy": {
-        "latitude": 45.070342347715744,
-        "longitude": 7.685119626112282
-      },
-      "Italy: Florence": {
-        "latitude": 43.806986,
-        "longitude": 11.24809
-      },
-      "Spain: Andujar": {
-        "latitude": 38.04,
-        "longitude": -4.03
-      },
-      "Switzerland:Saint-Gallen": {
-        "latitude": 46.1934,
-        "longitude": 6.14797
-      },
-      "Colombia: Medellin": {
-        "latitude": 6.24,
-        "longitude": -75.58
-      },
       "Italy": {
         "latitude": 45.4642,
         "longitude": 9.18944
-      },
-      "Switzerland:Geneva": {
-        "latitude": 46.1934,
-        "longitude": 6.14797
-      },
-      "Colombia:Antioquia, Medellin": {
-        "latitude": 6.24,
-        "longitude": -75.58
-      },
-      "USA: Chicago, IL": {
-        "latitude": 41.8945,
-        "longitude": -87.6208
-      },
-      "Canada: Toronto": {
-        "latitude": 43.65,
-        "longitude": -79.38
-      },
-      "Spain: Cadiz": {
-        "latitude": 36.5,
-        "longitude": -6.27
-      },
-      "Canada: Quebec": {
-        "latitude": 45.5,
-        "longitude": -73.5667
-      },
-      "Israel": {
-        "latitude": 32.0833,
-        "longitude": 34.8
-      },
-      "Australia: New South Wales": {
-        "latitude": -33.8688,
-        "longitude": 151.2093
-      },
-      "Spain: Jerez": {
-        "latitude": 36.69,
-        "longitude": -6.14
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Switzerland: Basel": {
-        "latitude": 47.5596,
-        "longitude": 7.588600000000042
-      },
-      "Switzerland": {
-        "latitude": 47.562446,
-        "longitude": 7.583217
-      },
-      "Spain": {
-        "latitude": 43.2,
-        "longitude": -8.23
       },
       "Italy: Pisa": {
         "latitude": 43.721883,
         "longitude": 10.396578999999974
       },
-      "Italy: Bologna": {
-        "latitude": 44.51,
-        "longitude": 11.35
+      "Italy: Florence": {
+        "latitude": 43.806986,
+        "longitude": 11.24809
+      },
+      "Switzerland": {
+        "latitude": 47.562446,
+        "longitude": 7.583217
+      },
+      "Colombia:Antioquia, Medellin": {
+        "latitude": 6.24,
+        "longitude": -75.58
+      },
+      "Switzerland: Basel": {
+        "latitude": 47.5596,
+        "longitude": 7.588600000000042
       },
       "Spain: Seville": {
         "latitude": 37.4,
         "longitude": -5.98
+      },
+      "Italy: Turin, Northern Italy": {
+        "latitude": 45.070342347715744,
+        "longitude": 7.685119626112282
+      },
+      "Canada: Toronto": {
+        "latitude": 43.65,
+        "longitude": -79.38
+      },
+      "Switzerland:Geneva": {
+        "latitude": 46.1934,
+        "longitude": 6.14797
+      },
+      "Spain: Jerez": {
+        "latitude": 36.69,
+        "longitude": -6.14
+      },
+      "Spain: Cadiz": {
+        "latitude": 36.5,
+        "longitude": -6.27
+      },
+      "USA: Chicago, IL": {
+        "latitude": 41.8945,
+        "longitude": -87.6208
+      },
+      "Italy: Bologna": {
+        "latitude": 44.51,
+        "longitude": 11.35
+      },
+      "Australia: New South Wales": {
+        "latitude": -33.8688,
+        "longitude": 151.2093
+      },
+      "Switzerland:Saint-Gallen": {
+        "latitude": 46.1934,
+        "longitude": 6.14797
+      },
+      "Canada: Quebec": {
+        "latitude": 45.5,
+        "longitude": -73.5667
+      },
+      "Spain": {
+        "latitude": 43.2,
+        "longitude": -8.23
+      },
+      "Israel": {
+        "latitude": 32.0833,
+        "longitude": 34.8
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "Spain: Andujar": {
+        "latitude": 38.04,
+        "longitude": -4.03
+      },
+      "Colombia: Medellin": {
+        "latitude": 6.24,
+        "longitude": -75.58
       }
     }
   },

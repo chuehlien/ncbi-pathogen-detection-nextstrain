@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 14,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000042684.13",
+  "title": "campylobacter_PDG000000003.1252-PDS000042684.13",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -407,6 +407,10 @@
         "latitude": 35.20105,
         "longitude": -91.831833
       },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "USA:UT": {
         "latitude": 39.32098,
         "longitude": -111.093731
@@ -414,10 +418,6 @@
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
       },
       "USA:AZ": {
         "latitude": 34.048928000000004,

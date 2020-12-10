@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 10,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000021745.5",
+  "title": "campylobacter_PDG000000003.1252-PDS000021745.5",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -254,49 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -403,21 +403,17 @@
       }
     },
     "location": {
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
       "USA:IN": {
         "latitude": 40.551217,
         "longitude": -85.602364
       },
-      "USA: Tulsa": {
-        "latitude": 36.154,
-        "longitude": -95.9928
-      },
       "USA:NC": {
         "latitude": 35.759573,
         "longitude": -79.0193
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
       },
       "USA:CA": {
         "latitude": 36.778261,
@@ -426,6 +422,10 @@
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      },
+      "USA: Tulsa": {
+        "latitude": 36.154,
+        "longitude": -95.9928
       }
     }
   },

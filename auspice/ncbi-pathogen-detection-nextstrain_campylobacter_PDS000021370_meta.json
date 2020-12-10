@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 12,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000021370.7",
+  "title": "campylobacter_PDG000000003.1252-PDS000021370.7",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -332,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -368,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -403,9 +403,25 @@
       }
     },
     "location": {
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:PA": {
         "latitude": 41.203322,
@@ -415,29 +431,13 @@
         "latitude": 44.314844,
         "longitude": -85.602364
       },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
       "USA:DE": {
         "latitude": 38.910832,
         "longitude": -75.52767
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       }
     }
   },

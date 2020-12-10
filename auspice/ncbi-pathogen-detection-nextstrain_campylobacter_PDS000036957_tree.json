@@ -23,7 +23,7 @@
         "Platform": "ILLUMINA",
         "Run": "SRR9641772",
         "amrfinder_analysis_type": "COMBINED",
-        "amrfinder_applied": 1.0,
+        "amrfinder_applied": 1,
         "amrfinder_version": "3.6.7",
         "asm_acc": "GCA_007452585.1",
         "asm_level": "Contig",
@@ -74,7 +74,7 @@
         "date": "2019-07-03",
         "country": "USA",
         "num_date": 2019.504109589041,
-        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000538706.1",
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000538706.1",
         "internal_id": null
       },
       "yvalue": 0,
@@ -84,7 +84,7 @@
       "strain": "CLADE_3",
       "attr": {
         "div": 0.5,
-        "num_date": 2017.0976294956533
+        "num_date": 2017.105383150948
       },
       "yvalue": 4.5625,
       "clade": 3,
@@ -93,7 +93,7 @@
           "strain": "CLADE_4",
           "attr": {
             "div": 3.5,
-            "num_date": 2017.6669681134088
+            "num_date": 2017.7212437004712
           },
           "yvalue": 2.5,
           "clade": 4,
@@ -102,7 +102,7 @@
               "strain": "CLADE_5",
               "attr": {
                 "div": 15.5,
-                "num_date": 2019.9443225844304
+                "num_date": 2020.1846858985643
               },
               "yvalue": 1.5,
               "clade": 5,
@@ -123,7 +123,7 @@
                     "Platform": "ILLUMINA",
                     "Run": "SRR12158619",
                     "amrfinder_analysis_type": "COMBINED",
-                    "amrfinder_applied": 1.0,
+                    "amrfinder_applied": 1,
                     "amrfinder_version": "3.8.4",
                     "asm_acc": "GCA_014372865.1",
                     "asm_level": "Contig",
@@ -174,7 +174,7 @@
                     "date": "2020-07-06",
                     "country": "USA",
                     "num_date": 2020.5136612021859,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000783762.1",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000783762.1",
                     "internal_id": "USDA_590638319"
                   },
                   "yvalue": 1,
@@ -196,7 +196,7 @@
                     "Platform": "ILLUMINA",
                     "Run": "SRR9856791",
                     "amrfinder_analysis_type": "COMBINED",
-                    "amrfinder_applied": 1.0,
+                    "amrfinder_applied": 1,
                     "amrfinder_version": "3.6.7",
                     "asm_acc": "GCA_007870465.1",
                     "asm_level": "Contig",
@@ -247,7 +247,7 @@
                     "date": "2019-07-29",
                     "country": "USA",
                     "num_date": 2019.5753424657535,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000551018.1",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000551018.1",
                     "internal_id": "USDA_590567868"
                   },
                   "yvalue": 2,
@@ -259,7 +259,7 @@
               "strain": "CLADE_8",
               "attr": {
                 "div": 9.5,
-                "num_date": 2018.8056453489196
+                "num_date": 2018.9529647995178
               },
               "yvalue": 3.5,
               "clade": 8,
@@ -280,7 +280,7 @@
                     "Platform": "ILLUMINA",
                     "Run": "SRR5137103",
                     "amrfinder_analysis_type": "COMBINED",
-                    "amrfinder_applied": 1.0,
+                    "amrfinder_applied": 1,
                     "amrfinder_version": "3.6.7",
                     "asm_acc": "GCA_005255745.1",
                     "asm_level": "Contig",
@@ -331,7 +331,7 @@
                     "date": "2017-01-01",
                     "country": "USA",
                     "num_date": 2017.0027397260274,
-                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000175668.2",
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000175668.2",
                     "internal_id": "LA___201601483"
                   },
                   "yvalue": 3,
@@ -340,7 +340,72 @@
                 {
                   "strain": "PDT000862186.1",
                   "attr": {
-                    "div": 18.5
+                    "div": 18.5,
+                    "#label": "PDT000862186.1|SAMN16452383|GCA_014974385.1|Campylobacter coli||2018D-0146|Pathogen: clinical or host-associated",
+                    "AMR_genotypes": "tet(O)",
+                    "AMR_genotypes_core": "tet(O)",
+                    "AST_phenotypes": "Unknown",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": 0,
+                    "LibraryLayout": "PAIRED",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "ILLUMINA",
+                    "Run": "SRR12826372",
+                    "amrfinder_analysis_type": "COMBINED",
+                    "amrfinder_applied": 1,
+                    "amrfinder_version": "3.8.28",
+                    "asm_acc": "GCA_014974385.1",
+                    "asm_level": "Contig",
+                    "asm_stats_contig_n50": 18824,
+                    "asm_stats_length_bp": 1750479,
+                    "asm_stats_n_contig": 170,
+                    "assembly_method": "SKESA v. 2.2",
+                    "attribute_package": "Pathogen: clinical or host-associated",
+                    "bioproject_acc": "PRJNA239251",
+                    "bioproject_center": "Centers for Disease Control and Prevention",
+                    "biosample_acc": "SAMN16452383",
+                    "collected_by": "CDC",
+                    "collection_date": "Unknown",
+                    "epi_type": "clinical",
+                    "fullasm_id": 22631818,
+                    "location": "USA",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolate_identifiers": "2018D-0146,\"SRS7534698\"",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "mindiff": 27.0,
+                    "minsame": 14.0,
+                    "number_amr_genes": 1,
+                    "number_core_amr_genes": 1,
+                    "number_drugs_intermediate": 0,
+                    "number_drugs_resistant": 0,
+                    "number_drugs_susceptible": 0,
+                    "number_drugs_tested": 0,
+                    "number_stress_genes": 0,
+                    "number_virulence_genes": 0,
+                    "outbreak": "Unknown",
+                    "refgene_db_version": "2020-09-30.1",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Campylobacter coli",
+                    "serovar": "Unknown",
+                    "species_taxid": 195,
+                    "sra_center": "EDLB-CDC",
+                    "sra_release_date": "2020-10-19",
+                    "strain": "2018D-0146",
+                    "stress_genotypes": "Unknown",
+                    "target_acc": "PDT000862186.1",
+                    "target_creation_date": "2020-10-19",
+                    "taxid": 195,
+                    "virulence_genotype": "Unknown",
+                    "wgs_acc_prefix": "AAWQBW",
+                    "wgs_master_acc": "AAWQBW000000000.1",
+                    "date": "2020-10-19",
+                    "country": "USA",
+                    "num_date": 2020.8005464480875,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000862186.1",
+                    "internal_id": "LA___201802038"
                   },
                   "yvalue": 4,
                   "clade": 10
@@ -353,7 +418,7 @@
           "strain": "CLADE_11",
           "attr": {
             "div": 3.5,
-            "num_date": 2017.6669681134088
+            "num_date": 2017.7212437004712
           },
           "yvalue": 6.625,
           "clade": 11,
@@ -374,7 +439,7 @@
                 "Platform": "ILLUMINA",
                 "Run": "SRR7635110",
                 "amrfinder_analysis_type": "COMBINED",
-                "amrfinder_applied": 1.0,
+                "amrfinder_applied": 1,
                 "amrfinder_version": "3.6.7",
                 "asm_acc": "GCA_005350055.1",
                 "asm_level": "Contig",
@@ -425,7 +490,7 @@
                 "date": "2018-08-01",
                 "country": "USA",
                 "num_date": 2018.5835616438355,
-                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000356842.1",
+                "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000356842.1",
                 "internal_id": "USDA_590493222"
               },
               "yvalue": 5,
@@ -435,7 +500,7 @@
               "strain": "CLADE_13",
               "attr": {
                 "div": 6.5,
-                "num_date": 2018.2363067311642
+                "num_date": 2018.3371042499944
               },
               "yvalue": 8.25,
               "clade": 13,
@@ -444,7 +509,7 @@
                   "strain": "CLADE_14",
                   "attr": {
                     "div": 12.5,
-                    "num_date": 2019.374983966675
+                    "num_date": 2019.568825349041
                   },
                   "yvalue": 6.75,
                   "clade": 14,
@@ -465,7 +530,7 @@
                         "Platform": "ILLUMINA",
                         "Run": "SRR8860942",
                         "amrfinder_analysis_type": "COMBINED",
-                        "amrfinder_applied": 1.0,
+                        "amrfinder_applied": 1,
                         "amrfinder_version": "3.6.7",
                         "asm_acc": "GCA_005210665.1",
                         "asm_level": "Contig",
@@ -516,7 +581,7 @@
                         "date": "2019-04-05",
                         "country": "USA",
                         "num_date": 2019.2602739726028,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000486381.1",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000486381.1",
                         "internal_id": "USDA_590543063"
                       },
                       "yvalue": 6,
@@ -526,7 +591,7 @@
                       "strain": "CLADE_16",
                       "attr": {
                         "div": 15.5,
-                        "num_date": 2019.9443225844304
+                        "num_date": 2020.1846858985643
                       },
                       "yvalue": 7.5,
                       "clade": 16,
@@ -547,7 +612,7 @@
                             "Platform": "ILLUMINA",
                             "Run": "SRR8218128",
                             "amrfinder_analysis_type": "COMBINED",
-                            "amrfinder_applied": 1.0,
+                            "amrfinder_applied": 1,
                             "amrfinder_version": "3.6.7",
                             "asm_acc": "GCA_004824625.1",
                             "asm_level": "Contig",
@@ -598,7 +663,7 @@
                             "date": "2018-11-20",
                             "country": "USA",
                             "num_date": 2018.8876712328768,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000409490.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000409490.1",
                             "internal_id": "USDA_853346831"
                           },
                           "yvalue": 7,
@@ -620,7 +685,7 @@
                             "Platform": "ILLUMINA",
                             "Run": "SRR8279235",
                             "amrfinder_analysis_type": "COMBINED",
-                            "amrfinder_applied": 1.0,
+                            "amrfinder_applied": 1,
                             "amrfinder_version": "3.6.7",
                             "asm_acc": "GCA_004829545.1",
                             "asm_level": "Contig",
@@ -671,7 +736,7 @@
                             "date": "2018-12-04",
                             "country": "USA",
                             "num_date": 2018.9260273972602,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000414046.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000414046.1",
                             "internal_id": "MD___MDA18108701"
                           },
                           "yvalue": 8,
@@ -685,7 +750,7 @@
                   "strain": "CLADE_19",
                   "attr": {
                     "div": 7.5,
-                    "num_date": 2018.426086270416
+                    "num_date": 2018.5423910998356
                   },
                   "yvalue": 9.75,
                   "clade": 19,
@@ -706,7 +771,7 @@
                         "Platform": "ILLUMINA",
                         "Run": "SRR7888754",
                         "amrfinder_analysis_type": "COMBINED",
-                        "amrfinder_applied": 1.0,
+                        "amrfinder_applied": 1,
                         "amrfinder_version": "3.6.7",
                         "asm_acc": "GCA_004808355.1",
                         "asm_level": "Contig",
@@ -757,7 +822,7 @@
                         "date": "2018-09-21",
                         "country": "USA",
                         "num_date": 2018.7232876712328,
-                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000382636.1",
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000382636.1",
                         "internal_id": "USDA_590501840"
                       },
                       "yvalue": 9,
@@ -767,7 +832,7 @@
                       "strain": "CLADE_21",
                       "attr": {
                         "div": 12.5,
-                        "num_date": 2019.374983966675
+                        "num_date": 2019.568825349041
                       },
                       "yvalue": 10.5,
                       "clade": 21,
@@ -788,7 +853,7 @@
                             "Platform": "ILLUMINA",
                             "Run": "SRR8268617",
                             "amrfinder_analysis_type": "COMBINED",
-                            "amrfinder_applied": 1.0,
+                            "amrfinder_applied": 1,
                             "amrfinder_version": "3.6.7",
                             "asm_acc": "GCA_004893295.1",
                             "asm_level": "Contig",
@@ -839,7 +904,7 @@
                             "date": "2018-11-30",
                             "country": "USA",
                             "num_date": 2018.9150684931508,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000413122.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000413122.1",
                             "internal_id": "USDA_590515390"
                           },
                           "yvalue": 10,
@@ -861,7 +926,7 @@
                             "Platform": "ILLUMINA",
                             "Run": "SRR8783691",
                             "amrfinder_analysis_type": "COMBINED",
-                            "amrfinder_applied": 1.0,
+                            "amrfinder_applied": 1,
                             "amrfinder_version": "3.6.7",
                             "asm_acc": "GCA_004912295.1",
                             "asm_level": "Contig",
@@ -912,7 +977,7 @@
                             "date": "2019-03-25",
                             "country": "USA",
                             "num_date": 2019.2301369863014,
-                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1251/PDS000036957.10?accessions=PDT000482470.1",
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Campylobacter/PDG000000003.1252/PDS000036957.10?accessions=PDT000482470.1",
                             "internal_id": "USDA_853365064"
                           },
                           "yvalue": 11,

@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 56,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000021947.33",
+  "title": "campylobacter_PDG000000003.1252-PDS000021947.33",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -254,49 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -403,53 +403,41 @@
       }
     },
     "location": {
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
       "USA:IA": {
         "latitude": 41.878003,
         "longitude": -93.097702
       },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:ME": {
-        "latitude": 45.253783,
-        "longitude": -69.44546899999999
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       },
       "USA:CO": {
         "latitude": 39.550051,
         "longitude": -105.782067
       },
-      "USA:WY": {
-        "latitude": 43.075968,
-        "longitude": -107.290284
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
       },
       "USA:MN": {
         "latitude": 46.729553,
         "longitude": -94.6859
       },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
       "USA:NY": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
       },
       "USA:VA": {
         "latitude": 37.431573,
@@ -459,17 +447,29 @@
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:WY": {
+        "latitude": 43.075968,
+        "longitude": -107.290284
       },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA:WI": {
+        "latitude": 43.78444,
+        "longitude": -88.787868
       },
       "USA:MD": {
         "latitude": 39.045755,
         "longitude": -76.641271
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:ME": {
+        "latitude": 45.253783,
+        "longitude": -69.44546899999999
       }
     }
   },

@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-15",
+  "updated": "2020-12-02",
   "virus_count": 32,
   "maintainer": "DCIPHER",
-  "title": "cronobacter_PDG000000043.80-PDS000023154.2",
+  "title": "cronobacter_PDG000000043.81-PDS000023154.2",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {

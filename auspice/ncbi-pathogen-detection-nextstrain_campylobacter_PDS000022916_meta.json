@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 51,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000022916.13",
+  "title": "campylobacter_PDG000000003.1252-PDS000022916.13",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -403,57 +403,57 @@
       }
     },
     "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
       "USA:SC": {
         "latitude": 33.836081,
         "longitude": -81.163725
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
       },
       "USA:OH": {
         "latitude": 40.417287,
         "longitude": -82.907123
       },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
       "USA:CA": {
         "latitude": 36.778261,
         "longitude": -119.417932
       },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
+      },
       "USA:WI": {
         "latitude": 43.78444,
         "longitude": -88.787868
       },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
       }
     }
   },

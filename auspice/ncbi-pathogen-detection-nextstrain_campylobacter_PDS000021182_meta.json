@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 6,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000021182.4",
+  "title": "campylobacter_PDG000000003.1252-PDS000021182.4",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -332,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -368,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -403,25 +403,25 @@
       }
     },
     "location": {
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
+      "USA:LA": {
+        "latitude": 31.244823,
+        "longitude": -92.145024
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
       },
       "USA:WA": {
         "latitude": 47.751074,
         "longitude": -120.740139
       },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
       }
     }
   },

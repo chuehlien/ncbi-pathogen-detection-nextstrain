@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 141,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000022040.89",
+  "title": "campylobacter_PDG000000003.1252-PDS000022040.89",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -254,49 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -403,101 +403,101 @@
       }
     },
     "location": {
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
+      "USA:AR": {
+        "latitude": 35.20105,
         "longitude": -91.831833
       },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:DE": {
-        "latitude": 38.910832,
-        "longitude": -75.52767
+      "USA:MI": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
       "USA:NJ": {
         "latitude": 40.058324,
         "longitude": -74.405661
       },
-      "USA:VT": {
-        "latitude": 44.55880300000001,
-        "longitude": -72.577841
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
       "USA:GA": {
         "latitude": 32.157435,
         "longitude": -82.907123
       },
-      "USA:AR": {
-        "latitude": 35.20105,
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
+      },
+      "USA:SC": {
+        "latitude": 33.836081,
+        "longitude": -81.163725
+      },
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
+      "USA: Wyndmoor, Pennsylvania": {
+        "latitude": 40.08,
+        "longitude": -75.19
+      },
+      "USA:DE": {
+        "latitude": 38.910832,
+        "longitude": -75.52767
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:MO": {
+        "latitude": 37.964253,
         "longitude": -91.831833
       },
       "USA:CT": {
         "latitude": 41.60322100000001,
         "longitude": -73.087749
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
       },
-      "USA: Wyndmoor, Pennsylvania": {
-        "latitude": 40.08,
-        "longitude": -75.19
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:NH": {
-        "latitude": 43.193852,
-        "longitude": -71.572395
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
       },
       "USA:TX": {
         "latitude": 31.968599,
         "longitude": -99.901813
       },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
+      "USA:VT": {
+        "latitude": 44.55880300000001,
+        "longitude": -72.577841
       },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
+      "USA:NH": {
+        "latitude": 43.193852,
+        "longitude": -71.572395
       }
     }
   },

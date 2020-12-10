@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 64,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000022699.25",
+  "title": "campylobacter_PDG000000003.1252-PDS000022699.25",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -397,36 +397,16 @@
   ],
   "geo": {
     "country": {
-      "Canada": {
-        "latitude": 49.41,
-        "longitude": -112.49
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      }
-    },
-    "location": {
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
       },
       "Canada": {
         "latitude": 49.41,
         "longitude": -112.49
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
-      },
-      "USA:MT": {
-        "latitude": 46.879682,
-        "longitude": -110.362566
-      },
+      }
+    },
+    "location": {
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
@@ -438,6 +418,26 @@
       "USA:WY": {
         "latitude": 43.075968,
         "longitude": -107.290284
+      },
+      "USA:MT": {
+        "latitude": 46.879682,
+        "longitude": -110.362566
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
+      },
+      "Canada": {
+        "latitude": 49.41,
+        "longitude": -112.49
       }
     }
   },

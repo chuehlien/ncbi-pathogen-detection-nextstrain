@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-21",
+  "updated": "2020-12-03",
   "virus_count": 69,
   "maintainer": "DCIPHER",
-  "title": "elizabethkingia_PDG000000014.73-PDS000005909.11",
+  "title": "elizabethkingia_PDG000000014.74-PDS000005909.11",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {

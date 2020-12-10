@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
+  "updated": "2020-12-02",
   "virus_count": 44,
   "maintainer": "DCIPHER",
-  "title": "campylobacter_PDG000000003.1251-PDS000022899.36",
+  "title": "campylobacter_PDG000000003.1252-PDS000022899.36",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -403,14 +403,6 @@
       }
     },
     "location": {
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA:DE": {
-        "latitude": 38.910832,
-        "longitude": -75.52767
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
@@ -419,33 +411,45 @@
         "latitude": 43.299428000000006,
         "longitude": -74.217933
       },
+      "USA:DE": {
+        "latitude": 38.910832,
+        "longitude": -75.52767
+      },
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999998
+      },
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
       },
-      "USA:OK": {
-        "latitude": 35.007752,
-        "longitude": -97.092877
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
       },
       "USA:VA": {
         "latitude": 37.431573,
         "longitude": -78.656894
       },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
-      },
-      "USA:NE": {
-        "latitude": 41.492537,
-        "longitude": -99.901813
+      "USA:OK": {
+        "latitude": 35.007752,
+        "longitude": -97.092877
       },
       "USA:NJ": {
         "latitude": 40.058324,
         "longitude": -74.405661
       },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
+      "USA:NE": {
+        "latitude": 41.492537,
+        "longitude": -99.901813
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
       }
     }
   },

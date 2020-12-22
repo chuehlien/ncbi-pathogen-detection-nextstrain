@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-20",
-  "virus_count": 453,
+  "updated": "2020-12-19",
+  "virus_count": 454,
   "maintainer": "DCIPHER",
-  "title": "vibrio-parahaemolyticus_PDG000000023.400-PDS000007553.150",
+  "title": "vibrio-parahaemolyticus_PDG000000023.408-PDS000007553.151",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -110,19 +110,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "host": {
       "menuItem": "Host",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -397,21 +403,13 @@
       }
     },
     "location": {
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA:WY": {
-        "latitude": 43.075968,
-        "longitude": -107.290284
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
       "USA:OR": {
         "latitude": 43.804133,
         "longitude": -120.554201
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
       },
       "USA:NY": {
         "latitude": 43.299428000000006,
@@ -421,9 +419,17 @@
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
+      "USA:WY": {
+        "latitude": 43.075968,
+        "longitude": -107.290284
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       }
     }
   },

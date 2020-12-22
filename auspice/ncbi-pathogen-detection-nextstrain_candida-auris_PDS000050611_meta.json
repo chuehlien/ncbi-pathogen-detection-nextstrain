@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-18",
+  "updated": "2020-11-25",
   "virus_count": 281,
   "maintainer": "DCIPHER",
-  "title": "candida-auris_PDG000000067.24-PDS000050611.8",
+  "title": "candida-auris_PDG000000067.25-PDS000050611.8",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -405,17 +411,13 @@
       }
     },
     "location": {
-      "USA: New Jersey": {
-        "latitude": 40.0583,
-        "longitude": -74.4057
+      "USA: New York": {
+        "latitude": 40.7128,
+        "longitude": -74.006
       },
-      "USA: Massachusetts": {
-        "latitude": 42.4072,
-        "longitude": -71.3824
-      },
-      "USA: Maryland": {
-        "latitude": 39.0458,
-        "longitude": -76.6413
+      "Saudi Arabia": {
+        "latitude": 28.86,
+        "longitude": 45.08
       },
       "United Arab Emirates": {
         "latitude": 23.68,
@@ -425,17 +427,21 @@
         "latitude": 27.6648,
         "longitude": -81.5158
       },
-      "Saudi Arabia": {
-        "latitude": 28.86,
-        "longitude": 45.08
+      "USA: New Jersey": {
+        "latitude": 40.0583,
+        "longitude": -74.4057
+      },
+      "USA: Massachusetts": {
+        "latitude": 42.4072,
+        "longitude": -71.3824
       },
       "USA: New jersey": {
         "latitude": 40.0583,
         "longitude": -74.4057
       },
-      "USA: New York": {
-        "latitude": 40.7128,
-        "longitude": -74.006
+      "USA: Maryland": {
+        "latitude": 39.0458,
+        "longitude": -76.6413
       }
     }
   },

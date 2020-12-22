@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-21",
+  "updated": "2020-12-21",
   "virus_count": 517,
   "maintainer": "DCIPHER",
-  "title": "staphylococcus-aureus_PDG000000073.42-PDS000069795.1",
+  "title": "staphylococcus-aureus_PDG000000073.58-PDS000069795.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -110,19 +110,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -206,6 +206,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {
@@ -326,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -362,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",

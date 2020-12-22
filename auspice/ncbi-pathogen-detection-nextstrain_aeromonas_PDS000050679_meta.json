@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-15",
-  "virus_count": 30,
+  "updated": "2020-12-19",
+  "virus_count": 38,
   "maintainer": "DCIPHER",
-  "title": "aeromonas_PDG000000068.29-PDS000050679.5",
+  "title": "aeromonas_PDG000000068.32-PDS000050679.7",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -397,29 +403,33 @@
       }
     },
     "location": {
-      "China: Huizhou": {
-        "latitude": 23.0,
-        "longitude": 114.0
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "USA: Alabama": {
-        "latitude": 32.77,
-        "longitude": -88.04
       },
       "USA:Alabama": {
         "latitude": 32.77,
         "longitude": -88.04
       },
-      "China:Zhejiang,Linghu": {
-        "latitude": 30.6868,
-        "longitude": 120.148
+      "USA:MS": {
+        "latitude": 32.354668,
+        "longitude": -89.398528
+      },
+      "USA: Alabama": {
+        "latitude": 32.77,
+        "longitude": -88.04
       },
       "China: Guanqiao fishery farm": {
         "latitude": 30.52,
         "longitude": 114.38
+      },
+      "China: Huizhou": {
+        "latitude": 23.0,
+        "longitude": 114.0
+      },
+      "China:Zhejiang,Linghu": {
+        "latitude": 30.6868,
+        "longitude": 120.148
       }
     }
   },

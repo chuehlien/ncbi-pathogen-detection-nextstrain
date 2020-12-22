@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-19",
+  "updated": "2020-12-18",
   "virus_count": 102,
   "maintainer": "DCIPHER",
-  "title": "serratia_PDG000000016.258-PDS000006929.6",
+  "title": "serratia_PDG000000016.266-PDS000006929.6",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -86,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -248,49 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },

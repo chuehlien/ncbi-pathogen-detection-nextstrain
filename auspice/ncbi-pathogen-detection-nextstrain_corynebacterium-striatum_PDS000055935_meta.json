@@ -1,8 +1,8 @@
 {
-  "updated": "2020-10-31",
-  "virus_count": 39,
+  "updated": "2020-12-17",
+  "virus_count": 65,
   "maintainer": "DCIPHER",
-  "title": "corynebacterium-striatum_PDG000000064.22-PDS000055935.2",
+  "title": "corynebacterium-striatum_PDG000000064.24-PDS000055935.3",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -392,6 +398,10 @@
   "geo": {
     "country": {},
     "location": {
+      "China: Tangshan": {
+        "latitude": 39.63,
+        "longitude": 118.18
+      },
       "China: Beijing": {
         "latitude": 39.91,
         "longitude": 116.42

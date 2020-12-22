@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-01",
-  "virus_count": 2710,
+  "updated": "2020-12-21",
+  "virus_count": 2714,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2293-PDS000062163.103",
+  "title": "escherichia-coli-shigella_PDG000000004.2331-PDS000062163.109",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -332,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -347,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -368,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -397,35 +397,23 @@
   ],
   "geo": {
     "country": {
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      }
-    },
-    "location": {
+      },
       "Switzerland": {
         "latitude": 46.9478,
         "longitude": 7.422
-      },
+      }
+    },
+    "location": {
       "USA:CT": {
         "latitude": 41.60322100000001,
         "longitude": -73.087749
       },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
       "USA:KY": {
         "latitude": 37.839333,
         "longitude": -84.27001800000002
-      },
-      "India: Vellore": {
-        "latitude": 12.9165,
-        "longitude": 79.1325
       },
       "USA": {
         "latitude": 39.7837304,
@@ -434,6 +422,18 @@
       "USA:PA": {
         "latitude": 41.203322,
         "longitude": -77.194525
+      },
+      "India: Vellore": {
+        "latitude": 12.9165,
+        "longitude": 79.1325
+      },
+      "Switzerland": {
+        "latitude": 46.9478,
+        "longitude": 7.422
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
       }
     }
   },

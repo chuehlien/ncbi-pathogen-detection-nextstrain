@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-06",
-  "virus_count": 606,
+  "updated": "2020-12-21",
+  "virus_count": 631,
   "maintainer": "DCIPHER",
-  "title": "legionella-pneumophila_PDG000000026.110-PDS000008112.37",
+  "title": "legionella-pneumophila_PDG000000026.114-PDS000008112.40",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -208,6 +208,12 @@
       "key": "internal_id",
       "type": "discrete"
     },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
+      "type": "discrete"
+    },
     "isolation_source": {
       "menuItem": "Isolation Source",
       "legendTitle": "Isolation Source",
@@ -341,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -405,10 +411,6 @@
         "latitude": 38.0,
         "longitude": -1.83
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
       "USA:Arizona": {
         "latitude": 34.048928000000004,
         "longitude": -111.093731
@@ -416,6 +418,10 @@
       "USA:Michigan": {
         "latitude": 44.314844,
         "longitude": -85.602364
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     }
   },

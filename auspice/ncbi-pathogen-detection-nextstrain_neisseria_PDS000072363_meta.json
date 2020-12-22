@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-28",
-  "virus_count": 308,
+  "updated": "2020-12-18",
+  "virus_count": 309,
   "maintainer": "DCIPHER",
-  "title": "neisseria_PDG000000032.185-PDS000072363.1",
+  "title": "neisseria_PDG000000032.193-PDS000072363.2",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -188,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "discrete"
+      "type": "continuous"
     },
     "host": {
       "menuItem": "Host",
@@ -332,7 +332,7 @@
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -347,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -368,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -403,17 +403,17 @@
       }
     },
     "location": {
-      "Netherlands: Bilthoven": {
-        "latitude": 52.13,
-        "longitude": 5.21
+      "Ireland: Dublin": {
+        "latitude": 53.3403,
+        "longitude": -6.29477
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "Ireland: Dublin": {
-        "latitude": 53.3403,
-        "longitude": -6.29477
+      "Netherlands: Bilthoven": {
+        "latitude": 52.13,
+        "longitude": 5.21
       }
     }
   },

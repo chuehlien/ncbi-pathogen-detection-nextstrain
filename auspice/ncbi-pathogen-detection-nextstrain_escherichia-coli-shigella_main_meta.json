@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-21",
-  "virus_count": 2714,
+  "updated": "2021-03-10",
+  "virus_count": 3137,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2331-PDS000062163.109",
+  "title": "escherichia-coli-shigella_PDG000000004.2499-PDS000079375.28",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -86,7 +92,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -266,37 +272,43 @@
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
       "type": "continuous"
+    },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -326,6 +338,12 @@
       "menuItem": "Serovar",
       "legendTitle": "Serovar",
       "key": "serovar",
+      "type": "discrete"
+    },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
       "type": "discrete"
     },
     "species_taxid": {
@@ -359,8 +377,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -407,33 +425,33 @@
       }
     },
     "location": {
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
+      "India:Vellore": {
+        "latitude": 12.9165,
+        "longitude": 79.1325
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "India: Vellore": {
-        "latitude": 12.9165,
-        "longitude": 79.1325
-      },
       "Switzerland": {
         "latitude": 46.9478,
         "longitude": 7.422
       },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "Bangladesh:Dhaka": {
+        "latitude": 23.8103,
+        "longitude": 90.4125
+      },
       "USA:MA": {
         "latitude": 42.407211,
         "longitude": -71.382437
+      },
+      "Australia:NSW,Westmead": {
+        "latitude": -33.8086,
+        "longitude": 150.987
       }
     }
   },

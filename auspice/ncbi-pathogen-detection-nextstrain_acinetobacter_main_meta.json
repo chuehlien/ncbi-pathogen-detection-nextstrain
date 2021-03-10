@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-21",
-  "virus_count": 1498,
+  "updated": "2021-03-09",
+  "virus_count": 1623,
   "maintainer": "DCIPHER",
-  "title": "acinetobacter_PDG000000010.487-PDS000077164.2",
+  "title": "acinetobacter_PDG000000010.523-PDS000078252.14",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -254,13 +260,13 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
@@ -298,6 +304,12 @@
       "key": "number_virulence_genes",
       "type": "discrete"
     },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
@@ -326,6 +338,12 @@
       "menuItem": "Serovar",
       "legendTitle": "Serovar",
       "key": "serovar",
+      "type": "discrete"
+    },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
       "type": "discrete"
     },
     "species_taxid": {
@@ -359,8 +377,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -397,171 +415,159 @@
   ],
   "geo": {
     "country": {
-      "Malaysia": {
-        "latitude": 5.325464,
-        "longitude": 103.151674
+      "France": {
+        "latitude": 47.22,
+        "longitude": 5.96
       },
       "China": {
         "latitude": 39.9,
         "longitude": 116.3
       },
-      "Israel": {
-        "latitude": 31.76,
-        "longitude": 35.15
+      "Iran": {
+        "latitude": 35.44,
+        "longitude": 51.3
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "India": {
-        "latitude": 12.9246,
-        "longitude": 79.1348
-      },
       "Thailand": {
         "latitude": 13.7583,
         "longitude": 100.4854
       },
-      "Iran": {
-        "latitude": 35.44,
-        "longitude": 51.3
-      }
-    },
-    "location": {
-      "Malaysia": {
-        "latitude": 5.325464,
-        "longitude": 103.151674
-      },
-      "Thailand: Bangkok": {
-        "latitude": 13.7584,
-        "longitude": 100.4855
-      },
-      "Thailand: Chiang Mai": {
-        "latitude": 15.87,
-        "longitude": 100.99
-      },
-      "China": {
-        "latitude": 39.9,
-        "longitude": 116.3
-      },
-      "China: Beijing": {
-        "latitude": 39.9,
-        "longitude": 116.3
-      },
-      "China:Beijing": {
-        "latitude": 39.9,
-        "longitude": 116.05
-      },
-      "China:Hangzhou": {
-        "latitude": 30.26,
-        "longitude": 120.19
-      },
-      "Myanmar:Yangon": {
-        "latitude": 16.9,
-        "longitude": 96.1
-      },
-      "China:Shenzhen": {
-        "latitude": 22.55,
-        "longitude": 114.12
-      },
       "India": {
         "latitude": 12.9246,
         "longitude": 79.1348
       },
-      "China: Shanghai": {
-        "latitude": 31.11,
-        "longitude": 121.29
-      },
-      "China:Zhejiang": {
-        "latitude": 30.26557,
-        "longitude": 120.15359
-      },
-      "China: Guangzhou": {
-        "latitude": 23.13,
-        "longitude": 113.26
-      },
-      "India:Assam,Guwahati": {
-        "latitude": 26.14,
-        "longitude": 91.73
-      },
-      "Malaysia: Kuala Terengganu, Terengganu": {
-        "latitude": 5.311737,
-        "longitude": 103.119912
-      },
-      "India: NewDelhi": {
-        "latitude": 28.5682,
-        "longitude": 77.2007
-      },
-      "Iran": {
-        "latitude": 35.44,
-        "longitude": 51.3
-      },
-      "Saudi Arabia: Makkah": {
-        "latitude": 21.22,
-        "longitude": 39.52
+      "Malaysia": {
+        "latitude": 5.325464,
+        "longitude": 103.151674
+      }
+    },
+    "location": {
+      "China": {
+        "latitude": 39.9,
+        "longitude": 116.3
       },
       "China:Gungdong": {
         "latitude": 22.61,
         "longitude": 113.06
       },
-      "India:Vellore": {
-        "latitude": 12.925110267872562,
-        "longitude": 79.13696363568306
+      "Thailand:Chiang Mai": {
+        "latitude": 15.87,
+        "longitude": 100.99
       },
-      "Egypt: Alexandria": {
-        "latitude": 31.201778,
-        "longitude": 29.904147
-      },
-      "Israel": {
-        "latitude": 31.76,
-        "longitude": 35.15
-      },
-      "China:Chongqing": {
-        "latitude": 29.58752,
-        "longitude": 106.550952
-      },
-      "India: Vellore": {
-        "latitude": 12.9165,
-        "longitude": 79.1325
-      },
-      "Thailand: Suratthani": {
-        "latitude": 9.1382,
-        "longitude": 99.3217
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "China: Hangzhou": {
-        "latitude": 30.3,
-        "longitude": 120.2
-      },
-      "China: Gungdong": {
-        "latitude": 22.61,
-        "longitude": 113.06
-      },
-      "China: Shenzhen": {
+      "China:Shenzhen": {
         "latitude": 22.55,
         "longitude": 114.12
       },
-      "Germany: Heidelberg": {
-        "latitude": 49.39875,
-        "longitude": 8.672434
+      "Malaysia:Kuala Terengganu, Terengganu": {
+        "latitude": 5.311737,
+        "longitude": 103.119912
+      },
+      "Iran": {
+        "latitude": 35.44,
+        "longitude": 51.3
+      },
+      "Egypt:Alexandria": {
+        "latitude": 31.201778,
+        "longitude": 29.904147
+      },
+      "India:Vellore": {
+        "latitude": 12.9165,
+        "longitude": 79.1325
+      },
+      "China:Shanghai": {
+        "latitude": 31.11,
+        "longitude": 121.29
+      },
+      "Thailand:Suratthani": {
+        "latitude": 9.1382,
+        "longitude": 99.3217
       },
       "Thailand": {
         "latitude": 13.7583,
         "longitude": 100.4854
       },
+      "Malaysia": {
+        "latitude": 5.325464,
+        "longitude": 103.151674
+      },
       "Turkey:Kayseri": {
         "latitude": 38.73,
         "longitude": 35.46
       },
-      "Pakistan: Peshawar": {
+      "China:Hangzhou": {
+        "latitude": 30.3,
+        "longitude": 120.2
+      },
+      "India:Assam,Guwahati": {
+        "latitude": 26.14,
+        "longitude": 91.73
+      },
+      "India:NewDelhi": {
+        "latitude": 28.5682,
+        "longitude": 77.2007
+      },
+      "France": {
+        "latitude": 47.22,
+        "longitude": 5.96
+      },
+      "Germany:Heidelberg": {
+        "latitude": 49.39875,
+        "longitude": 8.672434
+      },
+      "Thailand:Roi et": {
+        "latitude": 16.0567,
+        "longitude": 103.653089
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "China:Beijing": {
+        "latitude": 39.9,
+        "longitude": 116.3
+      },
+      "India": {
+        "latitude": 12.9246,
+        "longitude": 79.1348
+      },
+      "Myanmar:Yangon": {
+        "latitude": 16.9,
+        "longitude": 96.1
+      },
+      "Pakistan:Peshawar": {
         "latitude": 34.0151,
         "longitude": 71.5249
+      },
+      "China:Chongqing": {
+        "latitude": 29.58752,
+        "longitude": 106.550952
+      },
+      "Saudi Arabia:Makkah": {
+        "latitude": 21.22,
+        "longitude": 39.52
+      },
+      "China:Guangzhou": {
+        "latitude": 23.13,
+        "longitude": 113.26
+      },
+      "Myanmar:Mandalay": {
+        "latitude": 22.0,
+        "longitude": 96.1
       },
       "USA:Cleveland": {
         "latitude": 41.5,
         "longitude": -81.62
+      },
+      "Thailand:Bangkok": {
+        "latitude": 13.7584,
+        "longitude": 100.4855
+      },
+      "China:Zhejiang": {
+        "latitude": 30.26557,
+        "longitude": 120.15359
       }
     }
   },

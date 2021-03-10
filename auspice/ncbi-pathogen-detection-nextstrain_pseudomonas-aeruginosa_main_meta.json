@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-19",
+  "updated": "2021-03-09",
   "virus_count": 216,
   "maintainer": "DCIPHER",
-  "title": "pseudomonas-aeruginosa_PDG000000036.389-PDS000010432.5",
+  "title": "pseudomonas-aeruginosa_PDG000000036.419-PDS000010432.5",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -298,6 +304,12 @@
       "key": "number_virulence_genes",
       "type": "discrete"
     },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
+    },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
@@ -326,6 +338,12 @@
       "menuItem": "Serovar",
       "legendTitle": "Serovar",
       "key": "serovar",
+      "type": "discrete"
+    },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
       "type": "discrete"
     },
     "species_taxid": {
@@ -359,8 +377,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -399,10 +417,6 @@
     "country": {},
     "location": {
       "Canada:Toronto": {
-        "latitude": 43.65365,
-        "longitude": -79.377806
-      },
-      "Canada: Toronto": {
         "latitude": 43.65365,
         "longitude": -79.377806
       }

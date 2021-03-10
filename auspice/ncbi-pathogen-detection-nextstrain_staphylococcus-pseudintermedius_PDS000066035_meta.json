@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-18",
-  "virus_count": 62,
+  "updated": "2021-03-03",
+  "virus_count": 79,
   "maintainer": "DCIPHER",
-  "title": "staphylococcus-pseudintermedius_PDG000000042.182-PDS000066035.12",
+  "title": "staphylococcus-pseudintermedius_PDG000000042.198-PDS000066035.23",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -86,7 +92,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -254,49 +260,55 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -328,11 +340,17 @@
       "key": "serovar",
       "type": "discrete"
     },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
+      "type": "discrete"
+    },
     "species_taxid": {
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -359,8 +377,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -368,7 +386,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -397,6 +415,10 @@
   ],
   "geo": {
     "country": {
+      "Italy": {
+        "latitude": 45.47674979397605,
+        "longitude": 9.229441326733944
+      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
@@ -404,28 +426,44 @@
       "Australia": {
         "latitude": -27.63407,
         "longitude": 152.58766
+      },
+      "Spain": {
+        "latitude": 41.50411899709561,
+        "longitude": 2.0976018898046913
       }
     },
     "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA: Texas": {
+      "USA:Texas": {
         "latitude": 30.6116,
         "longitude": -96.3571
+      },
+      "Australia": {
+        "latitude": -27.63407,
+        "longitude": 152.58766
       },
       "USA:MI": {
         "latitude": 44.314844,
         "longitude": -85.602364
       },
-      "Germany: Neustadt": {
+      "Spain": {
+        "latitude": 41.50411899709561,
+        "longitude": 2.0976018898046913
+      },
+      "Italy": {
+        "latitude": 45.47674979397605,
+        "longitude": 9.229441326733944
+      },
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:Washington": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
+      },
+      "Germany:Neustadt": {
         "latitude": 49.35,
         "longitude": 8.14
-      },
-      "Australia": {
-        "latitude": -27.63407,
-        "longitude": 152.58766
       }
     }
   },

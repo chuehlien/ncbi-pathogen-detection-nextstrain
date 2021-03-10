@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-25",
-  "virus_count": 281,
+  "updated": "2021-02-07",
+  "virus_count": 304,
   "maintainer": "DCIPHER",
-  "title": "candida-auris_PDG000000067.25-PDS000050611.8",
+  "title": "candida-auris_PDG000000067.32-PDS000050611.11",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -86,7 +92,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -188,7 +194,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -254,49 +260,55 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -328,11 +340,17 @@
       "key": "serovar",
       "type": "discrete"
     },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
+      "type": "discrete"
+    },
     "species_taxid": {
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -359,8 +377,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -368,7 +386,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -397,10 +415,6 @@
   ],
   "geo": {
     "country": {
-      "United Arab Emirates": {
-        "latitude": 23.68,
-        "longitude": 54.54
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
@@ -408,40 +422,60 @@
       "Saudi Arabia": {
         "latitude": 28.86,
         "longitude": 45.08
-      }
-    },
-    "location": {
-      "USA: New York": {
-        "latitude": 40.7128,
-        "longitude": -74.006
       },
-      "Saudi Arabia": {
-        "latitude": 28.86,
-        "longitude": 45.08
+      "Canada": {
+        "latitude": 49.91,
+        "longitude": -97.16
       },
       "United Arab Emirates": {
         "latitude": 23.68,
         "longitude": 54.54
       },
-      "USA: Florida": {
-        "latitude": 27.6648,
-        "longitude": -81.5158
+      "India": {
+        "latitude": 28.7041,
+        "longitude": 77.1025
+      }
+    },
+    "location": {
+      "Saudi Arabia": {
+        "latitude": 28.86,
+        "longitude": 45.08
       },
-      "USA: New Jersey": {
+      "USA:New jersey": {
         "latitude": 40.0583,
         "longitude": -74.4057
       },
-      "USA: Massachusetts": {
+      "Canada": {
+        "latitude": 49.91,
+        "longitude": -97.16
+      },
+      "USA:New York": {
+        "latitude": 40.7128,
+        "longitude": -74.006
+      },
+      "USA:Massachusetts": {
         "latitude": 42.4072,
         "longitude": -71.3824
       },
-      "USA: New jersey": {
-        "latitude": 40.0583,
-        "longitude": -74.4057
+      "USA:Florida": {
+        "latitude": 27.6648,
+        "longitude": -81.5158
       },
-      "USA: Maryland": {
+      "United Arab Emirates": {
+        "latitude": 23.68,
+        "longitude": 54.54
+      },
+      "India": {
+        "latitude": 28.7041,
+        "longitude": 77.1025
+      },
+      "USA:Maryland": {
         "latitude": 39.0458,
         "longitude": -76.6413
+      },
+      "USA:New Jersey": {
+        "latitude": 40.0583,
+        "longitude": -74.4057
       }
     }
   },

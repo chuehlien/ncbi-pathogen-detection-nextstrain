@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-09",
-  "virus_count": 816,
+  "updated": "2022-08-06",
+  "virus_count": 3198,
   "maintainer": "DCIPHER",
-  "title": "clostridioides-difficile_PDG000000045.180-PDS000017429.68",
+  "title": "clostridioides-difficile_PDG000000045.392-PDS000017429.155",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -194,7 +200,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -386,12 +404,12 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -418,76 +436,20 @@
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Colombia": {
-        "latitude": 4.624335,
-        "longitude": -74.063644
-      },
-      "Germany": {
-        "latitude": 48.48,
-        "longitude": 9.22
       }
     },
     "location": {
-      "Taiwan:Tainan, National Cheng Kung University Hospital": {
-        "latitude": 23.002017,
-        "longitude": 120.219557
-      },
-      "USA:Ohio": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
-      },
-      "USA:NY, Orange Regional Medical Center, adult med surg unit": {
-        "latitude": 41.07,
-        "longitude": -73.47
-      },
-      "China:Hong Kong": {
-        "latitude": 22.19,
-        "longitude": 113.59
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
-      },
-      "China:Hangzhou": {
-        "latitude": 30.16,
-        "longitude": 120.12
-      },
-      "Germany": {
-        "latitude": 48.48,
-        "longitude": 9.22
-      },
-      "USA:Pittsburgh, Pennsylvania": {
-        "latitude": 40.44,
-        "longitude": -79.97
+      "USA:California": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "Costa Rica:San Jose": {
-        "latitude": 10.0,
-        "longitude": -84.0
-      },
-      "China:Beijing": {
-        "latitude": 39.97,
-        "longitude": 116.42
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:Chicago, Lurie Children's Hospital": {
-        "latitude": 41.89,
-        "longitude": -87.62
-      },
-      "USA:Chicago": {
-        "latitude": 41.93,
-        "longitude": -87.64
-      },
-      "Colombia": {
-        "latitude": 4.624335,
-        "longitude": -74.063644
+      "Taiwan:Tainan, National Cheng Kung University Hospital": {
+        "latitude": 23.002017,
+        "longitude": 120.219557
       }
     }
   },

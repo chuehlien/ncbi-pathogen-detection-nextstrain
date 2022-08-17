@@ -1,8 +1,8 @@
 {
-  "updated": "2021-02-06",
-  "virus_count": 38,
+  "updated": "2022-08-09",
+  "virus_count": 42,
   "maintainer": "DCIPHER",
-  "title": "aeromonas_PDG000000068.37-PDS000050679.7",
+  "title": "aeromonas_PDG000000068.76-PDS000050679.11",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -194,7 +200,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -421,33 +439,29 @@
       }
     },
     "location": {
-      "China:Guanqiao fishery farm": {
-        "latitude": 30.52,
-        "longitude": 114.38
-      },
-      "China:Zhejiang,Linghu": {
-        "latitude": 30.6868,
-        "longitude": 120.148
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
+      },
+      "China:Guanqiao fishery farm": {
+        "latitude": 30.52,
+        "longitude": 114.38
       },
       "USA:Alabama": {
         "latitude": 32.77,
         "longitude": -88.04
       },
-      "China:Huizhou": {
-        "latitude": 23.0,
-        "longitude": 114.0
-      },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
+      "China:Zhejiang,Linghu": {
+        "latitude": 30.6868,
+        "longitude": 120.148
       },
       "USA:Arkansas": {
         "latitude": 35.20105,
         "longitude": -91.831833
+      },
+      "China:Beijing": {
+        "latitude": 40.0,
+        "longitude": 116.0
       }
     }
   },

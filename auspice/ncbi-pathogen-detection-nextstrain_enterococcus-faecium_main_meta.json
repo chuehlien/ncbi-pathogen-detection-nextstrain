@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-09",
-  "virus_count": 1286,
+  "updated": "2022-08-09",
+  "virus_count": 1575,
   "maintainer": "DCIPHER",
-  "title": "enterococcus-faecium_PDG000000071.131-PDS000081883.2",
+  "title": "enterococcus-faecium_PDG000000071.287-PDS000110381.3",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -116,7 +116,7 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
@@ -170,6 +170,12 @@
       "menuItem": "Collection Date",
       "legendTitle": "Collection Date",
       "key": "collection_date",
+      "type": "discrete"
+    },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
       "type": "discrete"
     },
     "country": {
@@ -260,13 +266,13 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -416,9 +434,9 @@
   "geo": {
     "country": {},
     "location": {
-      "Denmark:Copenhagen": {
-        "latitude": 55.67,
-        "longitude": 12.57
+      "South Korea:Daegu": {
+        "latitude": 35.8303858,
+        "longitude": 128.6299486
       }
     }
   },

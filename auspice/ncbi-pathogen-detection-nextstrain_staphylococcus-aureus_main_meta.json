@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-05",
+  "updated": "2022-08-09",
   "virus_count": 517,
   "maintainer": "DCIPHER",
-  "title": "staphylococcus-aureus_PDG000000073.82-PDS000069795.1",
+  "title": "staphylococcus-aureus_PDG000000073.306-PDS000069795.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -410,8 +428,7 @@
   "filters": [],
   "commit": "unknown",
   "panels": [
-    "tree",
-    "map"
+    "tree"
   ],
   "geo": {
     "country": {},

@@ -1,0 +1,2636 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2012.808743169399
+  },
+  "yvalue": 10.64657,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT000505561.2",
+      "attr": {
+        "div": 5.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000418112.2",
+      "attr": {
+        "div": 13.0
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 2.0,
+        "num_date": 2013.080346048143
+      },
+      "yvalue": 4.73264,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT000026461.2",
+          "attr": {
+            "div": 13.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 7.0,
+            "num_date": 2013.7593532450035
+          },
+          "yvalue": 3.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "PDT000505551.2",
+              "attr": {
+                "div": 7.0
+              },
+              "yvalue": 3,
+              "clade": 7
+            },
+            {
+              "strain": "PDT000505562.2",
+              "attr": {
+                "div": 7.0
+              },
+              "yvalue": 4,
+              "clade": 8
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_9",
+          "attr": {
+            "div": 3.0,
+            "num_date": 2013.2161474875152
+          },
+          "yvalue": 8.69792,
+          "clade": 9,
+          "children": [
+            {
+              "strain": "PDT000505550.2",
+              "attr": {
+                "div": 16.0
+              },
+              "yvalue": 5,
+              "clade": 10
+            },
+            {
+              "strain": "CLADE_11",
+              "attr": {
+                "div": 4.0,
+                "num_date": 2013.3519489268872
+              },
+              "yvalue": 6.5,
+              "clade": 11,
+              "children": [
+                {
+                  "strain": "PDT000531628.2",
+                  "attr": {
+                    "div": 13.0,
+                    "#label": "PDT000531628.2|SAMEA5580103|GCA_901569065.1|Streptococcus pyogenes||NGAS413|Generic",
+                    "AMR_genotypes": "Unknown",
+                    "AMR_genotypes_core": "Unknown",
+                    "AST_phenotypes": "Unknown",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": "Unknown",
+                    "IFSAC_category": "Unknown",
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "amrfinder_analysis_type": "NUCLEOTIDE",
+                    "amrfinder_applied": 1,
+                    "amrfinder_version": "3.10.21",
+                    "asm_acc": "GCA_901569065.1",
+                    "asm_level": "Scaffold",
+                    "asm_stats_contig_n50": 98037,
+                    "asm_stats_length_bp": 1799750,
+                    "asm_stats_n_contig": 46,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Generic",
+                    "bioproject_acc": "PRJEB32188",
+                    "bioproject_center": "Wellcome Sanger Institute",
+                    "biosample_acc": "SAMEA5580103",
+                    "collected_by": "Unknown",
+                    "collection_date": "Unknown",
+                    "computed_types": "Unknown",
+                    "epi_type": "Unknown",
+                    "fullasm_id": 11330468.0,
+                    "location": "Unknown",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolate_identifiers": "49f3e0bc-65de-11e9-a0d1-68b59976a384,\"ERS3384334\",\"NGAS413\"",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "mindiff": "Unknown",
+                    "minsame": "Unknown",
+                    "number_amr_genes": 0,
+                    "number_core_amr_genes": 0,
+                    "number_drugs_intermediate": 0,
+                    "number_drugs_resistant": 0,
+                    "number_drugs_susceptible": 0,
+                    "number_drugs_tested": 0,
+                    "number_stress_genes": 0,
+                    "number_virulence_genes": 0,
+                    "ontological_term": "Unknown",
+                    "outbreak": "Unknown",
+                    "project_name": "Unknown",
+                    "refgene_db_version": "2021-12-21.1",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Streptococcus pyogenes",
+                    "sequenced_by": "Unknown",
+                    "serovar": "Unknown",
+                    "source_type": "Unknown",
+                    "species_taxid": 1314,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "NGAS413",
+                    "stress_genotypes": "Unknown",
+                    "target_acc": "PDT000531628.2",
+                    "target_creation_date": "2019-06-18",
+                    "taxid": 1314,
+                    "virulence_genotypes": "Unknown",
+                    "wgs_acc_prefix": "CABFAN",
+                    "wgs_master_acc": "CABFAN000000000.1",
+                    "date": "2019-06-18",
+                    "country": "Unknown",
+                    "num_date": 2019.4630136986302,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531628.2",
+                    "internal_id": null
+                  },
+                  "yvalue": 6,
+                  "clade": 12
+                },
+                {
+                  "strain": "PDT000505563.2",
+                  "attr": {
+                    "div": 7.0
+                  },
+                  "yvalue": 7,
+                  "clade": 13
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_14",
+              "attr": {
+                "div": 4.0,
+                "num_date": 2013.3519489268872
+              },
+              "yvalue": 8.875,
+              "clade": 14,
+              "children": [
+                {
+                  "strain": "PDT000531543.2",
+                  "attr": {
+                    "div": 13.0,
+                    "#label": "PDT000531543.2|SAMEA5580017|GCA_901568255.1|Streptococcus pyogenes||NGAS035|Generic",
+                    "AMR_genotypes": "Unknown",
+                    "AMR_genotypes_core": "Unknown",
+                    "AST_phenotypes": "Unknown",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": "Unknown",
+                    "IFSAC_category": "Unknown",
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "amrfinder_analysis_type": "NUCLEOTIDE",
+                    "amrfinder_applied": 1,
+                    "amrfinder_version": "3.10.21",
+                    "asm_acc": "GCA_901568255.1",
+                    "asm_level": "Scaffold",
+                    "asm_stats_contig_n50": 94200,
+                    "asm_stats_length_bp": 1801138,
+                    "asm_stats_n_contig": 62,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Generic",
+                    "bioproject_acc": "PRJEB32188",
+                    "bioproject_center": "Wellcome Sanger Institute",
+                    "biosample_acc": "SAMEA5580017",
+                    "collected_by": "Unknown",
+                    "collection_date": "Unknown",
+                    "computed_types": "Unknown",
+                    "epi_type": "Unknown",
+                    "fullasm_id": 11328748.0,
+                    "location": "Unknown",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolate_identifiers": "43dca47a-65de-11e9-a0d1-68b59976a384,\"ERS3384248\",\"NGAS035\"",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "mindiff": "Unknown",
+                    "minsame": "Unknown",
+                    "number_amr_genes": 0,
+                    "number_core_amr_genes": 0,
+                    "number_drugs_intermediate": 0,
+                    "number_drugs_resistant": 0,
+                    "number_drugs_susceptible": 0,
+                    "number_drugs_tested": 0,
+                    "number_stress_genes": 0,
+                    "number_virulence_genes": 0,
+                    "ontological_term": "Unknown",
+                    "outbreak": "Unknown",
+                    "project_name": "Unknown",
+                    "refgene_db_version": "2021-12-21.1",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Streptococcus pyogenes",
+                    "sequenced_by": "Unknown",
+                    "serovar": "Unknown",
+                    "source_type": "Unknown",
+                    "species_taxid": 1314,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "NGAS035",
+                    "stress_genotypes": "Unknown",
+                    "target_acc": "PDT000531543.2",
+                    "target_creation_date": "2019-06-18",
+                    "taxid": 1314,
+                    "virulence_genotypes": "Unknown",
+                    "wgs_acc_prefix": "CABEXH",
+                    "wgs_master_acc": "CABEXH000000000.1",
+                    "date": "2019-06-18",
+                    "country": "Unknown",
+                    "num_date": 2019.4630136986302,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531543.2",
+                    "internal_id": null
+                  },
+                  "yvalue": 8,
+                  "clade": 15
+                },
+                {
+                  "strain": "CLADE_16",
+                  "attr": {
+                    "div": 9.0,
+                    "num_date": 2014.0309561237475
+                  },
+                  "yvalue": 9.75,
+                  "clade": 16,
+                  "children": [
+                    {
+                      "strain": "PDT000505546.2",
+                      "attr": {
+                        "div": 17.0
+                      },
+                      "yvalue": 9,
+                      "clade": 17
+                    },
+                    {
+                      "strain": "CLADE_18",
+                      "attr": {
+                        "div": 13.0,
+                        "num_date": 2014.5741618812358
+                      },
+                      "yvalue": 10.5,
+                      "clade": 18,
+                      "children": [
+                        {
+                          "strain": "PDT000505553.2",
+                          "attr": {
+                            "div": 20.0
+                          },
+                          "yvalue": 10,
+                          "clade": 19
+                        },
+                        {
+                          "strain": "PDT000505549.2",
+                          "attr": {
+                            "div": 13.0
+                          },
+                          "yvalue": 11,
+                          "clade": 20
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_21",
+              "attr": {
+                "div": 12.0,
+                "num_date": 2014.4383604418638
+              },
+              "yvalue": 14.41667,
+              "clade": 21,
+              "children": [
+                {
+                  "strain": "PDT000505541.2",
+                  "attr": {
+                    "div": 24.0
+                  },
+                  "yvalue": 12,
+                  "clade": 22
+                },
+                {
+                  "strain": "CLADE_23",
+                  "attr": {
+                    "div": 14.0,
+                    "num_date": 2014.7099633206078
+                  },
+                  "yvalue": 13.75,
+                  "clade": 23,
+                  "children": [
+                    {
+                      "strain": "PDT001253983.1",
+                      "attr": {
+                        "div": 33.0
+                      },
+                      "yvalue": 13,
+                      "clade": 24
+                    },
+                    {
+                      "strain": "CLADE_25",
+                      "attr": {
+                        "div": 18.0,
+                        "num_date": 2015.253169078096
+                      },
+                      "yvalue": 14.5,
+                      "clade": 25,
+                      "children": [
+                        {
+                          "strain": "PDT000505543.2",
+                          "attr": {
+                            "div": 18.0
+                          },
+                          "yvalue": 14,
+                          "clade": 26
+                        },
+                        {
+                          "strain": "PDT000505559.2",
+                          "attr": {
+                            "div": 18.0
+                          },
+                          "yvalue": 15,
+                          "clade": 27
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_28",
+                  "attr": {
+                    "div": 17.0,
+                    "num_date": 2015.117367638724
+                  },
+                  "yvalue": 17.5,
+                  "clade": 28,
+                  "children": [
+                    {
+                      "strain": "CLADE_29",
+                      "attr": {
+                        "div": 28.0,
+                        "num_date": 2016.6111834718167
+                      },
+                      "yvalue": 16.5,
+                      "clade": 29,
+                      "children": [
+                        {
+                          "strain": "PDT000531450.2",
+                          "attr": {
+                            "div": 28.0,
+                            "#label": "PDT000531450.2|SAMEA5579926|GCA_901567205.1|Streptococcus pyogenes||GASEMM0832|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901567205.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 203469,
+                            "asm_stats_length_bp": 1794454,
+                            "asm_stats_n_contig": 28,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5579926",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11326708.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "3f0c9496-65de-11e9-a0d1-68b59976a384,\"ERS3384157\",\"GASEMM0832\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "GASEMM0832",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531450.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABETQ",
+                            "wgs_master_acc": "CABETQ000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531450.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 16,
+                          "clade": 30
+                        },
+                        {
+                          "strain": "PDT000531807.2",
+                          "attr": {
+                            "div": 28.0,
+                            "#label": "PDT000531807.2|SAMEA5580284|GCA_901570945.1|Streptococcus pyogenes||PHE_33033|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901570945.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 126172,
+                            "asm_stats_length_bp": 1800047,
+                            "asm_stats_n_contig": 25,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580284",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11334098.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "581ce490-65de-11e9-a0d1-68b59976a384,\"ERS3384515\",\"PHE_33033\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "PHE_33033",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531807.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABFHG",
+                            "wgs_master_acc": "CABFHG000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531807.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 17,
+                          "clade": 31
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_32",
+                      "attr": {
+                        "div": 28.0,
+                        "num_date": 2016.6111834718167
+                      },
+                      "yvalue": 18.5,
+                      "clade": 32,
+                      "children": [
+                        {
+                          "strain": "PDT000531444.2",
+                          "attr": {
+                            "div": 28.0,
+                            "#label": "PDT000531444.2|SAMEA5579919|GCA_901567185.1|Streptococcus pyogenes||GASEMM0500|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901567185.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 115047,
+                            "asm_stats_length_bp": 1787778,
+                            "asm_stats_n_contig": 36,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5579919",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11326568.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "3e762cb8-65de-11e9-a0d1-68b59976a384,\"ERS3384150\",\"GASEMM0500\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "GASEMM0500",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531444.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABETP",
+                            "wgs_master_acc": "CABETP000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531444.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 18,
+                          "clade": 33
+                        },
+                        {
+                          "strain": "PDT000531729.2",
+                          "attr": {
+                            "div": 28.0,
+                            "#label": "PDT000531729.2|SAMEA5580205|GCA_901570105.1|Streptococcus pyogenes||PHE_12036|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901570105.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 113114,
+                            "asm_stats_length_bp": 1794204,
+                            "asm_stats_n_contig": 29,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580205",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11332528.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "51e4aae0-65de-11e9-a0d1-68b59976a384,\"ERS3384436\",\"PHE_12036\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "PHE_12036",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531729.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABFEH",
+                            "wgs_master_acc": "CABFEH000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531729.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 19,
+                          "clade": 34
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "strain": "CLADE_35",
+      "attr": {
+        "div": 6.0,
+        "num_date": 2013.6235518056312
+      },
+      "yvalue": 36.85365,
+      "clade": 35,
+      "children": [
+        {
+          "strain": "PDT000531544.2",
+          "attr": {
+            "div": 24.0,
+            "#label": "PDT000531544.2|SAMEA5580018|GCA_901568245.1|Streptococcus pyogenes||NGAS056|Generic",
+            "AMR_genotypes": "tet(M)",
+            "AMR_genotypes_core": "tet(M)",
+            "AST_phenotypes": "Unknown",
+            "FDA_lab_id": "Unknown",
+            "HHS_region": "Unknown",
+            "IFSAC_category": "Unknown",
+            "LibraryLayout": "Unknown",
+            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+            "Platform": "Unknown",
+            "Run": "Unknown",
+            "amrfinder_analysis_type": "NUCLEOTIDE",
+            "amrfinder_applied": 1,
+            "amrfinder_version": "3.10.21",
+            "asm_acc": "GCA_901568245.1",
+            "asm_level": "Scaffold",
+            "asm_stats_contig_n50": 93973,
+            "asm_stats_length_bp": 1860882,
+            "asm_stats_n_contig": 38,
+            "assembly_method": "Unknown",
+            "attribute_package": "Generic",
+            "bioproject_acc": "PRJEB32188",
+            "bioproject_center": "Wellcome Sanger Institute",
+            "biosample_acc": "SAMEA5580018",
+            "collected_by": "Unknown",
+            "collection_date": "Unknown",
+            "computed_types": "Unknown",
+            "epi_type": "Unknown",
+            "fullasm_id": 11328768.0,
+            "location": "Unknown",
+            "host": "Unknown",
+            "host_disease": "Unknown",
+            "isolate_identifiers": "43eb4aac-65de-11e9-a0d1-68b59976a384,\"ERS3384249\",\"NGAS056\"",
+            "isolation_source": "Unknown",
+            "lat_lon": "Unknown",
+            "mindiff": "Unknown",
+            "minsame": "Unknown",
+            "number_amr_genes": 1,
+            "number_core_amr_genes": 1,
+            "number_drugs_intermediate": 0,
+            "number_drugs_resistant": 0,
+            "number_drugs_susceptible": 0,
+            "number_drugs_tested": 0,
+            "number_stress_genes": 0,
+            "number_virulence_genes": 0,
+            "ontological_term": "Unknown",
+            "outbreak": "Unknown",
+            "project_name": "Unknown",
+            "refgene_db_version": "2021-12-21.1",
+            "sample_name": "Unknown",
+            "scientific_name": "Streptococcus pyogenes",
+            "sequenced_by": "Unknown",
+            "serovar": "Unknown",
+            "source_type": "Unknown",
+            "species_taxid": 1314,
+            "sra_center": "Unknown",
+            "sra_release_date": "Unknown",
+            "strain": "NGAS056",
+            "stress_genotypes": "Unknown",
+            "target_acc": "PDT000531544.2",
+            "target_creation_date": "2019-06-18",
+            "taxid": 1314,
+            "virulence_genotypes": "Unknown",
+            "wgs_acc_prefix": "CABEXG",
+            "wgs_master_acc": "CABEXG000000000.1",
+            "date": "2019-06-18",
+            "country": "Unknown",
+            "num_date": 2019.4630136986302,
+            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531544.2",
+            "internal_id": null
+          },
+          "yvalue": 20,
+          "clade": 36
+        },
+        {
+          "strain": "CLADE_37",
+          "attr": {
+            "div": 7.0,
+            "num_date": 2013.7593532450035
+          },
+          "yvalue": 24.56944,
+          "clade": 37,
+          "children": [
+            {
+              "strain": "PDT000493840.2",
+              "attr": {
+                "div": 17.0
+              },
+              "yvalue": 21,
+              "clade": 38
+            },
+            {
+              "strain": "CLADE_39",
+              "attr": {
+                "div": 8.0,
+                "num_date": 2013.8951546843755
+              },
+              "yvalue": 23.25,
+              "clade": 39,
+              "children": [
+                {
+                  "strain": "PDT000531636.2",
+                  "attr": {
+                    "div": 25.0,
+                    "#label": "PDT000531636.2|SAMEA5580111|GCA_901569165.1|Streptococcus pyogenes||NGAS450|Generic",
+                    "AMR_genotypes": "Unknown",
+                    "AMR_genotypes_core": "Unknown",
+                    "AST_phenotypes": "Unknown",
+                    "FDA_lab_id": "Unknown",
+                    "HHS_region": "Unknown",
+                    "IFSAC_category": "Unknown",
+                    "LibraryLayout": "Unknown",
+                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                    "Platform": "Unknown",
+                    "Run": "Unknown",
+                    "amrfinder_analysis_type": "NUCLEOTIDE",
+                    "amrfinder_applied": 1,
+                    "amrfinder_version": "3.10.21",
+                    "asm_acc": "GCA_901569165.1",
+                    "asm_level": "Scaffold",
+                    "asm_stats_contig_n50": 81916,
+                    "asm_stats_length_bp": 1801178,
+                    "asm_stats_n_contig": 50,
+                    "assembly_method": "Unknown",
+                    "attribute_package": "Generic",
+                    "bioproject_acc": "PRJEB32188",
+                    "bioproject_center": "Wellcome Sanger Institute",
+                    "biosample_acc": "SAMEA5580111",
+                    "collected_by": "Unknown",
+                    "collection_date": "Unknown",
+                    "computed_types": "Unknown",
+                    "epi_type": "Unknown",
+                    "fullasm_id": 11330628.0,
+                    "location": "Unknown",
+                    "host": "Unknown",
+                    "host_disease": "Unknown",
+                    "isolate_identifiers": "4ada827e-65de-11e9-a0d1-68b59976a384,\"ERS3384342\",\"NGAS450\"",
+                    "isolation_source": "Unknown",
+                    "lat_lon": "Unknown",
+                    "mindiff": "Unknown",
+                    "minsame": "Unknown",
+                    "number_amr_genes": 0,
+                    "number_core_amr_genes": 0,
+                    "number_drugs_intermediate": 0,
+                    "number_drugs_resistant": 0,
+                    "number_drugs_susceptible": 0,
+                    "number_drugs_tested": 0,
+                    "number_stress_genes": 0,
+                    "number_virulence_genes": 0,
+                    "ontological_term": "Unknown",
+                    "outbreak": "Unknown",
+                    "project_name": "Unknown",
+                    "refgene_db_version": "2021-12-21.1",
+                    "sample_name": "Unknown",
+                    "scientific_name": "Streptococcus pyogenes",
+                    "sequenced_by": "Unknown",
+                    "serovar": "Unknown",
+                    "source_type": "Unknown",
+                    "species_taxid": 1314,
+                    "sra_center": "Unknown",
+                    "sra_release_date": "Unknown",
+                    "strain": "NGAS450",
+                    "stress_genotypes": "Unknown",
+                    "target_acc": "PDT000531636.2",
+                    "target_creation_date": "2019-06-18",
+                    "taxid": 1314,
+                    "virulence_genotypes": "Unknown",
+                    "wgs_acc_prefix": "CABFAV",
+                    "wgs_master_acc": "CABFAV000000000.1",
+                    "date": "2019-06-18",
+                    "country": "Unknown",
+                    "num_date": 2019.4630136986302,
+                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531636.2",
+                    "internal_id": null
+                  },
+                  "yvalue": 22,
+                  "clade": 40
+                },
+                {
+                  "strain": "PDT000493831.2",
+                  "attr": {
+                    "div": 15.0
+                  },
+                  "yvalue": 23,
+                  "clade": 41
+                },
+                {
+                  "strain": "CLADE_42",
+                  "attr": {
+                    "div": 11.0,
+                    "num_date": 2014.3025590024915
+                  },
+                  "yvalue": 24.75,
+                  "clade": 42,
+                  "children": [
+                    {
+                      "strain": "PDT000236866.2",
+                      "attr": {
+                        "div": 25.0
+                      },
+                      "yvalue": 24,
+                      "clade": 43
+                    },
+                    {
+                      "strain": "CLADE_44",
+                      "attr": {
+                        "div": 23.0,
+                        "num_date": 2015.9321762749564
+                      },
+                      "yvalue": 25.5,
+                      "clade": 44,
+                      "children": [
+                        {
+                          "strain": "PDT000531550.2",
+                          "attr": {
+                            "div": 23.0,
+                            "#label": "PDT000531550.2|SAMEA5580024|GCA_901568285.1|Streptococcus pyogenes||NGAS076|Generic",
+                            "AMR_genotypes": "ant(6)-Ia,aph(3')-IIIa,erm(B)",
+                            "AMR_genotypes_core": "ant(6)-Ia,aph(3')-IIIa,erm(B)",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901568285.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 102340,
+                            "asm_stats_length_bp": 1884926,
+                            "asm_stats_n_contig": 34,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580024",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11328888.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "4463b802-65de-11e9-a0d1-68b59976a384,\"ERS3384255\",\"NGAS076\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 3,
+                            "number_core_amr_genes": 3,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "NGAS076",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531550.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABEXK",
+                            "wgs_master_acc": "CABEXK000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531550.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 25,
+                          "clade": 45
+                        },
+                        {
+                          "strain": "PDT000531581.2",
+                          "attr": {
+                            "div": 23.0,
+                            "#label": "PDT000531581.2|SAMEA5580055|GCA_901568645.1|Streptococcus pyogenes||NGAS255|Generic",
+                            "AMR_genotypes": "ant(6)-Ia,aph(3')-IIIa,erm(B)",
+                            "AMR_genotypes_core": "ant(6)-Ia,aph(3')-IIIa,erm(B)",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901568645.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 113138,
+                            "asm_stats_length_bp": 1884652,
+                            "asm_stats_n_contig": 35,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580055",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11329518.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "464e0c6c-65de-11e9-a0d1-68b59976a384,\"ERS3384286\",\"NGAS255\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 3,
+                            "number_core_amr_genes": 3,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "NGAS255",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531581.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABEYU",
+                            "wgs_master_acc": "CABEYU000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531581.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 26,
+                          "clade": 46
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_47",
+              "attr": {
+                "div": 10.0,
+                "num_date": 2014.1667575631195
+              },
+              "yvalue": 29.45833,
+              "clade": 47,
+              "children": [
+                {
+                  "strain": "PDT000027939.3",
+                  "attr": {
+                    "div": 22.0
+                  },
+                  "yvalue": 27,
+                  "clade": 48
+                },
+                {
+                  "strain": "CLADE_49",
+                  "attr": {
+                    "div": 29.0,
+                    "num_date": 2016.746984911189
+                  },
+                  "yvalue": 28.75,
+                  "clade": 49,
+                  "children": [
+                    {
+                      "strain": "PDT000666374.2",
+                      "attr": {
+                        "div": 32.0
+                      },
+                      "yvalue": 28,
+                      "clade": 50
+                    },
+                    {
+                      "strain": "CLADE_51",
+                      "attr": {
+                        "div": 30.0,
+                        "num_date": 2016.882786350561
+                      },
+                      "yvalue": 29.5,
+                      "clade": 51,
+                      "children": [
+                        {
+                          "strain": "PDT000666420.2",
+                          "attr": {
+                            "div": 35.0
+                          },
+                          "yvalue": 29,
+                          "clade": 52
+                        },
+                        {
+                          "strain": "PDT000666398.2",
+                          "attr": {
+                            "div": 31.0
+                          },
+                          "yvalue": 30,
+                          "clade": 53
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_54",
+                  "attr": {
+                    "div": 14.0,
+                    "num_date": 2014.7099633206078
+                  },
+                  "yvalue": 32.625,
+                  "clade": 54,
+                  "children": [
+                    {
+                      "strain": "PDT000026492.2",
+                      "attr": {
+                        "div": 26.0
+                      },
+                      "yvalue": 31,
+                      "clade": 55
+                    },
+                    {
+                      "strain": "PDT000026473.2",
+                      "attr": {
+                        "div": 20.0
+                      },
+                      "yvalue": 32,
+                      "clade": 56
+                    },
+                    {
+                      "strain": "PDT000026453.2",
+                      "attr": {
+                        "div": 21.0
+                      },
+                      "yvalue": 33,
+                      "clade": 57
+                    },
+                    {
+                      "strain": "CLADE_58",
+                      "attr": {
+                        "div": 26.0,
+                        "num_date": 2016.3395805930727
+                      },
+                      "yvalue": 34.5,
+                      "clade": 58,
+                      "children": [
+                        {
+                          "strain": "PDT000531596.2",
+                          "attr": {
+                            "div": 31.0,
+                            "#label": "PDT000531596.2|SAMEA5580070|GCA_901568775.1|Streptococcus pyogenes||NGAS305|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901568775.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 63311,
+                            "asm_stats_length_bp": 1801536,
+                            "asm_stats_n_contig": 69,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580070",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11329828.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "47819cac-65de-11e9-a0d1-68b59976a384,\"ERS3384301\",\"NGAS305\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "NGAS305",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531596.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABEZH",
+                            "wgs_master_acc": "CABEZH000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531596.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 34,
+                          "clade": 59
+                        },
+                        {
+                          "strain": "PDT000531571.2",
+                          "attr": {
+                            "div": 30.0,
+                            "#label": "PDT000531571.2|SAMEA5580045|GCA_901568555.1|Streptococcus pyogenes||NGAS202|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901568555.1",
+                            "asm_level": "Contig",
+                            "asm_stats_contig_n50": 118823,
+                            "asm_stats_length_bp": 1760148,
+                            "asm_stats_n_contig": 28,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580045",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11329318.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "45ac6592-65de-11e9-a0d1-68b59976a384,\"ERS3384276\",\"NGAS202\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "NGAS202",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531571.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABEYL",
+                            "wgs_master_acc": "CABEYL000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531571.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 35,
+                          "clade": 60
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_61",
+          "attr": {
+            "div": 10.0,
+            "num_date": 2014.1667575631195
+          },
+          "yvalue": 40.05833,
+          "clade": 61,
+          "children": [
+            {
+              "strain": "PDT000505547.2",
+              "attr": {
+                "div": 25.0
+              },
+              "yvalue": 36,
+              "clade": 62
+            },
+            {
+              "strain": "PDT000493670.2",
+              "attr": {
+                "div": 23.0
+              },
+              "yvalue": 37,
+              "clade": 63
+            },
+            {
+              "strain": "CLADE_64",
+              "attr": {
+                "div": 16.0,
+                "num_date": 2014.981566199352
+              },
+              "yvalue": 38.5,
+              "clade": 64,
+              "children": [
+                {
+                  "strain": "PDT000026589.2",
+                  "attr": {
+                    "div": 22.0
+                  },
+                  "yvalue": 38,
+                  "clade": 65
+                },
+                {
+                  "strain": "PDT000505560.2",
+                  "attr": {
+                    "div": 28.0
+                  },
+                  "yvalue": 39,
+                  "clade": 66
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_67",
+              "attr": {
+                "div": 19.0,
+                "num_date": 2015.3889705174681
+              },
+              "yvalue": 41.5,
+              "clade": 67,
+              "children": [
+                {
+                  "strain": "CLADE_68",
+                  "attr": {
+                    "div": 29.0,
+                    "num_date": 2016.746984911189
+                  },
+                  "yvalue": 40.5,
+                  "clade": 68,
+                  "children": [
+                    {
+                      "strain": "PDT000026483.2",
+                      "attr": {
+                        "div": 34.0
+                      },
+                      "yvalue": 40,
+                      "clade": 69
+                    },
+                    {
+                      "strain": "PDT000026455.2",
+                      "attr": {
+                        "div": 30.0
+                      },
+                      "yvalue": 41,
+                      "clade": 70
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_71",
+                  "attr": {
+                    "div": 20.0,
+                    "num_date": 2015.5247719568401
+                  },
+                  "yvalue": 42.5,
+                  "clade": 71,
+                  "children": [
+                    {
+                      "strain": "PDT000026607.2",
+                      "attr": {
+                        "div": 25.0
+                      },
+                      "yvalue": 42,
+                      "clade": 72
+                    },
+                    {
+                      "strain": "PDT000026476.2",
+                      "attr": {
+                        "div": 24.0
+                      },
+                      "yvalue": 43,
+                      "clade": 73
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_74",
+              "attr": {
+                "div": 11.0,
+                "num_date": 2014.3025590024915
+              },
+              "yvalue": 47.29167,
+              "clade": 74,
+              "children": [
+                {
+                  "strain": "CLADE_75",
+                  "attr": {
+                    "div": 19.0,
+                    "num_date": 2015.3889705174681
+                  },
+                  "yvalue": 45.0,
+                  "clade": 75,
+                  "children": [
+                    {
+                      "strain": "PDT000460137.2",
+                      "attr": {
+                        "div": 29.0
+                      },
+                      "yvalue": 44,
+                      "clade": 76
+                    },
+                    {
+                      "strain": "PDT000460138.2",
+                      "attr": {
+                        "div": 36.0
+                      },
+                      "yvalue": 45,
+                      "clade": 77
+                    },
+                    {
+                      "strain": "PDT000207878.2",
+                      "attr": {
+                        "div": 22.0
+                      },
+                      "yvalue": 46,
+                      "clade": 78
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_79",
+                  "attr": {
+                    "div": 20.0,
+                    "num_date": 2015.5247719568401
+                  },
+                  "yvalue": 49.58333,
+                  "clade": 79,
+                  "children": [
+                    {
+                      "strain": "CLADE_80",
+                      "attr": {
+                        "div": 32.0,
+                        "num_date": 2017.154389229305
+                      },
+                      "yvalue": 47.5,
+                      "clade": 80,
+                      "children": [
+                        {
+                          "strain": "PDT000505544.2",
+                          "attr": {
+                            "div": 35.0
+                          },
+                          "yvalue": 47,
+                          "clade": 81
+                        },
+                        {
+                          "strain": "PDT000505558.2",
+                          "attr": {
+                            "div": 34.0
+                          },
+                          "yvalue": 48,
+                          "clade": 82
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_83",
+                      "attr": {
+                        "div": 23.0,
+                        "num_date": 2015.9321762749564
+                      },
+                      "yvalue": 49.5,
+                      "clade": 83,
+                      "children": [
+                        {
+                          "strain": "PDT000505548.2",
+                          "attr": {
+                            "div": 38.0
+                          },
+                          "yvalue": 49,
+                          "clade": 84
+                        },
+                        {
+                          "strain": "PDT000026466.2",
+                          "attr": {
+                            "div": 33.0
+                          },
+                          "yvalue": 50,
+                          "clade": 85
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_86",
+                      "attr": {
+                        "div": 28.0,
+                        "num_date": 2016.6111834718167
+                      },
+                      "yvalue": 51.75,
+                      "clade": 86,
+                      "children": [
+                        {
+                          "strain": "PDT000505557.2",
+                          "attr": {
+                            "div": 29.0
+                          },
+                          "yvalue": 51,
+                          "clade": 87
+                        },
+                        {
+                          "strain": "CLADE_88",
+                          "attr": {
+                            "div": 35.0,
+                            "num_date": 2017.5617935474213
+                          },
+                          "yvalue": 52.5,
+                          "clade": 88,
+                          "children": [
+                            {
+                              "strain": "PDT001253966.1",
+                              "attr": {
+                                "div": 41.0
+                              },
+                              "yvalue": 52,
+                              "clade": 89
+                            },
+                            {
+                              "strain": "PDT000505555.2",
+                              "attr": {
+                                "div": 37.0
+                              },
+                              "yvalue": 53,
+                              "clade": 90
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "strain": "CLADE_91",
+          "attr": {
+            "div": 7.0,
+            "num_date": 2013.7593532450035
+          },
+          "yvalue": 62.78681,
+          "clade": 91,
+          "children": [
+            {
+              "strain": "CLADE_92",
+              "attr": {
+                "div": 12.0,
+                "num_date": 2014.4383604418638
+              },
+              "yvalue": 56.0625,
+              "clade": 92,
+              "children": [
+                {
+                  "strain": "CLADE_93",
+                  "attr": {
+                    "div": 17.0,
+                    "num_date": 2015.117367638724
+                  },
+                  "yvalue": 54.5,
+                  "clade": 93,
+                  "children": [
+                    {
+                      "strain": "PDT000026471.2",
+                      "attr": {
+                        "div": 20.0
+                      },
+                      "yvalue": 54,
+                      "clade": 94
+                    },
+                    {
+                      "strain": "PDT000026485.2",
+                      "attr": {
+                        "div": 19.0
+                      },
+                      "yvalue": 55,
+                      "clade": 95
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_96",
+                  "attr": {
+                    "div": 13.0,
+                    "num_date": 2014.5741618812358
+                  },
+                  "yvalue": 57.625,
+                  "clade": 96,
+                  "children": [
+                    {
+                      "strain": "CLADE_97",
+                      "attr": {
+                        "div": 22.0,
+                        "num_date": 2015.7963748355844
+                      },
+                      "yvalue": 56.5,
+                      "clade": 97,
+                      "children": [
+                        {
+                          "strain": "PDT000493907.2",
+                          "attr": {
+                            "div": 33.0
+                          },
+                          "yvalue": 56,
+                          "clade": 98
+                        },
+                        {
+                          "strain": "PDT000493830.2",
+                          "attr": {
+                            "div": 24.0
+                          },
+                          "yvalue": 57,
+                          "clade": 99
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_100",
+                      "attr": {
+                        "div": 17.0,
+                        "num_date": 2015.117367638724
+                      },
+                      "yvalue": 58.75,
+                      "clade": 100,
+                      "children": [
+                        {
+                          "strain": "PDT000531675.2",
+                          "attr": {
+                            "div": 33.0,
+                            "#label": "PDT000531675.2|SAMEA5580151|GCA_901569605.1|Streptococcus pyogenes||NGAS623|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_901569605.1",
+                            "asm_level": "Scaffold",
+                            "asm_stats_contig_n50": 20965,
+                            "asm_stats_length_bp": 1799730,
+                            "asm_stats_n_contig": 214,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJEB32188",
+                            "bioproject_center": "Wellcome Sanger Institute",
+                            "biosample_acc": "SAMEA5580151",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 11331408.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "4e40fe02-65de-11e9-a0d1-68b59976a384,\"ERS3384382\",\"NGAS623\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "NGAS623",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000531675.2",
+                            "target_creation_date": "2019-06-18",
+                            "taxid": 1314,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "CABFCI",
+                            "wgs_master_acc": "CABFCI000000000.1",
+                            "date": "2019-06-18",
+                            "country": "Unknown",
+                            "num_date": 2019.4630136986302,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000531675.2",
+                            "internal_id": null
+                          },
+                          "yvalue": 58,
+                          "clade": 101
+                        },
+                        {
+                          "strain": "CLADE_102",
+                          "attr": {
+                            "div": 28.0,
+                            "num_date": 2016.6111834718167
+                          },
+                          "yvalue": 59.5,
+                          "clade": 102,
+                          "children": [
+                            {
+                              "strain": "PDT000666419.2",
+                              "attr": {
+                                "div": 43.0
+                              },
+                              "yvalue": 59,
+                              "clade": 103
+                            },
+                            {
+                              "strain": "PDT000026481.2",
+                              "attr": {
+                                "div": 32.0
+                              },
+                              "yvalue": 60,
+                              "clade": 104
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "strain": "CLADE_105",
+              "attr": {
+                "div": 19.0,
+                "num_date": 2015.3889705174681
+              },
+              "yvalue": 69.51111,
+              "clade": 105,
+              "children": [
+                {
+                  "strain": "PDT000458448.2",
+                  "attr": {
+                    "div": 33.0
+                  },
+                  "yvalue": 61,
+                  "clade": 106
+                },
+                {
+                  "strain": "PDT000458449.2",
+                  "attr": {
+                    "div": 25.0
+                  },
+                  "yvalue": 62,
+                  "clade": 107
+                },
+                {
+                  "strain": "CLADE_108",
+                  "attr": {
+                    "div": 34.0,
+                    "num_date": 2017.4259921080493
+                  },
+                  "yvalue": 64.625,
+                  "clade": 108,
+                  "children": [
+                    {
+                      "strain": "CLADE_109",
+                      "attr": {
+                        "div": 35.0,
+                        "num_date": 2017.5617935474213
+                      },
+                      "yvalue": 63.5,
+                      "clade": 109,
+                      "children": [
+                        {
+                          "strain": "PDT000067109.2",
+                          "attr": {
+                            "div": 36.0
+                          },
+                          "yvalue": 63,
+                          "clade": 110
+                        },
+                        {
+                          "strain": "PDT000531911.2",
+                          "attr": {
+                            "div": 35.0
+                          },
+                          "yvalue": 64,
+                          "clade": 111
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_112",
+                      "attr": {
+                        "div": 35.0,
+                        "num_date": 2017.5617935474213
+                      },
+                      "yvalue": 65.75,
+                      "clade": 112,
+                      "children": [
+                        {
+                          "strain": "PDT000460528.2",
+                          "attr": {
+                            "div": 35.0
+                          },
+                          "yvalue": 65,
+                          "clade": 113
+                        },
+                        {
+                          "strain": "CLADE_114",
+                          "attr": {
+                            "div": 36.0,
+                            "num_date": 2017.6975949867933
+                          },
+                          "yvalue": 66.5,
+                          "clade": 114,
+                          "children": [
+                            {
+                              "strain": "PDT000492778.2",
+                              "attr": {
+                                "div": 36.0
+                              },
+                              "yvalue": 66,
+                              "clade": 115
+                            },
+                            {
+                              "strain": "PDT000500021.2",
+                              "attr": {
+                                "div": 36.0
+                              },
+                              "yvalue": 67,
+                              "clade": 116
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_117",
+                  "attr": {
+                    "div": 20.0,
+                    "num_date": 2015.5247719568401
+                  },
+                  "yvalue": 69.25,
+                  "clade": 117,
+                  "children": [
+                    {
+                      "strain": "PDT000008376.3",
+                      "attr": {
+                        "div": 34.0,
+                        "#label": "PDT000008376.3|SAMN02603640|GCA_000307535.1|Streptococcus pyogenes A20||A20|Generic",
+                        "AMR_genotypes": "Unknown",
+                        "AMR_genotypes_core": "Unknown",
+                        "AST_phenotypes": "Unknown",
+                        "FDA_lab_id": "Unknown",
+                        "HHS_region": "Unknown",
+                        "IFSAC_category": "Unknown",
+                        "LibraryLayout": "Unknown",
+                        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                        "Platform": "Unknown",
+                        "Run": "Unknown",
+                        "amrfinder_analysis_type": "NUCLEOTIDE",
+                        "amrfinder_applied": 1,
+                        "amrfinder_version": "3.10.21",
+                        "asm_acc": "GCA_000307535.1",
+                        "asm_level": "Complete Genome",
+                        "asm_stats_contig_n50": 1837281,
+                        "asm_stats_length_bp": 1837281,
+                        "asm_stats_n_contig": 1,
+                        "assembly_method": "Unknown",
+                        "attribute_package": "Generic",
+                        "bioproject_acc": "PRJNA175952",
+                        "bioproject_center": "National Cheng Kung University",
+                        "biosample_acc": "SAMN02603640",
+                        "collected_by": "Unknown",
+                        "collection_date": "Unknown",
+                        "computed_types": "Unknown",
+                        "epi_type": "Unknown",
+                        "fullasm_id": 448438.0,
+                        "location": "Unknown",
+                        "host": "Unknown",
+                        "host_disease": "Unknown",
+                        "isolate_identifiers": "A20,\"CP003901\"",
+                        "isolation_source": "Unknown",
+                        "lat_lon": "Unknown",
+                        "mindiff": "Unknown",
+                        "minsame": "Unknown",
+                        "number_amr_genes": 0,
+                        "number_core_amr_genes": 0,
+                        "number_drugs_intermediate": 0,
+                        "number_drugs_resistant": 0,
+                        "number_drugs_susceptible": 0,
+                        "number_drugs_tested": 0,
+                        "number_stress_genes": 0,
+                        "number_virulence_genes": 0,
+                        "ontological_term": "Unknown",
+                        "outbreak": "Unknown",
+                        "project_name": "Unknown",
+                        "refgene_db_version": "2021-12-21.1",
+                        "sample_name": "CP003901",
+                        "scientific_name": "Streptococcus pyogenes A20",
+                        "sequenced_by": "Unknown",
+                        "serovar": "Unknown",
+                        "source_type": "Unknown",
+                        "species_taxid": 1314,
+                        "sra_center": "Unknown",
+                        "sra_release_date": "Unknown",
+                        "strain": "A20",
+                        "stress_genotypes": "Unknown",
+                        "target_acc": "PDT000008376.3",
+                        "target_creation_date": "2012-10-22",
+                        "taxid": 1235829,
+                        "virulence_genotypes": "Unknown",
+                        "wgs_acc_prefix": "Unknown",
+                        "wgs_master_acc": "Unknown",
+                        "date": "2012-10-22",
+                        "country": "Unknown",
+                        "num_date": 2012.808743169399,
+                        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000008376.3",
+                        "internal_id": null
+                      },
+                      "yvalue": 68,
+                      "clade": 118
+                    },
+                    {
+                      "strain": "CLADE_119",
+                      "attr": {
+                        "div": 25.0,
+                        "num_date": 2016.2037791537007
+                      },
+                      "yvalue": 70.5,
+                      "clade": 119,
+                      "children": [
+                        {
+                          "strain": "CLADE_120",
+                          "attr": {
+                            "div": 45.0,
+                            "num_date": 2018.919807941142
+                          },
+                          "yvalue": 69.5,
+                          "clade": 120,
+                          "children": [
+                            {
+                              "strain": "PDT000030052.2",
+                              "attr": {
+                                "div": 46.0
+                              },
+                              "yvalue": 69,
+                              "clade": 121
+                            },
+                            {
+                              "strain": "PDT000030050.2",
+                              "attr": {
+                                "div": 45.0
+                              },
+                              "yvalue": 70,
+                              "clade": 122
+                            }
+                          ]
+                        },
+                        {
+                          "strain": "CLADE_123",
+                          "attr": {
+                            "div": 26.0,
+                            "num_date": 2016.3395805930727
+                          },
+                          "yvalue": 71.5,
+                          "clade": 123,
+                          "children": [
+                            {
+                              "strain": "PDT000492935.2",
+                              "attr": {
+                                "div": 41.0
+                              },
+                              "yvalue": 71,
+                              "clade": 124
+                            },
+                            {
+                              "strain": "PDT000492913.2",
+                              "attr": {
+                                "div": 39.0
+                              },
+                              "yvalue": 72,
+                              "clade": 125
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_126",
+                  "attr": {
+                    "div": 20.0,
+                    "num_date": 2015.5247719568401
+                  },
+                  "yvalue": 76.375,
+                  "clade": 126,
+                  "children": [
+                    {
+                      "strain": "CLADE_127",
+                      "attr": {
+                        "div": 21.0,
+                        "num_date": 2015.6605733962124
+                      },
+                      "yvalue": 74.5,
+                      "clade": 127,
+                      "children": [
+                        {
+                          "strain": "PDT000666658.2",
+                          "attr": {
+                            "div": 47.0
+                          },
+                          "yvalue": 73,
+                          "clade": 128
+                        },
+                        {
+                          "strain": "PDT000016080.3",
+                          "attr": {
+                            "div": 27.0,
+                            "#label": "PDT000016080.3|SAMD00061013|GCA_000349925.2|Streptococcus pyogenes M1 476||M1 476|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_000349925.2",
+                            "asm_level": "Complete Genome",
+                            "asm_stats_contig_n50": 1831128,
+                            "asm_stats_length_bp": 1831128,
+                            "asm_stats_n_contig": 1,
+                            "assembly_method": "GS De Novo Assembler v. 2.6",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJDB141",
+                            "bioproject_center": "National Center for Global Health and Medicine",
+                            "biosample_acc": "SAMD00061013",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 731628.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "AP012491,\"M1 476\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "Unknown",
+                            "scientific_name": "Streptococcus pyogenes M1 476",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "M1 476",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000016080.3",
+                            "target_creation_date": "2013-07-11",
+                            "taxid": 1207470,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "Unknown",
+                            "wgs_master_acc": "Unknown",
+                            "date": "2013-07-11",
+                            "country": "Unknown",
+                            "num_date": 2013.5260273972603,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000016080.3",
+                            "internal_id": null
+                          },
+                          "yvalue": 74,
+                          "clade": 129
+                        },
+                        {
+                          "strain": "PDT000004639.4",
+                          "attr": {
+                            "div": 38.0,
+                            "#label": "PDT000004639.4|SAMN02603500|GCA_000011765.2|Streptococcus pyogenes MGAS5005||MGAS5005|Generic",
+                            "AMR_genotypes": "Unknown",
+                            "AMR_genotypes_core": "Unknown",
+                            "AST_phenotypes": "Unknown",
+                            "FDA_lab_id": "Unknown",
+                            "HHS_region": "Unknown",
+                            "IFSAC_category": "Unknown",
+                            "LibraryLayout": "Unknown",
+                            "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                            "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                            "Platform": "Unknown",
+                            "Run": "Unknown",
+                            "amrfinder_analysis_type": "NUCLEOTIDE",
+                            "amrfinder_applied": 1,
+                            "amrfinder_version": "3.10.21",
+                            "asm_acc": "GCA_000011765.2",
+                            "asm_level": "Complete Genome",
+                            "asm_stats_contig_n50": 1838562,
+                            "asm_stats_length_bp": 1838562,
+                            "asm_stats_n_contig": 1,
+                            "assembly_method": "Unknown",
+                            "attribute_package": "Generic",
+                            "bioproject_acc": "PRJNA13888",
+                            "bioproject_center": "Lab of Human Bacterial Pathogenesis",
+                            "biosample_acc": "SAMN02603500",
+                            "collected_by": "Unknown",
+                            "collection_date": "Unknown",
+                            "computed_types": "Unknown",
+                            "epi_type": "Unknown",
+                            "fullasm_id": 1009388.0,
+                            "location": "Unknown",
+                            "host": "Unknown",
+                            "host_disease": "Unknown",
+                            "isolate_identifiers": "CP000017,\"MGAS5005\"",
+                            "isolation_source": "Unknown",
+                            "lat_lon": "Unknown",
+                            "mindiff": "Unknown",
+                            "minsame": "Unknown",
+                            "number_amr_genes": 0,
+                            "number_core_amr_genes": 0,
+                            "number_drugs_intermediate": 0,
+                            "number_drugs_resistant": 0,
+                            "number_drugs_susceptible": 0,
+                            "number_drugs_tested": 0,
+                            "number_stress_genes": 0,
+                            "number_virulence_genes": 0,
+                            "ontological_term": "Unknown",
+                            "outbreak": "Unknown",
+                            "project_name": "Unknown",
+                            "refgene_db_version": "2021-12-21.1",
+                            "sample_name": "CP000017",
+                            "scientific_name": "Streptococcus pyogenes MGAS5005",
+                            "sequenced_by": "Unknown",
+                            "serovar": "Unknown",
+                            "source_type": "Unknown",
+                            "species_taxid": 1314,
+                            "sra_center": "Unknown",
+                            "sra_release_date": "Unknown",
+                            "strain": "MGAS5005",
+                            "stress_genotypes": "Unknown",
+                            "target_acc": "PDT000004639.4",
+                            "target_creation_date": "2014-04-22",
+                            "taxid": 293653,
+                            "virulence_genotypes": "Unknown",
+                            "wgs_acc_prefix": "Unknown",
+                            "wgs_master_acc": "Unknown",
+                            "date": "2014-04-22",
+                            "country": "Unknown",
+                            "num_date": 2014.3068493150686,
+                            "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000004639.4",
+                            "internal_id": null
+                          },
+                          "yvalue": 75,
+                          "clade": 130
+                        },
+                        {
+                          "strain": "PDT000726737.2",
+                          "attr": {
+                            "div": 22.0
+                          },
+                          "yvalue": 76,
+                          "clade": 131
+                        }
+                      ]
+                    },
+                    {
+                      "strain": "CLADE_132",
+                      "attr": {
+                        "div": 26.0,
+                        "num_date": 2016.3395805930727
+                      },
+                      "yvalue": 78.25,
+                      "clade": 132,
+                      "children": [
+                        {
+                          "strain": "PDT000505552.2",
+                          "attr": {
+                            "div": 41.0
+                          },
+                          "yvalue": 77,
+                          "clade": 133
+                        },
+                        {
+                          "strain": "CLADE_134",
+                          "attr": {
+                            "div": 32.0,
+                            "num_date": 2017.154389229305
+                          },
+                          "yvalue": 79.5,
+                          "clade": 134,
+                          "children": [
+                            {
+                              "strain": "CLADE_135",
+                              "attr": {
+                                "div": 33.0,
+                                "num_date": 2017.290190668677
+                              },
+                              "yvalue": 78.5,
+                              "clade": 135,
+                              "children": [
+                                {
+                                  "strain": "PDT000493586.2",
+                                  "attr": {
+                                    "div": 47.0
+                                  },
+                                  "yvalue": 78,
+                                  "clade": 136
+                                },
+                                {
+                                  "strain": "PDT000505554.2",
+                                  "attr": {
+                                    "div": 49.0
+                                  },
+                                  "yvalue": 79,
+                                  "clade": 137
+                                }
+                              ]
+                            },
+                            {
+                              "strain": "CLADE_138",
+                              "attr": {
+                                "div": 33.0,
+                                "num_date": 2017.290190668677
+                              },
+                              "yvalue": 80.5,
+                              "clade": 138,
+                              "children": [
+                                {
+                                  "strain": "PDT000190028.2",
+                                  "attr": {
+                                    "div": 48.0,
+                                    "#label": "PDT000190028.2|SAMEA4470459|GCA_900108785.1|Streptococcus pyogenes|||Generic",
+                                    "AMR_genotypes": "Unknown",
+                                    "AMR_genotypes_core": "Unknown",
+                                    "AST_phenotypes": "Unknown",
+                                    "FDA_lab_id": "Unknown",
+                                    "HHS_region": "Unknown",
+                                    "IFSAC_category": "Unknown",
+                                    "LibraryLayout": "Unknown",
+                                    "PFGE_PrimaryEnzyme_pattern": "Unknown",
+                                    "PFGE_SecondaryEnzyme_pattern": "Unknown",
+                                    "Platform": "Unknown",
+                                    "Run": "Unknown",
+                                    "amrfinder_analysis_type": "NUCLEOTIDE",
+                                    "amrfinder_applied": 1,
+                                    "amrfinder_version": "3.10.21",
+                                    "asm_acc": "GCA_900108785.1",
+                                    "asm_level": "Contig",
+                                    "asm_stats_contig_n50": 36801,
+                                    "asm_stats_length_bp": 1763120,
+                                    "asm_stats_n_contig": 113,
+                                    "assembly_method": "Unknown",
+                                    "attribute_package": "Generic",
+                                    "bioproject_acc": "PRJEB11503",
+                                    "bioproject_center": "University Hospital Muenster",
+                                    "biosample_acc": "SAMEA4470459",
+                                    "collected_by": "Unknown",
+                                    "collection_date": "missing",
+                                    "computed_types": "Unknown",
+                                    "epi_type": "Unknown",
+                                    "fullasm_id": 4150498.0,
+                                    "location": "not provided",
+                                    "host": "Unknown",
+                                    "host_disease": "Unknown",
+                                    "isolate_identifiers": "ERS1369638,\"PEI-B-P-20\"",
+                                    "isolation_source": "Unknown",
+                                    "lat_lon": "Unknown",
+                                    "mindiff": "Unknown",
+                                    "minsame": "Unknown",
+                                    "number_amr_genes": 0,
+                                    "number_core_amr_genes": 0,
+                                    "number_drugs_intermediate": 0,
+                                    "number_drugs_resistant": 0,
+                                    "number_drugs_susceptible": 0,
+                                    "number_drugs_tested": 0,
+                                    "number_stress_genes": 0,
+                                    "number_virulence_genes": 0,
+                                    "ontological_term": "Unknown",
+                                    "outbreak": "Unknown",
+                                    "project_name": "Unknown",
+                                    "refgene_db_version": "2021-12-21.1",
+                                    "sample_name": "Unknown",
+                                    "scientific_name": "Streptococcus pyogenes",
+                                    "sequenced_by": "Unknown",
+                                    "serovar": "Unknown",
+                                    "source_type": "Unknown",
+                                    "species_taxid": 1314,
+                                    "sra_center": "Unknown",
+                                    "sra_release_date": "Unknown",
+                                    "strain": "Unknown",
+                                    "stress_genotypes": "Unknown",
+                                    "target_acc": "PDT000190028.2",
+                                    "target_creation_date": "2017-02-21",
+                                    "taxid": 1314,
+                                    "virulence_genotypes": "Unknown",
+                                    "wgs_acc_prefix": "FUVE",
+                                    "wgs_master_acc": "FUVE00000000.1",
+                                    "date": "2017-02-21",
+                                    "country": "not provided",
+                                    "num_date": 2017.1424657534246,
+                                    "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Streptococcus_pyogenes/PDG000000090.7/PDS000105409.1?accessions=PDT000190028.2",
+                                    "internal_id": null
+                                  },
+                                  "yvalue": 80,
+                                  "clade": 139
+                                },
+                                {
+                                  "strain": "PDT000505542.2",
+                                  "attr": {
+                                    "div": 41.0
+                                  },
+                                  "yvalue": 81,
+                                  "clade": 140
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "strain": "CLADE_141",
+                  "attr": {
+                    "div": 21.0,
+                    "num_date": 2015.6605733962124
+                  },
+                  "yvalue": 83.81667,
+                  "clade": 141,
+                  "children": [
+                    {
+                      "strain": "PDT000531909.2",
+                      "attr": {
+                        "div": 38.0
+                      },
+                      "yvalue": 82,
+                      "clade": 142
+                    },
+                    {
+                      "strain": "PDT000026616.2",
+                      "attr": {
+                        "div": 46.0
+                      },
+                      "yvalue": 83,
+                      "clade": 143
+                    },
+                    {
+                      "strain": "CLADE_144",
+                      "attr": {
+                        "div": 23.0,
+                        "num_date": 2015.9321762749564
+                      },
+                      "yvalue": 86.45,
+                      "clade": 144,
+                      "children": [
+                        {
+                          "strain": "PDT000026487.2",
+                          "attr": {
+                            "div": 44.0
+                          },
+                          "yvalue": 84,
+                          "clade": 145
+                        },
+                        {
+                          "strain": "PDT000026488.2",
+                          "attr": {
+                            "div": 43.0
+                          },
+                          "yvalue": 85,
+                          "clade": 146
+                        },
+                        {
+                          "strain": "PDT000026472.2",
+                          "attr": {
+                            "div": 43.0
+                          },
+                          "yvalue": 86,
+                          "clade": 147
+                        },
+                        {
+                          "strain": "CLADE_148",
+                          "attr": {
+                            "div": 38.0,
+                            "num_date": 2017.9691978655376
+                          },
+                          "yvalue": 87.5,
+                          "clade": 148,
+                          "children": [
+                            {
+                              "strain": "PDT000026470.2",
+                              "attr": {
+                                "div": 41.0
+                              },
+                              "yvalue": 87,
+                              "clade": 149
+                            },
+                            {
+                              "strain": "PDT000026468.2",
+                              "attr": {
+                                "div": 40.0
+                              },
+                              "yvalue": 88,
+                              "clade": 150
+                            }
+                          ]
+                        },
+                        {
+                          "strain": "CLADE_151",
+                          "attr": {
+                            "div": 27.0,
+                            "num_date": 2016.4753820324447
+                          },
+                          "yvalue": 89.75,
+                          "clade": 151,
+                          "children": [
+                            {
+                              "strain": "PDT000026568.2",
+                              "attr": {
+                                "div": 45.0
+                              },
+                              "yvalue": 89,
+                              "clade": 152
+                            },
+                            {
+                              "strain": "CLADE_153",
+                              "attr": {
+                                "div": 34.0,
+                                "num_date": 2017.4259921080493
+                              },
+                              "yvalue": 90.5,
+                              "clade": 153,
+                              "children": [
+                                {
+                                  "strain": "PDT000666657.2",
+                                  "attr": {
+                                    "div": 48.0
+                                  },
+                                  "yvalue": 90,
+                                  "clade": 154
+                                },
+                                {
+                                  "strain": "PDT000669911.2",
+                                  "attr": {
+                                    "div": 42.0
+                                  },
+                                  "yvalue": 91,
+                                  "clade": 155
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

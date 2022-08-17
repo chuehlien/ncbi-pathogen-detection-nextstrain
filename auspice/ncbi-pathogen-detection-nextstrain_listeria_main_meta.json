@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-08",
-  "virus_count": 1539,
+  "updated": "2022-08-09",
+  "virus_count": 1734,
   "maintainer": "DCIPHER",
-  "title": "listeria_PDG000000001.2125-PDS000000366.409",
+  "title": "listeria_PDG000000001.2865-PDS000000366.494",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
     },
     "IFSAC_category": {
       "menuItem": "IFSAC_category",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -194,7 +200,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -421,193 +439,9 @@
       }
     },
     "location": {
-      "USA:CO": {
-        "latitude": 39.550051,
-        "longitude": -105.782067
-      },
-      "USA:NM": {
-        "latitude": 34.97273,
-        "longitude": -105.032363
-      },
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
-      },
-      "USA:FL": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "USA:OH": {
-        "latitude": 40.417287,
-        "longitude": -82.907123
-      },
-      "USA:AZ": {
-        "latitude": 34.048928000000004,
-        "longitude": -111.093731
-      },
-      "USA:AL": {
-        "latitude": 32.318231,
-        "longitude": -86.902298
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
-      },
-      "Canada:Toronto": {
-        "latitude": 46.6532,
-        "longitude": -79.3832
-      },
-      "USA:UT": {
-        "latitude": 39.32098,
-        "longitude": -111.093731
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:KS": {
-        "latitude": 39.011902,
-        "longitude": -98.484246
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:OK": {
-        "latitude": 35.007752,
-        "longitude": -97.092877
-      },
-      "USA:VA": {
-        "latitude": 37.431573,
-        "longitude": -78.656894
-      },
-      "USA:MI": {
-        "latitude": 44.314844,
-        "longitude": -85.602364
-      },
-      "USA:NJ": {
-        "latitude": 40.058324,
-        "longitude": -74.405661
-      },
-      "USA:CA": {
-        "latitude": 36.778261,
-        "longitude": -119.417932
-      },
-      "USA:WI": {
-        "latitude": 43.78444,
-        "longitude": -88.787868
-      },
-      "USA:MO": {
-        "latitude": 37.964253,
-        "longitude": -91.831833
-      },
-      "USA:TX": {
-        "latitude": 31.968599,
-        "longitude": -99.901813
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "Canada:British Columbia,Vancouver": {
-        "latitude": 49.2827,
-        "longitude": -123.1207
-      },
-      "USA:AK": {
-        "latitude": 63.588753,
-        "longitude": -154.493062
-      },
-      "USA:ME": {
-        "latitude": 45.253783,
-        "longitude": -69.44546899999999
-      },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:WA": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:Georgia": {
-        "latitude": 32.16,
-        "longitude": -82.9
-      },
-      "USA:MN": {
-        "latitude": 46.729553,
-        "longitude": -94.6859
-      },
-      "USA:NC": {
-        "latitude": 35.759573,
-        "longitude": -79.0193
-      },
-      "USA:IL": {
-        "latitude": 40.633125,
-        "longitude": -89.398528
-      },
-      "USA:RI": {
-        "latitude": 41.580095,
-        "longitude": -71.477429
-      },
-      "USA:WV": {
-        "latitude": 38.597626,
-        "longitude": -80.454903
-      },
-      "USA:HI": {
-        "latitude": 19.898682,
-        "longitude": -155.66585700000005
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Canada:Quebec,Saint-Hyacinthe": {
-        "latitude": 45.6167,
-        "longitude": -72.95
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:TN": {
-        "latitude": 35.517491,
-        "longitude": -86.58044699999998
-      },
-      "USA:CT": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:LA": {
-        "latitude": 31.244823,
-        "longitude": -92.145024
-      },
-      "USA:SC": {
-        "latitude": 33.836081,
-        "longitude": -81.163725
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:AR": {
-        "latitude": 35.20105,
-        "longitude": -91.831833
-      },
-      "Canada:Nova Scotia,Dartmouth": {
-        "latitude": 44.6667,
-        "longitude": -63.5667
-      },
-      "Canada:British Columbia,Burnaby": {
-        "latitude": 49.2667,
-        "longitude": -122.9667
-      },
-      "USA:MS": {
-        "latitude": 32.354668,
-        "longitude": -89.398528
       }
     }
   },

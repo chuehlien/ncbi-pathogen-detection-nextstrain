@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-05",
-  "virus_count": 466,
+  "updated": "2022-08-09",
+  "virus_count": 2404,
   "maintainer": "DCIPHER",
-  "title": "vibrio-parahaemolyticus_PDG000000023.426-PDS000007553.158",
+  "title": "vibrio-parahaemolyticus_PDG000000023.594-PDS000112564.8",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -116,19 +116,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -170,6 +170,12 @@
       "menuItem": "Collection Date",
       "legendTitle": "Collection Date",
       "key": "collection_date",
+      "type": "discrete"
+    },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
       "type": "discrete"
     },
     "country": {
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -386,12 +404,12 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -421,67 +439,11 @@
       }
     },
     "location": {
-      "USA:OR": {
-        "latitude": 43.804133,
-        "longitude": -120.554201
-      },
-      "USA:NV": {
-        "latitude": 38.80261,
-        "longitude": -116.419389
-      },
-      "USA:KY": {
-        "latitude": 37.839333,
-        "longitude": -84.27001800000002
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
       },
-      "USA:Connecticut": {
-        "latitude": 41.60322100000001,
-        "longitude": -73.087749
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "USA:IN": {
-        "latitude": 40.551217,
-        "longitude": -85.602364
-      },
-      "USA:OK": {
-        "latitude": 35.007752,
-        "longitude": -97.092877
-      },
-      "USA:NY": {
-        "latitude": 43.299428000000006,
-        "longitude": -74.217933
-      },
-      "USA:AK": {
-        "latitude": 63.588753,
-        "longitude": -154.493062
-      },
       "USA:Washington": {
-        "latitude": 47.751074,
-        "longitude": -120.740139
-      },
-      "USA:MD": {
-        "latitude": 39.045755,
-        "longitude": -76.641271
-      },
-      "USA:IA": {
-        "latitude": 41.878003,
-        "longitude": -93.097702
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "USA:GA": {
-        "latitude": 32.157435,
-        "longitude": -82.907123
-      },
-      "USA:WA": {
         "latitude": 47.751074,
         "longitude": -120.740139
       }

@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-10",
-  "virus_count": 3137,
+  "updated": "2022-08-07",
+  "virus_count": 3739,
   "maintainer": "DCIPHER",
-  "title": "escherichia-coli-shigella_PDG000000004.2499-PDS000079375.28",
+  "title": "escherichia-coli-shigella_PDG000000004.3347-PDS000079375.236",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -302,7 +308,7 @@
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "ontological_term": {
       "menuItem": "ontological_term",
@@ -314,6 +320,12 @@
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
       "type": "discrete"
     },
     "refgene_db_version": {
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -414,46 +432,8 @@
     "map"
   ],
   "geo": {
-    "country": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
-      }
-    },
-    "location": {
-      "India:Vellore": {
-        "latitude": 12.9165,
-        "longitude": 79.1325
-      },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "Switzerland": {
-        "latitude": 46.9478,
-        "longitude": 7.422
-      },
-      "USA:PA": {
-        "latitude": 41.203322,
-        "longitude": -77.194525
-      },
-      "Bangladesh:Dhaka": {
-        "latitude": 23.8103,
-        "longitude": 90.4125
-      },
-      "USA:MA": {
-        "latitude": 42.407211,
-        "longitude": -71.382437
-      },
-      "Australia:NSW,Westmead": {
-        "latitude": -33.8086,
-        "longitude": 150.987
-      }
-    }
+    "country": {},
+    "location": {}
   },
   "annotations": {},
   "author_info": {}

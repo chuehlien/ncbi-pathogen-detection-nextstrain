@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-08",
-  "virus_count": 1256,
+  "updated": "2022-08-02",
+  "virus_count": 1699,
   "maintainer": "DCIPHER",
-  "title": "vibrio-cholerae_PDG000000055.180-PDS000065830.13",
+  "title": "vibrio-cholerae_PDG000000055.305-PDS000091577.37",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -116,19 +116,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "discrete"
+      "type": "continuous"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "discrete"
+      "type": "continuous"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -170,6 +170,12 @@
       "menuItem": "Collection Date",
       "legendTitle": "Collection Date",
       "key": "collection_date",
+      "type": "discrete"
+    },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
       "type": "discrete"
     },
     "country": {
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -386,12 +404,12 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -415,215 +433,15 @@
   ],
   "geo": {
     "country": {
-      "Bangladesh": {
-        "latitude": 23.7,
-        "longitude": 90.35
-      },
-      "Zimbabwe": {
-        "latitude": -17.824858,
-        "longitude": 31.053028
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Iraq": {
-        "latitude": 32.473518,
-        "longitude": 44.426737
-      },
-      "China": {
-        "latitude": 39.92,
-        "longitude": 116.46
-      },
-      "India": {
-        "latitude": 22.5726,
-        "longitude": 88.3639
       }
     },
     "location": {
-      "Uganda:Kasese": {
-        "latitude": 0.3309,
-        "longitude": 32.5761
-      },
-      "Haiti:Jeffra": {
-        "latitude": 18.32,
-        "longitude": -72.32
-      },
-      "Tanzania:MARA": {
-        "latitude": -1.47,
-        "longitude": 34.03
-      },
-      "Haiti:Reserved": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Tanzania:Dar Es Salaam": {
-        "latitude": -6.46,
-        "longitude": 39.12
-      },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Haiti:Haiti Health Ministries, Gressier": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Tanzania:SINGIDA": {
-        "latitude": -4.48,
-        "longitude": 34.44
-      },
-      "Iraq": {
-        "latitude": 32.473518,
-        "longitude": 44.426737
-      },
-      "Haiti:Haiti, Brach": {
-        "latitude": 18.31,
-        "longitude": -72.35
-      },
-      "Ukraine:Mariupol": {
-        "latitude": 47.13,
-        "longitude": 37.56
-      },
-      "Bangladesh:Dhaka": {
-        "latitude": 23.7,
-        "longitude": 90.375
-      },
-      "Haiti:Bongnotte": {
-        "latitude": 18.3,
-        "longitude": -72.34
-      },
-      "USA:Florida": {
-        "latitude": 27.664827,
-        "longitude": -81.515754
-      },
-      "Zimbabwe": {
-        "latitude": -17.824858,
-        "longitude": 31.053028
-      },
-      "Haiti:Colin": {
-        "latitude": 18.28,
-        "longitude": -72.33
-      },
-      "Haiti:Adventist Hospital, Dikini": {
-        "latitude": 18.31,
-        "longitude": -72.23
-      },
-      "Tanzania:DAR ES SALAAM": {
-        "latitude": -6.46,
-        "longitude": 39.12
-      },
-      "India": {
-        "latitude": 22.5726,
-        "longitude": 88.3639
-      },
-      "Haiti:Haiti, St. Michel Hospital, Jacmel": {
-        "latitude": 18.14,
-        "longitude": -72.32
-      },
-      "Haiti:Jacmel": {
-        "latitude": 18.243,
-        "longitude": -72.5264
-      },
-      "Haiti:George Guavan Hospital, Grand goave": {
-        "latitude": 18.25,
-        "longitude": -72.5
-      },
-      "Haiti:CTC Petit Goave": {
-        "latitude": 18.26,
-        "longitude": -72.52
-      },
-      "Haiti:Sousfort": {
-        "latitude": 18.32,
-        "longitude": -72.31
-      },
-      "Haiti:CTC Jacmel": {
-        "latitude": 18.14,
-        "longitude": -72.32
-      },
-      "Haiti:Brach": {
-        "latitude": 18.31,
-        "longitude": -72.35
-      },
-      "India:Kolkata": {
-        "latitude": 22.5726,
-        "longitude": 88.3639
-      },
-      "Haiti:Christianville bridge": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Haiti:Upper Colin": {
-        "latitude": 18.31,
-        "longitude": -72.31
-      },
-      "Haiti:St. Michel Hospital, Jacmel": {
-        "latitude": 18.14,
-        "longitude": -72.32
-      },
-      "Haiti:Christianville school, Gressier": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Haiti:Bellevue": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Russia:Moscow": {
-        "latitude": 55.45,
-        "longitude": 37.36
-      },
-      "Haiti:Christianville spring": {
-        "latitude": 18.31,
-        "longitude": -72.33
-      },
-      "Haiti:Notrdame hospital de Petit Goave": {
-        "latitude": 18.26,
-        "longitude": -72.51
-      },
-      "Haiti:Bay larion Bridge": {
-        "latitude": 18.29,
-        "longitude": -72.37
-      },
-      "Bangladesh": {
-        "latitude": 23.7,
-        "longitude": 90.35
-      },
-      "Haiti:Jean-Jean": {
-        "latitude": 18.28,
-        "longitude": -72.32
-      },
-      "Haiti:CTC Lestere": {
-        "latitude": 19.16,
-        "longitude": -72.38
-      },
-      "Tanzania:MOROGORO": {
-        "latitude": -6.49,
-        "longitude": 37.4
-      },
-      "Haiti:Jacmel (Cayes-de)": {
-        "latitude": 18.13,
-        "longitude": -72.23
-      },
-      "Uganda:Mbale": {
-        "latitude": 0.3309,
-        "longitude": 32.5761
-      },
-      "Haiti:CTC Gonaives": {
-        "latitude": 19.26,
-        "longitude": -72.4
-      },
-      "China": {
-        "latitude": 39.92,
-        "longitude": 116.46
-      },
-      "Haiti:George Gauvan Hospital, Grand Goave": {
-        "latitude": 18.25,
-        "longitude": -72.5
-      },
-      "Haiti:CTC Gressier": {
-        "latitude": 18.32,
-        "longitude": -72.32
       }
     }
   },

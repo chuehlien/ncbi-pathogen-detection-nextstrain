@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-09",
+  "updated": "2020-12-05",
   "virus_count": 35,
   "maintainer": "DCIPHER",
-  "title": "providencia_PDG000000021.233-PDS000015983.6",
+  "title": "providencia_PDG000000021.204-PDS000015983.6",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,13 +44,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "discrete"
-    },
-    "IFSAC_category": {
-      "menuItem": "IFSAC_category",
-      "legendTitle": "IFSAC_category",
-      "key": "IFSAC_category",
-      "type": "discrete"
+      "type": "continuous"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -92,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -260,55 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "discrete"
-    },
-    "ontological_term": {
-      "menuItem": "ontological_term",
-      "legendTitle": "ontological_term",
-      "key": "ontological_term",
-      "type": "discrete"
+      "type": "continuous"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -340,17 +328,11 @@
       "key": "serovar",
       "type": "discrete"
     },
-    "source_type": {
-      "menuItem": "source_type",
-      "legendTitle": "source_type",
-      "key": "source_type",
-      "type": "discrete"
-    },
     "species_taxid": {
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -365,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain name",
-      "legendTitle": "Strain name",
+      "menuItem": "Strain",
+      "legendTitle": "Strain",
       "key": "strain",
       "type": "discrete"
     },
@@ -377,8 +359,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Target Creation Date",
-      "legendTitle": "Target Creation Date",
+      "menuItem": "Create Date",
+      "legendTitle": "Create Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -386,7 +368,7 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "discrete"
+      "type": "continuous"
     },
     "virulence_genotype": {
       "menuItem": "Virulence genotype",
@@ -420,7 +402,7 @@
         "latitude": 30.15,
         "longitude": 120.1
       },
-      "China:Zhejiang": {
+      "China: Zhejiang": {
         "latitude": 30.26,
         "longitude": 120.19
       },

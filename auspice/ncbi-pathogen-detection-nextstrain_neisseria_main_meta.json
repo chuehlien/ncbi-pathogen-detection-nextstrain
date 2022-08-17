@@ -1,8 +1,8 @@
 {
-  "updated": "2021-02-24",
-  "virus_count": 312,
+  "updated": "2020-12-09",
+  "virus_count": 308,
   "maintainer": "DCIPHER",
-  "title": "neisseria_PDG000000032.205-PDS000072363.3",
+  "title": "neisseria_PDG000000032.189-PDS000072363.1",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,13 +44,7 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "discrete"
-    },
-    "IFSAC_category": {
-      "menuItem": "IFSAC_category",
-      "legendTitle": "IFSAC_category",
-      "key": "IFSAC_category",
-      "type": "discrete"
+      "type": "continuous"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -92,7 +86,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "discrete"
+      "type": "continuous"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -116,19 +110,19 @@
       "menuItem": "N50",
       "legendTitle": "N50",
       "key": "asm_stats_contig_n50",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_length_bp": {
       "menuItem": "Length",
       "legendTitle": "Length",
       "key": "asm_stats_length_bp",
-      "type": "continuous"
+      "type": "discrete"
     },
     "asm_stats_n_contig": {
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -194,7 +188,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -260,55 +254,49 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "discrete"
+      "type": "continuous"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "discrete"
-    },
-    "ontological_term": {
-      "menuItem": "ontological_term",
-      "legendTitle": "ontological_term",
-      "key": "ontological_term",
-      "type": "discrete"
+      "type": "continuous"
     },
     "outbreak": {
       "menuItem": "Outbreak",
@@ -340,12 +328,6 @@
       "key": "serovar",
       "type": "discrete"
     },
-    "source_type": {
-      "menuItem": "source_type",
-      "legendTitle": "source_type",
-      "key": "source_type",
-      "type": "discrete"
-    },
     "species_taxid": {
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
@@ -365,8 +347,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain name",
-      "legendTitle": "Strain name",
+      "menuItem": "Strain",
+      "legendTitle": "Strain",
       "key": "strain",
       "type": "discrete"
     },
@@ -377,8 +359,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Target Creation Date",
-      "legendTitle": "Target Creation Date",
+      "menuItem": "Create Date",
+      "legendTitle": "Create Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -421,17 +403,17 @@
       }
     },
     "location": {
-      "Netherlands:Bilthoven": {
+      "Netherlands: Bilthoven": {
         "latitude": 52.13,
         "longitude": 5.21
+      },
+      "Ireland: Dublin": {
+        "latitude": 53.3403,
+        "longitude": -6.29477
       },
       "USA": {
         "latitude": 39.7837304,
         "longitude": -100.4458824
-      },
-      "Ireland:Dublin": {
-        "latitude": 53.3403,
-        "longitude": -6.29477
       }
     }
   },

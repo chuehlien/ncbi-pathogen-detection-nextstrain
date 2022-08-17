@@ -1,8 +1,8 @@
 {
-  "updated": "2021-03-02",
-  "virus_count": 26,
+  "updated": "2022-08-09",
+  "virus_count": 36,
   "maintainer": "DCIPHER",
-  "title": "clostridium-botulinum_PDG000000059.59-PDS000040586.7",
+  "title": "clostridium-botulinum_PDG000000059.102-PDS000040580.12",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -128,7 +128,7 @@
       "menuItem": "Contigs",
       "legendTitle": "Contigs",
       "key": "asm_stats_n_contig",
-      "type": "continuous"
+      "type": "discrete"
     },
     "assembly_method": {
       "menuItem": "Method",
@@ -172,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -194,7 +200,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -316,6 +322,12 @@
       "key": "outbreak",
       "type": "discrete"
     },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
+      "type": "discrete"
+    },
     "refgene_db_version": {
       "menuItem": "PD Ref Gene Catalog version",
       "legendTitle": "PD Ref Gene Catalog version",
@@ -332,6 +344,12 @@
       "menuItem": "Scientific name",
       "legendTitle": "Scientific name",
       "key": "scientific_name",
+      "type": "discrete"
+    },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
       "type": "discrete"
     },
     "serovar": {
@@ -388,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -415,15 +433,19 @@
   ],
   "geo": {
     "country": {
-      "United Kingdom": {
-        "latitude": 55.3781,
-        "longitude": -3.436
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
       }
     },
     "location": {
-      "United Kingdom": {
-        "latitude": 55.3781,
-        "longitude": -3.436
+      "USA:Ohio": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
+      "USA:Idaho": {
+        "latitude": 44.068202,
+        "longitude": -114.742041
       }
     }
   },

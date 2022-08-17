@@ -1,8 +1,8 @@
 {
-  "updated": "2020-11-06",
-  "virus_count": 606,
+  "updated": "2022-08-01",
+  "virus_count": 728,
   "maintainer": "DCIPHER",
-  "title": "legionella-pneumophila_PDG000000026.110-PDS000008112.37",
+  "title": "legionella-pneumophila_PDG000000026.166-PDS000008112.63",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -44,7 +44,13 @@
       "menuItem": "HHS Region",
       "legendTitle": "HHS Region",
       "key": "HHS_region",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
     },
     "LibraryLayout": {
       "menuItem": "Library Layout",
@@ -86,7 +92,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -166,6 +172,12 @@
       "key": "collection_date",
       "type": "discrete"
     },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
+      "type": "discrete"
+    },
     "country": {
       "menuItem": "country",
       "legendTitle": "country",
@@ -188,7 +200,7 @@
       "menuItem": "Full ASM ID",
       "legendTitle": "Full ASM ID",
       "key": "fullasm_id",
-      "type": "continuous"
+      "type": "discrete"
     },
     "host": {
       "menuItem": "Host",
@@ -206,6 +218,12 @@
       "menuItem": "internal_id",
       "legendTitle": "internal_id",
       "key": "internal_id",
+      "type": "discrete"
+    },
+    "isolate_identifiers": {
+      "menuItem": "isolate_identifiers",
+      "legendTitle": "isolate_identifiers",
+      "key": "isolate_identifiers",
       "type": "discrete"
     },
     "isolation_source": {
@@ -248,54 +266,66 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
       "type": "discrete"
     },
     "refgene_db_version": {
@@ -316,17 +346,29 @@
       "key": "scientific_name",
       "type": "discrete"
     },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
+      "type": "discrete"
+    },
     "serovar": {
       "menuItem": "Serovar",
       "legendTitle": "Serovar",
       "key": "serovar",
       "type": "discrete"
     },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
+      "type": "discrete"
+    },
     "species_taxid": {
       "menuItem": "Species TaxID",
       "legendTitle": "Species TaxID",
       "key": "species_taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
     "sra_center": {
       "menuItem": "SRA Center",
@@ -341,8 +383,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -353,8 +395,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -362,12 +404,12 @@
       "menuItem": "TaxID",
       "legendTitle": "TaxID",
       "key": "taxid",
-      "type": "continuous"
+      "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -397,25 +439,165 @@
       }
     },
     "location": {
+      "USA": {
+        "latitude": 39.7837304,
+        "longitude": -100.4458824
+      },
+      "USA:KS": {
+        "latitude": 39.011902,
+        "longitude": -98.484246
+      },
       "USA:New York": {
         "latitude": 43.299428000000006,
         "longitude": -74.217933
       },
-      "Spain: Murcia": {
-        "latitude": 38.0,
-        "longitude": -1.83
+      "USA:WA": {
+        "latitude": 47.751074,
+        "longitude": -120.740139
       },
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
+      "USA:KY": {
+        "latitude": 37.839333,
+        "longitude": -84.27001800000001
+      },
+      "USA:IN": {
+        "latitude": 40.551217,
+        "longitude": -85.602364
+      },
+      "USA:TN": {
+        "latitude": 35.517491,
+        "longitude": -86.58044699999999
+      },
+      "USA:IL": {
+        "latitude": 40.633125,
+        "longitude": -89.398528
+      },
+      "USA:HI": {
+        "latitude": 19.898682,
+        "longitude": -155.66585700000002
+      },
+      "USA:NV": {
+        "latitude": 38.80261,
+        "longitude": -116.419389
+      },
+      "USA:MA": {
+        "latitude": 42.407211,
+        "longitude": -71.382437
+      },
+      "USA:RI": {
+        "latitude": 41.580095,
+        "longitude": -71.477429
+      },
+      "USA:Ohio": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
+      "USA:Michigan": {
+        "latitude": 44.314844,
+        "longitude": -85.602364
       },
       "USA:Arizona": {
         "latitude": 34.048928000000004,
         "longitude": -111.093731
       },
-      "USA:Michigan": {
+      "USA:FL": {
+        "latitude": 27.664827,
+        "longitude": -81.515754
+      },
+      "USA:DC": {
+        "latitude": 38.905985,
+        "longitude": -77.03341800000001
+      },
+      "USA:MT": {
+        "latitude": 46.879682,
+        "longitude": -110.362566
+      },
+      "USA:GA": {
+        "latitude": 32.157435,
+        "longitude": -82.907123
+      },
+      "USA:MD": {
+        "latitude": 39.045755,
+        "longitude": -76.641271
+      },
+      "USA:NC": {
+        "latitude": 35.759573,
+        "longitude": -79.0193
+      },
+      "USA:SD": {
+        "latitude": 43.969515,
+        "longitude": -99.901813
+      },
+      "USA:TX": {
+        "latitude": 31.968599,
+        "longitude": -99.901813
+      },
+      "USA:CA": {
+        "latitude": 36.778261,
+        "longitude": -119.417932
+      },
+      "USA:OH": {
+        "latitude": 40.417287,
+        "longitude": -82.907123
+      },
+      "USA:MN": {
+        "latitude": 46.729553,
+        "longitude": -94.6859
+      },
+      "USA:AZ": {
+        "latitude": 34.048928000000004,
+        "longitude": -111.093731
+      },
+      "USA:UT": {
+        "latitude": 39.32098,
+        "longitude": -111.093731
+      },
+      "USA:CT": {
+        "latitude": 41.603221000000005,
+        "longitude": -73.087749
+      },
+      "USA:NJ": {
+        "latitude": 40.058324,
+        "longitude": -74.405661
+      },
+      "USA:CO": {
+        "latitude": 39.550051,
+        "longitude": -105.782067
+      },
+      "USA:OR": {
+        "latitude": 43.804133,
+        "longitude": -120.554201
+      },
+      "USA:NM": {
+        "latitude": 34.97273,
+        "longitude": -105.032363
+      },
+      "USA:MI": {
         "latitude": 44.314844,
         "longitude": -85.602364
+      },
+      "USA:AK": {
+        "latitude": 63.588753,
+        "longitude": -154.493062
+      },
+      "USA:NY": {
+        "latitude": 43.299428000000006,
+        "longitude": -74.217933
+      },
+      "USA:VA": {
+        "latitude": 37.431573,
+        "longitude": -78.656894
+      },
+      "USA:PA": {
+        "latitude": 41.203322,
+        "longitude": -77.194525
+      },
+      "USA:VT": {
+        "latitude": 44.558803000000005,
+        "longitude": -72.577841
+      },
+      "USA:IA": {
+        "latitude": 41.878003,
+        "longitude": -93.097702
       }
     }
   },

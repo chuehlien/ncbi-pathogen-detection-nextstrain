@@ -1,8 +1,8 @@
 {
-  "updated": "2020-12-03",
-  "virus_count": 65,
+  "updated": "2022-08-09",
+  "virus_count": 68,
   "maintainer": "DCIPHER",
-  "title": "enterobacter_PDG000000028.386-PDS000008403.39",
+  "title": "enterobacter_PDG000000028.681-PDS000008403.47",
   "color_options": {
     "num_date": {
       "menuItem": "date",
@@ -46,6 +46,12 @@
       "key": "HHS_region",
       "type": "discrete"
     },
+    "IFSAC_category": {
+      "menuItem": "IFSAC_category",
+      "legendTitle": "IFSAC_category",
+      "key": "IFSAC_category",
+      "type": "discrete"
+    },
     "LibraryLayout": {
       "menuItem": "Library Layout",
       "legendTitle": "Library Layout",
@@ -86,7 +92,7 @@
       "menuItem": "AMRFinder applied",
       "legendTitle": "AMRFinder applied",
       "key": "amrfinder_applied",
-      "type": "continuous"
+      "type": "discrete"
     },
     "amrfinder_version": {
       "menuItem": "AMRFinder version",
@@ -164,6 +170,12 @@
       "menuItem": "Collection Date",
       "legendTitle": "Collection Date",
       "key": "collection_date",
+      "type": "discrete"
+    },
+    "computed_types": {
+      "menuItem": "computed_types",
+      "legendTitle": "computed_types",
+      "key": "computed_types",
       "type": "discrete"
     },
     "country": {
@@ -254,54 +266,66 @@
       "menuItem": "Number AMR genes",
       "legendTitle": "Number AMR genes",
       "key": "number_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_core_amr_genes": {
       "menuItem": "Number core AMR genes",
       "legendTitle": "Number core AMR genes",
       "key": "number_core_amr_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_intermediate": {
       "menuItem": "Number drugs intermediate",
       "legendTitle": "Number drugs intermediate",
       "key": "number_drugs_intermediate",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_resistant": {
       "menuItem": "Number drugs resistant",
       "legendTitle": "Number drugs resistant",
       "key": "number_drugs_resistant",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_susceptible": {
       "menuItem": "Number drugs susceptible",
       "legendTitle": "Number drugs susceptible",
       "key": "number_drugs_susceptible",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_drugs_tested": {
       "menuItem": "Number drugs tested",
       "legendTitle": "Number drugs tested",
       "key": "number_drugs_tested",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_stress_genes": {
       "menuItem": "Number stress genes",
       "legendTitle": "Number stress genes",
       "key": "number_stress_genes",
-      "type": "continuous"
+      "type": "discrete"
     },
     "number_virulence_genes": {
       "menuItem": "Number virulence genes",
       "legendTitle": "Number virulence genes",
       "key": "number_virulence_genes",
-      "type": "continuous"
+      "type": "discrete"
+    },
+    "ontological_term": {
+      "menuItem": "ontological_term",
+      "legendTitle": "ontological_term",
+      "key": "ontological_term",
+      "type": "discrete"
     },
     "outbreak": {
       "menuItem": "Outbreak",
       "legendTitle": "Outbreak",
       "key": "outbreak",
+      "type": "discrete"
+    },
+    "project_name": {
+      "menuItem": "project_name",
+      "legendTitle": "project_name",
+      "key": "project_name",
       "type": "discrete"
     },
     "refgene_db_version": {
@@ -322,10 +346,22 @@
       "key": "scientific_name",
       "type": "discrete"
     },
+    "sequenced_by": {
+      "menuItem": "sequenced_by",
+      "legendTitle": "sequenced_by",
+      "key": "sequenced_by",
+      "type": "discrete"
+    },
     "serovar": {
       "menuItem": "Serovar",
       "legendTitle": "Serovar",
       "key": "serovar",
+      "type": "discrete"
+    },
+    "source_type": {
+      "menuItem": "source_type",
+      "legendTitle": "source_type",
+      "key": "source_type",
       "type": "discrete"
     },
     "species_taxid": {
@@ -347,8 +383,8 @@
       "type": "discrete"
     },
     "strain": {
-      "menuItem": "Strain",
-      "legendTitle": "Strain",
+      "menuItem": "Strain name",
+      "legendTitle": "Strain name",
       "key": "strain",
       "type": "discrete"
     },
@@ -359,8 +395,8 @@
       "type": "discrete"
     },
     "target_creation_date": {
-      "menuItem": "Create Date",
-      "legendTitle": "Create Date",
+      "menuItem": "Target Creation Date",
+      "legendTitle": "Target Creation Date",
       "key": "target_creation_date",
       "type": "discrete"
     },
@@ -370,10 +406,10 @@
       "key": "taxid",
       "type": "discrete"
     },
-    "virulence_genotype": {
-      "menuItem": "Virulence genotype",
-      "legendTitle": "Virulence genotype",
-      "key": "virulence_genotype",
+    "virulence_genotypes": {
+      "menuItem": "Virulence genotypes",
+      "legendTitle": "Virulence genotypes",
+      "key": "virulence_genotypes",
       "type": "discrete"
     },
     "wgs_acc_prefix": {
@@ -392,26 +428,11 @@
   "filters": [],
   "commit": "unknown",
   "panels": [
-    "tree",
-    "map"
+    "tree"
   ],
   "geo": {
-    "country": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      }
-    },
-    "location": {
-      "USA": {
-        "latitude": 39.7837304,
-        "longitude": -100.4458824
-      },
-      "USA: Minnesota": {
-        "latitude": 46.0,
-        "longitude": -94.0
-      }
-    }
+    "country": {},
+    "location": {}
   },
   "annotations": {},
   "author_info": {}

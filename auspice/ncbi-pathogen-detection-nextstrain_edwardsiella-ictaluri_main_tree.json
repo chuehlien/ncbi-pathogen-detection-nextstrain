@@ -1,0 +1,144 @@
+{
+  "strain": "CLADE_1",
+  "attr": {
+    "div": 0.0,
+    "num_date": 2018.2931506849316
+  },
+  "yvalue": 1.25,
+  "clade": 1,
+  "children": [
+    {
+      "strain": "PDT001163628.1",
+      "attr": {
+        "div": 5.0
+      },
+      "yvalue": 0,
+      "clade": 2
+    },
+    {
+      "strain": "PDT000308162.2",
+      "attr": {
+        "div": 41.0,
+        "#label": "PDT000308162.2|SAMN08906337|GCA_003054425.1|Edwardsiella ictaluri||MS-17-156|Microbe",
+        "AMR_genotypes": "aph(3'')-Ib,aph(6)-Id,floR,floR=PARTIAL_END_OF_CONTIG,sul2,tet(D)",
+        "AMR_genotypes_core": "aph(3'')-Ib,aph(6)-Id,floR,floR=PARTIAL_END_OF_CONTIG,sul2,tet(D)",
+        "AST_phenotypes": "Unknown",
+        "FDA_lab_id": "Unknown",
+        "HHS_region": "Unknown",
+        "IFSAC_category": "Unknown",
+        "LibraryLayout": "Unknown",
+        "PFGE_PrimaryEnzyme_pattern": "Unknown",
+        "PFGE_SecondaryEnzyme_pattern": "Unknown",
+        "Platform": "Unknown",
+        "Run": "Unknown",
+        "amrfinder_analysis_type": "COMBINED",
+        "amrfinder_applied": 1,
+        "amrfinder_version": "3.10.18",
+        "asm_acc": "GCA_003054425.1",
+        "asm_level": "Complete Genome",
+        "asm_stats_contig_n50": 3837027,
+        "asm_stats_length_bp": 3977102,
+        "asm_stats_n_contig": 3,
+        "assembly_method": "MaSuRCA v. 3.2.4",
+        "attribute_package": "Microbe",
+        "bioproject_acc": "PRJNA449538",
+        "bioproject_center": "Mississippi State University",
+        "biosample_acc": "SAMN08906337",
+        "collected_by": "Unknown",
+        "collection_date": "2017-04-26",
+        "computed_types": "Unknown",
+        "epi_type": "Unknown",
+        "fullasm_id": 6378258.0,
+        "location": "USA:Mississippi",
+        "host": "catfish",
+        "host_disease": "Unknown",
+        "isolate_identifiers": "Edwardsiella-ictaluri-MS-17-156,\"MS-17-156\"",
+        "isolation_source": "Unknown",
+        "lat_lon": "Unknown",
+        "mindiff": "Unknown",
+        "minsame": "Unknown",
+        "number_amr_genes": 6,
+        "number_core_amr_genes": 6,
+        "number_drugs_intermediate": 0,
+        "number_drugs_resistant": 0,
+        "number_drugs_susceptible": 0,
+        "number_drugs_tested": 0,
+        "number_stress_genes": 1,
+        "number_virulence_genes": 0,
+        "ontological_term": "Unknown",
+        "outbreak": "Unknown",
+        "project_name": "Unknown",
+        "refgene_db_version": "2021-09-30.1",
+        "sample_name": "Edwardsiella-ictaluri-MS-17-156",
+        "scientific_name": "Edwardsiella ictaluri",
+        "sequenced_by": "Unknown",
+        "serovar": "Unknown",
+        "source_type": "Unknown",
+        "species_taxid": 67780,
+        "sra_center": "Unknown",
+        "sra_release_date": "Unknown",
+        "strain": "MS-17-156",
+        "stress_genotypes": "asr=HMM",
+        "target_acc": "PDT000308162.2",
+        "target_creation_date": "2018-04-17",
+        "taxid": 67780,
+        "virulence_genotypes": "Unknown",
+        "wgs_acc_prefix": "Unknown",
+        "wgs_master_acc": "Unknown",
+        "date": "2018-04-17",
+        "country": "USA",
+        "num_date": 2018.2931506849316,
+        "ncbi_tree_url": "https://www.ncbi.nlm.nih.gov/pathogens/tree/#Edwardsiella_ictaluri/PDG000000079.5/PDS000097936.2?accessions=PDT000308162.2",
+        "internal_id": null
+      },
+      "yvalue": 1,
+      "clade": 3
+    },
+    {
+      "strain": "CLADE_4",
+      "attr": {
+        "div": 6.0,
+        "num_date": 2018.2931506849316
+      },
+      "yvalue": 2.75,
+      "clade": 4,
+      "children": [
+        {
+          "strain": "PDT001163630.1",
+          "attr": {
+            "div": 6.0
+          },
+          "yvalue": 2,
+          "clade": 5
+        },
+        {
+          "strain": "CLADE_6",
+          "attr": {
+            "div": 7.0,
+            "num_date": 2018.2931506849316
+          },
+          "yvalue": 3.5,
+          "clade": 6,
+          "children": [
+            {
+              "strain": "PDT001163627.1",
+              "attr": {
+                "div": 10.0
+              },
+              "yvalue": 3,
+              "clade": 7
+            },
+            {
+              "strain": "PDT001163629.1",
+              "attr": {
+                "div": 7.0
+              },
+              "yvalue": 4,
+              "clade": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
